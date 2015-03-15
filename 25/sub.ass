@@ -19,9 +19,9 @@ Keyframes File: ep25_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 525
-Active Line: 532
-Video Position: 6030
+Scroll Position: 538
+Active Line: 559
+Video Position: 29893
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -623,8 +623,8 @@ Dialogue: 2,0:15:37.24,0:15:40.87,Dates,,0,0,0,,{\blur0.6\fad(500,900)\pos(650,3
 Dialogue: 1,0:15:37.24,0:15:40.87,Dates,,0,0,0,,{\blur0.6\fad(500,900)\pos(650,308)\c&H121212&\bord4\fscx120\fscy120\bord4.5\3c&H121212&}Tuesday, February 11th
 Dialogue: 2,0:17:04.33,0:17:07.25,Dates,,0,0,0,,{\blur0.6\fad(500,900)\pos(650,308)\c&HE5E6E4&\bord4\fscx120\fscy120\bord0}Monday, February 17th
 Dialogue: 1,0:17:04.33,0:17:07.25,Dates,,0,0,0,,{\blur0.6\fad(500,900)\pos(650,308)\c&H121212&\fscx120\fscy120\bord4.5\fscx120\fscy120\1a&H00&\3c&H121212&}Monday, February 17th
-Dialogue: 2,0:18:02.93,0:18:06.35,Dates,,0,0,0,,{\blur0.6\fad(500,900)\pos(650,308)\c&HE6E6E5&\bord4\fscx120\fscy120\bord0}Friday, February 21st
-Dialogue: 1,0:18:02.93,0:18:06.35,Dates,,0,0,0,,{\blur0.6\fad(500,900)\pos(650,308)\c&H131312&\fscx120\fscy120\bord4.5\fscx120\fscy120\1a&H00&\3c&H131312&}Friday, February 21st
+Dialogue: 2,0:18:02.93,0:18:06.39,Dates,,0,0,0,,{\blur0.6\fad(500,900)\pos(650,308)\c&HE6E6E5&\bord4\fscx120\fscy120\bord0}Friday, February 21st
+Dialogue: 1,0:18:02.93,0:18:06.39,Dates,,0,0,0,,{\blur0.6\fad(500,900)\pos(650,308)\c&H131312&\fscx120\fscy120\bord4.5\fscx120\fscy120\1a&H00&\3c&H131312&}Friday, February 21st
 Dialogue: 0,0:19:39.03,0:19:42.28,Detective,,0,0,0,,{\fax-0.5\fs70\bord0\blur1\fsp-3\c&H918172&\fscx35\fscy35\frz10.664\pos(328,330)}Print
 Dialogue: 0,0:19:39.03,0:19:42.28,Detective,,0,0,0,,{\fax-0.5\bord0\blur1\fsp-3\c&HAB9C96&\fscx45\fscy45\frz10.664\pos(285,459)}Rank
 Dialogue: 0,0:19:39.03,0:19:42.28,Detective,,0,0,0,,{\fax-0.5\bord0\blur1\fsp-3\fscx45\fscy45\frz10.319\c&HA79890&\pos(557,416)}Manga

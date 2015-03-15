@@ -19,9 +19,9 @@ Keyframes File: ep10_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 44
-Active Line: 55
-Video Position: 35269
+Scroll Position: 979
+Active Line: 989
+Video Position: 23328
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1017,45 +1017,45 @@ Dialogue: 1,0:18:29.46,0:18:35.30,NexBowThree,,0,0,0,,{\an7\blur1\frz24\fs30\bor
 Dialogue: 0,0:20:27.58,0:20:32.16,Huge,,0,0,0,,{\blur1\frz257.777\fscx90\fscy90\pos(927,514)\c&H21282B&}Tokyo Metropolitan area, \NChiyoda ward, Hitotsubashi 0-x
 Dialogue: 0,0:20:27.58,0:20:32.16,Huge,,0,0,0,,{\blur1\fscx90\fscy90\c&H262C30&\frz259.14\pos(783,501)}Yueisha Weekly Shounen Jack
 Dialogue: 0,0:20:27.58,0:20:32.16,Huge,,0,0,0,,{\blur1\fscx90\fscy90\c&H2A353A&\frz260.18\pos(659,481)}February Jack Treasure
-Dialogue: 0,0:16:10.24,0:16:10.28,Ep Titles,,0,0,0,,{\pos(790,-37.91)\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:10.28,0:16:10.32,Ep Titles,,0,0,0,,{\pos(790,-27.18)\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:10.32,0:16:10.36,Ep Titles,,0,0,0,,{\pos(790,-16.65)\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:10.36,0:16:10.40,Ep Titles,,0,0,0,,{\pos(790,-6.33)\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:10.40,0:16:10.44,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,12.79)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:10.44,0:16:10.49,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,21.59)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:10.49,0:16:10.53,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,32.1)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:10.53,0:16:10.57,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,39.34)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:10.57,0:16:10.61,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,48.27)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:10.61,0:16:10.65,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,57.78)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:10.65,0:16:10.69,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,64.84)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:10.69,0:16:10.74,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,71.55)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:10.74,0:16:10.78,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,76.81)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:10.78,0:16:10.82,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,84.65)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:10.82,0:16:10.86,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,90.02)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:10.86,0:16:10.90,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,96.9)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:10.90,0:16:10.94,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,100.32)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:10.94,0:16:10.99,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,105.3)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:10.99,0:16:11.03,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,109.82)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:11.03,0:16:11.07,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,112.86)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:11.07,0:16:11.11,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,116.48)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:11.11,0:16:11.15,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,119.68)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:11.15,0:16:11.20,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,122.52)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:11.20,0:16:11.24,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,123.93)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:11.24,0:16:11.28,Ep Titles,,0,0,0,,{\pos(790,126.5)\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:11.28,0:16:11.32,Ep Titles,,0,0,0,,{\pos(790,128.3)\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:11.32,0:16:11.36,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,129.4)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:11.36,0:16:11.40,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,130.23)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Comment: 0,0:16:11.40,0:16:11.45,Ep Titles,,0,0,0,,{\pos(790,130.07)\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:11.40,0:16:11.45,Ep Titles,,0,0,0,,{\pos(790,130.7)\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:11.45,0:16:11.65,Ep Titles,,0,0,0,,{\pos(790,131)\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:11.65,0:16:11.78,Ep Titles,,0,0,0,,{\pos(790,131)\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\iclip(m 880 85 b 882 99 879 120 890 141 895 166 965 116 991 108 1005 103 967 67 960 54)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:11.78,0:16:11.90,Ep Titles,,0,0,0,,{\pos(790,131)\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\iclip(m 775 96 b 772 110 778 138 782 152 782 158 784 132 782 126 782 112 794 171 801 176 817 218 934 140 979 129 1000 123 944 73 933 55)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:11.90,0:16:12.03,Ep Titles,,0,0,0,,{\pos(790,131)\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\iclip(m 669 113 b 670 131 666 159 676 179 681 224 812 155 858 147 850 150 856 141 870 127 864 128 840 156 854 88)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:12.03,0:16:12.15,Ep Titles,,0,0,0,,{\pos(790,131)\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\iclip(m 798 96 b 806 109 786 170 821 138 821 141 812 152 810 157 796 190 702 172 666 178 648 180 651 127 646 111)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:12.15,0:16:12.28,Ep Titles,,0,0,0,,{\pos(790,131)\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\iclip(m 740 107 b 755 117 728 189 766 158 768 158 762 173 756 174 748 195 689 174 667 175 652 175 652 133 647 119)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:12.28,0:16:12.40,Ep Titles,,0,0,0,,{\pos(790,131)\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\iclip(m 704 111 b 717 135 695 187 730 162 737 176 685 181 670 188 653 195 652 135 647 118)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:12.40,0:16:12.53,Ep Titles,,0,0,0,,{\pos(790,131)\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\iclip(m 665 110 b 675 135 669 149 671 162 672 173 636 159 625 159 609 159 627 111 628 96)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
-Dialogue: 0,0:16:12.53,0:16:12.95,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8.8\fnOdense\pos(790,131)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall  {790,159}
+Dialogue: 0,0:16:10.24,0:16:10.28,Ep Titles,,0,0,0,,{\pos(790,-37.91)\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:10.28,0:16:10.32,Ep Titles,,0,0,0,,{\pos(790,-27.18)\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:10.32,0:16:10.36,Ep Titles,,0,0,0,,{\pos(790,-16.65)\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:10.36,0:16:10.40,Ep Titles,,0,0,0,,{\pos(790,-6.33)\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:10.40,0:16:10.44,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,12.79)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:10.44,0:16:10.49,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,21.59)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:10.49,0:16:10.53,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,32.1)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:10.53,0:16:10.57,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,39.34)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:10.57,0:16:10.61,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,48.27)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:10.61,0:16:10.65,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,57.78)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:10.65,0:16:10.69,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,64.84)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:10.69,0:16:10.74,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,71.55)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:10.74,0:16:10.78,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,76.81)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:10.78,0:16:10.82,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,84.65)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:10.82,0:16:10.86,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,90.02)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:10.86,0:16:10.90,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,96.9)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:10.90,0:16:10.94,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,100.32)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:10.94,0:16:10.99,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,105.3)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:10.99,0:16:11.03,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,109.82)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:11.03,0:16:11.07,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,112.86)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:11.07,0:16:11.11,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,116.48)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:11.11,0:16:11.15,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,119.68)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:11.15,0:16:11.20,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,122.52)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:11.20,0:16:11.24,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,123.93)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:11.24,0:16:11.28,Ep Titles,,0,0,0,,{\pos(790,126.5)\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:11.28,0:16:11.32,Ep Titles,,0,0,0,,{\pos(790,128.3)\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:11.32,0:16:11.36,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,129.4)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:11.36,0:16:11.40,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\pos(790,130.23)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Comment: 0,0:16:11.40,0:16:11.45,Ep Titles,,0,0,0,,{\pos(790,130.07)\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:11.40,0:16:11.45,Ep Titles,,0,0,0,,{\pos(790,130.7)\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:11.45,0:16:11.65,Ep Titles,,0,0,0,,{\pos(790,131)\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:11.65,0:16:11.78,Ep Titles,,0,0,0,,{\pos(790,131)\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\iclip(m 880 85 b 882 99 879 120 890 141 895 166 965 116 991 108 1005 103 967 67 960 54)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:11.78,0:16:11.90,Ep Titles,,0,0,0,,{\pos(790,131)\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\iclip(m 775 96 b 772 110 778 138 782 152 782 158 784 132 782 126 782 112 794 171 801 176 817 218 934 140 979 129 1000 123 944 73 933 55)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:11.90,0:16:12.03,Ep Titles,,0,0,0,,{\pos(790,131)\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\iclip(m 669 113 b 670 131 666 159 676 179 681 224 812 155 858 147 850 150 856 141 870 127 864 128 840 156 854 88)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:12.03,0:16:12.15,Ep Titles,,0,0,0,,{\pos(790,131)\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\iclip(m 798 96 b 806 109 786 170 821 138 821 141 812 152 810 157 796 190 702 172 666 178 648 180 651 127 646 111)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:12.15,0:16:12.28,Ep Titles,,0,0,0,,{\pos(790,131)\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\iclip(m 740 107 b 755 117 728 189 766 158 768 158 762 173 756 174 748 195 689 174 667 175 652 175 652 133 647 119)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:12.28,0:16:12.40,Ep Titles,,0,0,0,,{\pos(790,131)\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\iclip(m 704 111 b 717 135 695 187 730 162 737 176 685 181 670 188 653 195 652 135 647 118)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:12.40,0:16:12.53,Ep Titles,,0,0,0,,{\pos(790,131)\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8\fnOdense\iclip(m 665 110 b 675 135 669 149 671 162 672 173 636 159 625 159 609 159 627 111 628 96)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
+Dialogue: 0,0:16:12.53,0:16:12.95,Ep Titles,,0,0,0,,{\fax-0.5\fsp-1\blur0.8\fscx40\fscy40\alpha&HFF&\c&H757270&\frz9.8.8\fnOdense\pos(790,131)}_.{\alpha&H00&}Yana College Entrance \NExamination Hall
 Dialogue: 0,0:12:23.72,0:12:23.76,Prize,,0,0,0,,{\pos(322.88,612)\fax0.25\blur1\fsp-3\bord0\shad0\fscx58.75\fscy57.5\c&H8CB34D&}Feudal era
 Dialogue: 0,0:12:23.76,0:12:23.80,Prize,,0,0,0,,{\pos(322.92,603.22)\fax0.25\blur1\fsp-3\bord0\shad0\fscx58.75\fscy57.5\c&H748931&}Feudal era
 Dialogue: 0,0:12:23.80,0:12:23.84,Prize,,0,0,0,,{\pos(321.81,591.4)\fax0.25\blur1\fsp-3\bord0\shad0\fscx58.75\fscy57.5\c&H708B3A&}Feudal era

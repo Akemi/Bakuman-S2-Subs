@@ -20,9 +20,9 @@ Keyframes File: ep21_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 35
-Active Line: 49
-Video Position: 35244
+Scroll Position: 625
+Active Line: 626
+Video Position: 82
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -122,8 +122,8 @@ Dialogue: 0,0:24:03.04,0:24:11.05,Lyrics-Eng,,0,0,0,,Show me the way and see tha
 Dialogue: 0,0:02:34.50,0:02:38.01,Ep Titles,,0,0,0,,{\pos(640,464.62)\blur0.334}Selfishness and Advice
 Dialogue: 0,0:24:14.97,0:24:19.77,NextEpTitle,,0,0,0,,{\blur0.334\pos(79.676,519.696)}Next\NEpisode
 Dialogue: 0,0:24:21.52,0:24:29.99,NextEpTitle,,0,0,0,,{\blur0.334\an9\pos(1214,56)}Hint and \NBest
-Dialogue: 0,0:04:30.83,0:04:32.04,Textmsgslazy,,0,0,0,,{\blur0.8\alpha&H00&\fs23\c&H5D4B3B&\3c&HD7E8DA&\pos(640,414)}Mashiro Moritaka
-Dialogue: 0,0:04:30.83,0:04:32.04,Textmsgslazy,,0,0,0,,{\blur0.8\c&H756353&\3c&HD7E8DA&\pos(639,305)}You have a new message
+Dialogue: 0,0:04:30.83,0:04:32.08,Textmsgslazy,,0,0,0,,{\blur0.8\alpha&H00&\fs23\c&H5D4B3B&\3c&HD7E8DA&\pos(640,414)}Mashiro Moritaka
+Dialogue: 0,0:04:30.83,0:04:32.08,Textmsgslazy,,0,0,0,,{\blur0.8\c&H756353&\3c&HD7E8DA&\pos(639,305)}You have a new message
 Dialogue: 0,0:10:25.10,0:10:30.19,HugeJR,,0,0,0,,{\fad(0,900)\c&H84888D&\blur1\frz-19\fax-0.3\fs35\pos(579,197)}This world is
 Dialogue: 0,0:10:25.10,0:10:30.19,HugeJR,,0,0,0,,{\fad(0,900)\c&H767A7D&\blur1\frz-30\fs35\b0\fax-0.2\pos(784,478)}money, intelligence, appearance
 Dialogue: 0,0:10:25.10,0:10:30.19,HugeJR,,0,0,0,,{\an1\fad(0,900)\c&H6B6B70&\blur1\frz-18\fs35\fax-0.2\b0\pos(288,349)}A world where one can
@@ -138,7 +138,7 @@ Dialogue: 0,0:12:30.81,0:12:33.23,Huge,,0,0,0,,{\fsp-1\c&H929096&\blur1\b0\frz11
 Dialogue: 1,0:12:53.04,0:12:55.50,Dates,,0,0,0,,{\fad(459,0)\pos(640,300)\bord0\c&HE4E4E3&}The Day of the Serialization Committee
 Dialogue: 0,0:12:53.04,0:12:55.50,Dates,,0,0,0,,{\fad(459,0)\pos(640,300)\bord5\c&H111010&\3c&H111010&}The Day of the Serialization Committee
 Dialogue: 1,0:14:10.53,0:14:12.41,Dates,,0,0,0,,{\fad(459,0)\pos(640,300)\bord0\c&HE5E5E4&\3c&H171615&}The Next Day
-Dialogue: 0,0:14:10.53,0:14:12.41,Dates,,0,0,0,,{\fad(459,0)\pos(640,300)\bord5\c&H121312&\3c&H121312&}The Next Day
+Dialogue: 0,0:14:10.53,0:14:12.41,Dates,,0,0,0,,{\fad(459,0)\pos(640,300)\bord4.5\c&H121312&\3c&H121312&}The Next Day
 Dialogue: 0,0:07:54.62,0:07:59.29,marker,,0,0,0,,{\fsp-1\b1\blur1\fscx120\fscy120\c&H4B73D6&\frz7.37\pos(320,360)}Money
 Dialogue: 0,0:07:54.62,0:07:59.29,marker,,0,0,0,,{\fsp-1\b1\blur1\fscx120\fscy120\pos(598,343)\c&HBD8D94&}Intelligence
 Dialogue: 0,0:07:54.62,0:07:59.29,marker,,0,0,0,,{\fsp-1\b1\blur1\fscx120\fscy120\c&H289C7B&\frz355.94\pos(969,357)}Appearance
@@ -696,172 +696,8 @@ Dialogue: 0,0:18:22.87,0:18:22.91,Huge,,0,0,0,,{\pos(731.58,458.50)\blur1\b0\c&H
 Dialogue: 0,0:18:22.87,0:18:22.91,Huge,,0,0,0,,{\pos(902.78,584.90)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
 Dialogue: 0,0:18:22.91,0:18:22.95,Huge,,0,0,0,,{\pos(731.58,458.50)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
 Dialogue: 0,0:18:22.91,0:18:22.95,Huge,,0,0,0,,{\pos(902.78,584.90)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:22.95,0:18:22.99,Huge,,0,0,0,,{\pos(709.02,455.24)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:22.95,0:18:22.99,Huge,,0,0,0,,{\pos(880.22,581.64)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:22.99,0:18:23.04,Huge,,0,0,0,,{\pos(709.02,455.24)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:22.99,0:18:23.04,Huge,,0,0,0,,{\pos(880.22,581.64)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:23.04,0:18:23.08,Huge,,0,0,0,,{\pos(709.02,455.24)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:23.04,0:18:23.08,Huge,,0,0,0,,{\pos(880.22,581.64)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:23.08,0:18:23.12,Huge,,0,0,0,,{\pos(709.02,455.24)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:23.08,0:18:23.12,Huge,,0,0,0,,{\pos(880.22,581.64)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:23.12,0:18:23.16,Huge,,0,0,0,,{\pos(709.02,455.24)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:23.12,0:18:23.16,Huge,,0,0,0,,{\pos(880.22,581.64)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:23.16,0:18:23.20,Huge,,0,0,0,,{\pos(709.02,455.24)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:23.16,0:18:23.20,Huge,,0,0,0,,{\pos(880.22,581.64)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:23.20,0:18:23.24,Huge,,0,0,0,,{\pos(709.02,455.24)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:23.20,0:18:23.24,Huge,,0,0,0,,{\pos(880.22,581.64)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:23.24,0:18:23.29,Huge,,0,0,0,,{\pos(709.02,455.24)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:23.24,0:18:23.29,Huge,,0,0,0,,{\pos(880.22,581.64)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:23.29,0:18:23.33,Huge,,0,0,0,,{\pos(709.02,455.24)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:23.29,0:18:23.33,Huge,,0,0,0,,{\pos(880.22,581.64)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:23.33,0:18:23.37,Huge,,0,0,0,,{\pos(709.02,455.24)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:23.33,0:18:23.37,Huge,,0,0,0,,{\pos(880.22,581.64)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:23.37,0:18:23.41,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:23.37,0:18:23.41,Huge,,0,0,0,,{\pos(880.22,581.64)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:23.41,0:18:23.45,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:23.41,0:18:23.45,Huge,,0,0,0,,{\pos(880.22,581.64)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:23.45,0:18:23.49,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:23.45,0:18:23.49,Huge,,0,0,0,,{\pos(880.22,581.64)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:23.49,0:18:23.54,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:23.49,0:18:23.54,Huge,,0,0,0,,{\pos(880.22,581.64)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:23.54,0:18:23.58,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:23.54,0:18:23.58,Huge,,0,0,0,,{\pos(880.22,581.64)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:23.58,0:18:23.62,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:23.58,0:18:23.62,Huge,,0,0,0,,{\pos(880.22,581.64)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:23.62,0:18:23.66,Huge,,0,0,0,,{\pos(709.01,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:23.62,0:18:23.66,Huge,,0,0,0,,{\pos(880.22,581.64)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:23.66,0:18:23.70,Huge,,0,0,0,,{\pos(709.01,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:23.66,0:18:23.70,Huge,,0,0,0,,{\pos(880.22,581.64)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:23.70,0:18:23.74,Huge,,0,0,0,,{\pos(709.01,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:23.70,0:18:23.74,Huge,,0,0,0,,{\pos(880.22,581.64)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:23.74,0:18:23.79,Huge,,0,0,0,,{\pos(709.01,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:23.74,0:18:23.79,Huge,,0,0,0,,{\pos(880.22,581.64)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:23.79,0:18:23.83,Huge,,0,0,0,,{\pos(709.01,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:23.79,0:18:23.83,Huge,,0,0,0,,{\pos(880.22,581.64)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:23.83,0:18:23.87,Huge,,0,0,0,,{\pos(709.01,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:23.83,0:18:23.87,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:23.87,0:18:23.91,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:23.87,0:18:23.91,Huge,,0,0,0,,{\pos(880.22,581.64)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:23.91,0:18:23.95,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:23.91,0:18:23.95,Huge,,0,0,0,,{\pos(880.22,581.64)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:23.95,0:18:23.99,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:23.95,0:18:23.99,Huge,,0,0,0,,{\pos(880.22,581.64)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:23.99,0:18:24.04,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:23.99,0:18:24.04,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:24.04,0:18:24.08,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:24.04,0:18:24.08,Huge,,0,0,0,,{\pos(880.22,581.64)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:24.08,0:18:24.12,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:24.08,0:18:24.12,Huge,,0,0,0,,{\pos(880.22,581.64)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:24.12,0:18:24.16,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:24.12,0:18:24.16,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:24.16,0:18:24.20,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:24.16,0:18:24.20,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:24.20,0:18:24.24,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:24.20,0:18:24.24,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:24.24,0:18:24.29,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:24.24,0:18:24.29,Huge,,0,0,0,,{\pos(880.22,581.64)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:24.29,0:18:24.33,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:24.29,0:18:24.33,Huge,,0,0,0,,{\pos(880.22,581.64)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:24.33,0:18:24.37,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:24.33,0:18:24.37,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:24.37,0:18:24.41,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:24.37,0:18:24.41,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:24.41,0:18:24.45,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:24.41,0:18:24.45,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:24.45,0:18:24.49,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:24.45,0:18:24.49,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:24.49,0:18:24.54,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:24.49,0:18:24.54,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:24.54,0:18:24.58,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:24.54,0:18:24.58,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:24.58,0:18:24.62,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:24.58,0:18:24.62,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:24.62,0:18:24.66,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:24.62,0:18:24.66,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:24.66,0:18:24.70,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:24.66,0:18:24.70,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:24.70,0:18:24.75,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:24.70,0:18:24.75,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:24.75,0:18:24.79,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:24.75,0:18:24.79,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:24.79,0:18:24.83,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:24.79,0:18:24.83,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:24.83,0:18:24.87,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:24.83,0:18:24.87,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:24.87,0:18:24.91,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:24.87,0:18:24.91,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:24.91,0:18:24.95,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:24.91,0:18:24.95,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:24.95,0:18:25.00,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:24.95,0:18:25.00,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:25.00,0:18:25.04,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:25.00,0:18:25.04,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:25.04,0:18:25.08,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:25.04,0:18:25.08,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:25.08,0:18:25.12,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:25.08,0:18:25.12,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:25.12,0:18:25.16,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:25.12,0:18:25.16,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:25.16,0:18:25.20,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:25.16,0:18:25.20,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:25.20,0:18:25.25,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:25.20,0:18:25.25,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:25.25,0:18:25.29,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:25.25,0:18:25.29,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:25.29,0:18:25.33,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:25.29,0:18:25.33,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:25.33,0:18:25.37,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:25.33,0:18:25.37,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:25.37,0:18:25.41,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:25.37,0:18:25.41,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:25.41,0:18:25.45,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:25.41,0:18:25.45,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:25.45,0:18:25.50,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:25.45,0:18:25.50,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:25.50,0:18:25.54,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:25.50,0:18:25.54,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:25.54,0:18:25.58,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:25.54,0:18:25.58,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:25.58,0:18:25.62,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:25.58,0:18:25.62,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:25.62,0:18:25.66,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:25.62,0:18:25.66,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:25.66,0:18:25.70,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:25.66,0:18:25.70,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:25.70,0:18:25.75,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:25.70,0:18:25.75,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:25.75,0:18:25.79,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:25.75,0:18:25.79,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:25.79,0:18:25.83,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:25.79,0:18:25.83,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:25.83,0:18:25.87,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:25.83,0:18:25.87,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:25.87,0:18:25.91,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:25.87,0:18:25.91,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:25.91,0:18:25.95,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:25.91,0:18:25.95,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:25.95,0:18:26.00,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:25.95,0:18:26.00,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:26.00,0:18:26.04,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:26.00,0:18:26.04,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:26.04,0:18:26.08,Huge,,0,0,0,,{\pos(709.02,455.25)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:26.04,0:18:26.08,Huge,,0,0,0,,{\pos(880.22,581.65)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:26.08,0:18:26.12,Huge,,0,0,0,,{\pos(709.01,455.26)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:26.08,0:18:26.12,Huge,,0,0,0,,{\pos(880.21,581.66)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:26.12,0:18:26.16,Huge,,0,0,0,,{\pos(708.98,455.27)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:26.12,0:18:26.16,Huge,,0,0,0,,{\pos(880.18,581.67)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:26.16,0:18:26.20,Huge,,0,0,0,,{\pos(708.54,455.62)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:26.16,0:18:26.20,Huge,,0,0,0,,{\pos(879.74,582.02)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:26.20,0:18:26.25,Huge,,0,0,0,,{\pos(708.58,455.63)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:26.20,0:18:26.25,Huge,,0,0,0,,{\pos(879.78,582.03)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:26.25,0:18:26.29,Huge,,0,0,0,,{\pos(708.62,455.65)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:26.25,0:18:26.29,Huge,,0,0,0,,{\pos(879.82,582.05)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:26.29,0:18:26.33,Huge,,0,0,0,,{\pos(708.63,455.63)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:26.29,0:18:26.33,Huge,,0,0,0,,{\pos(879.84,582.03)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:26.33,0:18:26.37,Huge,,0,0,0,,{\pos(708.80,455.40)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:26.33,0:18:26.37,Huge,,0,0,0,,{\pos(880.00,581.80)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
-Dialogue: 0,0:18:26.37,0:18:26.46,Huge,,0,0,0,,{\pos(708.80,455.40)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
-Dialogue: 0,0:18:26.37,0:18:26.46,Huge,,0,0,0,,{\pos(880.00,581.80)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
+Dialogue: 0,0:18:22.95,0:18:26.46,Huge,,0,0,0,,{\pos(709.02,455.24)\blur1\b0\c&H6B6A6E&\frz4.033}Serialization storyboard 3 chapters{\b1}
+Dialogue: 0,0:18:22.95,0:18:26.46,Huge,,0,0,0,,{\pos(880.22,581.64)\blur1\c&H6B6A6E&\b0\frz7.8}Ashirogi Muto{\b1}
 Dialogue: 10,0:00:03.39,0:00:05.56,Default,,0,0,0,,It's ending in issue 31?!
 Dialogue: 10,0:00:05.56,0:00:07.02,Default,,0,0,0,,Only two chapters left?!
 Dialogue: 10,0:00:07.44,0:00:08.73,Default,,0,0,0,,I'm sorry.

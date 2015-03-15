@@ -20,9 +20,9 @@ Keyframes File: ep17_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 435
-Active Line: 441
-Video Position: 35244
+Scroll Position: 442
+Active Line: 490
+Video Position: 18396
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -530,41 +530,41 @@ Dialogue: 0,0:10:10.54,0:10:10.67,thishitisshit,,0,0,0,,{\blur1\fax0.4\c&HFFFFFF
 Dialogue: 0,0:10:10.67,0:10:10.79,thishitisshit,,0,0,0,,{\blur1\fax0.375\c&HFFFFFF&\b1\fscx15\fscy27\frx14\fry24\pos(672.5,533.75)\frz327.6\iclip(m 678 459 b 688 546 717 595 726 624 722 590 714 522 709 486 710 467 708 423 707 402)} Takahama Shouyou
 Dialogue: 0,0:10:10.79,0:10:10.92,thishitisshit,,0,0,0,,{\blur1\fax0.375\c&HFFFFFF&\b1\fscx15\fscy27\frx14\fry24\frz328.8\pos(687.063,532)\iclip(m 662 429 b 685 544 703 570 726 624 726 550 689 561 745 419 736 422 727 362 707 402)} Takahama Shouyou
 Dialogue: 0,0:10:10.92,0:10:13.88,thishitisshit,,0,0,0,,{\blur1\fax0.375\c&HFFFFFF&\b1\fscx15\fscy27\frx14\fry24\pos(699.8,534)\iclip(m 662 429 b 685 544 703 570 726 624 722 552 689 561 743 455 736 422 727 362 707 402)\frz330.796} Takahama Shouyou
-Dialogue: 0,0:12:44.49,0:12:45.74,fattyshitto,,0,0,0,,{\pos(209.09,477)\fscx60\fscy60\fsp-2.1\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:45.74,0:12:45.78,fattyshitto,,0,0,0,,{\pos(209.09,476.42)\fscx60\fscy60\fsp-2.1\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:45.78,0:12:45.82,fattyshitto,,0,0,0,,{\pos(208.91,474.41)\fscx59\fscy59\fsp-1.9\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:45.82,0:12:45.86,fattyshitto,,0,0,0,,{\pos(208.7,471.16)\fscx58\fscy58\fsp-1.76\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:45.86,0:12:45.91,fattyshitto,,0,0,0,,{\pos(208.17,466.82)\fscx57\fscy57\fsp-1.74\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:45.91,0:12:45.95,fattyshitto,,0,0,0,,{\pos(207.65,461.46)\fscx56\fscy56\fsp-1.748\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:45.95,0:12:45.99,fattyshitto,,0,0,0,,{\pos(207.04,455.3)\fscx55\fscy55\fsp-1.8\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:45.99,0:12:46.03,fattyshitto,,0,0,0,,{\pos(206.35,448.45)\fscx54\fscy54\fsp-1.9\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:46.03,0:12:46.07,fattyshitto,,0,0,0,,{\pos(205.64,441.22)\fscx53\fscy53\fsp-2\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:46.07,0:12:46.12,fattyshitto,,0,0,0,,{\pos(204.88,433.69)\fscx51\fscy51\fsp-1.8\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:46.12,0:12:46.16,fattyshitto,,0,0,0,,{\pos(204.16,426.13)\fscx50\fscy50\fsp-2\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:46.16,0:12:46.20,fattyshitto,,0,0,0,,{\pos(203.42,418.64)\fscx48\fscy48\fsp-1.9\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:46.20,0:12:46.24,fattyshitto,,0,0,0,,{\pos(202.68,411.33)\fscx47\fscy47\fsp-2\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:46.24,0:12:46.28,fattyshitto,,0,0,0,,{\pos(202.02,404.3)\fscx45\fscy45\fsp-1.8\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:46.28,0:12:46.32,fattyshitto,,0,0,0,,{\pos(201.36,397.62)\fscx44\fscy44\fsp-1.9\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:46.32,0:12:46.37,fattyshitto,,0,0,0,,{\pos(200.72,391.4)\fscx43\fscy43\fsp-2\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:46.37,0:12:46.41,fattyshitto,,0,0,0,,{\pos(200.16,385.53)\fscx42\fscy42\fsp-2\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:46.41,0:12:46.45,fattyshitto,,0,0,0,,{\pos(199.62,380.14)\fscx41\fscy41\fsp-2\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:46.45,0:12:46.49,fattyshitto,,0,0,0,,{\pos(199.15,375.12)\fscx40\fscy40\fsp-2\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:46.49,0:12:46.53,fattyshitto,,0,0,0,,{\pos(198.72,370.54)\fscx39\fscy39\fsp-1.9\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:46.53,0:12:46.57,fattyshitto,,0,0,0,,{\pos(198.28,366.36)\fscx38\fscy38\fsp-1.9\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:46.57,0:12:46.62,fattyshitto,,0,0,0,,{\pos(197.93,362.26)\fscx37\fscy37\fsp-1.75\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:46.62,0:12:46.66,fattyshitto,,0,0,0,,{\pos(197.61,359.11)\fscx37\fscy37\fsp-2.1\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:46.66,0:12:46.70,fattyshitto,,0,0,0,,{\pos(197.31,356.03)\fscx36\fscy36\fsp-1.85\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:46.70,0:12:46.74,fattyshitto,,0,0,0,,{\pos(196.98,353.27)\fscx35\fscy35\fsp-1.6\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:46.74,0:12:46.78,fattyshitto,,0,0,0,,{\pos(196.77,350.77)\fscx35\fscy35\fsp-1.85\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:46.78,0:12:46.82,fattyshitto,,0,0,0,,{\pos(196.58,348.57)\fscx35\fscy35\fsp-2.1\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:46.82,0:12:46.87,fattyshitto,,0,0,0,,{\pos(196.36,346.64)\fscx35\fscy35\fsp-2.3\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:46.87,0:12:46.91,fattyshitto,,0,0,0,,{\pos(196,344.73)\fscx34\fscy34\fsp-1.95\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:46.91,0:12:46.95,fattyshitto,,0,0,0,,{\pos(196.16,343.46)\fscx34\fscy34\fsp-2\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:46.95,0:12:46.99,fattyshitto,,0,0,0,,{\pos(195.96,342.18)\fscx34\fscy34\fsp-2.15\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:46.99,0:12:47.03,fattyshitto,,0,0,0,,{\pos(195.81,341.12)\fscx33\fscy33\fsp-1.75\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:47.03,0:12:47.07,fattyshitto,,0,0,0,,{\pos(195.75,340.2)\fscx33\fscy33\fsp-1.8\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:47.07,0:12:47.12,fattyshitto,,0,0,0,,{\pos(195.7,339.47)\fscx33\fscy33\fsp-1.9\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:47.12,0:12:47.16,fattyshitto,,0,0,0,,{\pos(195.67,338.96)\fscx33\fscy33\fsp-2\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:47.16,0:12:47.20,fattyshitto,,0,0,0,,{\pos(195.59,338.55)\fscx33\fscy33\fsp-2\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:47.20,0:12:47.24,fattyshitto,,0,0,0,,{\pos(195.58,338.33)\fscx33\fscy33\fsp-2\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
-Dialogue: 0,0:12:47.24,0:12:49.45,fattyshitto,,0,0,0,,{\pos(195.57,338.31)\fscx33\fscy33\fsp-2\blur1\b1\frx2\fry0\c&H92B2C7&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:44.49,0:12:45.74,fattyshitto,,0,0,0,,{\pos(209.09,477)\fscx60\fscy60\fsp-2.1\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:45.74,0:12:45.78,fattyshitto,,0,0,0,,{\pos(209.09,476.42)\fscx60\fscy60\fsp-2.1\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:45.78,0:12:45.82,fattyshitto,,0,0,0,,{\pos(208.91,474.41)\fscx59\fscy59\fsp-1.9\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:45.82,0:12:45.86,fattyshitto,,0,0,0,,{\pos(208.7,471.16)\fscx58\fscy58\fsp-1.76\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:45.86,0:12:45.91,fattyshitto,,0,0,0,,{\pos(208.17,466.82)\fscx57\fscy57\fsp-1.74\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:45.91,0:12:45.95,fattyshitto,,0,0,0,,{\pos(207.65,461.46)\fscx56\fscy56\fsp-1.748\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:45.95,0:12:45.99,fattyshitto,,0,0,0,,{\pos(207.04,455.3)\fscx55\fscy55\fsp-1.8\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:45.99,0:12:46.03,fattyshitto,,0,0,0,,{\pos(206.35,448.45)\fscx54\fscy54\fsp-1.9\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:46.03,0:12:46.07,fattyshitto,,0,0,0,,{\pos(205.64,441.22)\fscx53\fscy53\fsp-2\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:46.07,0:12:46.12,fattyshitto,,0,0,0,,{\pos(204.88,433.69)\fscx51\fscy51\fsp-1.8\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:46.12,0:12:46.16,fattyshitto,,0,0,0,,{\pos(204.16,426.13)\fscx50\fscy50\fsp-2\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:46.16,0:12:46.20,fattyshitto,,0,0,0,,{\pos(203.42,418.64)\fscx48\fscy48\fsp-1.9\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:46.20,0:12:46.24,fattyshitto,,0,0,0,,{\pos(202.68,411.33)\fscx47\fscy47\fsp-2\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:46.24,0:12:46.28,fattyshitto,,0,0,0,,{\pos(202.02,404.3)\fscx45\fscy45\fsp-1.8\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:46.28,0:12:46.32,fattyshitto,,0,0,0,,{\pos(201.36,397.62)\fscx44\fscy44\fsp-1.9\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:46.32,0:12:46.37,fattyshitto,,0,0,0,,{\pos(200.72,391.4)\fscx43\fscy43\fsp-2\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:46.37,0:12:46.41,fattyshitto,,0,0,0,,{\pos(200.16,385.53)\fscx42\fscy42\fsp-2\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:46.41,0:12:46.45,fattyshitto,,0,0,0,,{\pos(199.62,380.14)\fscx41\fscy41\fsp-2\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:46.45,0:12:46.49,fattyshitto,,0,0,0,,{\pos(199.15,375.12)\fscx40\fscy40\fsp-2\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:46.49,0:12:46.53,fattyshitto,,0,0,0,,{\pos(198.72,370.54)\fscx39\fscy39\fsp-1.9\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:46.53,0:12:46.57,fattyshitto,,0,0,0,,{\pos(198.28,366.36)\fscx38\fscy38\fsp-1.9\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:46.57,0:12:46.62,fattyshitto,,0,0,0,,{\pos(197.93,362.26)\fscx37\fscy37\fsp-1.75\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:46.62,0:12:46.66,fattyshitto,,0,0,0,,{\pos(197.61,359.11)\fscx37\fscy37\fsp-2.1\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:46.66,0:12:46.70,fattyshitto,,0,0,0,,{\pos(197.31,356.03)\fscx36\fscy36\fsp-1.85\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:46.70,0:12:46.74,fattyshitto,,0,0,0,,{\pos(196.98,353.27)\fscx35\fscy35\fsp-1.6\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:46.74,0:12:46.78,fattyshitto,,0,0,0,,{\pos(196.77,350.77)\fscx35\fscy35\fsp-1.85\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:46.78,0:12:46.82,fattyshitto,,0,0,0,,{\pos(196.58,348.57)\fscx35\fscy35\fsp-2.1\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:46.82,0:12:46.87,fattyshitto,,0,0,0,,{\pos(196.36,346.64)\fscx35\fscy35\fsp-2.3\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:46.87,0:12:46.91,fattyshitto,,0,0,0,,{\pos(196,344.73)\fscx34\fscy34\fsp-1.95\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:46.91,0:12:46.95,fattyshitto,,0,0,0,,{\pos(196.16,343.46)\fscx34\fscy34\fsp-2\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:46.95,0:12:46.99,fattyshitto,,0,0,0,,{\pos(195.96,342.18)\fscx34\fscy34\fsp-2.15\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:46.99,0:12:47.03,fattyshitto,,0,0,0,,{\pos(195.81,341.12)\fscx33\fscy33\fsp-1.75\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:47.03,0:12:47.07,fattyshitto,,0,0,0,,{\pos(195.75,340.2)\fscx33\fscy33\fsp-1.8\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:47.07,0:12:47.12,fattyshitto,,0,0,0,,{\pos(195.7,339.47)\fscx33\fscy33\fsp-1.9\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:47.12,0:12:47.16,fattyshitto,,0,0,0,,{\pos(195.67,338.96)\fscx33\fscy33\fsp-2\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:47.16,0:12:47.20,fattyshitto,,0,0,0,,{\pos(195.59,338.55)\fscx33\fscy33\fsp-2\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:47.20,0:12:47.24,fattyshitto,,0,0,0,,{\pos(195.58,338.33)\fscx33\fscy33\fsp-2\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments
+Dialogue: 0,0:12:47.24,0:12:49.45,fattyshitto,,0,0,0,,{\pos(195.57,338.31)\fscx33\fscy33\fsp-2\blur1\b1\frx2\fry0\c&H85ACC4&\frz353.991} Raindrop Apartments

@@ -19,9 +19,9 @@ Keyframes File: ep13_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 37
-Active Line: 55
-Video Position: 35078
+Scroll Position: 506
+Active Line: 522
+Video Position: 22649
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -576,25 +576,25 @@ Dialogue: 2,0:04:41.42,0:04:43.67,ptsans,,0,0,0,,{\blur1\bord0\fs150\c&H282D4A&\
 Dialogue: 2,0:04:41.42,0:04:43.67,ptsans,,0,0,0,,{\blur1\bord0\fs150\c&H282D4A&\3c&H282D4A&\4c&H30394D&\b1\frz1.654\frx6\fry340\pos(558,516)\shad0}Zoo
 Dialogue: 1,0:04:41.42,0:04:43.67,ptsans,,0,0,0,,{\blur5\bord0\fs150\c&H3C3A2E&\3c&H282D4A&\4c&H30394D&\b1\frz1.654\frx6\fry340\pos(566,515)\shad0\1a&H1D&}Zoo
 Dialogue: 0,0:04:41.42,0:04:43.67,ptsans,,0,0,0,,{\fax-0.11\fs30\shad0\bord0\4c&H30394D&\b1\frx6\fry356\blur1\c&H6A7AB7&\fscx93.75\fscy92.5\pos(1137,537)\frz2.982}Enjoy with sound and music
-Dialogue: 0,0:04:41.42,0:04:43.67,Preview Dialog,,0,0,0,,{\blur1\fax-0.076\fsp-2\fs28\shad0\bord0\4c&H30394D&\b0\frx0\fry356\frz2.072\fscx77.5\fscy72.5\c&H69736A&\pos(1058,659)} Now lending out for free{\b0}
+Dialogue: 0,0:04:41.42,0:04:43.67,Preview Dialog,,0,0,0,,{\blur1\fax-0.076\fsp-2\fs28\shad0\bord0\4c&H30394D&\b0\frx0\fry356\frz2.072\fscx77.5\fscy72.5\c&H69736A&\pos(1058,659)} Now lending out for free
 Dialogue: 0,0:05:13.25,0:05:15.21,ptsans,,0,0,0,,{\fax-0.17\blur0.8\fs80\an5\bord0\b1\3c&H212E32&\pos(564.001,551.667)\c&H222A30&\frx0\fry352\frz9.058}Japanese Monkeys
-Dialogue: 0,0:11:41.09,0:11:43.80,Sunny,,0,0,0,,{\fax0.05\blur0.8\fs30\frx4\fry352\c&HC7CCCB&\pos(511,131)\frz3.175}{TS 11:41}Cafe Latte
-Dialogue: 0,0:11:41.09,0:11:43.80,Sunny,,0,0,0,,{\blur0.8\fs30\c&HC0C3C1&\frx0\fry356\frz3.607\pos(688.001,125.857)}{TS 11:41}(hot or iced)
-Dialogue: 0,0:11:41.09,0:11:43.80,Sunny,,0,0,0,,{\fax0.05\blur0.8\fs30\c&HC0C3C1&\frz2.822\pos(521.238,250.914)\frx358\fry346}{TS 11:41}Cafe Mocha
-Dialogue: 0,0:11:41.09,0:11:43.80,Sunny,,0,0,0,,{\blur0.8\fs30\c&HC0C3C1&\frz2.721\frx352\fry354\pos(695.087,246.086)}{TS 11:41}(hot or iced)
-Dialogue: 0,0:11:41.09,0:11:43.80,Sunny,,0,0,0,,{\fax0.05\blur0.8\fs30\c&HC0C3C1&\frz2.353\pos(532.333,370.667)\frx358\fry350}{TS 11:41}American coffee
-Dialogue: 0,0:11:41.09,0:11:43.80,Sunny,,0,0,0,,{\blur0.8\fs30\c&HC0C3C1&\frz2.721\frx352\fry354\pos(709.754,372.752)}{TS 11:41}(hot or iced)
-Dialogue: 0,0:11:41.09,0:11:43.80,Sunny,,0,0,0,,{\blur0.8\fs30\c&HC0C3C1&\frx358\fry344\pos(1152,97)\frz3.394}{TS 11:41}Tea latte
-Dialogue: 0,0:11:41.09,0:11:43.80,Sunny,,0,0,0,,{\fax0.05\blur0.8\fs30\c&HC0C3C1&\frz2.721\frx4\fry346\pos(1134,221)}{TS 11:41}Chai
-Dialogue: 0,0:11:41.09,0:11:43.80,Sunny,,0,0,0,,{\blur0.8\fs30\frx352\fry350\frz3.353\pos(1143.67,342.534)\c&HB1B5B2&}{TS 11:41}Hot chocolate
-Dialogue: 0,0:20:19.40,0:20:22.86,Huge,,0,0,0,,{\fax0.1\fs180\c&H1A1916&\frz351.4\frx16\fry14\blur1\pos(819.778,531)\1a&H67&}{TS 20:20}Aoki
+Dialogue: 0,0:11:41.09,0:11:43.80,Sunny,,0,0,0,,{\fax0.05\blur0.8\fs30\frx4\fry352\c&HCDD2D2&\pos(511,131)\frz3.175}Cafe Latte
+Dialogue: 0,0:11:41.09,0:11:43.80,Sunny,,0,0,0,,{\blur0.8\fs30\c&HC0C3C1&\frx0\fry356\frz3.607\pos(688.001,125.857)}(hot or iced)
+Dialogue: 0,0:11:41.09,0:11:43.80,Sunny,,0,0,0,,{\fax0.05\blur0.8\fs30\c&HBEC0BF&\frz2.822\pos(521.238,250.914)\frx358\fry346}Cafe Mocha
+Dialogue: 0,0:11:41.09,0:11:43.80,Sunny,,0,0,0,,{\blur0.8\fs30\c&HBDBEBC&\frz2.721\frx352\fry354\pos(695.087,246.086)}(hot or iced)
+Dialogue: 0,0:11:41.09,0:11:43.80,Sunny,,0,0,0,,{\fax0.05\blur0.8\fs30\c&HAEAEAC&\frz2.353\pos(532.333,370.667)\frx358\fry350}American coffee
+Dialogue: 0,0:11:41.09,0:11:43.80,Sunny,,0,0,0,,{\blur0.8\fs30\c&HACACA9&\frz2.721\frx352\fry354\pos(709.754,372.752)}(hot or iced)
+Dialogue: 0,0:11:41.09,0:11:43.80,Sunny,,0,0,0,,{\blur0.8\fs30\c&HABADAC&\frx358\fry344\pos(1152,97)\frz3.394}Tea latte
+Dialogue: 0,0:11:41.09,0:11:43.80,Sunny,,0,0,0,,{\fax0.05\blur0.8\fs30\c&HA2A4A8&\frz2.721\frx4\fry346\pos(1134,221)}Chai
+Dialogue: 0,0:11:41.09,0:11:43.80,Sunny,,0,0,0,,{\blur0.8\fs30\frx352\fry350\frz3.353\pos(1143.67,342.534)\c&H9DA19A&}Hot chocolate
+Dialogue: 0,0:20:19.40,0:20:22.86,Huge,,0,0,0,,{\fax0.1\fs180\c&H1A1916&\frz351.4\frx16\fry14\blur1\pos(819.778,531)\1a&H67&}Aoki
 Dialogue: 3,0:15:44.63,0:15:47.59,ptsans,,0,0,0,,{\blur1\shad0\bord0\fs150\c&H555BAE&\3c&H4C59A8&\4c&H30394D&\b1\frz1.654\frx6\fry340\pos(554,511)\shad0}Zoo
 Dialogue: 2,0:15:44.63,0:15:47.59,ptsans,,0,0,0,,{\blur1\bord0\fs150\c&H282D4A&\3c&H282D4A&\4c&H30394D&\b1\frz1.654\frx6\fry340\pos(558,511)\shad0}Zoo
 Dialogue: 2,0:15:44.63,0:15:47.59,ptsans,,0,0,0,,{\blur1\bord0\fs150\c&H282D4A&\3c&H282D4A&\4c&H30394D&\b1\frz1.654\frx6\fry340\pos(555,516)\shad0}Zoo
 Dialogue: 2,0:15:44.63,0:15:47.59,ptsans,,0,0,0,,{\blur1\bord0\fs150\c&H282D4A&\3c&H282D4A&\4c&H30394D&\b1\frz1.654\frx6\fry340\pos(558,516)\shad0}Zoo
 Dialogue: 1,0:15:44.63,0:15:47.59,ptsans,,0,0,0,,{\blur5\bord0\fs150\c&H3C3A2E&\3c&H282D4A&\4c&H30394D&\b1\frz1.654\frx6\fry340\pos(566,515)\shad0\1a&H1D&}Zoo
 Dialogue: 0,0:15:44.63,0:15:47.59,ptsans,,0,0,0,,{\fax-0.11\fs30\shad0\bord0\4c&H30394D&\b1\frx6\fry356\blur1\c&H6A7AB7&\fscx93.75\fscy92.5\pos(1137,537)\frz2.982}Enjoy with sound and music
-Dialogue: 0,0:15:44.63,0:15:47.59,Preview Dialog,,0,0,0,,{\blur1\fax-0.076\fsp-2\fs28\shad0\bord0\4c&H30394D&\b0\frx0\fry356\frz2.072\fscx77.5\fscy72.5\c&H69736A&\pos(1058,659)} Now lending out for free{\b0}
+Dialogue: 0,0:15:44.63,0:15:47.59,Preview Dialog,,0,0,0,,{\blur1\fax-0.076\fsp-2\fs28\shad0\bord0\4c&H30394D&\b0\frx0\fry356\frz2.072\fscx77.5\fscy72.5\c&H69736A&\pos(1058,659)} Now lending out for free
 Dialogue: 10,0:00:02.39,0:00:03.94,Default,,0,0,0,,I'm sorry.
 Dialogue: 10,0:00:03.94,0:00:06.36,Default,,0,0,0,,I'm still inexperienced as an editor...
 Dialogue: 10,0:00:06.36,0:00:10.78,Default,,0,0,0,,Well, we're even more inexperienced as mangakas...

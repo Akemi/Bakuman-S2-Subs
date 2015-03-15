@@ -19,9 +19,9 @@ Keyframes File: ep15_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 496
-Active Line: 509
-Video Position: 35244
+Scroll Position: 506
+Active Line: 527
+Video Position: 31145
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -601,7 +601,7 @@ Dialogue: 0,0:13:14.81,0:13:17.52,Textmsgs,,0,0,0,,{\blur1\c&HD2CAC4&\fs50\move(
 Dialogue: 0,0:13:14.81,0:13:17.52,Textmsgs,,0,0,0,,{\blur1\move(616,212,616,179)\fs50\c&HD1C7C5&}No Subject
 Dialogue: 0,0:13:14.81,0:13:17.52,Textmsgs,,0,0,0,,{\q2\an1\blur1\move(306,661,306,627)\c&H7C685E&}If you are still at Azuki's house, \Nmove to a place where she won't hear you.
 Dialogue: 0,0:21:29.10,0:21:30.14,Textmsgs,,0,0,0,,{\blur1\fs65\fscx130\fscy130\fax0.03\move(759,146,759,12)\frx338\fry0\c&H6D584C&}Aoki
-Dialogue: 0,0:21:29.39,0:21:32.06,Textmsgs,,0,0,0,,{\q2\fad(0,209)\fsp-2\fs39\blur1.2\c&H8A6656&\fscx85\fscy88\move(631,783,631,442)\frx-4\frz-0.3\fry0}It's hard for me to forgive you for hiding that he was exchanging opinions with \NAoki. But I will forgive you. Aoki is a nice person. We became friends (lol)
+Dialogue: 0,0:21:29.35,0:21:32.06,Textmsgs,,0,0,0,,{\q2\fad(0,209)\fsp-2\fs39\blur1.2\c&H8A6656&\fscx85\fscy88\move(631,788,631,442)\frx-4\frz-0.3\fry0}It's hard for me to forgive you for hiding that he was exchanging opinions with \NAoki. But I will forgive you. Aoki is a nice person. We became friends (lol)
 Dialogue: 0,0:21:31.85,0:21:33.81,Textmsgs,,0,0,0,,{\q2\fad(208,0)\fsp-2\blur1.2\fs42\fscx120\fscy165\move(685,609,685,543)\c&H705343&}It's hard for me to forgive you for hiding that he was exchanging opinions with \NAoki. But I will forgive you. Aoki is a nice person. We became friends (lol)
 Dialogue: 0,0:21:36.02,0:21:38.98,Textmsgs,,0,0,0,,{\fax-0.23\blur1.2\frz12.536\c&H1B90CB&\frx2\fry350\fscx120\fscy120\move(406,391,490,391)}F{\c&H179DCF&}a{\c&H18ACDB&}m{\c&H17A4DA&}i{\c&H1695D3&}l{\c&H1F97D3&}y {\c&H1C9BD5&}R{\c&H1A9AD3&}e{\c&H1999D2&}s{\c&H1995D0&}t{\c&H1A91CC&}a{\c&H1990CA&}u{\c&H168AC6&}r{\c&H1F8CC9&}a{\c&H1888C4&}n{\c&H187DBD&}t
 Dialogue: 0,0:21:36.02,0:21:38.98,Textmsgs,,0,0,0,,{\fax-0.12\blur1.2\c&H017094&\frx4\fry356\fscx120\fscy120\frz6.871\move(576,449,660,449)}H{\c&H0A6787&}a{\c&H0E6389&}c{\c&H00658E&}h{\c&H07628A&}i{\c&H005B84&}o{\c&H0E5675&}u{\c&H075075&}j{\c&H014B76&}i

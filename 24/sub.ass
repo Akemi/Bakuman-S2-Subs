@@ -20,9 +20,9 @@ Keyframes File: ep24_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 37
-Active Line: 49
-Video Position: 35269
+Scroll Position: 48
+Active Line: 66
+Video Position: 27800
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -52,7 +52,7 @@ Style: Silence,TriplexBold,70,&H00A0463E,&H000000FF,&H00FFFFFF,&H59000000,-1,0,0
 Style: Sunny,RolandBecker,80,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,20,20,15,1
 Style: Text,Tempus Sans ITC,70,&H00AA957A,&H000000FF,&H00171717,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,20,20,15,1
 Style: Textmsgs,Flux,42,&H00FFFFFF,&H000000FF,&H00191D19,&H00000000,-1,0,0,0,100,90,0,0,1,0,0,2,40,40,28,1
-Style: Textmsgslazy,FagoCoTf,42,&H00FFFFFF,&H000000FF,&H282C100A,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,40,40,28,1
+Style: Textmsgslazy,JP Hand,42,&H00FFFFFF,&H000000FF,&H282C100A,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,40,40,28,1
 Style: Textmsgslazyhugefax,Flux,25,&H00FFFFFF,&H000000FF,&H282C100A,&H00000000,-1,0,0,0,100,94,0,0,3,2,0,2,20,612,20,1
 Style: Textmsgslazytoo,Flux,35,&H00FFFFFF,&H000000FF,&H286150A7,&H00000000,-1,0,0,0,100,94,0,0,3,2,0,2,40,40,28,1
 Style: Textmsgsol,Flux,42,&HFFF5F6F4,&H000000FF,&H00F5F6F4,&H00000000,-1,0,0,0,100,90,0,0,3,1,0,2,40,40,28,1
@@ -128,9 +128,9 @@ Dialogue: 0,0:05:32.01,0:05:34.98,Huge,,0,0,0,,{\b0\blur0.8\pos(565,361)\frx6\fr
 Dialogue: 0,0:05:52.24,0:05:55.25,Huge,,0,0,0,,{\fax-0.2\b0\blur0.8\frx6\fry352\c&H43464A&\frz319.298\fscx44\fscy44\pos(908,504)}To Mashiro-kun
 Dialogue: 0,0:06:55.31,0:06:56.72,Huge,,0,0,0,,{\fax-0.1\fsp-1\b0\blur1\fax-0.25\frz339.881\pos(675,267)\c&H7C7C7B&}Do we absolutely positively have to wait until our dream
 Dialogue: 0,0:06:55.31,0:06:56.72,Huge,,0,0,0,,{\fax-0.1\fsp-1\b0\blur1\fax-0.25\frz339.881\c&H7C7C7B&\pos(630,287)}comes true?
-Dialogue: 0,0:07:20.87,0:07:22.04,Textmsgslazy,,0,0,0,,{\blur1.2\an7\fs35\frz145\c&H241F17&\move(639,536,640,543)\t(\fscx101.189\fscy101.189)}Azuki Miho \NNickname: Amame
-Dialogue: 0,0:07:20.87,0:07:22.04,Textmsgslazy,,0,0,0,,{\blur1.2\an7\fs35\frz145\c&H29261E&\move(785,488,786,495)\t(\fscx101.189\fscy101.189)}Dream for the future
-Dialogue: 0,0:07:20.87,0:07:22.04,Textmsgslazy,,0,0,0,,{\blur1.2\an7\fs35\frz145\c&H33312A&\move(835,414,837,419)\t(\fscx101.189\fscy101.189)}Voice Actress
+Dialogue: 0,0:07:20.87,0:07:22.04,Textmsgslazy,,0,0,0,,{\blur1.2\an7\fs35\frz145\c&H241F17&\t(\fscx101.189\fscy101.189)\fnFagoCoTf\move(639,536,639,542)}Azuki Miho \N{\fnJP Hand\fs45}Nickname: Amame
+Dialogue: 0,0:07:20.87,0:07:22.04,Textmsgslazy,,0,0,0,,{\blur1.2\an7\fs41\frz145\c&H24201A&\t(\fscx101.189\fscy101.189)\move(785,486,786,492)}Dream for the future
+Dialogue: 0,0:07:20.87,0:07:22.04,Textmsgslazy,,0,0,0,,{\blur1.2\an7\fs43\frz145\c&H2B2721&\move(835,414,837,419)\t(\fscx101.189\fscy101.189)}Voice Actress
 Dialogue: 0,0:12:44.32,0:12:48.28,Huge,,0,0,0,,{\b0\blur1\c&H79797C&\fscx135\fscy135\frz2.518\move(454,165,402,165)}"Perfect Crime
 Dialogue: 0,0:12:44.32,0:12:48.28,Huge,,0,0,0,,{\b0\blur1\c&H6C696E&\fscx135\fscy135\frz2.518\move(534,259,482,259)}Club"
 Dialogue: 0,0:12:44.32,0:12:48.28,Huge,,0,0,0,,{\b0\fax0.1\blur1\c&H68696E&\fscx85\fscy85\frz1.615\move(472,342,420,342)}First Chapter

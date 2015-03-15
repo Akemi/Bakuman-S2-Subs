@@ -19,9 +19,9 @@ Keyframes File: ep8_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 452
-Active Line: 464
-Video Position: 35269
+Scroll Position: 512
+Active Line: 536
+Video Position: 26126
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -562,7 +562,7 @@ Dialogue: 4,0:12:56.38,0:13:01.13,Herotoo,,0,0,0,,{\fnSF Junk Culture\blur1\bord
 Dialogue: 3,0:12:56.38,0:13:01.13,Herotoo,,0,0,0,,{\fnSF Junk Culture\blur1\bord4\shad0\c&H2EBFC9&\3c&H2EBFC9&\fscx216.25\fscy231.25\fsp-2\move(579,509,579,115)}Shounen Jack
 Dialogue: 2,0:12:56.38,0:13:01.13,Herotoo,,0,0,0,,{\fnSF Junk Culture\blur1\bord6\shad0\c&H050609&\3c&H050609&\fscx216.25\fscy231.25\fsp-2\move(579,509,579,115)}Shounen Jack
 Dialogue: 1,0:12:56.38,0:13:01.13,Herotoo,,0,0,0,,{\fnSF Junk Culture\blur1\bord6\shad0\c&H050609&\3c&H050609&\fscx216.25\fscy231.25\fsp-2\move(581,514,581,120)}Shounen Jack
-Dialogue: 0,0:13:37.88,0:13:40.59,Textmsgslazyhugefax,,0,0,0,,{\an8\blur1\q2\fs20\fr14\3c&H88B4C2&\fscx100\fscy129\bord0\c&H192226&\frx6\fry2\pos(822,214)}All the works published in Weekly Shounen Jack are fiction. There is \Nabsolutely no relation to any actual persons, organizations or events. \N※Due to the author's sudden illness. Shady Detective Trap is on hiatus. \N※Due to the authors circumstances, {\i1}Crow, Kiyoshi Knight, Otters 11{\i0}\N\h\h and {\i1}Hideout Door{\i0} are on hiatus.
+Dialogue: 0,0:13:37.88,0:13:40.59,Textmsgslazyhugefax,,0,0,0,,{\an7\blur1\q2\fs20\fr14\3c&H88B4C2&\fscx100\fscy129\bord0\c&H192226&\frx6\fry2\pos(822,214)}All the works published in Weekly Shounen Jack are fiction. There is \Nabsolutely no relation to any actual persons, organizations or events. \N※Due to the author's sudden illness. Shady Detective Trap is on hiatus. \N※Due to the authors circumstances, {\i1}Crow, Kiyoshi Knight, Otters 11{\i0}\N\h\h and {\i1}Hideout Door{\i0} are on hiatus.
 Dialogue: 0,0:13:43.09,0:13:45.55,marker,,0,0,0,,{\blur0.8\fs40\fscx60\fscy60\frz4.316\c&H312B2B&\move(541,319,541,607)}Ekoda Realtor
 Dialogue: 0,0:16:06.32,0:16:06.40,Textmsgs,,0,0,0,,{\fax-0.4\blur1.2\fscy65\frz358.431\pos(966,233)\c&HFAEEE8&}Incoming call           {\blur1.2\c&HFFFEFD&}Miura Gorou
 Dialogue: 0,0:16:06.40,0:16:06.48,Textmsgs,,0,0,0,,{\fax-0.2\blur1.2\frz1.048\fscy75\pos(791,170)\c&HFAEEE8&}Incoming call           {\blur1.2\c&HFFFEFD&}Miura Gorou
@@ -590,8 +590,8 @@ Dialogue: 0,0:22:41.79,0:22:43.50,Textmsgs,,0,0,0,,{\fax0.09\c&HA3B875&\blur1\fs
 Dialogue: 0,0:22:45.21,0:22:48.01,Herotoo,,0,0,0,,{\blur0.8\fax0.15\frz13.166\fscx115\fscy115\bord0\b0\c&H52382F&\pos(769,59)}Mashiro Moritaka
 Dialogue: 0,0:22:45.21,0:22:48.01,Herotoo,,0,0,0,,{\blur0.8\fax0.15\bord0\b0\c&H503730&\fscx115\fscy115\frz15.205\pos(825,144)}Trap resumes!
 Dialogue: 0,0:22:45.21,0:22:48.01,Herotoo,,0,0,0,,{\an7\fs45\fsp-1\blur0.8\fax0.09\bord0\b0\c&H443025&\fry5\frz21\pos(479,586)}We start back up in issue 45 \Non Oct 3rd with our color spread!
-Dialogue: 1,0:15:13.64,0:15:17.35,Dates,,0,0,0,,{\blur0.8\fad(709,0)\pos(645,298)\c&HF1F4F3&\bord0}Monday, July 11th \N\N\N\N Jack Issue 33 Goes on Sale
-Dialogue: 0,0:15:13.64,0:15:17.35,Dates,,0,0,0,,{\blur0.8\fad(709,0)\pos(645,298)\c&H000000&}Monday, July 11th \N\N\N\N Jack Issue 33 Goes on Sale
+Dialogue: 1,0:15:13.68,0:15:17.39,Dates,,0,0,0,,{\blur0.8\fad(709,0)\pos(645,298)\c&HF1F4F3&\bord0}Monday, July 11th \N\N\N\N Jack Issue 33 Goes on Sale
+Dialogue: 0,0:15:13.68,0:15:17.39,Dates,,0,0,0,,{\blur0.8\fad(709,0)\pos(645,298)\c&H000000&}Monday, July 11th \N\N\N\N Jack Issue 33 Goes on Sale
 Dialogue: 0,0:11:44.64,0:11:47.85,Silence,,0,0,0,,{\\fax-0.48\fsp-1\fs53\blur0.8\bord0\shad0\fscx56\fscy56\frz23.792\fry4\move(526,826,526,420)\c&H6E8E69&}Yakusa Municipal Hospital
 Dialogue: 2,0:18:09.65,0:18:13.61,Herotoo,,0,0,0,,{\blur0.8\fax0.15\frx14\fry4\c&H39A9AC&\c&H43AFB1&\bord0\pos(937,553)}Niizuma Eiji
 Dialogue: 1,0:18:09.65,0:18:13.61,Herotoo,,0,0,0,,{\blur0.8\fax0.15\frx14\fry4\c&H28306B&\3c&H28306B&\bord2\pos(937,553)}Niizuma Eiji

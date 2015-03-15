@@ -21,9 +21,9 @@ Keyframes File: ep5_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 552
-Active Line: 573
-Video Position: 35063
+Scroll Position: 1271
+Active Line: 1289
+Video Position: 22353
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1323,7 +1323,7 @@ Dialogue: 1,0:06:09.76,0:06:11.93,Sunny,,0,0,0,,{\blur0.8\fsp-1\fax0.25\3c&H694E
 Dialogue: 0,0:06:09.76,0:06:11.93,Sunny,,0,0,0,,{\blur0.8\fsp-1\fax0.25\3c&H5B395F&\frz11.675\fscx30\fscy30\pos(661,176)\bord2\c&H5B3A5A&} Top 100 Famous Conversations
 Dialogue: 1,0:06:09.76,0:06:11.93,Sunny,,0,0,0,,{\blur0.8\fax0.25\3c&H5C3E5F&\bord0\frz11.675\fscx20\fscy20\pos(694,253)\c&HF1DBF4&}Study the conversations of the famous!
 Dialogue: 0,0:06:09.76,0:06:11.93,Sunny,,0,0,0,,{\blur0.8\fax0.25\3c&H5C3E5F&\bord2\frz11.675\fscx20\fscy20\pos(694,253)\c&H5C3E5F&}Study the conversations of the famous!
-Dialogue: 0,0:06:25.57,0:06:28.65,Ep Titles,,0,0,0,,{\an2\fnOdense\fsp-1\fscx50\fscy50\fad(709,0)\blur0.8\frz90\move(1027,322,1334,322)}If you atone for your sins,\N they will be forgiven.
+Dialogue: 0,0:06:25.57,0:06:28.86,Ep Titles,,0,0,0,,{\an2\fnOdense\fsp-1\fscx50\fscy50\fad(709,0)\blur0.8\frz90\move(1022,322,1349,322)}If you atone for your sins,\N they will be forgiven.
 Dialogue: 0,0:06:25.57,0:06:30.78,Ep Titles,,0,0,0,,{\an2\fnOdense\b1\fscx50\fscy50\fad(709,0)\blur0.8\frz90\move(437,295,955,295)}I'm going ahead with that assumption.
 Dialogue: 0,0:06:27.78,0:06:30.78,Ep Titles,,0,0,0,,{\an2\fnOdense\b1\fscx50\fscy50\fad(751,0)\blur0.8\frz90\move(160,517,458,517)}Is living fun?
 Dialogue: 2,0:06:33.45,0:06:37.16,Sunny,,0,0,0,,{\blur1\fax0.4\frz13.582\pos(496,271)\c&HE3E7E7&}Sunny Sunny Tale
@@ -1349,7 +1349,8 @@ Dialogue: 0,0:12:34.69,0:12:36.69,Silence,,0,0,0,,{\b0\fsp-1\blur0.8\bord0\shad0
 Dialogue: 0,0:12:34.69,0:12:36.69,Silence,,0,0,0,,{\b0\fsp-1\blur0.8\bord0\shad0\fscx115\fscy99\c&H6D6D6D&\frz355.38\pos(950,109)}Kiyoshi Knight
 Dialogue: 0,0:12:34.69,0:12:36.69,Silence,,0,0,0,,{\b0\fsp-1\blur0.8\bord0\shad0\fscx115\fscy99\pos(912,353)\frz353.908\c&H5F6060&}Shady Detective Trap
 Dialogue: 0,0:13:56.19,0:13:59.69,Textmsgslazy,,0,0,0,,{\an8\fs45\blur1\frz-10.3\fax-0.09\c&H91756D&\an4\frx2\fry358\move(631,622,631,547)}I have some unpaid work in the anime "Tomboy Ninja Squad". From about ten minutes in, I voice characters like the dango shop owner.
-Dialogue: 0,0:15:32.28,0:15:34.20,Huge,,0,0,0,,{\blur0.8\fscx95\fscy95\3c&H585D5B&\c&H585D5B&\frz90\bord1\pos(612,473)}Chapter 15
+Dialogue: 0,0:15:32.28,0:15:34.20,Huge,,0,0,0,,{\blur1\b1\fscx95\fscy95\3c&H585D5B&\c&H585D5B&\frz90\bord0\pos(612,473)}Chapter 15
+Dialogue: 0,0:15:32.28,0:15:34.20,Huge,,0,0,0,,{\blur1\b1\fscx95\fscy95\3c&H585D5B&\c&H585D5B&\frz90\bord0\pos(612,473)}Chapter 15
 Dialogue: 0,0:15:32.28,0:15:34.20,Huge,,0,0,0,,{\blur1.2\fscx68\fscy68\c&H484C4C&\frz93\pos(179,402)}Monday
 Dialogue: 0,0:15:32.28,0:15:34.20,Huge,,0,0,0,,{\blur0.8\fscx70\fscy70\c&H484C4C&\frz92\pos(301,376)}Tuesday
 Dialogue: 0,0:15:32.28,0:15:34.20,Huge,,0,0,0,,{\blur0.8\fs40\fscx72\fscy72\c&H484C4C&\frz92\pos(430,352)}Wednesday

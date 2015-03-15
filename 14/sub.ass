@@ -19,7 +19,9 @@ Keyframes File: ep14_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Video Position: 2674
+Scroll Position: 2264
+Active Line: 2280
+Video Position: 19922
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -84,17 +86,17 @@ Dialogue: 1,0:00:10.32,0:00:11.78,Ep Titles,,0,0,0,,{\an1\pos(358,325)\blur1\b0\
 Dialogue: 0,0:00:10.32,0:00:11.78,Ep Titles,,0,0,0,,{\an1\pos(358,325)\blur1\b0\fax0.45\fsp-2\fscx85\fscy85\bord2\frz21.558\c&H7A8499&\3c&H7A8499&\frx8\fry0}Green Graduation\N {\alpha&HFF&}_.{\alpha&H00&\fscx75\fscy75\bord1\c&HF4F4F0&\3c&HF4F4F0&}Akina Aiko
 Dialogue: 0,0:00:10.32,0:00:11.78,Herotoo,,0,0,0,,{\an1\pos(669,511)\fax0.55\blur1\b0\bord0\fscx60\fscy70\c&HD0CAC1&\frz26.377\frx0\fry358\clip(m 1098 298 l 1077 298 1049 303 1031 308 1000 307 599 500 673 560)}Pleiades Amateur                             Novel Contest Winner
 Dialogue: 0,0:00:11.78,0:00:14.78,HugeSR,,0,0,0,,{\fax-0.26\fsp-1\an1\blur1\bord0\b0\c&HBDBAB5&\frz342\3c&HFCFBF7&\pos(899,90)\t(2600,3000,\c&H0C0C0C&)}To Takagi Akito,
-Dialogue: 0,0:00:11.78,0:00:14.78,HugeSR,,0,0,0,,{\fax-0.3\fsp-1\an4\fs40\blur1\bord0\b0\c&HB6B3AE&\frz342\3c&HFCFBF7&\pos(611,3)\t(2600,3000,\c&H0C0C0C&)}This was so sudden and it'll be time to see you soon.
-Dialogue: 0,0:00:11.78,0:00:14.78,HugeSR,,0,0,0,,{\fax-0.3\fsp-1\an4\fs35\blur1\bord0\b0\c&HB7B4AF&\frz344\3c&HFCFBF7&\pos(831,232)\t(2600,3000,\c&H0C0C0C&)}Since I probably can't be honest
-Dialogue: 0,0:00:11.78,0:00:14.78,HugeSR,,0,0,0,,{\fax-0.3\fsp-1\an4\fs35\blur1\bord0\b0\c&HBDB9B4&\frz343\3c&HFCFBF7&\pos(789,319)\t(2600,3000,\c&H0C0C0C&)}when talking with you,
-Dialogue: 0,0:00:11.78,0:00:14.78,HugeSR,,0,0,0,,{\fax-0.3\fsp-1\an4\fs35\blur1\bord0\b0\c&HC3BFB9&\frz343\3c&HFCFBF7&\pos(884,398)\t(2600,3000,\c&H0C0C0C&)}I slipped in this letter.
-Dialogue: 0,0:00:11.78,0:00:14.78,HugeSR,,0,0,0,,{\fax-0.3\fsp-1\an4\fs35\blur1\bord0\b0\c&HBCB8B3&\frz342\3c&HFCFBF7&\pos(827,427)\t(2600,3000,\c&H0C0C0C&)}I'm very happy I was able
-Dialogue: 0,0:00:11.78,0:00:14.78,HugeSR,,0,0,0,,{\fax-0.3\fsp-1\an4\fs35\blur1\bord0\b0\c&HC2BEB9&\frz342\3c&HFCFBF7&\pos(830,476)\t(2600,3000,\c&H0C0C0C&)}to see you, Takagi.
-Dialogue: 0,0:00:11.78,0:00:14.78,HugeSR,,0,0,0,,{\fax-0.3\fsp-1\fscx90\an4\fs35\blur1\bord0\b0\c&HBFBCB7&\frz341\3c&HFCFBF7&\pos(792,510)\t(2600,3000,\c&H0C0C0C&)}These are my true feelings.
-Dialogue: 0,0:00:11.78,0:00:14.78,HugeSR,,0,0,0,,{\fax-0.3\fsp-1\an4\fs35\blur1\bord0\b0\c&HB2AEAA&\frz340\3c&HFCFBF7&\pos(285,374)\t(2600,3000,\c&H0C0C0C&)}I want us to encourage each other. That's what I've always, always wanted.
-Dialogue: 0,0:00:11.78,0:00:14.78,HugeSR,,0,0,0,,{\fax-0.3\fsp-1\an4\fs35\blur1\bord0\b0\c&HBDB9B4&\frz339\3c&HFCFBF7&\pos(245,403)\t(2600,3000,\c&H0C0C0C&)}I'm looking forward to meeting
-Dialogue: 0,0:00:11.78,0:00:14.78,HugeSR,,0,0,0,,{\fax-0.3\fsp-1\an4\fs35\blur1\bord0\b0\c&HBDBAB5&\frz339.5\3c&HFCFBF7&\pos(215,435)\t(2600,3000,\c&H0C0C0C&)}you at the zoo. I'm praying for a wonderful date.
-Dialogue: 0,0:00:11.78,0:00:14.78,HugeSR,,0,0,0,,{\fax-0.3\fsp-1\an4\fs35\blur1\bord0\b0\c&HBDBAB5&\frz339.5\3c&HFCFBF7&\pos(369,538)\t(2600,3000,\c&H0C0C0C&)}Iwase Aiko
+Dialogue: 0,0:00:11.78,0:00:14.78,HugeSR,,0,0,0,,{\fax-0.3\fsp-1\an7\fs40\blur1\bord0\b0\c&HB6B3AE&\frz342\3c&HFCFBF7&\pos(611,3)\t(2600,3000,\c&H0C0C0C&)}This was so sudden and it'll be time to see you soon.
+Dialogue: 0,0:00:11.78,0:00:14.78,HugeSR,,0,0,0,,{\fax-0.3\fsp-1\an7\fs35\blur1\bord0\b0\c&HB7B4AF&\frz344\3c&HFCFBF7&\pos(831,232)\t(2600,3000,\c&H0C0C0C&)}Since I probably can't be honest
+Dialogue: 0,0:00:11.78,0:00:14.78,HugeSR,,0,0,0,,{\fax-0.3\fsp-1\an7\fs35\blur1\bord0\b0\c&HBDB9B4&\frz343\3c&HFCFBF7&\pos(789,319)\t(2600,3000,\c&H0C0C0C&)}when talking with you,
+Dialogue: 0,0:00:11.78,0:00:14.78,HugeSR,,0,0,0,,{\fax-0.3\fsp-1\an7\fs35\blur1\bord0\b0\c&HC3BFB9&\frz343\3c&HFCFBF7&\pos(884,398)\t(2600,3000,\c&H0C0C0C&)}I slipped in this letter.
+Dialogue: 0,0:00:11.78,0:00:14.78,HugeSR,,0,0,0,,{\fax-0.3\fsp-1\an7\fs35\blur1\bord0\b0\c&HBCB8B3&\frz342\3c&HFCFBF7&\pos(827,427)\t(2600,3000,\c&H0C0C0C&)}I'm very happy I was able
+Dialogue: 0,0:00:11.78,0:00:14.78,HugeSR,,0,0,0,,{\fax-0.3\fsp-1\an7\fs35\blur1\bord0\b0\c&HC2BEB9&\frz342\3c&HFCFBF7&\pos(830,476)\t(2600,3000,\c&H0C0C0C&)}to see you, Takagi.
+Dialogue: 0,0:00:11.78,0:00:14.78,HugeSR,,0,0,0,,{\fax-0.3\fsp-1\fscx90\an7\fs35\blur1\bord0\b0\c&HBFBCB7&\frz341\3c&HFCFBF7&\pos(792,510)\t(2600,3000,\c&H0C0C0C&)}These are my true feelings.
+Dialogue: 0,0:00:11.78,0:00:14.78,HugeSR,,0,0,0,,{\fax-0.3\fsp-1\an7\fs35\blur1\bord0\b0\c&HB2AEAA&\frz340\3c&HFCFBF7&\pos(285,374)\t(2600,3000,\c&H0C0C0C&)}I want us to encourage each other. That's what I've always, always wanted.
+Dialogue: 0,0:00:11.78,0:00:14.78,HugeSR,,0,0,0,,{\fax-0.3\fsp-1\an7\fs35\blur1\bord0\b0\c&HBDB9B4&\frz339\3c&HFCFBF7&\pos(245,403)\t(2600,3000,\c&H0C0C0C&)}I'm looking forward to meeting
+Dialogue: 0,0:00:11.78,0:00:14.78,HugeSR,,0,0,0,,{\fax-0.3\fsp-1\an7\fs35\blur1\bord0\b0\c&HBDBAB5&\frz339.5\3c&HFCFBF7&\pos(215,435)\t(2600,3000,\c&H0C0C0C&)}you at the zoo. I'm praying for a wonderful date.
+Dialogue: 0,0:00:11.78,0:00:14.78,HugeSR,,0,0,0,,{\fax-0.3\fsp-1\an7\fs35\blur1\bord0\b0\c&HBDBAB5&\frz339.5\3c&HFCFBF7&\pos(369,538)\t(2600,3000,\c&H0C0C0C&)}Iwase Aiko
 Dialogue: 0,0:20:51.27,0:20:51.39,Textmsgs,,0,0,0,,{\pos(914,690)\fax0.1\fs40\blur0.8\fscx46\fscy46\frx352\fry9\c&HEBE1E0&\frz19.382}Connected           Azuki Miho
 Dialogue: 0,0:20:51.39,0:20:51.52,Textmsgs,,0,0,0,,{\pos(779,524)\fax0.1\fs40\blur0.8\fscx43\fscy43\frx352\fry9\c&HEBE1E0&\frz18.022}Connected           Azuki Miho
 Dialogue: 0,0:20:51.52,0:20:51.64,Textmsgs,,0,0,0,,{\pos(713,440)\fax0.1\fs40\blur0.8\fscx42\fscy42\frx352\fry9\c&HEBE1E0&\frz16.91}Connected           Azuki Miho
@@ -127,7 +129,7 @@ Dialogue: 0,0:07:10.40,0:07:10.53,Textmsgs,,0,0,0,,{\fax0\blur0.8\fscx42\fscy36.
 Dialogue: 0,0:07:10.53,0:07:10.57,Textmsgs,,0,0,0,,{\fax-0.3\blur0.8\fscx48\fscy22\frz89.871\frx328\fry0\c&HFDFDFD&\pos(570,327)}Takagi Akito
 Dialogue: 0,0:06:22.73,0:06:24.57,Huge,,0,0,0,,{\blur1\fs110\fscx145\fscy145\c&H242723&\1a&H3F&\pos(1067,466)}Aoki
 Dialogue: 0,0:04:58.48,0:05:03.49,Huge,,0,0,0,,{\pos(1137,472)\fax0.2\blur1\b0\fscx65\fscy65\frx8\fry22\frz225.021\c&H88878B&}Zero-G Backpack
-Dialogue: 0,0:04:23.95,0:04:24.45,yu,,0,0,0,,{\pos(1060,337)\fsp3\blur1.5\b0\bord0\shad0\c&H74726B&\frz270\fscx130\fscy110}Mebasqueet
+Dialogue: 0,0:04:23.91,0:04:24.45,yu,,0,0,0,,{\pos(1060,337)\fsp3\blur1.5\b0\bord0\shad0\c&H74726B&\frz270\fscx130\fscy110}Mebasqueet
 Dialogue: 0,0:04:24.45,0:04:24.53,yu,,0,0,0,,{\pos(998,411)\fsp3\blur1.5\b0\bord0\shad0\c&H74726B&\fscx115\fscy95\frz273.543}Mebasqueet
 Dialogue: 0,0:04:24.53,0:04:24.61,yu,,0,0,0,,{\pos(891,448)\fsp3\blur1.5\b0\bord0\shad0\fscx85\fscy65\frz278.744\c&H62605B&}Mebasqueet
 Dialogue: 0,0:04:24.61,0:04:24.70,yu,,0,0,0,,{\pos(808,463)\fsp3\blur1\b0\bord0\shad0\fscx60\fscy40\frz284.547\c&H565450&}Mebasqueet
@@ -2353,8 +2355,8 @@ Dialogue: 0,0:13:24.36,0:13:24.40,BoxBoxBox,,0,0,0,,{\an1\pos(1271.87,613.77)\bo
 Dialogue: 0,0:13:24.40,0:13:24.45,BoxBoxBox,,0,0,0,,{\an1\pos(1276.55,613.77)\bord0\blur1\fs50\c&H182230&\b1\3c&H192438&\fscx92\fscy90}Let's not meet\N until our dreams \Nare granted!
 Dialogue: 0,0:13:24.45,0:13:24.49,BoxBoxBox,,0,0,0,,{\an1\pos(1282.55,613.77)\bord0\blur1\fs50\c&H182230&\b1\3c&H192438&\fscx92\fscy90}Let's not meet\N until our dreams \Nare granted!
 Dialogue: 0,0:13:24.19,0:13:26.03,BoxBoxBox,,0,0,0,,{\an3\fad(0,893)\move(4,634,234,634,29,1823)\bord0\blur1\fs50\c&H1C2536&\b1\3c&H192438&\fscx92\fscy90TS 13:22}Okay
-Dialogue: 0,0:13:25.11,0:13:28.91,BoxBoxBox,,0,0,0,,{\an8\pos(216,639)\fad(893,0)\fs39\t(0,3781,\fs36)\move(216,639,232,631,27,3781)\bord0\blur1\c&H040B1E&\b1\3c&H192438&\fscx92\fscy90TS 13:22}Let's encourage each \Nother through email until then.
-Dialogue: 0,0:13:50.10,0:13:52.43,BoxBoxBox,,0,0,0,,{\an8\pos(343.066,395.333)\fs60\c&H051524&\bord0\blur1\b1\3c&H192438&\fscx92\fscy90TS 13:22}When that\N dream is granted,\N marry me!
+Dialogue: 0,0:13:25.11,0:13:28.91,BoxBoxBox,,0,0,0,,{\an8\fad(893,0)\fs39\t(0,3781,\fs36)\bord0\blur1\c&H11141D&\b1\3c&H192438&\fscx92\fscy90\move(216,639,238,621,27,3781)}Let's encourage each other \Nthrough email until then.
+Dialogue: 0,0:13:50.10,0:13:52.43,BoxBoxBox,,0,0,0,,{\an8\pos(343.066,395.333)\fs55\c&H051524&\bord0\blur1\b1\3c&H192438&\fscx92\fscy90TS 13:22}When that\N dream is granted,\N marry me!
 Dialogue: 0,0:14:02.98,0:14:03.03,BoxBoxBox,,0,0,0,,{\an8\pos(832.3,783.36)\fscx128.74\fscy125.94\fs50\c&H162236&\frz269.8\b0\blur1\b0\3c&H192438&TS 13:22}Ew{\fax-0.1}!!{\b0}
 Dialogue: 0,0:14:03.03,0:14:03.07,BoxBoxBox,,0,0,0,,{\an8\pos(804.9,700.33)\fscx108.75\fscy106.39\fs50\c&H162236&\frz269.8\b0\blur1\b0\3c&H192438&TS 13:22}Ew{\fax-0.1}!!{\b0}
 Dialogue: 0,0:14:03.07,0:14:03.11,BoxBoxBox,,0,0,0,,{\an8\pos(793.42,661.62)\fscx100.87\fscy98.67\fs50\c&H162236&\frz269.8\b0\blur1\b0\3c&H192438&TS 13:22}Ew{\fax-0.1}!!{\b0}

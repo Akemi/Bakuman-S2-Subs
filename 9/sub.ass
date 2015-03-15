@@ -19,9 +19,9 @@ Keyframes File: ep9_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 45
-Active Line: 55
-Video Position: 35244
+Scroll Position: 483
+Active Line: 507
+Video Position: 10339
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -61,10 +61,11 @@ Style: lul,blemished,44,&H00000000,&H000000FF,&H1E5A391A,&H00000000,-1,0,0,0,100
 Style: NewBox,Odense,25,&H003A3E42,&H000000FF,&H00A7B0B7,&H00000000,-1,0,0,0,100,90,0,0,3,1,0,2,20,20,15,1
 Style: NewBoxtoo,Odense,39,&H003A3E42,&H000000FF,&H00A7B0B7,&H00000000,-1,0,0,0,100,90,0,0,3,1,0,2,20,20,15,1
 Style: Caw,PALACE,45,&H00DCDCDC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,20,20,25,1
-Style: Caw English,PALACE,45,&H00E7E8E5,&H000000FF,&H000D0D0B,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,20,20,25,1
+Style: Caw-Eng,PALACE,45,&H00E7E8E5,&H000000FF,&H000D0D0B,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,25,1
 Style: Signs,SF Junk Culture,48,&H00FFFFFF,&H000000FF,&H00272422,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,90,90,45,1
 Style: NewBoxtoo2,Odense,39,&H003A3E42,&H000000FF,&H00A7B0B7,&H00000000,-1,0,0,0,100,90,0,0,1,1,0,2,20,20,15,1
 Style: Sings2,PT Sans,60,&H00E8E8E8,&H000000FF,&H002B2A27,&HAF000000,-1,0,0,0,100,100,0,0,1,2.3,0,2,80,80,40,1
+Style: Caw-Jap,PALACE,45,&H00E7E8E5,&H000000FF,&H000D0D0B,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,20,20,25,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -131,10 +132,11 @@ Dialogue: 1,0:05:36.19,0:05:38.19,AssistToo,,0,0,0,,{\fsp-1\blur0.9\c&H74D1BC&\3
 Dialogue: 2,0:05:36.19,0:05:38.19,Herotoo,,0,0,0,,{\fsp-1\blur0.8\bord0\c&H4B7BE4&\fscx43.75\fscy46.25\pos(527,304)}Yen
 Dialogue: 1,0:05:36.19,0:05:38.19,Herotoo,,0,0,0,,{\fsp-1\blur0.8\3c&HD2FFFF&\bord1.5\c&HD2FFFF&\fscx43.75\fscy46.25\pos(527,304)}Yen
 Dialogue: 0,0:05:36.19,0:05:38.19,Herotoo,,0,0,0,,{\fsp-1\blur1\3c&HCAF3EF&\bord0\fscx43.75\fscy46.25\c&H5585D4&\pos(407,317)}All
-Dialogue: 4,0:05:38.19,0:05:41.27,Signs,,0,0,0,,{\fax-0.45\blur0.8\fs43\frz345.201\fscx85\fscy85\c&H655CBD&\3c&H6A62BF&\bord0\frx14\fry6\pos(828,280)}Shounen Week
-Dialogue: 3,0:05:38.19,0:05:41.27,Signs,,0,0,0,,{\fax-0.45\blur0.8\fs43\frz345.201\fscx85\fscy85\c&H43465D&\3c&H43465D&\bord1.5\frx14\fry6\pos(828,280)}Shounen Week
-Dialogue: 2,0:05:38.19,0:05:41.27,Signs,,0,0,0,,{\fax-0.45\blur0.8\fs43\frz345.201\fscx85\fscy85\c&HDBE3EE&\3c&HDBE3EE&\bord3\frx14\fry6\pos(828,280)}Shounen Week
-Dialogue: 1,0:05:38.19,0:05:41.27,Signs,,0,0,0,,{\fax-0.45\blur0.8\fs43\frz345.201\fscx85\fscy85\c&H43465D&\3c&H43465D&\bord5.5\frx14\fry6\pos(828,280)}Shounen Week
+Dialogue: 5,0:05:38.19,0:05:41.27,Signs,,0,0,0,,{\fax-0.45\blur0.8\fs43\frz345.201\fscx85\fscy85\c&H655CBD&\3c&H6A62BF&\bord0\frx14\fry6\pos(828,280)}Shounen Week
+Dialogue: 4,0:05:38.19,0:05:41.27,Signs,,0,0,0,,{\fax-0.45\blur0.8\fs43\frz345.201\fscx85\fscy85\c&H43465D&\3c&H43465D&\bord1.5\frx14\fry6\pos(828,280)}Shounen Week
+Dialogue: 3,0:05:38.19,0:05:41.27,Signs,,0,0,0,,{\fax-0.45\blur0.8\fs43\frz345.201\fscx85\fscy85\c&HDBE3EE&\3c&HDBE3EE&\bord3\frx14\fry6\pos(828,280)}Shounen Week
+Dialogue: 2,0:05:38.19,0:05:41.27,Signs,,0,0,0,,{\fax-0.45\blur0.8\fs43\frz345.201\fscx85\fscy85\c&H43465D&\3c&H43465D&\bord5.5\frx14\fry6\pos(828,280)}Shounen Week
+Dialogue: 1,0:05:38.19,0:05:41.27,Signs,,0,0,0,,{\fax-0.45\blur1.2\fs43\frz345.201\fscx85\fscy85\c&H979EAB&\3c&H979EAB&\bord5.5\frx14\fry6\pos(828,281)}Shounen Week
 Dialogue: 0,0:05:38.19,0:05:41.27,NewBox,,0,0,0,,{\fs46\fscx103\fax-0.45\blur0.8\c&H3E444D&\frz345.201\pos(537,404)\3c&HACB3BB&}Detective
 Dialogue: 0,0:05:38.19,0:05:41.27,NewBoxtoo,,0,0,0,,{\fax-0.425\fscy94\fs40\blur0.8\frz344.961\c&H454B50&\3c&HB6BCC5&\pos(639,471)}Akechi
 Dialogue: 2,0:05:38.19,0:05:41.27,NewBoxtoo,,0,0,0,,{\fax-0.425\fscy94\fs40\bord0\blur0.8\frz344.961\c&H434A4F&\3c&H3D434B&\pos(721,493)\3a&H39&}\hGo\h
@@ -332,7 +334,8 @@ Dialogue: 0,0:17:21.60,0:17:26.06,Sings2,,0,0,0,,{\blur0.6\fad(208,209)\c&H12131
 Dialogue: 0,0:18:57.74,0:19:00.82,lul,,0,0,0,,{\fax-0.09\bord0\blur1.2\c&H595759&\frz7.406\pos(605,334)}Nakai
 Dialogue: 0,0:20:17.48,0:20:19.28,Textmsgs,,0,0,0,,{\fsp-2\fs35\fax-0.24\blur1\frx2\fry0\frz14.408\c&H3590E5&\fscx92.5\fscy86.25\pos(300,291)}Family Restaurant
 Dialogue: 0,0:20:17.48,0:20:19.28,Textmsgs,,0,0,0,,{\fsp-2\fax-0.2\blur1\frx2\fry0\frz10.397\fscx71.25\fscy85\c&H236AB3&\pos(236,446)}Open 24 Hours
-Dialogue: 0,0:21:25.68,0:21:30.64,Huge,,0,0,0,,{\fad(0,918)\blur0.8\fscx100\fscy100\c&H323330&\3c&H323330&\bord0\frz90.158\move(586,532,586,334)}Final Chapter Manuscript UP
+Dialogue: 1,0:21:25.68,0:21:30.60,Huge,,0,0,0,,{\fad(0,918)\blur1\fscx100\fscy100\c&H343532&\3c&H323330&\bord0\frz90.158\move(586,532,586,334)}Final Chapter Manuscript UP
+Dialogue: 0,0:21:25.68,0:21:30.60,Huge,,0,0,0,,{\fad(0,918)\blur1\fscx100\fscy100\c&H323330&\3c&H323330&\bord0\frz90.158\move(586,532,586,334)}Final Chapter Manuscript UP
 Comment: 0,0:22:21.11,0:22:26.36,Textmsgslazy,,0,0,0,,{\an7\blur1\fs30\fad(205,205)\c&H5C3F34&}[From] Azuki Miho\N[Sub] Re: Unfortunately... \N Hello... \N On graduation day I said... \N "I'll wait forever" \N But I want to get married by 40!! \N Of course, to you.
 Dialogue: 0,0:22:21.11,0:22:21.19,Textmsgslazy,,0,0,0,,{\an7\blur1\fs20\c&H412B22&\pos(610,406)}Hello... \NOn graduation day I said...  \N"I'll wait forever" But I want to get \Nmarried by 40!! Of course, to you.
 Dialogue: 0,0:22:21.19,0:22:21.27,Textmsgslazy,,0,0,0,,{\an7\blur1\fs20\c&H412B22&\pos(610,408)}Hello... \NOn graduation day I said...  \N"I'll wait forever" But I want to get \Nmarried by 40!! Of course, to you.
@@ -449,12 +452,17 @@ Dialogue: 0,0:22:26.19,0:22:26.24,Textmsgslazy,,0,0,0,,{\an7\blur1\fs20\c&H412B2
 Dialogue: 0,0:22:26.24,0:22:26.28,Textmsgslazy,,0,0,0,,{\an7\blur1\fs20\c&H412B22&\pos(619,191)}Hello... \NOn graduation day I said...  \N"I'll wait forever" But I want to get \Nmarried by 40!! Of course, to you.
 Dialogue: 0,0:22:26.28,0:22:26.32,Textmsgslazy,,0,0,0,,{\an7\blur1\fs20\c&H412B22&\pos(621,195)}Hello... \NOn graduation day I said...  \N"I'll wait forever" But I want to get \Nmarried by 40!! Of course, to you.
 Dialogue: 0,0:22:26.32,0:22:26.36,Textmsgslazy,,0,0,0,,{\an7\blur1\fs20\c&H412B22&\pos(616,197)}Hello... \NOn graduation day I said...  \N"I'll wait forever" But I want to get \Nmarried by 40!! Of course, to you.
-Dialogue: 0,0:06:34.45,0:06:39.54,Caw English,,0,0,0,,The night is painting the town pitch black
-Dialogue: 0,0:06:40.29,0:06:45.80,Caw English,,0,0,0,,Where light falls asleep, this is Holy World!
-Dialogue: 0,0:06:45.80,0:06:51.43,Caw English,,0,0,0,,If you can't stand watching, then just close your eyes
-Dialogue: 0,0:06:51.43,0:06:57.27,Caw English,,0,0,0,,If you can't stand this place, then just fly away
-Dialogue: 0,0:06:57.68,0:07:03.19,Caw English,,0,0,0,,Not into someone else's sky
-Dialogue: 0,0:07:03.61,0:07:07.65,Caw English,,0,0,0,,But into the sky your heart points to
+Dialogue: 0,0:06:34.45,0:06:39.54,Caw-Eng,,0,0,0,,The night is painting the town pitch black
+Dialogue: 0,0:06:40.29,0:06:45.80,Caw-Eng,,0,0,0,,Where light falls asleep, this is Holy World!
+Dialogue: 0,0:06:45.80,0:06:51.43,Caw-Eng,,0,0,0,,If you can't stand watching, then just close your eyes
+Dialogue: 0,0:06:51.43,0:06:57.27,Caw-Eng,,0,0,0,,If you can't stand this place, then just fly away
+Dialogue: 0,0:06:57.68,0:07:03.19,Caw-Eng,,0,0,0,,Not into someone else's sky
+Dialogue: 0,0:06:34.45,0:06:39.54,Caw-Jap,,0,0,0,,fukaku iro ga kieru made nuri tsubusareta yoru to
+Dialogue: 0,0:06:40.29,0:06:45.80,Caw-Jap,,0,0,0,,hikari ga nemuri nitsuita koko ha holy world
+Dialogue: 0,0:06:45.80,0:06:51.43,Caw-Jap,,0,0,0,,me wo kora sezu ni iru nara me wo tojitereba ii sa
+Dialogue: 0,0:06:51.43,0:06:57.27,Caw-Jap,,0,0,0,,koko ga ki ni iranai nara, ima sugu ni tobi tateba ii dake
+Dialogue: 0,0:06:57.68,0:07:03.19,Caw-Jap,,0,0,0,,{\an8}Dareka no sora de wa naku
+Comment: 0,0:07:03.61,0:07:07.65,Caw-Eng,,0,0,0,,{\an8}But into the sky your heart points to
 Dialogue: 10,0:00:04.23,0:00:06.23,Default,,0,0,0,,Congratulations on the discharge.
 Dialogue: 10,0:00:06.23,0:00:08.07,Default,,0,0,0,,Congratulations!
 Dialogue: 10,0:00:08.07,0:00:12.24,Default,,0,0,0,,Th-Thank you. Sorry for making you all worry.
@@ -567,8 +575,8 @@ Dialogue: 10,0:06:16.64,0:06:19.52,Default,,0,0,0,,By the way, doesn't that {\i1
 Dialogue: 10,0:06:58.81,0:07:01.90,Default,,0,0,0,,Ohh! It's so nice seeing manga move.
 Dialogue: 10,0:07:01.90,0:07:03.19,Default,,0,0,0,,That's what anime is all about.
 Dialogue: 10,0:07:03.77,0:07:06.65,Default-Alt,,0,0,0,,Man, they really put effort into the opening song{OP}.
-Dialogue: 10,0:07:04.98,0:07:10.32,Default,,0,0,0,,Now {\i1}Crow{\i0} will really take off and sell over a million prints per volume.
-Dialogue: 10,0:07:11.20,0:07:14.83,Default,,0,0,0,,One day, we'll make an anime for {\i1}Trap{\i0}, too!
+Dialogue: 10,0:07:04.98,0:07:10.32,Default-Italic,,0,0,0,,Now {\i0}Crow{\i1} will really take off and sell over a million prints per volume.
+Dialogue: 10,0:07:11.20,0:07:14.83,Default-Italic,,0,0,0,,One day, we'll make an anime for {\i0}Trap{\i1}, too!
 Dialogue: 10,0:07:16.29,0:07:17.79,Default,,0,0,0,,Don't get so depressed.
 Dialogue: 10,0:07:18.25,0:07:21.79,Default,,0,0,0,,The most votes would obviously go to {\i1}Cheater{\i0}, the new series.
 Dialogue: 10,0:07:21.79,0:07:27.30,Default,,0,0,0,,But going from 4th in chapter 20 to 12th in chapter 21 is too big of a drop...

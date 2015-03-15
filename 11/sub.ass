@@ -19,9 +19,9 @@ Keyframes File: ep11_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 38
-Active Line: 55
-Video Position: 35244
+Scroll Position: 5460
+Active Line: 5485
+Video Position: 127
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -670,7 +670,10 @@ Dialogue: 0,0:09:44.60,0:09:46.69,signs2,,0,0,0,,{\blur0.6\fad(208,0)\fscx150\fs
 Dialogue: 0,0:12:25.18,0:12:26.80,signs2,,0,0,0,,{\fnEstrangelo Edessa\fs40\fsp-1\c&HFCF3C6&\blur1\bord0\frz115.808\pos(435,163)\fscx90\fscy90}Receiving Call
 Dialogue: 0,0:12:25.18,0:12:26.80,signs2,,0,0,0,,{\fnEstrangelo Edessa\fs40\fsp-1\blur1\bord0\frz116.04\fscx90\fscy90\c&HFAF3D1&\pos(547,75)}Takahama Sho
 Dialogue: 0,0:16:22.87,0:16:29.84,signs2,,0,0,0,,{\fnSegoe Print\an8\fs50\bord0\blur0.9\fscx31.25\fscy40\move(240,462,325.65,462)\c&H121529&}Takahama
-Dialogue: 0,0:07:58.87,0:08:03.33,Textmsgslazy,,0,0,0,,{\blur1\bord0\fs20\frz4.6\fax-0.07\fscx75\an8\c&H12AAF6&\move(976,545,788,545,0,4446)}New Members \N{\c&H25FCFC&}Anime & Manga Research Society \N{\c&H6F55DF&}Exhibit of Original Works \N{\c&HFEE36A&}Mecha Also Welcome
+Dialogue: 4,0:07:58.87,0:08:03.33,Textmsgslazy,,0,0,0,,{\blur0.9\bord0\fs20\frz4.6\fax-0.07\fscx72\fscy90\an8\c&H12AAF6&\move(977,545,789,545)}New Members \N{\c&H25FCFC&}Anime & Manga Research Society \N{\c&H6F55DF&}Exhibit of Original Works \N{\c&HFEE36A&}Mecha Also Welcome
+Dialogue: 3,0:07:58.87,0:08:03.33,Textmsgslazy,,0,0,0,,{\blur1\an8\c&HFF8D8C&\p1\move(298,34,110,34)}m 705 596 b 678 540 902 510 880 589 869 642 709 643 705 595
+Dialogue: 2,0:07:58.87,0:08:03.33,Textmsgslazy,,0,0,0,,{\blur1.2\an8\bord1\c&H8C5A4D&\p1\move(298,34,110,34)\3c&H8C5A4D&}m 705 596 b 678 540 902 510 880 589 869 642 709 643 705 595
+Dialogue: 1,0:07:58.87,0:08:03.33,Textmsgslazy,,0,0,0,,{\blur1\an8\c&H000000&\p1\move(300,36,112,36)\1a&HB4&}m 705 596 b 678 540 902 510 880 589 869 642 709 643 705 595
 Dialogue: 0,0:08:55.05,0:08:59.81,Ep Titles,,0,0,0,,{\fax0.6\an2\fsp-3\blur1\fscx32\fscy32\c&H243330&\frz356.296\move(878,431,746,231)}Hey hey, do you want\N to go eat some ramen?
 Dialogue: 1,0:08:55.05,0:08:59.81,Ep Titles,,0,0,0,,{\fsp-3\an2\blur1\fscx32\fscy32\frz115.723\move(902,627,770,429)\c&H1A2A29&}I'd rather go for some\N soba noodles...
 Dialogue: 6,0:18:48.89,0:18:51.40,signs2,,0,0,0,,{\fax0.7\fnSF Junk Culture\fs50\c&H8A7DC0&\3c&HE7E7E7&\blur0.8\bord0\frz24.142\frx24\fry350\move(463,292,611,292)}Shounen {\c&H71C9CB&}Jack
