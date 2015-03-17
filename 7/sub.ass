@@ -175,7 +175,7 @@ Dialogue: 10,0:07:08.82,0:07:11.57,Default,,0,0,0,,You'd dry it up, of course.
 Dialogue: 10,0:07:11.57,0:07:14.53,Default,,0,0,0,,Even Niizuma won't pick up my calls anymore.
 Dialogue: 10,0:07:14.53,0:07:19.29,Default,,0,0,0,,Anyways, I've barged into Ashirogi's before, and they took care of me.
 Dialogue: 10,0:07:19.29,0:07:20.83,Default,,0,0,0,,It's only proper that I go visit them.
-Dialogue: 10,0:07:20.83,0:07:23.67,Default,,0,0,0,,A manga author isn't a real member of society.
+Dialogue: 10,0:07:20.83,0:07:23.67,Default,,0,0,0,,A mangaka isn't a real member of society.
 Dialogue: 10,0:07:24.42,0:07:25.80,Default,,0,0,0,,So cruel!
 Dialogue: 10,0:07:25.80,0:07:27.92,Default,,0,0,0,,I'm not a member of society anymore?
 Dialogue: 10,0:07:27.92,0:07:29.80,Default,,0,0,0,,I'm already a caged bird.
@@ -227,7 +227,7 @@ Dialogue: 10,0:09:26.71,0:09:29.88,Default,,0,0,0,,H-He's still drawing even tho
 Dialogue: 10,0:09:29.88,0:09:32.13,Default,,0,0,0,,And his girlfriend is cute!
 Dialogue: 10,0:09:32.92,0:09:37.13,Default,,0,0,0,,It's kind of tough to work in here, and it's a bit cramped, but I can't allow a break in our serialization.
 Dialogue: 10,0:09:37.84,0:09:39.47,Default,,0,0,0,,Look well.
-Dialogue: 10,0:09:39.47,0:09:42.22,Default,,0,0,0,,Isn't he the model manga author?
+Dialogue: 10,0:09:39.47,0:09:42.22,Default,,0,0,0,,Isn't he the model mangaka?
 Dialogue: 10,0:09:42.22,0:09:43.18,Default,,0,0,0,,Yes...
 Dialogue: 10,0:09:44.02,0:09:47.90,Default,,0,0,0,,Are you drawn to this kind of lifestyle, Miss Girlfriend?
 Dialogue: 10,0:09:47.90,0:09:50.02,Default,,0,0,0,,Um, yes.
@@ -249,7 +249,7 @@ Dialogue: 10,0:10:21.55,0:10:21.93,Default,,0,0,0,,Hey!
 Dialogue: 10,0:10:21.93,0:10:24.56,Default,,0,0,0,,You're not even really reading Jack, are you?
 Dialogue: 10,0:10:25.31,0:10:30.23,Default,,0,0,0,,Seriously though, seeing you work while hospitalized has given me a better opinion of you, Mashiro.
 Dialogue: 10,0:10:30.65,0:10:32.44,Default,,0,0,0,,I won't lose to you all.
-Dialogue: 10,0:10:32.44,0:10:35.19,Default,,0,0,0,,We were just talking about him being a model manga author.
+Dialogue: 10,0:10:32.44,0:10:35.19,Default,,0,0,0,,We were just talking about him being a model mangaka.
 Dialogue: 10,0:10:36.11,0:10:40.53,Default,,0,0,0,,I laughed at the "Wanted: Hiramaru" fax from Yoshida.
 Dialogue: 10,0:10:40.53,0:10:42.62,Default,,0,0,0,,Why are {\i1}you{\i0} laughing?
 Dialogue: 10,0:10:42.62,0:10:46.29,Default,,0,0,0,,Well, I'm glad that you're lively enough to draw the manuscript.
@@ -290,7 +290,7 @@ Dialogue: 10,0:12:43.15,0:12:44.45,Default,,0,0,0,,Died?
 Dialogue: 10,0:12:44.95,0:12:48.12,Default,,0,0,0,,There was someone I knew who worked too hard on manga and died.
 Dialogue: 10,0:12:49.91,0:12:53.62,Default,,0,0,0,,The person he told me about, that was his...?
 Dialogue: 10,0:12:54.12,0:12:57.38,Default,,0,0,0,,Kawaguchi Tarou was Mashiro's uncle on his father's side.
-Dialogue: 10,0:12:58.13,0:13:02.09,Default,,0,0,0,,His death is firmly linked to his occupation as a manga author.
+Dialogue: 10,0:12:58.13,0:13:02.09,Default,,0,0,0,,His death is firmly linked to his occupation as a mangaka.
 Dialogue: 10,0:13:02.09,0:13:06.22,Default,,0,0,0,,It wouldn't be a stretch to say that he was a victim of manga.
 Dialogue: 10,0:13:07.68,0:13:12.85,Default,,0,0,0,,Your mother is worried and wants you to stop drawing manga entirely.
 Dialogue: 10,0:13:13.31,0:13:14.10,Default,,0,0,0,,Of course she does.
@@ -532,7 +532,7 @@ Dialogue: 0,0:23:10.49,0:23:14.99,Lyrics-Jap-ED,,0,0,0,,Baby I trust you my frie
 Dialogue: 0,0:23:14.99,0:23:18.96,Lyrics-Jap-ED,,0,0,0,,zetsubou ni fushita kokoro no sumi
 Dialogue: 0,0:23:18.96,0:23:22.67,Lyrics-Jap-ED,,0,0,0,,orikasanaru mujun no kage ni
 Dialogue: 0,0:23:22.67,0:23:25.55,Lyrics-Jap-ED,,0,0,0,,mune wo itamenagara
-Dialogue: 0,0:23:25.55,0:23:28.55,Lyrics-Jap-ED,,0,0,0,,ashita wo yumemireruno
+Dialogue: 0,0:23:25.55,0:23:28.55,Lyrics-Jap-ED,,0,0,0,,ashita wo yumemireruno?
 Dialogue: 0,0:23:28.55,0:23:35.56,Lyrics-Jap-ED,,0,0,0,,tooriame no ato ni mitsuketa niji wo motte
 Dialogue: 0,0:23:35.56,0:23:42.19,Lyrics-Jap-ED,,0,0,0,,me wo tojiru Fly with me donna nagai yume mo
 Dialogue: 0,0:23:42.19,0:23:45.65,Lyrics-Jap-ED,,0,0,0,,iroasenai kimi to nara

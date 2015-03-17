@@ -127,7 +127,7 @@ Dialogue: 10,0:04:01.55,0:04:02.93,Default,,0,0,0,,Talking with me?
 Dialogue: 10,0:04:02.93,0:04:03.89,Default,,0,0,0,,Yes.
 Dialogue: 10,0:04:05.64,0:04:12.39,Default,,0,0,0,,{\fad(0,400)}This is the first time I've been able to be honest and talk freely with a man.
 Dialogue: 10,0:04:12.39,0:04:14.44,Default,,0,0,0,,Thank you for everything.
-Dialogue: 10,0:04:14.44,0:04:20.07,Default,,0,0,0,,I look forward to continuing our relationship as manga authors and occasional rivals.
+Dialogue: 10,0:04:14.44,0:04:20.07,Default,,0,0,0,,I look forward to continuing our relationship as mangakas and occasional rivals.
 Dialogue: 10,0:04:21.19,0:04:22.74,Default,,0,0,0,,S-Sorry.
 Dialogue: 10,0:04:22.74,0:04:25.45,Default,,0,0,0,,I couldn't tell her I wanted to stop talking with her.
 Dialogue: 10,0:04:25.45,0:04:28.45,Default,,0,0,0,,Well, she didn't do anything wrong.
@@ -328,7 +328,7 @@ Dialogue: 10,0:13:40.67,0:13:42.88,Default,,0,0,0,,The one that used Miho and Ma
 Dialogue: 10,0:13:42.88,0:13:45.09,Default,,0,0,0,,What are you doing, telling everybody about it?!
 Dialogue: 10,0:13:45.09,0:13:46.80,Default,,0,0,0,,Oh, that.
 Dialogue: 10,0:13:46.80,0:13:47.97,Default,,0,0,0,,"{\i1}That {\i0}"?!
-Dialogue: 10,0:13:47.97,0:13:51.22,Default,,0,0,0,,You're so obviously prattling away with both Iwase and that female manga author!
+Dialogue: 10,0:13:47.97,0:13:51.22,Default,,0,0,0,,You're so obviously prattling away with both Iwase and that female mangaka!
 Dialogue: 10,0:13:51.22,0:13:55.23,Default,,0,0,0,,Are the two of you going on group dates with both of them every day, or something?
 Dialogue: 10,0:13:55.85,0:13:57.44,Default,,0,0,0,,Sounds like fun!
 Dialogue: 10,0:13:57.44,0:14:01.11,Default,,0,0,0,,Even though you never take me out on a proper date,
@@ -437,7 +437,7 @@ Dialogue: 10,0:18:24.62,0:18:27.37,Default,,0,0,0,,So trust Takagi and marry him
 Dialogue: 10,0:18:29.33,0:18:32.75,Default,,0,0,0,,He proposed on a whim just to stop me from running off.
 Dialogue: 10,0:18:32.75,0:18:35.46,Default,,0,0,0,,No, if you say yes, then I'll do it.
 Dialogue: 10,0:18:35.46,0:18:38.13,Default,,0,0,0,,If we're always together, there won't be any more misunderstandings like this.
-Dialogue: 10,0:18:38.80,0:18:43.01,Default,,0,0,0,,I would have preferred to do it after becoming a famous manga author,
+Dialogue: 10,0:18:38.80,0:18:43.01,Default,,0,0,0,,I would have preferred to do it after becoming a famous mangaka,
 Dialogue: 10,0:18:43.01,0:18:44.77,Default,,0,0,0,,but if you're willing to struggle with me, then...
 Dialogue: 10,0:18:44.77,0:18:49.02,Default,,0,0,0,,I think it's wonderful for people to struggle together and form a strong bond.
 Dialogue: 10,0:18:49.02,0:18:51.48,Default,,0,0,0,,You guys say some nice things.
@@ -459,7 +459,7 @@ Dialogue: 10,0:19:29.81,0:19:34.65,Default,,0,0,0,,But Takagi's the only man you
 Dialogue: 10,0:19:35.90,0:19:42.11,Default,,0,0,0,,I've never had a person I could get along with like Takagi.
 Dialogue: 10,0:19:42.11,0:19:45.49,Default,,0,0,0,,I'm sorry. I think I was starting to like him.
 Dialogue: 10,0:19:47.16,0:19:49.62,Default,,0,0,0,,Why did you have to be so honest about that?
-Dialogue: 10,0:19:49.62,0:19:53.79,Default,,0,0,0,,You should have stuck with the "We're just fellow manga authors" story.
+Dialogue: 10,0:19:49.62,0:19:53.79,Default,,0,0,0,,You should have stuck with the "We're just fellow mangakas" story.
 Dialogue: 10,0:19:53.79,0:19:54.42,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:19:57.34,0:20:00.67,Default,,0,0,0,,But Takai and Nakai are both idiots.
 Dialogue: 10,0:20:00.67,0:20:04.09,Default,,0,0,0,,If I were a man, I'd definitely choose you.
@@ -561,7 +561,7 @@ Dialogue: 0,0:23:10.49,0:23:14.99,Lyrics-Jap-ED,,0,0,0,,Baby I trust you my frie
 Dialogue: 0,0:23:14.99,0:23:18.96,Lyrics-Jap-ED,,0,0,0,,zetsubou ni fushita kokoro no sumi
 Dialogue: 0,0:23:18.96,0:23:22.67,Lyrics-Jap-ED,,0,0,0,,orikasanaru mujun no kage ni
 Dialogue: 0,0:23:22.67,0:23:25.55,Lyrics-Jap-ED,,0,0,0,,mune wo itamenagara
-Dialogue: 0,0:23:25.55,0:23:28.55,Lyrics-Jap-ED,,0,0,0,,ashita wo yumemireruno
+Dialogue: 0,0:23:25.55,0:23:28.55,Lyrics-Jap-ED,,0,0,0,,ashita wo yumemireruno?
 Dialogue: 0,0:23:28.55,0:23:35.56,Lyrics-Jap-ED,,0,0,0,,tooriame no ato ni mitsuketa niji wo motte
 Dialogue: 0,0:23:35.56,0:23:42.19,Lyrics-Jap-ED,,0,0,0,,me wo tojiru Fly with me donna nagai yume mo
 Dialogue: 0,0:23:42.19,0:23:45.65,Lyrics-Jap-ED,,0,0,0,,iroasenai kimi to nara
