@@ -129,7 +129,7 @@ Dialogue: 10,0:04:56.69,0:05:00.94,Default,,0,0,0,,I have to pen-in as much as I
 Dialogue: 10,0:05:01.61,0:05:03.61,Default,,0,0,0,,Saiko, you're calm about this.
 Dialogue: 10,0:05:03.61,0:05:05.36,Default,,0,0,0,,There's no point in rushing.
 Dialogue: 10,0:05:05.36,0:05:06.86,Default,,0,0,0,,I got it!
-Dialogue: 10,0:05:06.86,0:05:09.83,Default,,0,0,0,,Miho said it was good in an e-mail, right?
+Dialogue: 10,0:05:06.86,0:05:09.83,Default,,0,0,0,,Miho said it was good in an email, right?
 Dialogue: 10,0:05:09.83,0:05:11.91,Default,,0,0,0,,Oh, I see how it is.
 Dialogue: 10,0:05:12.62,0:05:14.50,Default,,0,0,0,,Can you guys get going?
 Dialogue: 10,0:05:14.50,0:05:16.12,Default,,0,0,0,,You don't have any work to do here, right?
@@ -138,7 +138,7 @@ Dialogue: 10,0:05:18.88,0:05:19.54,Default,,0,0,0,,'Kay.
 Dialogue: 10,0:05:19.92,0:05:22.09,Default,,0,0,0,,Good luck, Mashiro!
 Dialogue: 10,0:05:22.09,0:05:23.30,Default,,0,0,0,,See ya later.
 Dialogue: 10,0:05:23.30,0:05:24.09,Default,,0,0,0,,Okay.
-Dialogue: 10,0:05:29.35,0:05:32.18,Default-Italic,,0,0,0,,Is this the first e-mail she's sent me since the photo book thing?
+Dialogue: 10,0:05:29.35,0:05:32.18,Default-Italic,,0,0,0,,Is this the first email she's sent me since the photo book thing?
 Dialogue: 10,0:05:33.35,0:05:34.77,Default-Alt,,0,0,0,,{\i1}The second chapter, huh?
 Dialogue: 10,0:05:35.23,0:05:37.27,Default-Italic,,0,0,0,,The real fight is coming up next!
 Dialogue: 10,0:05:39.11,0:05:41.48,Default-Italic,,0,0,0,,But I think I'll reply first!
@@ -151,7 +151,7 @@ Dialogue: 10,0:05:54.66,0:05:58.00,Default,,0,0,0,,As I thought, your style suit
 Dialogue: 10,0:05:58.00,0:05:59.33,Default,,0,0,0,,More than {\i1}Shounen{\i0}.
 Dialogue: 10,0:05:59.75,0:06:00.46,Default,,0,0,0,,Thank you.
 Dialogue: 10,0:06:00.46,0:06:04.26,Default,,0,0,0,,Why is Aoki meeting with \Nthe head editor of Jack SQ?
-Dialogue: 10,0:06:04.26,0:06:07.68,Default,,0,0,0,,She's doing an original work with KOOGY.
+Dialogue: 10,0:06:04.26,0:06:07.68,Default,,0,0,0,,She's doing an original work with Koogy.
 Dialogue: 10,0:06:07.68,0:06:08.30,Default,,0,0,0,,What?!
 Dialogue: 10,0:06:08.30,0:06:10.14,Default,,0,0,0,,Is that okay, Aida?
 Dialogue: 10,0:06:10.14,0:06:12.26,Default,,0,0,0,,Aren't you her editor?
@@ -175,7 +175,7 @@ Dialogue: 10,0:06:59.63,0:07:00.23,Default,,0,0,0,,'Kay?
 Dialogue: 10,0:07:01.48,0:07:02.77,Default,,0,0,0,,Got it.
 Dialogue: 10,0:07:02.77,0:07:03.73,Default,,0,0,0,,Later.
 Dialogue: 10,0:07:04.77,0:07:05.94,Default,,0,0,0,,Nakai.
-Dialogue: 10,0:07:06.44,0:07:10.03,Default,,0,0,0,,Miss Aoki's gonna start a serialization together with KOOGY.
+Dialogue: 10,0:07:06.44,0:07:10.03,Default,,0,0,0,,Miss Aoki's gonna start a serialization together with Koogy.
 Dialogue: 10,0:07:10.03,0:07:10.78,Default,,0,0,0,,Huh?
 Dialogue: 10,0:07:10.78,0:07:16.12,Default,,0,0,0,,The chief editor of Jack SQ secretly introduced them at the New Year's party.
 Dialogue: 10,0:07:18.54,0:07:20.37,Default,,0,0,0,,So then, Aoki is...
@@ -188,7 +188,7 @@ Dialogue: 10,0:07:54.82,0:07:55.37,Default,,0,0,0,,Yes?
 Dialogue: 10,0:07:55.37,0:07:57.62,Default,,0,0,0,,Aoki, it's me, Nakai.
 Dialogue: 10,0:07:57.62,0:08:00.83,Default,,0,0,0,,I'll just speak from out here, so please listen to what I have to say.
 Dialogue: 10,0:08:00.83,0:08:02.21,Default,,0,0,0,,What's this all of a sudden?
-Dialogue: 10,0:08:02.21,0:08:06.00,Default,,0,0,0,,Is it true you're pairing up\N with KOOGY... no, Makaino?
+Dialogue: 10,0:08:02.21,0:08:06.00,Default,,0,0,0,,Is it true you're pairing up\N with Koogy... no, Makaino?
 Dialogue: 10,0:08:06.00,0:08:06.96,Default,,0,0,0,,It is.
 Dialogue: 10,0:08:07.75,0:08:09.42,Default,,0,0,0,,Then, what about me?
 Dialogue: 10,0:08:09.42,0:08:10.59,Default,,0,0,0,,We're over.
@@ -247,15 +247,15 @@ Dialogue: 10,0:10:30.19,0:10:32.77,Default,,0,0,0,,Just be happy you're in third
 Dialogue: 10,0:10:32.77,0:10:34.61,Default,,0,0,0,,Let's aim for long-term serialization!
 Dialogue: 10,0:10:34.61,0:10:35.40,Default,,0,0,0,,Yes.
 Dialogue: 10,0:10:36.40,0:10:39.07,Default,,0,0,0,,Oh, speaking of serialization...
-Dialogue: 10,0:10:40.28,0:10:43.58,Default,,0,0,0,,KOOGY's started serializing with Jack SQ, I hear.
+Dialogue: 10,0:10:40.28,0:10:43.58,Default,,0,0,0,,Koogy's started serializing with Jack SQ, I hear.
 Dialogue: 10,0:10:43.58,0:10:44.58,Default,,0,0,0,,Really.
-Dialogue: 10,0:10:44.58,0:10:45.66,Default,,0,0,0,,KOOGY?
+Dialogue: 10,0:10:44.58,0:10:45.66,Default,,0,0,0,,Koogy?
 Dialogue: 10,0:10:45.66,0:10:47.83,Default,,0,0,0,,Even more, he's partnering with Aoki.
 Dialogue: 10,0:10:48.79,0:10:51.75,Default,,0,0,0,,Today, he called for a press conference...
 Dialogue: 10,0:10:51.75,0:10:54.42,Default,,0,0,0,,When it's announced, there'll be a big fuss.
 Dialogue: 10,0:10:54.88,0:10:57.21,Default,,0,0,0,,Starting with Jack SQ,
 Dialogue: 10,0:10:57.21,0:10:59.30,Default,,0,0,0,,{\fad(0,390)}I'll take the top of the manga world!
-Dialogue: 10,0:11:00.13,0:11:02.05,Default,,0,0,0,,Aoki and KOOGY?
+Dialogue: 10,0:11:00.13,0:11:02.05,Default,,0,0,0,,Aoki and Koogy?
 Dialogue: 10,0:11:02.97,0:11:06.39,Default,,0,0,0,,Well, that's a different publication, so it's really got nothing to do with us!
 Dialogue: 10,0:11:09.52,0:11:11.90,Default,,0,0,0,,Does Nakai know already?
 Dialogue: 10,0:11:11.90,0:11:13.06,Default,,0,0,0,,I wonder.
@@ -274,7 +274,7 @@ Dialogue: 10,0:11:43.80,0:11:45.89,Default,,0,0,0,,Thank you.
 Dialogue: 10,0:11:45.89,0:11:48.39,Default,,0,0,0,,Um, there's something we're a bit concerned about.
 Dialogue: 10,0:11:48.39,0:11:49.35,Default,,0,0,0,,What?
 Dialogue: 10,0:11:49.35,0:11:51.64,Default,,0,0,0,,It's about Nakai.
-Dialogue: 10,0:11:51.64,0:11:54.77,Default,,0,0,0,,We heard that Aoki was \Npartnering up with KOOGY...
+Dialogue: 10,0:11:51.64,0:11:54.77,Default,,0,0,0,,We heard that Aoki was \Npartnering up with Koogy...
 Dialogue: 10,0:11:56.57,0:11:58.28,Default,,0,0,0,,It's not something you \Nguys should worry about.
 Dialogue: 10,0:11:59.44,0:12:00.95,Default,,0,0,0,,Did something happen?
 Dialogue: 10,0:12:00.95,0:12:03.53,Default,,0,0,0,,Don't worry about that, \Njust focus on your serialization.
@@ -473,7 +473,7 @@ Dialogue: 10,0:21:56.08,0:21:57.25,Default,,0,0,0,,Later.
 Dialogue: 10,0:21:58.38,0:22:02.13,Default,,0,0,0,,So Aoki Kou couldn't become the person who understood me.
 Dialogue: 10,0:22:02.96,0:22:06.05,Default,,0,0,0,,To be a genius really is to be lonely.
 Dialogue: 10,0:22:07.47,0:22:08.72,Default,,0,0,0,,It doesn't matter.
-Dialogue: 10,0:22:09.34,0:22:11.47,Default,,0,0,0,,So in the end, KOOGY will draw by himself.
+Dialogue: 10,0:22:09.34,0:22:11.47,Default,,0,0,0,,So in the end, Koogy will draw by himself.
 Dialogue: 10,0:22:11.89,0:22:13.18,Default,,0,0,0,,They said it on TV.
 Dialogue: 10,0:22:14.10,0:22:17.48,Default,,0,0,0,,And after that, Nakai got a \Nfever and couldn't move.
 Dialogue: 10,0:22:18.02,0:22:21.40,Default,,0,0,0,,Fukuda complained that he had trouble getting him home.
