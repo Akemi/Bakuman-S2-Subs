@@ -21,9 +21,9 @@ Keyframes File: ep6_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 467
-Active Line: 482
-Video Position: 35269
+Scroll Position: 437
+Active Line: 456
+Video Position: 32366
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -61,12 +61,12 @@ Style: Ni,CK Marker,45,&H00282B28,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 10,0:00:07.52,0:00:09.11,Default,,0,0,0,,{\i1}Shady Detective Trap{\i0}....
-Dialogue: 10,0:00:09.94,0:00:12.99,Default,,0,0,0,,Honestly, I thought they would have a tough time in Jack,
-Dialogue: 10,0:00:12.99,0:00:15.87,Default,,0,0,0,,but their ranking has settled down nicely on the surveys.
-Dialogue: 10,0:00:17.99,0:00:21.83,Default,,0,0,0,,It looks like we all work well together.
+Dialogue: 10,0:00:07.52,0:00:09.11,Default-Italic,,0,0,0,,{\i1}Shady Detective Trap{\i0}....
+Dialogue: 10,0:00:09.94,0:00:12.99,Default-Italic,,0,0,0,,Honestly, I thought they would \Nhave a tough time in Jack,
+Dialogue: 10,0:00:12.99,0:00:15.87,Default-Italic,,0,0,0,,but their ranking has settled \Ndown nicely on the surveys.
+Dialogue: 10,0:00:17.99,0:00:21.83,Default-Italic,,0,0,0,,It looks like we all work well together.
 Dialogue: 10,0:00:22.33,0:00:24.25,Default,,0,0,0,,Mashiro, snap out of it!
-Dialogue: 10,0:00:23.04,0:00:24.25,Default,,0,0,0,,{\an8}Hello. {its actually afternoon, but i guess when you come into your workplace to start your shift it's always "Good morning" even if it's effing midnight}
+Dialogue: 10,0:00:23.04,0:00:24.25,Default,,0,0,0,,{\an8}Hello.
 Dialogue: 10,0:00:24.25,0:00:25.54,Default,,0,0,0,,Mashiro!
 Dialogue: 10,0:00:26.67,0:00:27.34,Default,,0,0,0,,What?!
 Dialogue: 10,0:00:27.34,0:00:29.63,Default,,0,0,0,,A-And now..?
@@ -77,37 +77,42 @@ Dialogue: 10,0:00:43.89,0:00:44.85,Default,,0,0,0,,What's wrong?
 Dialogue: 10,0:00:46.40,0:00:48.40,Default,,0,0,0,,I-It looks like...
 Dialogue: 10,0:00:48.40,0:00:49.86,Default,,0,0,0,,Mashiro collapsed.
 Dialogue: 10,0:02:21.87,0:02:23.95,Default,,0,0,0,,It's been one thing after another for him.
-Dialogue: 10,0:02:24.62,0:02:27.04,Default,,0,0,0,,The volume and the front page color spread...
+Dialogue: 10,0:02:24.62,0:02:27.04,Default,,0,0,0,,The volume and the \Nfront page color spread...
 Dialogue: 10,0:02:27.04,0:02:30.42,Default,,0,0,0,,Mashiro's been having to deal with more and more responsibilities,
 Dialogue: 10,0:02:30.42,0:02:34.84,Default,,0,0,0,,but when we were together, we got too excited, and I didn't realize his condition.
-Dialogue: 10,0:02:38.42,0:02:42.93,Default,,0,0,0,,For a high school student, it's probably the worst thing.
+Dialogue: 10,0:02:38.42,0:02:42.93,Default,,0,0,0,,For a high school student, \Nit's probably the worst thing.
 Dialogue: 10,0:02:42.93,0:02:45.01,Default,,0,0,0,,There's no point in agonizing over it.
 Dialogue: 10,0:02:45.01,0:02:48.64,Default,,0,0,0,,Since he regained consciousness and was brought to the hospital,
-Dialogue: 10,0:02:48.64,0:02:50.52,Default,,0,0,0,,he should be okay for now.
+Dialogue: 10,0:02:48.64,0:02:50.14,Default,,0,0,0,,he should be okay for now.
 Dialogue: 10,0:02:51.06,0:02:54.52,Default,,0,0,0,,What's important right now is checking up on his condition.
 Dialogue: 10,0:02:55.27,0:02:57.24,Default,,0,0,0,,Everything else comes after that.
 Dialogue: 10,0:02:57.69,0:02:58.70,Default,,0,0,0,,Yes...
 Dialogue: 10,0:03:04.49,0:03:05.74,Default,,0,0,0,,Miura!
 Dialogue: 10,0:03:07.37,0:03:08.66,Default,,0,0,0,,Hattori!
 Dialogue: 10,0:03:08.66,0:03:09.71,Default,,0,0,0,,Is everything all right?
-Dialogue: 10,0:03:09.71,0:03:11.92,Default,,0,0,0,,We don't know yet; they're still examining him.
+Dialogue: 10,0:03:09.71,0:03:11.92,Default,,0,0,0,,We don't know yet; \Nthey're still examining him.
 Dialogue: 10,0:03:11.92,0:03:13.92,Default,,0,0,0,,No, I meant you.
-Dialogue: 10,0:03:13.92,0:03:19.67,Default,,0,0,0,,I-It's like you said... It's impossible to do this while still in school, after all...
+Dialogue: 10,0:03:13.92,0:03:15.71,Default,,0,0,0,,I-It's like you said...
+Dialogue: 10,0:03:15.71,0:03:19.67,Default,,0,0,0,,It's impossible to do this \Nwhile still in school, after all...
 Dialogue: 10,0:03:19.67,0:03:20.59,Default,,0,0,0,,Damn!
-Dialogue: 10,0:03:24.47,0:03:28.60,Default,,0,0,0,,Thank you for taking care of my son. I'm Mashiro Moritaka's mother.
+Dialogue: 10,0:03:24.47,0:03:26.41,Default,,0,0,0,,Thank you for taking care of my son.
+Dialogue: 10,0:03:26.41,0:03:28.60,Default,,0,0,0,,I'm Mashiro Moritaka's mother.
 Dialogue: 10,0:03:29.60,0:03:30.69,Default,,0,0,0,,I apologize!
 Dialogue: 10,0:03:30.69,0:03:32.52,Default,,0,0,0,,I-I apologize!
 Dialogue: 10,0:03:32.52,0:03:36.82,Default,,0,0,0,,How can we possibly apologize for letting things get to this point?
-Dialogue: 10,0:03:36.82,0:03:40.28,Default,,0,0,0,,It's all right... we still don't know what his condition's like.
-Dialogue: 10,0:03:40.28,0:03:43.20,Default,,0,0,0,,And this is something my son chose for himself.
+Dialogue: 10,0:03:36.82,0:03:38.04,Default,,0,0,0,,It's all right...
+Dialogue: 10,0:03:38.04,0:03:40.28,Default,,0,0,0,,We still don't know \Nwhat his condition's like.
+Dialogue: 10,0:03:40.28,0:03:43.20,Default,,0,0,0,,And this is something \Nmy son chose for himself.
 Dialogue: 10,0:03:44.74,0:03:46.20,Default,,0,0,0,,Who is the boy's guardian?
 Dialogue: 10,0:03:46.20,0:03:47.37,Default,,0,0,0,,I am.
-Dialogue: 10,0:03:47.37,0:03:48.54,Default,,0,0,0,,Please come in. {Please step inside.}
-Dialogue: 10,0:03:48.54,0:03:52.04,Default,,0,0,0,,Doctor... is Saiko— is Mashiro okay?!
+Dialogue: 10,0:03:47.37,0:03:48.54,Default,,0,0,0,,Please come in.
+Dialogue: 10,0:03:48.54,0:03:49.45,Default,,0,0,0,,Doctor...
+Dialogue: 10,0:03:49.45,0:03:50.49,Default,,0,0,0,,Is Saiko—
+Dialogue: 10,0:03:50.49,0:03:52.04,Default,,0,0,0,,is Mashiro okay?!
 Dialogue: 10,0:03:52.04,0:03:53.62,Default,,0,0,0,,Takagi, calm down!
-Dialogue: 10,0:03:55.71,0:03:59.76,Default,,0,0,0,,I'm sorry, he and Mashiro are a pair of mangakas,
+Dialogue: 10,0:03:55.71,0:03:59.76,Default,,0,0,0,,I'm sorry, he and Mashiro \Nare a pair of mangakas,
 Dialogue: 10,0:03:59.76,0:04:01.47,Default,,0,0,0,,and we're from the publisher.
-Dialogue: 10,0:04:01.47,0:04:04.43,Default,,0,0,0,,Please let us know his condition as well, if you can.
+Dialogue: 10,0:04:01.47,0:04:04.43,Default,,0,0,0,,Please let us know his \Ncondition as well, if you can.
 Dialogue: 10,0:04:05.64,0:04:06.68,Default,,0,0,0,,I understand.
 Dialogue: 10,0:04:07.31,0:04:08.56,Default,,0,0,0,,Everyone, please come in.
 Dialogue: 10,0:04:08.56,0:04:09.93,Default-Alt,,0,0,0,,{\an8}Thank you.
@@ -115,8 +120,8 @@ Dialogue: 10,0:04:09.14,0:04:11.60,Default,,0,0,0,,Katou, you go back.
 Dialogue: 10,0:04:11.60,0:04:12.52,Default,,0,0,0,,But...
 Dialogue: 10,0:04:12.52,0:04:14.15,Default,,0,0,0,,Leave the rest to me.
 Dialogue: 10,0:04:14.81,0:04:15.69,Default,,0,0,0,,Yes.
-Dialogue: 10,0:04:16.77,0:04:21.82,Default,,0,0,0,,So basically, you need to remove a portion of his liver?
-Dialogue: 10,0:04:21.82,0:04:23.61,Default,,0,0,0,,Putting it simply, yes. {Basically.}
+Dialogue: 10,0:04:16.77,0:04:21.82,Default,,0,0,0,,So basically, you need to \Nremove a portion of his liver?
+Dialogue: 10,0:04:21.82,0:04:23.61,Default,,0,0,0,,Putting it simply, yes.
 Dialogue: 10,0:04:23.61,0:04:25.07,Default,,0,0,0,,Surgery...
 Dialogue: 10,0:04:25.66,0:04:26.37,Default,,0,0,0,,That can't...
 Dialogue: 10,0:04:27.07,0:04:28.53,Default,,0,0,0,,Shuujin.
@@ -138,25 +143,28 @@ Dialogue: 10,0:05:06.41,0:05:07.07,Default,,0,0,0,,Saiko!
 Dialogue: 10,0:05:07.07,0:05:09.08,Default,,0,0,0,,H-Hey, what are you doing?
 Dialogue: 10,0:05:09.08,0:05:10.70,Default,,0,0,0,,I'm going back to work.
 Dialogue: 10,0:05:10.70,0:05:14.21,Default,,0,0,0,,People don't die so easily.
-Dialogue: 10,0:05:14.21,0:05:18.17,Default,,0,0,0,,You won't die now, but your condition will worsen if you keep pushing yourself!
-Dialogue: 10,0:05:18.17,0:05:20.17,Default,,0,0,0,,This isn't an illness you can recover from naturally.
-Dialogue: 10,0:05:20.17,0:05:22.26,Default,,0,0,0,,You need to stay hospitalized and undergo treatment...
+Dialogue: 10,0:05:14.21,0:05:15.66,Default,,0,0,0,,You won't die now,
+Dialogue: 10,0:05:15.66,0:05:18.17,Default,,0,0,0,,but your condition will worsen if you keep pushing yourself!
+Dialogue: 10,0:05:18.17,0:05:20.17,Default,,0,0,0,,This isn't an illness you \Ncan recover from naturally.
+Dialogue: 10,0:05:20.17,0:05:22.26,Default,,0,0,0,,You need to stay hospitalized \Nand undergo treatment...
 Dialogue: 10,0:05:22.26,0:05:25.05,Default,,0,0,0,,Then let me draw here!
-Dialogue: 10,0:05:25.05,0:05:27.26,Default,,0,0,0,,We're being serialized in a weekly magazine.
+Dialogue: 10,0:05:25.05,0:05:27.26,Default,,0,0,0,,We're being serialized \Nin a weekly magazine.
 Dialogue: 10,0:05:29.18,0:05:30.12,Default,,0,0,0,,For now, you need to rest—
 Dialogue: 10,0:05:30.12,0:05:32.43,Default,,0,0,0,,You can't rest on a weekly publication!
 Dialogue: 10,0:05:34.39,0:05:35.31,Default,,0,0,0,,Saiko...
-Dialogue: 10,0:05:36.19,0:05:40.23,Default,,0,0,0,,I don't want to go on hiatus! Not when we've finally gotten popular...
+Dialogue: 10,0:05:36.19,0:05:37.50,Default,,0,0,0,,I don't want to go on hiatus!
+Dialogue: 10,0:05:38.03,0:05:40.23,Default,,0,0,0,,Not when we've finally gotten popular...
 Dialogue: 10,0:05:40.82,0:05:42.90,Default,,0,0,0,,I can't rest now!
-Dialogue: 10,0:05:44.69,0:05:47.91,Default,,0,0,0,,Mashiro, we appreciate your determination.
-Dialogue: 10,0:05:47.91,0:05:51.33,Default,,0,0,0,,But shouldn't curing your illness come first?
+Dialogue: 10,0:05:44.69,0:05:47.91,Default,,0,0,0,,Mashiro, we appreciate \Nyour determination.
+Dialogue: 10,0:05:47.91,0:05:51.33,Default,,0,0,0,,But shouldn't curing \Nyour illness come first?
 Dialogue: 10,0:05:51.33,0:05:52.91,Default,,0,0,0,,You of all people should understand.
 Dialogue: 10,0:05:53.45,0:05:56.83,Default,,0,0,0,,This is different from a long-running manga taking a break!
-Dialogue: 10,0:05:58.00,0:06:04.76,Default,,0,0,0,,Mashiro... is it true that you had only two more pages of chapter 19 to pen-in?
+Dialogue: 10,0:05:58.00,0:05:59.50,Default,,0,0,0,,Mashiro...
+Dialogue: 10,0:05:59.50,0:06:04.76,Default,,0,0,0,,Is it true that you had only two more pages of chapter 19 to pen-in?
 Dialogue: 10,0:06:04.76,0:06:05.46,Default,,0,0,0,,Miura!
 Dialogue: 10,0:06:05.46,0:06:07.13,Default,,0,0,0,,Yes, probably.
-Dialogue: 10,0:06:07.13,0:06:11.30,Default,,0,0,0,,For now, we'll leave 19 to the assistants to finish up.
-Dialogue: 10,0:06:11.30,0:06:13.56,Default,,0,0,0,,We'll reconsider what happens after that.
+Dialogue: 10,0:06:07.13,0:06:11.30,Default,,0,0,0,,For now, we'll leave 19 to \Nthe assistants to finish up.
+Dialogue: 10,0:06:11.30,0:06:13.56,Default,,0,0,0,,We'll reconsider what \Nhappens after that.
 Dialogue: 10,0:06:14.31,0:06:15.64,Default,,0,0,0,,Is that acceptable?
 Dialogue: 10,0:06:17.10,0:06:19.40,Default,,0,0,0,,I want to pen-in the characters myself.
 Dialogue: 10,0:06:19.90,0:06:21.19,Default,,0,0,0,,How long will it take you?
@@ -168,7 +176,8 @@ Dialogue: 10,0:06:31.07,0:06:34.20,Default,,0,0,0,,My son isn't a manga-drawing 
 Dialogue: 10,0:06:35.16,0:06:37.12,Default,,0,0,0,,S-Sorry.
 Dialogue: 10,0:06:37.12,0:06:39.75,Default,,0,0,0,,I was just trying to persuade him, but I got caught up in it...
 Dialogue: 10,0:06:40.63,0:06:42.50,Default,,0,0,0,,It'll be fine, ma'am.
-Dialogue: 10,0:06:42.50,0:06:46.26,Default,,0,0,0,,While he's in the hospital, I will\N take responsibility and make sure he rests.
+Dialogue: 10,0:06:42.50,0:06:44.17,Default,,0,0,0,,While he's in the hospital,
+Dialogue: 10,0:06:44.17,0:06:46.26,Default,,0,0,0,,I will take responsibility \Nand make sure he rests.
 Dialogue: 10,0:06:46.80,0:06:48.63,Default,,0,0,0,,Thank you.
 Dialogue: 10,0:06:56.14,0:06:57.98,Default,,0,0,0,,Surgery...?
 Dialogue: 10,0:06:57.98,0:06:58.73,Default,,0,0,0,,Yeah.
@@ -181,30 +190,31 @@ Dialogue: 10,0:07:11.78,0:07:13.57,Default,,0,0,0,,They'll tell us more tomorrow
 Dialogue: 10,0:07:14.03,0:07:15.58,Default,,0,0,0,,It's a hiatus, then.
 Dialogue: 10,0:07:15.58,0:07:16.62,Default,,0,0,0,,That's...
 Dialogue: 10,0:07:16.62,0:07:17.45,Default,,0,0,0,,Probably.
-Dialogue: 10,0:07:18.70,0:07:22.71,Default,,0,0,0,,Even so, there's no point in us getting depressed.
-Dialogue: 10,0:07:22.71,0:07:27.17,Default,,0,0,0,,What we should be doing now is finishing up the 16 pages of chapter 19 that are penned-in.
-Dialogue: 10,0:07:27.67,0:07:30.17,Default,,0,0,0,,Let's make this the best manuscript so far.
+Dialogue: 10,0:07:18.70,0:07:22.71,Default,,0,0,0,,Even so, there's no point \Nin us getting depressed.
+Dialogue: 10,0:07:22.71,0:07:24.12,Default,,0,0,0,,What we should be doing now
+Dialogue: 10,0:07:24.12,0:07:27.17,Default,,0,0,0,,is finishing up the 16 pages of chapter 19 that are penned-in.
+Dialogue: 10,0:07:27.67,0:07:30.17,Default,,0,0,0,,Let's make this the \Nbest manuscript so far.
 Dialogue: 10,0:07:30.84,0:07:31.63,Default,,0,0,0,,Yes!
-Dialogue: 10,0:07:33.26,0:07:35.81,Default,,0,0,0,,Damn. Why is Saiko...
+Dialogue: 10,0:07:33.26,0:07:34.33,Default-Italic,,0,0,0,,Damn.
+Dialogue: 10,0:07:34.33,0:07:35.81,Default-Italic,,0,0,0,,Why is Saiko...
 Dialogue: 10,0:07:41.73,0:07:42.85,Default,,0,0,0,,Shuujin, it's me.
 Dialogue: 10,0:07:42.85,0:07:43.81,Default,,0,0,0,,Saiko?
 Dialogue: 10,0:07:43.81,0:07:46.19,Default,,0,0,0,,Is it okay for you to be making calls?
 Dialogue: 10,0:07:46.19,0:07:48.40,Default,,0,0,0,,I asked them to let me go to the bathroom by myself, at least.
-Dialogue: 10,0:07:49.03,0:07:52.49,Default,,0,0,0,,More importantly, bring the manuscript to the hospital.
+Dialogue: 10,0:07:49.03,0:07:52.49,Default,,0,0,0,,More importantly, bring the \Nmanuscript to the hospital.
 Dialogue: 10,0:07:52.49,0:07:53.36,Default,,0,0,0,,What?
 Dialogue: 10,0:07:53.36,0:07:54.37,Default,,0,0,0,,I'll draw in the hospital.
 Dialogue: 10,0:07:54.95,0:07:56.83,Default,,0,0,0,,I definitely won't let it fall behind.
 Dialogue: 10,0:07:56.83,0:07:58.12,Default,,0,0,0,,We're pros, after all.
 Dialogue: 10,0:07:58.12,0:07:59.20,Default,,0,0,0,,Saiko...
-Dialogue: 10,0:00:00.73,0:00:00.73,Default,,0,0,0,,{TS 8:00}
-Dialogue: 10,0:07:59.83,0:08:03.25,Default,,0,0,0,,My hospital room is empty aside from one old guy.
-Dialogue: 10,0:08:03.25,0:08:05.42,Default,,0,0,0,,I think I can do it without the doctor noticing.
-Dialogue: 10,0:08:06.09,0:08:08.88,Default,,0,0,0,,It's much easier than Nakai doing it in the park!
+Dialogue: 10,0:07:59.83,0:08:03.25,Default,,0,0,0,,My hospital room is empty \Naside from one old guy.
+Dialogue: 10,0:08:03.25,0:08:05.42,Default,,0,0,0,,I think I can do it without \Nthe doctor noticing.
+Dialogue: 10,0:08:06.09,0:08:08.88,Default,,0,0,0,,It's much easier than \NNakai doing it in the park!
 Dialogue: 10,0:08:09.59,0:08:12.88,Default,,0,0,0,,Saiko, I'll be waiting.
 Dialogue: 10,0:08:13.68,0:08:16.10,Default,,0,0,0,,I'll wait until you've fully recovered.
 Dialogue: 10,0:08:16.10,0:08:16.51,Default,,0,0,0,,So...
 Dialogue: 10,0:08:16.51,0:08:17.97,Default,,0,0,0,,What are you saying?!
-Dialogue: 10,0:08:18.39,0:08:20.22,Default,,0,0,0,,We can't afford to drop the ball on this now!
+Dialogue: 10,0:08:18.39,0:08:20.22,Default,,0,0,0,,We can't afford to drop \Nthe ball on this now!
 Dialogue: 10,0:08:20.22,0:08:23.44,Default,,0,0,0,,If we stall for three months, we'll lose the readers we finally pulled in!
 Dialogue: 10,0:08:23.44,0:08:24.56,Default,,0,0,0,,Don't you get it?
 Dialogue: 10,0:08:25.35,0:08:26.36,Default,,0,0,0,,But...
@@ -217,124 +227,139 @@ Dialogue: 10,0:08:35.24,0:08:36.28,Default,,0,0,0,,{\i1}Trap{\i0} starts from he
 Dialogue: 10,0:08:36.28,0:08:36.99,Default,,0,0,0,,Saiko!
 Dialogue: 10,0:08:39.58,0:08:40.91,Default,,0,0,0,,I get it.
 Dialogue: 10,0:08:40.91,0:08:42.16,Default,,0,0,0,,I'll bring it tomorrow.
-Dialogue: 10,0:08:42.16,0:08:45.88,Default,,0,0,0,,O-Okay. Visiting hours start at 3 PM.
+Dialogue: 10,0:08:42.16,0:08:44.00,Default,,0,0,0,,O-Okay.
+Dialogue: 10,0:08:44.00,0:08:45.88,Default,,0,0,0,,Visiting hours start at 3 PM.
 Dialogue: 10,0:08:45.88,0:08:47.08,Default,,0,0,0,,At 3, okay?
 Dialogue: 10,0:08:47.67,0:08:48.34,Default,,0,0,0,,Yeah.
-Dialogue: 10,0:08:52.88,0:08:55.68,Default,,0,0,0,,Mashiro said he wants to do the penning-in of the characters himself.
-Dialogue: 10,0:08:56.30,0:08:57.89,Default,,0,0,0,,Right?
+Dialogue: 10,0:08:52.88,0:08:56.22,Default,,0,0,0,,Mashiro said he wants to do the penning-in of the characters himself.
+Dialogue: 10,0:08:56.22,0:08:57.89,Default,,0,0,0,,Right?
 Dialogue: 10,0:08:57.89,0:08:59.18,Default,,0,0,0,,Yes.
-Dialogue: 10,0:08:59.18,0:09:01.97,Default,,0,0,0,,But that'll be tough, realistically speaking.
-Dialogue: 10,0:09:01.97,0:09:06.15,Default,,0,0,0,,And not only that; we have to rethink serializing a high school student.
+Dialogue: 10,0:08:59.18,0:09:01.97,Default,,0,0,0,,But that'll be tough, \Nrealistically speaking.
+Dialogue: 10,0:09:01.97,0:09:03.23,Default,,0,0,0,,And not only that;
+Dialogue: 10,0:09:03.23,0:09:06.15,Default,,0,0,0,,we have to rethink serializing \Na high school student.
 Dialogue: 10,0:09:07.73,0:09:09.65,Default,,0,0,0,,Publish the finished 16 pages.
 Dialogue: 10,0:09:10.27,0:09:12.36,Default,,0,0,0,,As for the other two pages,
 Dialogue: 10,0:09:12.36,0:09:15.78,Default,,0,0,0,,we'll publish one of them with the announcement of the hiatus that begins next week.
 Dialogue: 10,0:09:15.78,0:09:16.70,Default,,0,0,0,,Yes sir.
-Dialogue: 10,0:09:16.70,0:09:21.62,Default,,0,0,0,,And listening to your story, it seems that Mashiro can't even touch a pen in the hospital.
+Dialogue: 10,0:09:16.70,0:09:19.52,Default,,0,0,0,,And listening to your story,
+Dialogue: 10,0:09:19.52,0:09:21.62,Default,,0,0,0,,it seems that Mashiro can't even touch a pen in the hospital.
 Dialogue: 10,0:09:21.62,0:09:25.46,Default,,0,0,0,,Keep visiting the hospital and monitor the situation as much as you can.
 Dialogue: 10,0:09:25.46,0:09:28.17,Default,,0,0,0,,It should be obvious, but the health of the author comes first.
-Dialogue: 10,0:09:28.17,0:09:31.88,Default,,0,0,0,,Follow the doctor's orders, not the will of the author.
+Dialogue: 10,0:09:28.17,0:09:31.88,Default,,0,0,0,,Follow the doctor's orders, \Nnot the will of the author.
 Dialogue: 10,0:09:31.88,0:09:33.13,Default,,0,0,0,,I understand.
 Dialogue: 10,0:09:34.51,0:09:36.97,Default,,0,0,0,,It's definitely a safe surgery, right?
 Dialogue: 10,0:09:36.97,0:09:37.84,Default,,0,0,0,,Yeah.
-Dialogue: 10,0:09:37.84,0:09:40.22,Default,,0,0,0,,Are you absolutely, positively, 100% certain?!
+Dialogue: 10,0:09:37.84,0:09:40.22,Default,,0,0,0,,Are you absolutely, \Npositively, 100% certain?!
 Dialogue: 10,0:09:40.22,0:09:42.93,Default,,0,0,0,,They said it's a simple surgery, so there shouldn't be any problems.
 Dialogue: 10,0:09:44.23,0:09:45.06,Default,,0,0,0,,But...
 Dialogue: 10,0:09:45.06,0:09:48.15,Default,,0,0,0,,The surgery is two weeks from the 10th.
-Dialogue: 10,0:09:48.15,0:09:50.77,Default,,0,0,0,,He'll be hospitalized for at least three months.
-Dialogue: 10,0:09:50.77,0:09:52.98,Default,,0,0,0,,We'll probably be on hiatus during that time...
+Dialogue: 10,0:09:48.15,0:09:50.77,Default,,0,0,0,,He'll be hospitalized for \Nat least three months.
+Dialogue: 10,0:09:50.77,0:09:52.98,Default,,0,0,0,,We'll probably be on \Nhiatus during that time...
 Dialogue: 10,0:09:52.98,0:09:54.94,Default,,0,0,0,,Well, that's how it is.
 Dialogue: 10,0:09:54.94,0:09:56.45,Default,,0,0,0,,I know.
 Dialogue: 10,0:09:56.45,0:09:57.91,Default,,0,0,0,,I know, but...
-Dialogue: 10,0:09:57.91,0:10:00.53,Default,,0,0,0,,Saiko asked me to bring the manuscript to the hospital.
+Dialogue: 10,0:09:57.91,0:10:00.53,Default,,0,0,0,,Saiko asked me to bring the \Nmanuscript to the hospital.
 Dialogue: 10,0:10:02.74,0:10:05.37,Default,,0,0,0,,Of course you can't do that.
 Dialogue: 10,0:10:05.37,0:10:07.16,Default,,0,0,0,,I said I would.
 Dialogue: 10,0:10:07.16,0:10:11.54,Default,,0,0,0,,When I considered his feelings, I couldn't answer any other way.
 Dialogue: 10,0:10:11.96,0:10:13.00,Default,,0,0,0,,Takagi.
 Dialogue: 10,0:10:17.88,0:10:19.09,Default,,0,0,0,,Are you an idiot?!
-Dialogue: 10,0:10:19.09,0:10:21.05,Default,,0,0,0,,If he's really your friend, you need to stop him!
+Dialogue: 10,0:10:19.09,0:10:21.05,Default,,0,0,0,,If he's really your friend, \Nyou need to stop him!
 Dialogue: 10,0:10:21.05,0:10:22.97,Default,,0,0,0,,What are you saying? That's pathetic!
 Dialogue: 10,0:10:23.60,0:10:25.98,Default,,0,0,0,,Yeah, I'm pathetic.
 Dialogue: 10,0:10:25.98,0:10:29.94,Default,,0,0,0,,But I don't want to go on hiatus either!
-Dialogue: 10,0:10:31.48,0:10:34.90,Default,,0,0,0,,Our rankings went up, we got a color spread...
-Dialogue: 10,0:10:34.90,0:10:38.11,Default,,0,0,0,,If I were in Saiko's place, I'd draw even if it meant dying!
-Dialogue: 10,0:10:39.66,0:10:43.70,Default,,0,0,0,,Even so... you can't draw manga if you're dead!
-Dialogue: 10,0:10:43.70,0:10:47.62,Default,,0,0,0,,And even if you don't die, it's a bad idea to draw manga while in bad health...
-Dialogue: 10,0:10:47.71,0:10:51.83,Default,,0,0,0,,{\fad(170,440)}I want to have a long-running popular manga in first place!
-Dialogue: 10,0:10:51.83,0:10:53.63,Default,,0,0,0,,No matter how many years it takes.
-Dialogue: 10,0:11:01.97,0:11:03.47,Default,,0,0,0,,Hi! {good evening is way too stilted}
+Dialogue: 10,0:10:31.48,0:10:34.90,Default,,0,0,0,,Our rankings went up, \Nwe got a color spread...
+Dialogue: 10,0:10:34.90,0:10:38.11,Default,,0,0,0,,If I were in Saiko's place, \NI'd draw even if it meant dying!
+Dialogue: 10,0:10:39.66,0:10:41.12,Default,,0,0,0,,Even so...
+Dialogue: 10,0:10:41.12,0:10:43.70,Default,,0,0,0,,you can't draw manga if you're dead!
+Dialogue: 10,0:10:43.70,0:10:45.08,Default,,0,0,0,,And even if you don't die,
+Dialogue: 10,0:10:45.08,0:10:47.62,Default,,0,0,0,,it's a bad idea to draw \Nmanga while in bad health...
+Dialogue: 10,0:10:47.71,0:10:51.83,Default-Italic,,0,0,0,,{\fad(170,440)}I want to have a long-running popular manga in first place!
+Dialogue: 10,0:10:51.83,0:10:53.63,Default-Italic,,0,0,0,,No matter how many years it takes.
+Dialogue: 10,0:11:01.97,0:11:03.47,Default,,0,0,0,,Hi!
 Dialogue: 10,0:11:03.47,0:11:04.64,Default,,0,0,0,,Azuki.
 Dialogue: 10,0:11:04.64,0:11:06.68,Default,,0,0,0,,Stay calm and listen.
 Dialogue: 10,0:11:13.56,0:11:17.15,Default,,0,0,0,,It's only natural that an assistant should take care of the author.
-Dialogue: 10,0:11:17.15,0:11:22.28,Default,,0,0,0,,Well, there's no need to do that, and my mom should be here soon...
+Dialogue: 10,0:11:17.15,0:11:17.82,Default,,0,0,0,,Well,
+Dialogue: 10,0:11:17.82,0:11:20.01,Default,,0,0,0,,there's no need to do that,
+Dialogue: 10,0:11:20.62,0:11:22.28,Default,,0,0,0,,and my mom should be here soon...
 Dialogue: 10,0:11:22.28,0:11:24.83,Default,,0,0,0,,I already met your mom yesterday.
 Dialogue: 10,0:11:24.83,0:11:26.70,Default,,0,0,0,,Ah, that's not what I mean...
-Dialogue: 10,0:11:27.20,0:11:29.16,Default,,0,0,0,,Shuujin, where the hell are you?
-Dialogue: 10,0:11:29.16,0:11:31.17,Default,,0,0,0,,You were supposed to bring the manuscript at 3!
+Dialogue: 10,0:11:27.20,0:11:29.16,Default-Italic,,0,0,0,,Shuujin, where the hell are you?
+Dialogue: 10,0:11:29.16,0:11:31.17,Default-Italic,,0,0,0,,You were supposed to \Nbring the manuscript at 3!
 Dialogue: 10,0:11:32.92,0:11:34.04,Default,,0,0,0,,Mashiro?
 Dialogue: 10,0:11:34.67,0:11:37.84,Default,,0,0,0,,Mashiro, it's me, Azuki.
-Dialogue: 10,0:11:37.84,0:11:38.96,Default,,0,0,0,,The girlfriend?!
-Dialogue: 10,0:11:38.42,0:11:40.09,Default-Alt,,0,0,0,,Azuki? Why is she here?!
+Dialogue: 10,0:11:37.84,0:11:40.09,Default-Italic,,0,0,0,,Azuki? Why is she here?!
+Dialogue: 10,0:11:37.84,0:11:38.96,Default-Alt2,,0,0,0,,{\i1}The girlfriend?!
 Dialogue: 10,0:11:40.09,0:11:41.88,Default,,0,0,0,,Um, I'll be going then.
 Dialogue: 10,0:11:41.88,0:11:45.01,Default,,0,0,0,,Ah, yeah, I'll leave the {\i1}work{\i0} to you!
-Dialogue: 10,0:11:45.01,0:11:47.47,Default,,0,0,0,,You don't need to emphasize "work" so much...
-Dialogue: 10,0:11:49.10,0:11:51.14,Default,,0,0,0,,Oh, she looks like a doll!
-Dialogue: 10,0:11:51.14,0:11:52.94,Default,,0,0,0,,I could never compete.
-Dialogue: 10,0:11:52.94,0:11:54.56,Default,,0,0,0,,She bowed before I did!
-Dialogue: 10,0:11:54.56,0:11:56.32,Default,,0,0,0,,She's really composed!
+Dialogue: 10,0:11:45.01,0:11:47.47,Default-Italic,,0,0,0,,You don't need to emphasize "work" so much...
+Dialogue: 10,0:11:49.10,0:11:51.14,Default-Italic,,0,0,0,,Oh, she looks like a doll!
+Dialogue: 10,0:11:51.14,0:11:52.94,Default-Italic,,0,0,0,,I could never compete.
+Dialogue: 10,0:11:52.94,0:11:54.56,Default-Italic,,0,0,0,,She bowed before I did!
+Dialogue: 10,0:11:54.56,0:11:56.32,Default-Italic,,0,0,0,,She's really composed!
 Dialogue: 10,0:12:00.49,0:12:01.86,Default,,0,0,0,,Mashiro.
 Dialogue: 10,0:12:01.86,0:12:04.49,Default,,0,0,0,,I think it's okay for me to come in...
 Dialogue: 10,0:12:06.58,0:12:09.75,Default,,0,0,0,,We're only supposed to meet after our dreams come true...
 Dialogue: 10,0:12:09.75,0:12:14.88,Default,,0,0,0,,But you were going to meet me at my house a while ago.
-Dialogue: 10,0:12:14.88,0:12:17.80,Default,,0,0,0,,That was... an emergency...
+Dialogue: 10,0:12:14.88,0:12:15.79,Default,,0,0,0,,That was...
+Dialogue: 10,0:12:15.79,0:12:17.80,Default,,0,0,0,,an emergency...
 Dialogue: 10,0:12:18.50,0:12:23.26,Default,,0,0,0,,Right now, I'm moving quickly towards realizing my dream...
-Dialogue: 10,0:12:24.18,0:12:29.47,Default,,0,0,0,,As long as I continue the serialization nonstop for a bit longer, I'll definitely...
-Dialogue: 10,0:12:30.77,0:12:35.52,Default,,0,0,0,,Okay. Then, even though it's a\N bit embarrassing, I'll speak from here.
+Dialogue: 10,0:12:24.18,0:12:28.35,Default,,0,0,0,,As long as I continue the serialization nonstop for a bit longer,
+Dialogue: 10,0:12:28.35,0:12:29.47,Default,,0,0,0,,I'll definitely...
+Dialogue: 10,0:12:30.77,0:12:31.68,Default,,0,0,0,,Okay.
+Dialogue: 10,0:12:32.35,0:12:35.52,Default,,0,0,0,,Then, even though it's a bit embarrassing, I'll speak from here.
 Dialogue: 10,0:12:35.52,0:12:37.23,Default,,0,0,0,,We can at least talk, right?
 Dialogue: 10,0:12:37.23,0:12:39.11,Default,,0,0,0,,Well, yeah.
 Dialogue: 10,0:12:41.74,0:12:42.90,Default,,0,0,0,,Mashiro.
 Dialogue: 10,0:12:42.90,0:12:43.57,Default,,0,0,0,,Yes?
 Dialogue: 10,0:12:45.61,0:12:47.99,Default,,0,0,0,,You're going to wait until {\i1}after{\i0} you recover to draw, right?
-Dialogue: 10,0:12:52.37,0:12:53.71,Default,,0,0,0,,I won't let the manuscript fall behind.
-Dialogue: 10,0:12:56.13,0:12:59.17,Default,,0,0,0,,Shuujin, hurry up and bring it here!
-Dialogue: 10,0:12:59.88,0:13:01.05,Default,,0,0,0,,Could he have...
-Dialogue: 10,0:13:02.17,0:13:07.22,Default,,0,0,0,,If you don't say you won't draw until you're released from the hospital...
+Dialogue: 10,0:12:52.37,0:12:53.71,Default-Italic,,0,0,0,,I won't let the manuscript fall behind.
+Dialogue: 10,0:12:56.13,0:12:59.17,Default-Italic,,0,0,0,,Shuujin, hurry up and bring it here!
+Dialogue: 10,0:12:59.88,0:13:01.05,Default-Italic,,0,0,0,,Could he have...
+Dialogue: 10,0:13:02.17,0:13:04.11,Default,,0,0,0,,If you don't say
+Dialogue: 10,0:13:04.11,0:13:07.22,Default,,0,0,0,,you won't draw until you're \Nreleased from the hospital...
 Dialogue: 10,0:13:08.01,0:13:11.06,Default,,0,0,0,,I'll hate you.
-Dialogue: 10,0:13:12.47,0:13:16.60,Default,,0,0,0,,If you'll hate me for something like that, then go ahead and hate me.
-Dialogue: 10,0:13:17.19,0:13:19.86,Default,,0,0,0,,I won't leave until you say you won't draw!
+Dialogue: 10,0:13:12.47,0:13:14.80,Default,,0,0,0,,If you'll hate me for something like that,
+Dialogue: 10,0:13:14.80,0:13:16.60,Default,,0,0,0,,then go ahead and hate me.
+Dialogue: 10,0:13:17.19,0:13:19.86,Default,,0,0,0,,I won't leave until you \Nsay you won't draw!
 Dialogue: 10,0:13:19.86,0:13:21.32,Default,,0,0,0,,Go ahead.
 Dialogue: 10,0:13:21.32,0:13:23.36,Default,,0,0,0,,I'll really hate you!
 Dialogue: 10,0:13:24.03,0:13:25.32,Default,,0,0,0,,Go ahead.
 Dialogue: 10,0:13:26.95,0:13:28.49,Default,,0,0,0,,That's unfair.
-Dialogue: 10,0:13:28.49,0:13:33.20,Default,,0,0,0,,You say that, knowing that I can't hate you.
-Dialogue: 10,0:13:33.20,0:13:37.12,Default,,0,0,0,,Even though you can't, you're worse for saying you can.
+Dialogue: 10,0:13:28.49,0:13:33.20,Default,,0,0,0,,You say that, knowing \Nthat I can't hate you.
+Dialogue: 10,0:13:33.20,0:13:37.12,Default,,0,0,0,,Even though you can't, \Nyou're worse for saying you can.
 Dialogue: 10,0:13:37.12,0:13:38.96,Default,,0,0,0,,Yeah, I'm sorry.
 Dialogue: 10,0:13:39.67,0:13:44.80,Default,,0,0,0,,Since I've liked you for eight years, there's no way I could hate you.
-Dialogue: 10,0:13:46.30,0:13:49.43,Default,,0,0,0,,It's the first time she's said she likes me!
+Dialogue: 10,0:13:46.30,0:13:49.43,Default-Italic,,0,0,0,,It's the first time she's said she likes me!
 Dialogue: 10,0:13:50.39,0:13:51.43,Default,,0,0,0,,Eight years?
 Dialogue: 10,0:13:51.43,0:13:54.85,Default,,0,0,0,,Yeah, since 4th grade.
 Dialogue: 10,0:13:57.23,0:14:00.06,Default,,0,0,0,,Hey, buy me candied apples!
-Dialogue: 10,0:14:00.06,0:14:03.32,Default,,0,0,0,,Absolutely not. You don't want to get more cavities, do you?
+Dialogue: 10,0:14:00.06,0:14:01.07,Default,,0,0,0,,Absolutely not.
+Dialogue: 10,0:14:01.07,0:14:03.32,Default,,0,0,0,,You don't want to get\N more cavities, do you?
 Dialogue: 10,0:14:03.32,0:14:04.90,Default,,0,0,0,,Miho, we're leaving.
 Dialogue: 10,0:14:04.90,0:14:06.90,Default-Alt,,0,0,0,,Candied apples!
 Dialogue: 10,0:14:05.90,0:14:09.57,Default,,0,0,0,,Mom, I really like this painting.
-Dialogue: 10,0:14:19.12,0:14:22.71,Default,,0,0,0,,It's well done. I like it too.
+Dialogue: 10,0:14:19.12,0:14:20.59,Default,,0,0,0,,It's well done.
+Dialogue: 10,0:14:20.59,0:14:22.71,Default,,0,0,0,,I like it too.
 Dialogue: 10,0:14:23.80,0:14:27.59,Default,,0,0,0,,It's funny how it's spelled "Saiko" but read like "Moritaka".
 Dialogue: 10,0:14:27.59,0:14:30.68,Default-Alt,,0,0,0,,Candied apples!
 Dialogue: 10,0:14:29.30,0:14:32.51,Default,,0,0,0,,Saiko, your art got put up again?
 Dialogue: 10,0:14:32.51,0:14:34.43,Default,,0,0,0,,It's good, so whatever.
-Dialogue: 10,0:14:34.43,0:14:36.31,Default,,0,0,0,,Don't you want to be a mangaka when you grow up?
+Dialogue: 10,0:14:34.43,0:14:36.31,Default,,0,0,0,,Don't you want to be a \Nmangaka when you grow up?
 Dialogue: 10,0:14:36.31,0:14:37.85,Default,,0,0,0,,Isn't your art too different?
 Dialogue: 10,0:14:37.85,0:14:40.44,Default,,0,0,0,,The basics are what's important, stupid.
-Dialogue: 10,0:14:40.44,0:14:42.61,Default,,0,0,0,,Come on, let's go to the cardboard boat tournament.
+Dialogue: 10,0:14:40.44,0:14:42.61,Default,,0,0,0,,Come on, let's go to the \Ncardboard boat tournament.
 Dialogue: 10,0:14:42.61,0:14:43.11,Default,,0,0,0,,Yeah!
 Dialogue: 10,0:14:43.11,0:14:45.44,Default,,0,0,0,,{\fad(0,1130)}Ever since I saw that painting...
-Dialogue: 10,0:14:46.57,0:14:50.78,Default,,0,0,0,,Ever since then, I was really interested in you.
-Dialogue: 10,0:14:50.78,0:14:54.95,Default,,0,0,0,,Since I lived close to the school, I'd look for you on the way to and from it...
+Dialogue: 10,0:14:46.57,0:14:50.78,Default,,0,0,0,,Ever since then, \NI was really interested in you.
+Dialogue: 10,0:14:50.78,0:14:52.91,Default,,0,0,0,,Since I lived close to the school,
+Dialogue: 10,0:14:52.91,0:14:54.95,Default,,0,0,0,,I'd look for you on the way to and from it...
 Dialogue: 10,0:14:55.91,0:14:57.00,Default,,0,0,0,,Then in 5th grade...
 Dialogue: 10,0:14:58.33,0:15:00.29,Default,,0,0,0,,It's the compass my uncle uses!
 Dialogue: 10,0:15:00.29,0:15:02.42,Default,,0,0,0,,You put ink on it and draw!
 Dialogue: 10,0:15:02.42,0:15:04.42,Default,,0,0,0,,It's for pro mangakas!
-Dialogue: 10,0:15:04.42,0:15:07.26,Default,,0,0,0,,We're just buying a compass for math, right?
+Dialogue: 10,0:15:04.42,0:15:07.26,Default,,0,0,0,,We're just buying a \Ncompass for math, right?
 Dialogue: 10,0:15:07.26,0:15:09.22,Default,,0,0,0,,Besides, it's 4,500 yen...
 Dialogue: 10,0:15:09.22,0:15:10.59,Default,,0,0,0,,I really, really want it!
 Dialogue: 10,0:15:10.59,0:15:12.01,Default,,0,0,0,,Yama, how much do you have on you?
@@ -346,7 +371,7 @@ Dialogue: 10,0:15:18.27,0:15:19.52,Default,,0,0,0,,I have 1,000 yen.
 Dialogue: 10,0:15:19.52,0:15:20.48,Default,,0,0,0,,That's not enough.
 Dialogue: 10,0:15:21.15,0:15:25.77,Default,,0,0,0,,I really liked how your eyes sparkled when you looked at the compass.
 Dialogue: 10,0:15:27.36,0:15:32.45,Default,,0,0,0,,At the swim meet, I was watching you constantly, trying to convey my feelings.
-Dialogue: 10,0:15:33.87,0:15:37.79,Default,,0,0,0,,That's when I first noticed her.
+Dialogue: 10,0:15:33.87,0:15:37.79,Default-Italic,,0,0,0,,That's when I first noticed her.
 Dialogue: 10,0:15:37.79,0:15:42.83,Default,,0,0,0,,We went to the same middle school and both got placed in Class 3...
 Dialogue: 10,0:15:42.83,0:15:44.71,Default,,0,0,0,,And then you...
 Dialogue: 10,0:15:44.79,0:15:47.96,Default,,0,0,0,,{\fad(450,500)}So after our dreams come true, please marry me!
@@ -355,7 +380,8 @@ Dialogue: 10,0:15:50.63,0:15:52.97,Default,,0,0,0,,I was so happy I could die.
 Dialogue: 10,0:15:53.76,0:15:56.89,Default,,0,0,0,,But if we die, our dreams won't come true.
 Dialogue: 10,0:15:58.18,0:16:01.81,Default,,0,0,0,,I've always liked you, and you're irreplaceable to me now...
 Dialogue: 10,0:16:03.06,0:16:06.98,Default,,0,0,0,,I want you to stop drawing until you're released, for my sake.
-Dialogue: 10,0:16:11.36,0:16:16.28,Default,,0,0,0,,D-Do you... value manga more than me?
+Dialogue: 10,0:16:11.36,0:16:13.80,Default,,0,0,0,,D-Do you...
+Dialogue: 10,0:16:13.80,0:16:16.28,Default,,0,0,0,,value manga more than me?
 Dialogue: 10,0:16:17.62,0:16:19.58,Default,,0,0,0,,They can't be compared.
 Dialogue: 10,0:16:20.87,0:16:22.96,Default,,0,0,0,,They're both important,
 Dialogue: 10,0:16:23.79,0:16:26.75,Default,,0,0,0,,but if you put it that way,
@@ -363,57 +389,64 @@ Dialogue: 10,0:16:26.75,0:16:28.84,Default,,0,0,0,,then manga is more important.
 Dialogue: 10,0:16:30.09,0:16:32.97,Default,,0,0,0,,{\fad(0,300)}M-Mashiro...
 Dialogue: 10,0:16:33.97,0:16:35.64,Default,,0,0,0,,We met...
 Dialogue: 10,0:16:41.10,0:16:42.81,Default,,0,0,0,,I'll draw the manga.
-Dialogue: 10,0:16:42.81,0:16:45.31,Default,,0,0,0,,It'll be okay. Don't worry.
+Dialogue: 10,0:16:42.81,0:16:43.93,Default,,0,0,0,,It'll be okay.
+Dialogue: 10,0:16:43.93,0:16:45.31,Default,,0,0,0,,Don't worry.
 Dialogue: 10,0:16:50.94,0:16:52.03,Default,,0,0,0,,Shuujin.
 Dialogue: 10,0:16:52.03,0:16:53.36,Default,,0,0,0,,Yeah?
 Dialogue: 10,0:16:53.86,0:16:55.32,Default,,0,0,0,,Manga is great!
 Dialogue: 10,0:16:56.16,0:16:59.83,Default,,0,0,0,,Somehow, I feel just like Joe from {\i1}Ashita no Joe{\i0} when he went to his final match.
-Dialogue: 10,0:17:00.91,0:17:03.66,Default,,0,0,0,,So Azuki couldn't stop him?
+Dialogue: 10,0:17:00.91,0:17:03.66,Default-Italic,,0,0,0,,So Azuki couldn't stop him?
 Dialogue: 10,0:17:04.12,0:17:06.50,Default,,0,0,0,,I'm really pumped up right now!
 Dialogue: 10,0:17:06.50,0:17:08.25,Default,,0,0,0,,Hurry up and bring the manuscript!
-Dialogue: 10,0:17:11.46,0:17:14.72,Default,,0,0,0,,Okay! I'll be there in 20... no, 15 minutes!
+Dialogue: 10,0:17:11.46,0:17:12.70,Default,,0,0,0,,Okay!
+Dialogue: 10,0:17:12.70,0:17:13.47,Default,,0,0,0,,I'll be there in 20...
+Dialogue: 10,0:17:13.47,0:17:14.72,Default,,0,0,0,,No, 15 minutes!
 Dialogue: 10,0:17:14.72,0:17:15.93,Default,,0,0,0,,I'm sorry for telling Azuki!
 Dialogue: 10,0:17:16.76,0:17:19.60,Default,,0,0,0,,Ashirogi's going on hiatus?
 Dialogue: 10,0:17:19.60,0:17:21.18,Default,,0,0,0,,That's unfortunate.
-Dialogue: 10,0:17:21.18,0:17:24.10,Default,,0,0,0,,Yeah, right now the editorial department is topsy turvy. {all over the place}
+Dialogue: 10,0:17:21.18,0:17:24.10,Default,,0,0,0,,Yeah, right now the editorial \Ndepartment is topsy turvy.
 Dialogue: 10,0:17:24.10,0:17:29.82,Default,,0,0,0,,I thought of a good story that won't lose to {\i1}Trap{\i0}'s front page color spread.
 Dialogue: 10,0:17:29.82,0:17:31.57,Default,,0,0,0,,I wanted to compete with them.
-Dialogue: 10,0:17:31.57,0:17:33.49,Default,,0,0,0,,Well he's sick, so nothing can be done about it.
+Dialogue: 10,0:17:31.57,0:17:33.49,Default,,0,0,0,,Well he's sick, so nothing\N can be done about it.
 Dialogue: 10,0:17:33.49,0:17:34.78,Default,,0,0,0,,I want to visit him.
 Dialogue: 10,0:17:34.78,0:17:36.32,Default,,0,0,0,,Which hospital is he in?
-Dialogue: 10,0:17:36.32,0:17:40.24,Default,,0,0,0,,Um, let's see... I think it was Yakusa Municipal Hospital...
+Dialogue: 10,0:17:36.32,0:17:37.55,Default,,0,0,0,,Um, let's see...
+Dialogue: 10,0:17:37.55,0:17:40.24,Default,,0,0,0,,I think it was Yakusa Municipal Hospital...
 Dialogue: 10,0:17:40.24,0:17:41.74,Default,,0,0,0,,Yakusa Municipal, right?
 Dialogue: 10,0:17:41.74,0:17:42.87,Default,,0,0,0,,I'm off!
 Dialogue: 10,0:17:42.87,0:17:44.83,Default,,0,0,0,,H-Hey, Niizuma!
-Dialogue: 10,0:17:53.26,0:17:56.68,Default,,0,0,0,,Since we've seen each other, you can come inside...
+Dialogue: 10,0:17:53.26,0:17:56.68,Default,,0,0,0,,Since we've seen each \Nother, you can come inside...
 Dialogue: 10,0:17:56.68,0:17:57.63,Default,,0,0,0,,Yeah...
 Dialogue: 10,0:17:58.22,0:17:59.43,Default,,0,0,0,,Moritaka?
-Dialogue: 10,0:18:13.07,0:18:15.57,Default,,0,0,0,,He has a girlfriend, huh?
-Dialogue: 10,0:18:15.57,0:18:17.78,Default,,0,0,0,,And such a cute girl, too.
-Dialogue: 10,0:18:17.78,0:18:20.53,Default,,0,0,0,,I guess manga wasn't his girlfriend, after all.
+Dialogue: 10,0:18:13.07,0:18:15.57,Default-Italic,,0,0,0,,He has a girlfriend, huh?
+Dialogue: 10,0:18:15.57,0:18:17.78,Default-Italic,,0,0,0,,And such a cute girl, too.
+Dialogue: 10,0:18:17.78,0:18:20.53,Default-Italic,,0,0,0,,I guess manga wasn't \Nhis girlfriend, after all.
 Dialogue: 10,0:18:21.66,0:18:25.00,Default,,0,0,0,,I almost ran into your mom at the entrance!
 Dialogue: 10,0:18:25.70,0:18:27.25,Default,,0,0,0,,These are the G pens.
-Dialogue: 10,0:18:27.25,0:18:29.75,Default,,0,0,0,,I brought some Crow quill pens and spoon pens, too.{kabura pen also called spoon pen, or we could leave in kabura}
+Dialogue: 10,0:18:27.25,0:18:29.75,Default,,0,0,0,,I brought some Crow quill \Npens and spoon pens, too.
 Dialogue: 10,0:18:29.75,0:18:30.83,Default,,0,0,0,,Thanks.
 Dialogue: 10,0:18:32.04,0:18:34.30,Default,,0,0,0,,I forgot the ink!
 Dialogue: 10,0:18:35.30,0:18:36.38,Default,,0,0,0,,It's fine.
 Dialogue: 10,0:18:36.38,0:18:38.88,Default,,0,0,0,,I have color pens, so I'll start with chapter 20's color page.
-Dialogue: 10,0:18:39.43,0:18:43.51,Default,,0,0,0,,I'll finish chapter 19 by tomorrow, so if you take it to the office right away, we should make it in time.
+Dialogue: 10,0:18:39.43,0:18:41.10,Default,,0,0,0,,I'll finish chapter 19 by tomorrow,
+Dialogue: 10,0:18:41.10,0:18:43.51,Default,,0,0,0,,so if you take it to the office right away, we should make it in time.
 Dialogue: 10,0:18:43.51,0:18:44.72,Default,,0,0,0,,Sorry.
-Dialogue: 10,0:18:46.68,0:18:51.36,Default,,0,0,0,,Azuki... she's gotten more mature, or prettier, you could say.
+Dialogue: 10,0:18:46.68,0:18:48.03,Default-Italic,,0,0,0,,Azuki...
+Dialogue: 10,0:18:48.03,0:18:51.36,Default-Italic,,0,0,0,,She's gotten more mature,\N or prettier, you could say.
 Dialogue: 10,0:18:52.48,0:18:53.19,Default,,0,0,0,,Takagi.
 Dialogue: 10,0:18:53.19,0:18:55.23,Default,,0,0,0,,Uh, yeah?
 Dialogue: 10,0:18:55.23,0:18:56.86,Default,,0,0,0,,Why did you bring the manuscript?
-Dialogue: 10,0:18:58.07,0:19:02.12,Default,,0,0,0,,You're the one who asked me to stop him.
+Dialogue: 10,0:18:58.07,0:19:02.12,Default,,0,0,0,,You're the one who \Nasked me to stop him.
 Dialogue: 10,0:19:03.20,0:19:05.62,Default,,0,0,0,,Because I'm a guy, I guess?
 Dialogue: 10,0:19:07.45,0:19:12.04,Default,,0,0,0,,Even you feel something when looking at him working so hard, right?
-Dialogue: 10,0:19:14.00,0:19:19.30,Default,,0,0,0,,{\fad(0,550)}Speaking of which, this is the first time I've seen him while he's drawing manga.
+Dialogue: 10,0:19:14.00,0:19:15.60,Default-Italic,,0,0,0,,Speaking of which,
+Dialogue: 10,0:19:15.60,0:19:19.30,Default-Italic,,0,0,0,,{\fad(0,550)}this is the first time I've seen him while he's drawing manga.
 Dialogue: 10,0:19:25.18,0:19:27.10,Default,,0,0,0,,LET'S HOSPITAL!
-Dialogue: 10,0:19:27.10,0:19:29.73,Default,,0,0,0,,Niizuma, this is a hospital! Keep your voice down!
+Dialogue: 10,0:19:27.10,0:19:29.73,Default,,0,0,0,,Niizuma, this is a hospital! \NKeep your voice down!
 Dialogue: 10,0:19:29.73,0:19:31.19,Default,,0,0,0,,Ah, the receipt please.
-Dialogue: 10,0:19:31.73,0:19:33.86,Default,,0,0,0,,Ashirogi, I'm here!
+Dialogue: 10,0:19:31.73,0:19:33.86,Default,,0,0,0,,Ashirogi-sensei, I'm here!
 Dialogue: 10,0:19:34.82,0:19:36.11,Default,,0,0,0,,Niizuma!
-Dialogue: 10,0:19:40.57,0:19:43.74,Default,,0,0,0,,You're working on your color page, aren't you?
+Dialogue: 10,0:19:40.57,0:19:43.74,Default,,0,0,0,,You're working on your\N color page, aren't you?
 Dialogue: 10,0:19:43.74,0:19:44.53,Default,,0,0,0,,Yes.
 Dialogue: 10,0:19:49.25,0:19:52.62,Default,,0,0,0,,Niizuma, you can't run inside a hospital.
 Dialogue: 10,0:19:52.62,0:19:54.63,Default,,0,0,0,,Yuujirou, we're leaving.
@@ -430,21 +463,22 @@ Dialogue: 10,0:20:13.56,0:20:15.73,Default,,0,0,0,,Are you an idiot?
 Dialogue: 10,0:20:15.73,0:20:19.23,Default,,0,0,0,,She looks just like {\i1}Trap{\i0}'s heroine, Ami.
 Dialogue: 10,0:20:19.23,0:20:20.36,Default,,0,0,0,,Oh, I see.
 Dialogue: 10,0:20:20.36,0:20:21.19,Default,,0,0,0,,I'm an idiot.
-Dialogue: 10,0:20:21.19,0:20:23.82,Default,,0,0,0,,Yeah, I wouldn't think you were a Jack editor.
-Dialogue: 10,0:20:23.82,0:20:27.28,Default,,0,0,0,,Well, she's cuter than Ami.
+Dialogue: 10,0:20:21.19,0:20:24.32,Default,,0,0,0,,Yeah, I wouldn't think \Nyou were a Jack editor.
+Dialogue: 10,0:20:24.32,0:20:27.28,Default,,0,0,0,,Well, she's cuter than Ami.
 Dialogue: 10,0:20:27.28,0:20:28.95,Default,,0,0,0,,More importantly...
 Dialogue: 10,0:20:32.41,0:20:33.46,Default,,0,0,0,,Yes...?
 Dialogue: 10,0:20:33.46,0:20:35.46,Default,,0,0,0,,Miura, what the heck are you doing?!
-Dialogue: 10,0:20:35.46,0:20:38.71,Default,,0,0,0,,What do you mean? I'm arranging a substitute manuscript for {\i1}Trap{\i0}...
-Dialogue: 10,0:20:38.71,0:20:40.88,Default,,0,0,0,,Mashiro is drawing the manuscript in the hospital!
+Dialogue: 10,0:20:35.46,0:20:37.13,Default,,0,0,0,,What do you mean?
+Dialogue: 10,0:20:37.13,0:20:38.80,Default,,0,0,0,,I'm arranging a substitute \Nmanuscript for {\i1}Trap{\i0}...
+Dialogue: 10,0:20:38.80,0:20:40.88,Default,,0,0,0,,Mashiro is drawing the \Nmanuscript in the hospital!
 Dialogue: 10,0:20:40.88,0:20:42.09,Default,,0,0,0,,What?!
 Dialogue: 10,0:20:43.05,0:20:44.43,Default,,0,0,0,,I should get going.
-Dialogue: 10,0:20:44.43,0:20:45.84,Default,,0,0,0,,I'm in the way. {he's the third wheel}
+Dialogue: 10,0:20:44.43,0:20:45.84,Default,,0,0,0,,I'm in the way.
 Dialogue: 10,0:20:45.84,0:20:46.80,Default,,0,0,0,,Stay!
-Dialogue: 10,0:20:46.80,0:20:48.43,Default,,0,0,0,,It'll be difficult with just the two of us here...
+Dialogue: 10,0:20:46.80,0:20:48.43,Default,,0,0,0,,It'll be difficult with \Njust the two of us here...
 Dialogue: 10,0:20:48.43,0:20:50.64,Default,,0,0,0,,That's so mean!
 Dialogue: 10,0:20:50.64,0:20:53.27,Default,,0,0,0,,No, it isn't you.
-Dialogue: 10,0:20:53.27,0:20:56.02,Default,,0,0,0,,I'm just too embarrassed and can't look at your face.
+Dialogue: 10,0:20:53.27,0:20:56.02,Default,,0,0,0,,I'm just too embarrassed \Nand can't look at your face.
 Dialogue: 10,0:20:56.02,0:20:56.86,Default,,0,0,0,,Oh...
 Dialogue: 10,0:20:56.86,0:20:59.57,Default,,0,0,0,,Takagi, can you stay until I leave?
 Dialogue: 10,0:21:01.07,0:21:01.86,Default,,0,0,0,,I'll leave after all.
@@ -452,18 +486,20 @@ Dialogue: 10,0:21:01.86,0:21:03.07,Default,,0,0,0,,Shuujin!
 Dialogue: 10,0:21:04.82,0:21:07.03,Default,,0,0,0,,Saiko, hide the manuscript!
 Dialogue: 10,0:21:07.03,0:21:08.37,Default,,0,0,0,,It's Miura!
 Dialogue: 10,0:21:09.37,0:21:11.54,Default,,0,0,0,,No, we should show it to him.
-Dialogue: 10,0:21:12.00,0:21:14.21,Default,,0,0,0,,Let him know we're still gonna make the deadline.
+Dialogue: 10,0:21:12.00,0:21:14.21,Default,,0,0,0,,Let him know we're still \Ngonna make the deadline.
 Dialogue: 10,0:21:14.21,0:21:15.75,Default,,0,0,0,,Really?
 Dialogue: 10,0:21:15.75,0:21:16.50,Default,,0,0,0,,I guess so.
 Dialogue: 10,0:21:17.50,0:21:18.67,Default,,0,0,0,,Come in.
 Dialogue: 10,0:21:20.67,0:21:22.13,Default,,0,0,0,,Good to see you.
 Dialogue: 10,0:21:22.13,0:21:24.67,Default,,0,0,0,,Chapter 20's color page is going well.
-Dialogue: 10,0:21:24.67,0:21:28.89,Default,,0,0,0,,I'll finish penning-in chapter 19 tomorrow, and it can be finalized soon after.
+Dialogue: 10,0:21:24.67,0:21:27.44,Default,,0,0,0,,I'll finish penning-in chapter 19 tomorrow,
+Dialogue: 10,0:21:27.44,0:21:28.89,Default,,0,0,0,,and it can be finalized soon after.
 Dialogue: 10,0:21:29.72,0:21:31.56,Default,,0,0,0,,I can draw in the hospital just fine.
-Dialogue: 10,0:21:32.27,0:21:34.73,Default,,0,0,0,,I definitely won't let the manuscript fall behind.
-Dialogue: 10,0:21:34.73,0:21:36.52,Default,,0,0,0,,Mashiro...
-Dialogue: 10,0:21:36.52,0:21:40.73,Default,,0,0,0,,No, stopping him is my job.
-Dialogue: 10,0:21:41.40,0:21:44.24,Default,,0,0,0,,Saiko! Call the nurse!
+Dialogue: 10,0:21:32.27,0:21:34.73,Default,,0,0,0,,I definitely won't let the \Nmanuscript fall behind.
+Dialogue: 10,0:21:34.73,0:21:36.52,Default-Italic,,0,0,0,,Mashiro...
+Dialogue: 10,0:21:36.52,0:21:40.73,Default-Italic,,0,0,0,,No, stopping him is my job.
+Dialogue: 10,0:21:41.40,0:21:42.51,Default,,0,0,0,,Saiko!
+Dialogue: 10,0:21:42.51,0:21:44.24,Default,,0,0,0,,Call the nurse!
 Dialogue: 10,0:21:44.24,0:21:45.70,Default,,0,0,0,,I'm fine.
 Dialogue: 10,0:21:45.70,0:21:47.91,Default,,0,0,0,,Just let me draw—
 Dialogue: 10,0:21:48.45,0:21:49.57,Default,,0,0,0,,It's no good!
@@ -472,16 +508,18 @@ Dialogue: 10,0:21:49.95,0:21:52.04,Default-Alt,,0,0,0,,Takagi, hurry up and call
 Dialogue: 10,0:21:52.49,0:21:54.00,Default,,0,0,0,,I'm fine...
 Dialogue: 10,0:21:59.38,0:22:00.50,Default,,0,0,0,,Stop.
 Dialogue: 10,0:22:00.50,0:22:02.88,Default,,0,0,0,,Mashiro is saying he's fine.
-Dialogue: 10,0:22:03.51,0:22:08.59,Default,,0,0,0,,Takagi, when you brought the manuscript here, you were prepared to have him draw no matter what, right?
+Dialogue: 10,0:22:03.51,0:22:05.72,Default,,0,0,0,,Takagi, when you brought \Nthe manuscript here,
+Dialogue: 10,0:22:05.72,0:22:08.59,Default,,0,0,0,,you were prepared to have him draw no matter what, right?
 Dialogue: 10,0:22:08.59,0:22:11.35,Default,,0,0,0,,If you make him stop here, you shouldn't have brought it at all.
 Dialogue: 10,0:22:11.35,0:22:12.39,Default,,0,0,0,,Azuki...
 Dialogue: 10,0:22:15.68,0:22:18.02,Default,,0,0,0,,Mashiro, let's do our best.
-Dialogue: 10,0:22:18.56,0:22:23.78,Default,,0,0,0,,I know you can draw without resting. I believe in you.
+Dialogue: 10,0:22:18.56,0:22:21.02,Default,,0,0,0,,I know you can draw without resting.
+Dialogue: 10,0:22:21.71,0:22:23.78,Default,,0,0,0,,I believe in you.
 Dialogue: 10,0:22:25.19,0:22:27.20,Default,,0,0,0,,Let's make our dreams come true.
 Dialogue: 10,0:22:27.70,0:22:28.53,Default,,0,0,0,,Yeah.
-Dialogue: 10,0:22:29.91,0:22:34.83,Default,,0,0,0,,I-I can't tell him to stop drawing.
+Dialogue: 10,0:22:29.91,0:22:34.83,Default-Italic,,0,0,0,,I-I can't tell him to stop drawing.
 Dialogue: 10,0:24:15.97,0:24:17.56,Default,,0,0,0,,Mashiro collapsed?!
-Dialogue: 10,0:24:17.56,0:24:19.60,Default,,0,0,0,,Serializing while in high school was too tough, huh.
+Dialogue: 10,0:24:17.56,0:24:19.60,Default,,0,0,0,,Serializing while in high \Nschool was too tough, huh.
 Dialogue: 10,0:24:19.60,0:24:20.85,Default,,0,0,0,,My health is also kinda—
 Dialogue: 10,0:24:20.85,0:24:21.56,Default,,0,0,0,,Hiramaru!
 Dialogue: 10,0:24:22.23,0:24:23.48,Default,,0,0,0,,Next time on Bakuman:
@@ -562,7 +600,7 @@ Dialogue: 0,0:10:58.80,0:10:58.92,Textmsgs,,0,0,0,,{\pos(571,239)\blur0.8\frz15.
 Dialogue: 0,0:10:58.92,0:10:59.59,Textmsgs,,0,0,0,,{\pos(560,222)\blur0.8\frz15.383\fscx50\fscy50\c&HBEBEBE&}Incoming Call
 Dialogue: 0,0:07:59.20,0:08:05.42,Textmsgs,,0,0,0,,{\move(571,407,607,407)\blur0.8\fax-0.47\c&H29302C&\fscx85\fscy85\frz22.782\fsp-1}Kitashita Juuichi
 Dialogue: 0,0:07:59.20,0:08:05.42,Textmsgs,,0,0,0,,{\move(567,547,603,547)\blur0.8\fs40\fax-0.34\c&H2E3632&\fscx85\fscy85\fsp-1\frz16.237}Mashiro Moritaka
-Dialogue: 0,0:13:54.93,0:13:58.73,Ni,,0,0,0,,{\blur1\fs50\frz0\an1\move(932,441,932,129)\c&HFFFFFF&\t(0,1200,\c&HBACFD3&)}Yakusa City \NCitizen \NFestival
+Dialogue: 0,0:13:54.93,0:13:58.73,Ni,,0,0,0,,{\blur1\fs50\frz0\an1\c&HFFFFFF&\t(0,1200,\c&HBACFD3&)\move(932,441,932,106)}Yakusa City \NCitizen \NFestival
 Dialogue: 0,0:14:10.20,0:14:13.04,Lyrics-Jap,,0,0,0,,{\an8\fnblemished\move(620,122,620,-40)\blur1\c&HE1ECFC&\bord0\frz20.756}Pet
 Dialogue: 0,0:14:10.20,0:14:13.04,Lyrics-Jap,,0,0,0,,{\an8\fnblemished\move(741,106,741,-56)\blur1\c&HE1ECFC&\bord0\frz1.987}Bird
 Dialogue: 0,0:14:10.20,0:14:13.04,Lyrics-Jap,,0,0,0,,{\an8\fnblemished\move(854,82,854,-79)\blur1\c&HE1ECFC&\bord0\frz15.744}Week
