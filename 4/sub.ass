@@ -20,10 +20,10 @@ Video File: ep4.mkv
 Keyframes File: ep4_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 415
-Active Line: 460
-Video Position: 32458
+Video Zoom Percent: 1.000000
+Scroll Position: 516
+Active Line: 531
+Video Position: 23010
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -586,8 +586,8 @@ Dialogue: 0,0:01:01.79,0:01:06.46,AssistToo,,0,0,0,,{\blur1\fscx75\fscy75\frz270
 Dialogue: 0,0:01:01.79,0:01:06.46,AssistToo,,0,0,0,,{\blur1\fscx85\fscy85\frz270.043\c&H555B5B&\pos(1156,301)}Manuscript #6 UP
 Dialogue: 0,0:01:01.79,0:01:06.46,AssistToo,,0,0,0,,{\blur1\fscx75\fscy75\frz272.31\c&H303433&\pos(354,582)}#7 Meeting
 Dialogue: 0,0:01:01.79,0:01:06.46,AssistToo,,0,0,0,,{\blur1\fscx85\fscy85\frz272.31\c&H3E4542&\pos(1102,617)}#8 Meeting
-Dialogue: 0,0:01:01.79,0:01:06.46,AssistToo,,0,0,0,,{\blur1\fscx75\fscy75\c&H333534&\frz271.123\pos(483,359)}#7 Storyboard Work
+Dialogue: 0,0:01:01.79,0:01:06.46,AssistToo,,0,0,0,,{\blur1\fscx75\fscy75\c&H333534&\frz271.123\pos(483,380)}#7 Name Work
 Dialogue: 1,0:01:01.79,0:01:06.46,Assist,,0,0,0,,{\blur1\fs48\fscx75\fscy75\c&H3A2DD5&\frz2.239\pos(267,462)}Assistant IN
 Dialogue: 1,0:01:01.79,0:01:06.46,Assist,,0,0,0,,{\blur1\fscx95\fscy95\c&H4036D6&\frz1.184\pos(970,449)}Assistant IN
-Dialogue: 0,0:15:52.84,0:16:00.73,Huge,,0,0,0,,{\fad(1376,1335)\b0\blur1\frz349.697\fscx55\fscy55\move(1286,360,1106,360)\c&H000000&\t(0,1355,\c&H767575&)\t(6535,7870,\c&H000000&)}Shady Detective Trap Serialization\N Storyboard Chapter 5
-Dialogue: 0,0:18:56.82,0:19:04.45,Huge,,0,0,0,,{\b0\blur1\frz352.044\move(244,324,741,324)\c&H807C7E&}Shady Detective Trap Serialization\N Storyboard Chapter 7
+Dialogue: 0,0:15:52.84,0:16:00.73,Huge,,0,0,0,,{\fad(1376,1335)\b0\blur1\frz349.697\fscx55\fscy55\move(1286,360,1106,360)\c&H000000&\t(0,1355,\c&H767575&)\t(6535,7870,\c&H000000&)}Shady Detective Trap \NSerialization Name Chapter 5
+Dialogue: 0,0:18:56.82,0:19:04.45,Huge,,0,0,0,,{\b0\blur1\frz352.044\move(244,324,741,324)\c&H807C7E&}Shady Detective Trap Serialization\N Name Chapter 7

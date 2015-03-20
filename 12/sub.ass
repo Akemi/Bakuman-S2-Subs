@@ -19,9 +19,9 @@ Keyframes File: ep12_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 1685
-Active Line: 1703
-Video Position: 34909
+Scroll Position: 691
+Active Line: 707
+Video Position: 22649
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -777,15 +777,15 @@ Dialogue: 3,0:15:44.63,0:15:47.00,NextEpTitle,,0,0,0,,{\fnOdense\fad(0,0)\blur0.
 Dialogue: 2,0:15:44.63,0:15:47.00,NextEpTitle,,0,0,0,,{\fnOdense\fad(0,0)\blur0.8\frz12\fax-0.22\fs80\bord0\3c&H5D5E67&\an8\c&H262627&\pos(1029,73)}Tooh University
 Dialogue: 2,0:15:44.63,0:15:47.00,NextEpTitle,,0,0,0,,{\fnOdense\fad(0,0)\blur0.8\frz12\fax-0.22\fs80\bord0\3c&H5D5E67&\an8\c&H262627&\pos(1028.5,72)}Tooh University
 Dialogue: 1,0:15:44.63,0:15:47.00,NextEpTitle,,0,0,0,,{\fnOdense\fad(0,0)\blur0.8\frz12\fax-0.22\fs80\bord0\3c&H5D5E67&\an8\c&HBCBBBA&\pos(1031,76)}Tooh University
-Dialogue: 0,0:10:16.17,0:10:16.26,Huge,,0,0,0,,{\fax-0.3\fsp-2\blur0.8\b0\c&H909090&\frx58\fry342\frz289.626\pos(1194,37)}Serialization Storyboard 1
-Dialogue: 0,0:10:16.26,0:10:16.30,Huge,,0,0,0,,{\fax-0.3\fsp-2\blur0.8\b0\c&H909090&\frx58\fry342\pos(840,117)\frz297.302}Serialization Storyboard 1
-Dialogue: 0,0:10:16.30,0:10:16.34,Huge,,0,0,0,,{\fax-0.3\fsp-2\blur0.8\b0\c&H909090&\frx58\fry342\frz301.743\pos(690,171)}Serialization Storyboard 1
-Dialogue: 0,0:10:16.34,0:10:16.38,Huge,,0,0,0,,{\fax-0.3\fsp-2\blur0.8\b0\c&H909090&\frz303.947\frx58\fry342\pos(618,196)}Serialization Storyboard 1
-Dialogue: 0,0:10:16.38,0:10:16.47,Huge,,0,0,0,,{\fax-0.3\fsp-2\blur0.8\b0\frx48\fry340\frz309.304\c&H909090&\pos(536,228)}Serialization Storyboard 1
-Dialogue: 0,0:10:16.47,0:10:16.55,Huge,,0,0,0,,{\fax-0.3\fsp-2\blur0.8\b0\frx48\fry340\frz309.304\c&H909090&\pos(540,229)}Serialization Storyboard 1
-Dialogue: 0,0:10:16.55,0:10:16.63,Huge,,0,0,0,,{\fax-0.3\fsp-2\blur0.8\b0\frx48\fry340\frz309.304\c&H909090&\pos(542,231)}Serialization Storyboard 1
-Dialogue: 0,0:10:16.63,0:10:16.76,Huge,,0,0,0,,{\fax-0.3\fsp-2\blur0.8\b0\frx48\fry340\frz309.304\c&H909090&\pos(543,232)}Serialization Storyboard 1
-Dialogue: 0,0:10:16.76,0:10:17.01,Huge,,0,0,0,,{\fax-0.3\fsp-2\blur0.8\b0\frx48\fry340\frz309.304\pos(546,234)\c&H909090&}Serialization Storyboard 1
+Dialogue: 0,0:10:16.17,0:10:16.26,Huge,,0,0,0,,{\fax-0.3\fsp-2\blur0.8\b0\c&H909090&\frx58\fry342\frz289.626\pos(1204,67)}Serialization Name 1
+Dialogue: 0,0:10:16.26,0:10:16.30,Huge,,0,0,0,,{\fax-0.3\fsp-2\blur0.8\b0\c&H909090&\frx58\fry342\frz297.302\pos(854,143)}Serialization Name 1
+Dialogue: 0,0:10:16.30,0:10:16.34,Huge,,0,0,0,,{\fax-0.3\fsp-2\blur0.8\b0\c&H909090&\frx58\fry342\frz301.743\pos(704,184)}Serialization Name 1
+Dialogue: 0,0:10:16.34,0:10:16.38,Huge,,0,0,0,,{\fax-0.3\fsp-2\blur0.8\b0\c&H909090&\frz303.947\frx58\fry342\pos(633,201)}Serialization Name 1
+Dialogue: 0,0:10:16.38,0:10:16.47,Huge,,0,0,0,,{\fax-0.3\fsp-2\blur0.8\b0\frx48\fry340\frz309.304\c&H909090&\pos(558,244)}Serialization Name 1
+Dialogue: 0,0:10:16.47,0:10:16.55,Huge,,0,0,0,,{\fax-0.3\fsp-2\blur0.8\b0\frx48\fry340\frz309.304\c&H909090&\pos(562,246)}Serialization Name 1
+Dialogue: 0,0:10:16.55,0:10:16.63,Huge,,0,0,0,,{\fax-0.3\fsp-2\blur0.8\b0\frx48\fry340\frz309.304\c&H909090&\pos(564,248)}Serialization Name 1
+Dialogue: 0,0:10:16.63,0:10:16.76,Huge,,0,0,0,,{\fax-0.3\fsp-2\blur0.8\b0\frx48\fry340\frz309.304\c&H909090&\pos(566,250)}Serialization Name 1
+Dialogue: 0,0:10:16.76,0:10:17.01,Huge,,0,0,0,,{\fax-0.3\fsp-2\blur0.8\b0\frx48\fry340\frz309.304\c&H909090&\pos(569,253)}Serialization Name 1
 Dialogue: 0,0:10:16.17,0:10:16.26,Huge,,0,0,0,,{\fax-0.2\fsp-2\blur1\b0\c&H6C6A6F&\frx52\fry346\frz281.204\pos(1014,31)}Ashirogi Muto
 Dialogue: 0,0:10:16.26,0:10:16.30,Huge,,0,0,0,,{\fax-0.2\fsp-2\blur1\b0\c&H6C6A6F&\frz286.93\frx52\fry346\pos(672,136)}Ashirogi Muto
 Dialogue: 0,0:10:16.30,0:10:16.34,Huge,,0,0,0,,{\fax-0.2\fsp-2\blur1\b0\c&H6C6A6F&\frx46\fry344\frz292.008\pos(530,218)}Ashirogi Muto

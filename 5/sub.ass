@@ -1375,7 +1375,7 @@ Dialogue: 0,0:06:33.45,0:06:37.16,Sunny,,0,0,0,,{\blur1\fax0.4\pos(502,275)\bord
 Dialogue: 2,0:06:33.45,0:06:37.16,Sunny,,0,0,0,,{\blur1\fax0.4\fscx99\fscy99\frz20.707\pos(402,391)\c&HCFD3D4&\clip(m 161 402 l 211 485 185 497 131 414)}Sunny Sunny Tale
 Dialogue: 1,0:06:33.45,0:06:37.16,Sunny,,0,0,0,,{\blur1\fax0.4\bord5\c&H2D3130&\3c&H2D3130&\fscx99\fscy99\frz20.707\pos(402,391)\clip(m 161 402 l 211 485 185 497 131 414)}Sunny Sunny Tale
 Dialogue: 0,0:06:33.45,0:06:37.16,Sunny,,0,0,0,,{\blur1\fax0.4\bord5\c&H2D3130&\3c&H2D3130&\fscx99\fscy99\frz20.707\pos(408,395)\clip(m 161 402 l 211 485 185 497 131 414)}Sunny Sunny Tale
-Dialogue: 0,0:08:17.85,0:08:20.98,Huge,,0,0,0,,{\b0\blur1\c&H8A7876&\frz302.89\pos(747,489)}Shady Detective Trap Serialization Storyboard \NChapter 11 Revised Version
+Dialogue: 0,0:08:17.85,0:08:20.98,Huge,,0,0,0,,{\b0\blur1\c&H8A7876&\frz302.89\pos(747,489)}Shady Detective Trap Serialization Name \NChapter 11 Revised Version
 Dialogue: 1,0:08:20.98,0:08:27.23,Dates,,0,0,0,,{\pos(648,552)\blur0.6\bord0\c&HF5F4F5&}One Week Later
 Dialogue: 0,0:08:20.98,0:08:27.23,Dates,,0,0,0,,{\pos(648,552)\blur0.8\bord3.25\c&H010101&\3c&H010101&}One Week Later
 Dialogue: 1,0:08:32.90,0:08:35.87,Dates,,0,0,0,,{\pos(648,552)\blur0.6\bord0\c&HF5F4F5&}A Week After That
