@@ -75,7 +75,7 @@ Style: Signs3,Corbel,50,&H00E1E1DD,&H000000FF,&H001D1E1F,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 10,0:00:03.35,0:00:04.98,Default,,0,0,0,,First chapter storyboard...
+Dialogue: 10,0:00:03.35,0:00:04.98,Default,,0,0,0,,First chapter name...
 Dialogue: 10,0:00:04.98,0:00:07.23,Default,,0,0,0,,Complete!
 Dialogue: 10,0:00:08.78,0:00:10.65,Default,,0,0,0,,It's way better than before!
 Dialogue: 10,0:00:10.65,0:00:12.99,Default,,0,0,0,,Yeah, even I can tell!
@@ -478,7 +478,7 @@ Dialogue: 10,0:20:05.10,0:20:06.51,Default,,0,0,0,,But it's a great vote tally.
 Dialogue: 10,0:20:07.14,0:20:09.81,Default,,0,0,0,,Fukuda Shinta should make {\i1}Buchigiri{\i0}.
 Dialogue: 10,0:20:09.81,0:20:11.89,Default,,0,0,0,,That's what the readers want.
 Dialogue: 10,0:20:12.35,0:20:14.10,Default,,0,0,0,,You can wrap up {\i1}Kiyoshi{\i0}.
-Dialogue: 10,0:20:14.10,0:20:16.02,Default,,0,0,0,,Make a serialization storyboard for {\i1}Buchigiri{\i0}!
+Dialogue: 10,0:20:14.10,0:20:16.02,Default,,0,0,0,,Make a serialization name for {\i1}Buchigiri{\i0}!
 Dialogue: 10,0:20:16.02,0:20:18.48,Default,,0,0,0,,Wow, isn't that great?
 Dialogue: 10,0:20:19.32,0:20:21.95,Default,,0,0,0,,I got beat pretty bad by Ashirogi.
 Dialogue: 10,0:20:22.49,0:20:24.82,Default,,0,0,0,,I'll pay them back with a serialization!

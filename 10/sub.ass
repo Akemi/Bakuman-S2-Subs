@@ -1852,7 +1852,7 @@ Dialogue: 10,0:02:41.26,0:02:44.97,Default,,0,0,0,,If we have two serializations
 Dialogue: 10,0:02:44.97,0:02:46.97,Default,,0,0,0,,So we'll tread carefully.
 Dialogue: 10,0:02:47.39,0:02:49.60,Default,,0,0,0,,Just to be certain, huh?
 Dialogue: 10,0:02:50.02,0:02:52.69,Default,,0,0,0,,It would be ideal if our \None-shot came in second
-Dialogue: 10,0:02:52.69,0:02:56.36,Default,,0,0,0,,like Takahama's {\i1}Business Boy Kenichi{\i0} so that we could start a serialization storyboard from there.
+Dialogue: 10,0:02:52.69,0:02:56.36,Default,,0,0,0,,like Takahama's {\i1}Business Boy Kenichi{\i0} so that we could start a serialization name from there.
 Dialogue: 10,0:02:56.36,0:02:59.20,Default,,0,0,0,,First, we need to put out a smart one-shot.
 Dialogue: 10,0:02:59.20,0:03:01.86,Default,,0,0,0,,We don't have school, so let's sleep on it.
 Dialogue: 10,0:03:02.70,0:03:05.62,Default,,0,0,0,,For college, I'm thinking of Yana College's business school.
@@ -1866,7 +1866,7 @@ Dialogue: 10,0:03:17.88,0:03:19.63,Default,,0,0,0,,Have you told Miyoshi about t
 Dialogue: 10,0:03:20.47,0:03:22.09,Default,,0,0,0,,Oh, sure, I'll go.
 Dialogue: 10,0:03:22.09,0:03:23.34,Default,,0,0,0,,Tutor me!
 Dialogue: 10,0:03:23.34,0:03:25.68,Default,,0,0,0,,O-Okay, starting tomorrow.
-Dialogue: 10,0:03:28.02,0:03:30.96,Default,,0,0,0,,Miura, don't you have \Nany storyboards
+Dialogue: 10,0:03:28.02,0:03:30.96,Default,,0,0,0,,Miura, don't you have \Nany names
 Dialogue: 10,0:03:30.96,0:03:32.48,Default,,0,0,0,,for the next serialization meeting?
 Dialogue: 10,0:03:32.48,0:03:33.48,Default,,0,0,0,,No.
 Dialogue: 10,0:03:34.16,0:03:35.11,Default,,0,0,0,,Sorry.
@@ -1886,10 +1886,10 @@ Dialogue: 10,0:04:07.47,0:04:10.35,Default,,0,0,0,,It's obvious that you need to
 Dialogue: 10,0:04:10.35,0:04:13.48,Default,,0,0,0,,The editorial department and your fans are all expecting great things from Ashirogi Muto.
 Dialogue: 10,0:04:13.48,0:04:16.27,Default,,0,0,0,,If you're gonna do it, \Naim for serialization!
 Dialogue: 10,0:04:18.44,0:04:21.53,Default,,0,0,0,,Even if you make a\N one-shot and it's popular,
-Dialogue: 10,0:04:21.53,0:04:24.70,Default,,0,0,0,,that's entirely different from having a completed serialization storyboard.
+Dialogue: 10,0:04:21.53,0:04:24.70,Default,,0,0,0,,that's entirely different from having a completed serialization name.
 Dialogue: 10,0:04:24.70,0:04:28.12,Default,,0,0,0,,Even if I tell the editorial department that you should make a one-shot to test an idea,
 Dialogue: 10,0:04:28.12,0:04:31.25,Default,,0,0,0,,you should still be drawing \Nwith serialization in mind.
-Dialogue: 10,0:04:31.25,0:04:35.33,Default,,0,0,0,,Leave the decision to us, and just draw a serialization storyboard.
+Dialogue: 10,0:04:31.25,0:04:35.33,Default,,0,0,0,,Leave the decision to us, and just draw a serialization name.
 Dialogue: 10,0:04:35.33,0:04:36.04,Default,,0,0,0,,Okay!
 Dialogue: 10,0:04:37.17,0:04:38.25,Default,,0,0,0,,Shuujin?
 Dialogue: 10,0:04:39.50,0:04:42.92,Default,,0,0,0,,But right now we have \Nno idea what to draw...
@@ -1924,13 +1924,13 @@ Dialogue: 10,0:05:44.99,0:05:46.40,Default,,0,0,0,,Miura's no good.
 Dialogue: 10,0:05:46.40,0:05:47.45,Default,,0,0,0,,He isn't?
 Dialogue: 10,0:05:47.45,0:05:48.36,Default,,0,0,0,,Why not?
 Dialogue: 10,0:05:48.36,0:05:50.46,Default,,0,0,0,,We should definitely make a one-shot that could potentially
-Dialogue: 10,0:05:50.46,0:05:52.41,Default,,0,0,0,,get serialized instead of \Na serialization storyboard!
+Dialogue: 10,0:05:50.46,0:05:52.41,Default,,0,0,0,,get serialized instead of \Na serialization name!
 Dialogue: 10,0:05:52.41,0:05:54.33,Default,,0,0,0,,Aren't they basically the same thing?
 Dialogue: 10,0:05:55.41,0:05:56.66,Default,,0,0,0,,Hattori!
 Dialogue: 10,0:05:56.66,0:05:59.88,Default,,0,0,0,,You sure are working hard, even though your serialization just ended.
 Dialogue: 10,0:06:00.71,0:06:01.59,Default,,0,0,0,,Hattori!
 Dialogue: 10,0:06:03.38,0:06:04.68,Default,,0,0,0,,If you were in our position,
-Dialogue: 10,0:06:04.68,0:06:06.59,Default,,0,0,0,,would you go straight for\N a serialization storyboard...
+Dialogue: 10,0:06:04.68,0:06:06.59,Default,,0,0,0,,would you go straight for\N a serialization name...
 Dialogue: 10,0:06:06.59,0:06:09.47,Default,,0,0,0,,or do a one-shot with serialization in mind?
 Dialogue: 10,0:06:09.47,0:06:10.97,Default,,0,0,0,,Hey, Saiko!
 Dialogue: 10,0:06:10.97,0:06:13.43,Default,,0,0,0,,It's a tough question,
@@ -2069,7 +2069,7 @@ Dialogue: 10,0:12:39.23,0:12:40.07,Default,,0,0,0,,I think so too!
 Dialogue: 10,0:12:45.74,0:12:46.40,Default,,0,0,0,,Two...
 Dialogue: 10,0:12:46.40,0:12:47.66,Default,,0,0,0,,We'll create two works!
 Dialogue: 10,0:12:49.54,0:12:53.00,Default,,0,0,0,,A humorous one and a serious one!
-Dialogue: 10,0:12:58.59,0:13:02.40,Default,,0,0,0,,It's unheard of to submit two\N serialization storyboards,
+Dialogue: 10,0:12:58.59,0:13:02.40,Default,,0,0,0,,It's unheard of to submit two\N serialization names,
 Dialogue: 10,0:13:02.40,0:13:03.72,Default,,0,0,0,,and that at the same time!
 Dialogue: 10,0:13:04.22,0:13:06.18,Default,,0,0,0,,I can only submit one!
 Dialogue: 10,0:13:06.18,0:13:09.32,Default,,0,0,0,,So if we finish two,
@@ -2082,10 +2082,10 @@ Dialogue: 10,0:13:28.40,0:13:30.41,Default,,0,0,0,,If you're going to shout, \Nd
 Dialogue: 10,0:13:30.41,0:13:32.75,Default,,0,0,0,,I-I apologize.
 Dialogue: 10,0:13:35.75,0:13:39.38,Default-Italic,,0,0,0,,This wouldn't be happening \Nif Hattori was our editor...
 Dialogue: 10,0:13:40.04,0:13:41.59,Default,,0,0,0,,Fine.
-Dialogue: 10,0:13:43.51,0:13:46.47,Default,,0,0,0,,Give me two serialization storyboards within the first ten days of March.
+Dialogue: 10,0:13:43.51,0:13:46.47,Default,,0,0,0,,Give me two serialization names within the first ten days of March.
 Dialogue: 10,0:13:46.47,0:13:48.30,Default,,0,0,0,,Each of them three chapters long.
 Dialogue: 10,0:13:48.30,0:13:50.01,Default,,0,0,0,,In other words, six chapters.
-Dialogue: 10,0:13:50.01,0:13:52.77,Default,,0,0,0,,I won't pass out half-assed \Nstoryboards at the meeting.
+Dialogue: 10,0:13:50.01,0:13:52.77,Default,,0,0,0,,I won't pass out half-assed \Nnames at the meeting.
 Dialogue: 10,0:13:52.77,0:13:54.14,Default,,0,0,0,,Understood?
 Dialogue: 10,0:13:54.14,0:13:55.98,Default,,0,0,0,,Yes.
 Dialogue: 10,0:13:57.85,0:14:00.36,Default,,0,0,0,,It feels like we just \Nmade things worse.
@@ -2106,7 +2106,7 @@ Dialogue: 10,0:14:28.18,0:14:30.22,Default,,0,0,0,,How did you come up with this
 Dialogue: 10,0:14:30.22,0:14:32.76,Default,,0,0,0,,They mysteriously pop into my head when I'm under pressure!
 Dialogue: 10,0:14:32.76,0:14:34.60,Default,,0,0,0,,It's like a switch was turned on!
 Dialogue: 10,0:14:34.60,0:14:36.27,Default,,0,0,0,,It came from doing {\i1}Trap{\i0}.
-Dialogue: 10,0:14:36.27,0:14:38.56,Default,,0,0,0,,The knack for writing storyboards just suddenly came to me!
+Dialogue: 10,0:14:36.27,0:14:38.56,Default,,0,0,0,,The knack for writing names just suddenly came to me!
 Dialogue: 10,0:14:39.19,0:14:40.44,Default,,0,0,0,,"Two of Me".
 Dialogue: 10,0:14:40.44,0:14:42.11,Default,,0,0,0,,This is pretty cool.
 Dialogue: 10,0:14:42.77,0:14:44.40,Default,,0,0,0,,Show it to me!
@@ -2144,7 +2144,7 @@ Dialogue: 10,0:16:01.94,0:16:04.06,Default,,0,0,0,,It's a tough market.
 Dialogue: 10,0:16:04.06,0:16:05.86,Default,,0,0,0,,So cool~.
 Dialogue: 10,0:16:11.20,0:16:12.95,Default,,0,0,0,,I couldn't sleep last night.
 Dialogue: 10,0:16:12.95,0:16:16.33,Default,,0,0,0,,It's pointless trying to \Ncram overnight for a test.
-Dialogue: 10,0:16:16.33,0:16:19.37,Default,,0,0,0,,No, I was writing the storyboard.
+Dialogue: 10,0:16:16.33,0:16:19.37,Default,,0,0,0,,No, I was writing the name.
 Dialogue: 10,0:16:22.37,0:16:23.58,Default-Italic,,0,0,0,,Hey, now.
 Dialogue: 10,0:16:24.42,0:16:26.34,Default,,0,0,0,,We all passed!
 Dialogue: 10,0:16:26.34,0:16:27.59,Default,,0,0,0,,Oh, okay.
@@ -2164,7 +2164,7 @@ Dialogue: 10,0:16:57.20,0:16:58.28,Default,,0,0,0,,Thanks.
 Dialogue: 10,0:16:58.74,0:17:00.45,Default,,0,0,0,,I don't need thanks.
 Dialogue: 10,0:17:00.45,0:17:01.40,Default,,0,0,0,,Huh?
 Dialogue: 10,0:17:01.40,0:17:03.08,Default,,0,0,0,,Inking and tone...
-Dialogue: 10,0:17:03.08,0:17:04.87,Default,,0,0,0,,Aren't you submitting \Na storyboard this time?
+Dialogue: 10,0:17:03.08,0:17:04.87,Default,,0,0,0,,Aren't you submitting \Na name this time?
 Dialogue: 10,0:17:04.87,0:17:06.79,Default,,0,0,0,,Why are you preparing a manuscript?
 Dialogue: 10,0:17:12.05,0:17:14.05,Default,,0,0,0,,The things people can do \Nif they put their minds to it...
 Dialogue: 10,0:17:14.05,0:17:16.89,Default,,0,0,0,,At any rate, we did what we could.
@@ -2205,7 +2205,7 @@ Dialogue: 10,0:18:32.75,0:18:35.30,Default,,0,0,0,,And Eiji is a judge, too!
 Dialogue: 10,0:18:35.30,0:18:38.76,Default,,0,0,0,,I trust his judgment \Nmore than Miura's, frankly.
 Dialogue: 10,0:18:38.76,0:18:42.30,Default,,0,0,0,,But wouldn't it be bad for \Nus to go over Miura's head?
 Dialogue: 10,0:18:42.30,0:18:45.06,Default,,0,0,0,,Like I said, if we're gonna fight him, we might as well go all out!
-Dialogue: 10,0:18:45.52,0:18:48.77,Default,,0,0,0,,Of course, we'll also make \Ntwo serialization storyboards.
+Dialogue: 10,0:18:45.52,0:18:48.77,Default,,0,0,0,,Of course, we'll also make \Ntwo serialization names.
 Dialogue: 10,0:18:48.77,0:18:51.27,Default,,0,0,0,,W-We're making three works?!
 Dialogue: 10,0:18:51.27,0:18:52.73,Default,,0,0,0,,Too hard for you?
 Dialogue: 10,0:18:53.52,0:18:55.03,Default,,0,0,0,,It's strange.
@@ -2265,7 +2265,7 @@ Dialogue: 10,0:20:59.78,0:21:01.08,Default,,0,0,0,,Okay.
 Dialogue: 10,0:21:01.08,0:21:04.11,Default,,0,0,0,,Then I'll take this up.
 Dialogue: 10,0:21:09.03,0:21:13.08,Default,,0,0,0,,Um, sorry for acting on our own.
 Dialogue: 10,0:21:13.71,0:21:15.29,Default,,0,0,0,,Really.
-Dialogue: 10,0:21:15.29,0:21:19.29,Default,,0,0,0,,It'll be a problem if the serialization storyboard isn't good after all that.
+Dialogue: 10,0:21:15.29,0:21:19.29,Default,,0,0,0,,It'll be a problem if the serialization name isn't good after all that.
 Dialogue: 10,0:21:22.42,0:21:23.92,Default,,0,0,0,,First off, Ashirogi.
 Dialogue: 10,0:21:24.56,0:21:28.72,Default,,0,0,0,,"Do not cause any more problems", he says.
 Dialogue: 10,0:21:28.72,0:21:30.22,Default,,0,0,0,,Yes.
@@ -2276,14 +2276,14 @@ Dialogue: 10,0:21:38.44,0:21:39.98,Default,,0,0,0,,it will be published in the m
 Dialogue: 10,0:21:40.73,0:21:41.48,Default,,0,0,0,,Okay!
 Dialogue: 10,0:21:41.48,0:21:42.48,Default,,0,0,0,,Please do so!
 Dialogue: 10,0:21:42.48,0:21:43.28,Default,,0,0,0,,However...
-Dialogue: 10,0:21:43.28,0:21:48.03,Default,,0,0,0,,If the storyboard submitted to April's serialization committee is no good,
+Dialogue: 10,0:21:43.28,0:21:48.03,Default,,0,0,0,,If the name submitted to April's serialization committee is no good,
 Dialogue: 10,0:21:48.03,0:21:51.91,Default,,0,0,0,,we won't give priority to this one-shot and won't publish it.
-Dialogue: 10,0:21:51.91,0:21:54.36,Default,,0,0,0,,If you submit a sound storyboard,
+Dialogue: 10,0:21:51.91,0:21:54.36,Default,,0,0,0,,If you submit a sound name,
 Dialogue: 10,0:21:54.36,0:21:56.49,Default,,0,0,0,,we'll compare it with the one-shot
 Dialogue: 10,0:21:56.49,0:21:59.75,Default,,0,0,0,,and decide which is more \Nsuitable for serialization.
 Dialogue: 10,0:21:59.75,0:22:04.55,Default,,0,0,0,,Basically, nothing will happen with your one-shot until after the meeting.
 Dialogue: 10,0:22:04.55,0:22:05.92,Default,,0,0,0,,The priority...
-Dialogue: 10,0:22:05.92,0:22:09.05,Default,,0,0,0,,is to give your all on the\N serialization storyboard!
+Dialogue: 10,0:22:05.92,0:22:09.05,Default,,0,0,0,,is to give your all on the\N serialization name!
 Dialogue: 10,0:22:10.10,0:22:10.76,Default,,0,0,0,,Yes!
 Dialogue: 10,0:22:10.76,0:22:12.16,Default,,0,0,0,,I see.
 Dialogue: 10,0:22:12.16,0:22:13.89,Default,,0,0,0,,I'm fine with that.
@@ -2292,7 +2292,7 @@ Dialogue: 10,0:22:18.19,0:22:19.06,Default,,0,0,0,,Yes!
 Dialogue: 10,0:22:19.06,0:22:22.04,Default,,0,0,0,,First off, lets make this gold-rich\N multi-millionaire's character
 Dialogue: 10,0:22:22.04,0:22:25.24,Default,,0,0,0,,more exaggerated to make him funnier.
 Dialogue: 10,0:22:25.24,0:22:27.32,Default,,0,0,0,,I thought that too, but...
-Dialogue: 10,0:22:28.15,0:22:32.78,Default-Italic,,0,0,0,,In just a month and a half, they finished two storyboards and a one-shot manuscript...
+Dialogue: 10,0:22:28.15,0:22:32.78,Default-Italic,,0,0,0,,In just a month and a half, they finished two names and a one-shot manuscript...
 Dialogue: 10,0:22:33.29,0:22:34.70,Default-Italic,,0,0,0,,They haven't changed.
 Dialogue: 10,0:22:35.37,0:22:38.62,Default-Italic,,0,0,0,,Those two may just be fine as they are.
 Dialogue: 10,0:24:15.97,0:24:17.51,Default,,0,0,0,,{\i1}Future Watch{\i0} or {\i1}Hitman 10{\i0}...

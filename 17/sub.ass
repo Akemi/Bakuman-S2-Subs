@@ -139,7 +139,7 @@ Dialogue: 10,0:04:34.25,0:04:36.88,Default,,0,0,0,,This is the first time I've s
 Dialogue: 10,0:04:36.88,0:04:41.76,Default,,0,0,0,,Since he's this irritated, it must mean\N{\i1} Business Boy Kenichi{\i0} is in deep trouble.
 Dialogue: 10,0:04:55.31,0:04:56.90,Default,,0,0,0,,My stomach hurts!
 Dialogue: 10,0:04:56.90,0:04:59.32,Default,,0,0,0,,Miura, don't be so uptight.
-Dialogue: 10,0:04:59.32,0:05:04.78,Default,,0,0,0,,Only eight storyboards were submitted, so even if only two pass, that means you already have a 25% chance.
+Dialogue: 10,0:04:59.32,0:05:04.78,Default,,0,0,0,,Only eight names were submitted, so even if only two pass, that means you already have a 25% chance.
 Dialogue: 10,0:05:04.78,0:05:07.66,Default,,0,0,0,,And judging by {\i1}Tanto's{\i0} quality, I'd say it's a 50% chance.
 Dialogue: 10,0:05:07.66,0:05:13.83,Default,,0,0,0,,Arai's is definitely in, so if two new ones start up, you'll only have a 1 in 7 chance of being the other one.
 Dialogue: 10,0:05:13.83,0:05:16.42,Default,,0,0,0,,Yamahisa, that's enough out of you.
@@ -286,19 +286,19 @@ Dialogue: 10,0:14:24.25,0:14:28.26,Default,,0,0,0,,At any rate, I want to see ho
 Dialogue: 10,0:14:28.26,0:14:29.09,Default,,0,0,0,,I understand.
 Dialogue: 10,0:14:29.59,0:14:32.39,Default,,0,0,0,,She did everything I told her.
 Dialogue: 10,0:14:32.39,0:14:33.64,Default,,0,0,0,,With this, she can...
-Dialogue: 10,0:14:36.56,0:14:39.35,Default,,0,0,0,,What can we fix in this storyboard?
+Dialogue: 10,0:14:36.56,0:14:39.35,Default,,0,0,0,,What can we fix in this name?
 Dialogue: 10,0:14:39.35,0:14:42.15,Default,,0,0,0,,That's what we're gonna discuss in the meeting today, right?
 Dialogue: 10,0:14:42.15,0:14:44.90,Default,,0,0,0,,There's a limit to how many gags we can put in.
 Dialogue: 10,0:14:44.90,0:14:47.40,Default,,0,0,0,,If it needs any changing, wouldn't it be better to change the whole plot?
 Dialogue: 10,0:14:47.40,0:14:49.99,Default,,0,0,0,,Well, I think so, too...
-Dialogue: 10,0:14:49.99,0:14:55.54,Default,,0,0,0,,If only eight storyboards were submitted this time, there will be a lot more next time.
+Dialogue: 10,0:14:49.99,0:14:55.54,Default,,0,0,0,,If only eight names were submitted this time, there will be a lot more next time.
 Dialogue: 10,0:14:55.54,0:14:58.37,Default,,0,0,0,,And only two or three get serialized.
 Dialogue: 10,0:14:58.37,0:15:02.50,Default,,0,0,0,,At least now I know that Miura's "Absolutely!" isn't a safe bet.
 Dialogue: 10,0:15:02.50,0:15:05.00,Default,,0,0,0,,Will we really make it with him as our editor?
 Dialogue: 10,0:15:05.00,0:15:07.05,Default,,0,0,0,,What are you mumbling about?
 Dialogue: 10,0:15:07.05,0:15:09.38,Default,,0,0,0,,We won't make it on time if we don't leave now!
 Dialogue: 10,0:15:09.38,0:15:10.22,Default,,0,0,0,,Yeah.
-Dialogue: 10,0:15:12.59,0:15:17.68,Default,,0,0,0,,Aida, what do you think the best way to rework this storyboard would be?
+Dialogue: 10,0:15:12.59,0:15:17.68,Default,,0,0,0,,Aida, what do you think the best way to rework this name would be?
 Dialogue: 10,0:15:17.68,0:15:20.48,Default,,0,0,0,,I can't think of any way to improve it.
 Dialogue: 10,0:15:20.48,0:15:23.27,Default,,0,0,0,,Then just submit it to the next committee as-is.
 Dialogue: 10,0:15:23.27,0:15:24.73,Default,,0,0,0,,You're cold.
@@ -308,7 +308,7 @@ Dialogue: 10,0:15:29.36,0:15:33.53,Default,,0,0,0,,Since {\i1}Business Boy Kenic
 Dialogue: 10,0:15:33.53,0:15:36.54,Default,,0,0,0,,I have to get serialized at the next committee...
 Dialogue: 10,0:15:44.71,0:15:45.71,Default,,0,0,0,,Yuujirou.
 Dialogue: 10,0:15:45.71,0:15:46.96,Default,,0,0,0,,Can I talk to you for a minute?
-Dialogue: 10,0:15:47.92,0:15:52.80,Default,,0,0,0,,Basically, the part you did in the one-shot lost its impact in the serialization storyboard.
+Dialogue: 10,0:15:47.92,0:15:52.80,Default,,0,0,0,,Basically, the part you did in the one-shot lost its impact in the serialization name.
 Dialogue: 10,0:15:52.80,0:15:56.76,Default,,0,0,0,,This will always happen, especially with gag manga.
 Dialogue: 10,0:15:56.76,0:15:58.43,Default,,0,0,0,,We have to power it up!
 Dialogue: 10,0:15:58.43,0:15:59.77,Default,,0,0,0,,We just need to think about how to do it!
@@ -409,7 +409,7 @@ Dialogue: 10,0:20:13.40,0:20:15.15,Default,,0,0,0,,Just wait a minute!
 Dialogue: 10,0:20:15.15,0:20:17.65,Default,,0,0,0,,You can't take a break from {\i1}Crow{\i0}.
 Dialogue: 10,0:20:17.65,0:20:20.44,Default,,0,0,0,,Neglect it in any way, and the deal's off!
 Dialogue: 10,0:20:20.44,0:20:22.36,Default,,0,0,0,,I don't care about the character designs right now.
-Dialogue: 10,0:20:22.36,0:20:23.86,Default,,0,0,0,,Can you make a storyboard for me?
+Dialogue: 10,0:20:22.36,0:20:23.86,Default,,0,0,0,,Can you make a name for me?
 Dialogue: 10,0:20:23.86,0:20:25.16,Default,,0,0,0,,Roger!
 Dialogue: 10,0:20:25.16,0:20:27.58,Default,,0,0,0,,Hey, were you listening to me?
 Dialogue: 10,0:20:28.62,0:20:31.08,Default,,0,0,0,,Spin, spin...
@@ -439,7 +439,7 @@ Dialogue: 10,0:21:38.15,0:21:41.40,Default,,0,0,0,,Yuujirou, I definitely want t
 Dialogue: 10,0:21:41.40,0:21:45.11,Default,,0,0,0,,But two works by the same author \Ngetting serialized at the same time!?
 Dialogue: 10,0:21:45.11,0:21:46.40,Default,,0,0,0,,It's fine, it just hasn't happened before.
 Dialogue: 10,0:21:46.40,0:21:48.03,Default,,0,0,0,,He'll have an impossible schedule!
-Dialogue: 10,0:21:48.03,0:21:51.83,Default,,0,0,0,,But you know I can make a storyboard in a day, and a manuscript in two!
+Dialogue: 10,0:21:48.03,0:21:51.83,Default,,0,0,0,,But you know I can make a name in a day, and a manuscript in two!
 Dialogue: 10,0:21:51.83,0:21:54.66,Default,,0,0,0,,Damn, he can do it if we get more assistants.
 Dialogue: 10,0:21:54.66,0:21:56.75,Default,,0,0,0,,And she'll be the one writing the manuscripts, anyway.
 Dialogue: 10,0:21:56.75,0:21:58.71,Default,,0,0,0,,It'll be a piece of cake!

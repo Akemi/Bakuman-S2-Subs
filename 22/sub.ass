@@ -209,7 +209,7 @@ Dialogue: 10,0:08:11.38,0:08:13.05,Default,,0,0,0,,It's just more octopus than u
 Dialogue: 10,0:08:13.05,0:08:14.76,Default,,0,0,0,,What's wrong with that?
 Dialogue: 10,0:08:16.35,0:08:18.60,Default,,0,0,0,,I'm going to a meeting.
 Dialogue: 10,0:08:18.60,0:08:19.72,Default,,0,0,0,,Miura.
-Dialogue: 10,0:08:19.72,0:08:21.77,Default,,0,0,0,,What's going on with Ashirogi's storyboard?
+Dialogue: 10,0:08:19.72,0:08:21.77,Default,,0,0,0,,What's going on with Ashirogi's name?
 Dialogue: 10,0:08:21.77,0:08:24.23,Default,,0,0,0,,I told you to show it to me soon!
 Dialogue: 10,0:08:24.23,0:08:25.23,Default,,0,0,0,,I'm sorry.
 Dialogue: 10,0:08:25.23,0:08:27.86,Default,,0,0,0,,Sorry?! Hey, you...
@@ -221,7 +221,7 @@ Dialogue: 10,0:08:43.25,0:08:48.34,Default,,0,0,0,,Serious humor... it's more di
 Dialogue: 10,0:08:48.34,0:08:50.50,Default,,0,0,0,,Thinking of a setting is difficult, too.
 Dialogue: 10,0:08:50.50,0:08:53.88,Default,,0,0,0,,I think something just needs to come to me.
 Dialogue: 10,0:08:53.88,0:08:57.72,Default,,0,0,0,,Um, just in case you don't have a flash of inspiration,
-Dialogue: 10,0:08:57.72,0:09:02.06,Default,,0,0,0,,don't you think you should touch up {\i1}KTM {\i0}'s setting and make a storyboard from that?
+Dialogue: 10,0:08:57.72,0:09:02.06,Default,,0,0,0,,don't you think you should touch up {\i1}KTM {\i0}'s setting and make a name from that?
 Dialogue: 10,0:09:02.06,0:09:05.98,Default,,0,0,0,,No, I don't think we can do serious humor with {\i1}KTM{\i0}.
 Dialogue: 10,0:09:06.56,0:09:08.94,Default,,0,0,0,,If anything, it would have been {\i1}Trap{\i0}...
 Dialogue: 10,0:09:08.94,0:09:10.73,Default,,0,0,0,,Like a criminal caught in a trap, or something.
@@ -233,7 +233,7 @@ Dialogue: 10,0:09:16.86,0:09:18.28,Default,,0,0,0,,{\fad(0,250)}"I didn't expect
 Dialogue: 10,0:09:18.28,0:09:21.37,Default,,0,0,0,,But putting in an "I didn't expect that!" \Nmoment would be trying to make them laugh.
 Dialogue: 10,0:09:21.79,0:09:23.87,Default,,0,0,0,,I think serious humor is something else.
 Dialogue: 10,0:09:24.62,0:09:26.46,Default,,0,0,0,,Yeah, you're right.
-Dialogue: 10,0:09:29.29,0:09:33.80,Default,,0,0,0,,I heard that their storyboard wasn't \Nconsidered at the last serialization committee.
+Dialogue: 10,0:09:29.29,0:09:33.80,Default,,0,0,0,,I heard that their name wasn't \Nconsidered at the last serialization committee.
 Dialogue: 10,0:09:33.80,0:09:36.22,Default,,0,0,0,,Thanks for worrying about them.
 Dialogue: 10,0:09:36.22,0:09:40.14,Default,,0,0,0,,But they're already working hard on their next manga.
 Dialogue: 10,0:09:40.14,0:09:43.52,Default,,0,0,0,,Well, they seem kinda desperate, though.
@@ -318,7 +318,7 @@ Dialogue: 10,0:13:20.36,0:13:22.74,Default,,0,0,0,,And she's wearing more makeup
 Dialogue: 10,0:13:22.74,0:13:24.36,Default,,0,0,0,,Oh?! I really want to see!
 Dialogue: 10,0:13:25.40,0:13:26.86,Default,,0,0,0,,Then let's get started.
 Dialogue: 10,0:13:26.86,0:13:27.87,Default,,0,0,0,,Right.
-Dialogue: 10,0:13:27.87,0:13:30.37,Default,,0,0,0,,I read the storyboard you sent me.
+Dialogue: 10,0:13:27.87,0:13:30.37,Default,,0,0,0,,I read the name you sent me.
 Dialogue: 10,0:13:30.37,0:13:31.45,Default,,0,0,0,,How was it?
 Dialogue: 10,0:13:32.29,0:13:34.29,Default,,0,0,0,,It was good, for the most part.
 Dialogue: 10,0:13:34.29,0:13:36.46,Default,,0,0,0,,I marked the spots that need fixing.
@@ -341,7 +341,7 @@ Dialogue: 10,0:14:06.03,0:14:08.57,Default-Alt,,0,0,0,,"Your youth is dazzling"?
 Dialogue: 10,0:14:07.86,0:14:09.78,Default,,0,0,0,,Well, as editor and author—
 Dialogue: 10,0:14:09.78,0:14:10.74,Default,,0,0,0,,No.
 Dialogue: 10,0:14:10.74,0:14:12.08,Default,,0,0,0,,Socially.
-Dialogue: 10,0:14:13.33,0:14:14.91,Default,,0,0,0,,More importantly, this storyboard—
+Dialogue: 10,0:14:13.33,0:14:14.91,Default,,0,0,0,,More importantly, this name—
 Dialogue: 10,0:14:14.91,0:14:16.08,Default,,0,0,0,,More importantly?!
 Dialogue: 10,0:14:16.08,0:14:18.17,Default,,0,0,0,,You're cruel, Hattori!
 Dialogue: 10,0:14:16.50,0:14:18.14,Default-Alt,,0,0,0,,I can't take anymore!
@@ -460,12 +460,12 @@ Dialogue: 10,0:19:18.51,0:19:20.76,Default,,0,0,0,,Are they really going to be o
 Dialogue: 10,0:19:22.18,0:19:25.51,Default,,0,0,0,,It's important to get a taste of what the protagonist is feeling, after all!
 Dialogue: 10,0:19:25.51,0:19:28.64,Default,,0,0,0,,The thrill of the crime, and the sense of accomplishment when you pull it off!
 Dialogue: 10,0:19:28.64,0:19:30.77,Default,,0,0,0,,Its fun and addictive!
-Dialogue: 10,0:19:30.77,0:19:33.27,Default,,0,0,0,,Tailing Hattori also came in handy for the storyboard...
+Dialogue: 10,0:19:30.77,0:19:33.27,Default,,0,0,0,,Tailing Hattori also came in handy for the name...
 Dialogue: 10,0:19:33.27,0:19:35.36,Default,,0,0,0,,My pencil won't stop moving!
 Dialogue: 10,0:19:35.36,0:19:36.44,Default,,0,0,0,,Shuujin..
 Dialogue: 10,0:19:36.44,0:19:37.11,Default,,0,0,0,,Yeah?
-Dialogue: 10,0:19:37.57,0:19:38.61,Default,,0,0,0,,This storyboard...
-Dialogue: 10,0:19:38.61,0:19:42.66,Default,,0,0,0,,This is the best storyboard you've ever done!
+Dialogue: 10,0:19:37.57,0:19:38.61,Default,,0,0,0,,This name...
+Dialogue: 10,0:19:38.61,0:19:42.66,Default,,0,0,0,,This is the best name you've ever done!
 Dialogue: 10,0:19:42.66,0:19:44.83,Default,,0,0,0,,I'm a new man.
 Dialogue: 10,0:19:45.33,0:19:48.54,Default,,0,0,0,,Okay then, make a clean copy of this eight page scene!
 Dialogue: 10,0:19:49.71,0:19:50.58,Default,,0,0,0,,Yeah!
@@ -529,8 +529,8 @@ Dialogue: 10,0:22:08.55,0:22:09.47,Default,,0,0,0,,That's right.
 Dialogue: 10,0:22:10.18,0:22:10.93,Default,,0,0,0,,This'll work.
 Dialogue: 10,0:22:11.39,0:22:13.06,Default,,0,0,0,,This manga's gonna be great!
 Dialogue: 10,0:22:13.06,0:22:15.89,Default,,0,0,0,,Everyone will definitely get excited when they read it!
-Dialogue: 10,0:22:20.02,0:22:20.90,Default,,0,0,0,,Your storyboard!
-Dialogue: 10,0:22:20.90,0:22:22.73,Default,,0,0,0,,Hurry and show me the storyboard!
+Dialogue: 10,0:22:20.02,0:22:20.90,Default,,0,0,0,,Your name!
+Dialogue: 10,0:22:20.90,0:22:22.73,Default,,0,0,0,,Hurry and show me the name!
 Dialogue: 10,0:22:23.69,0:22:24.86,Default,,0,0,0,,Here it is.
 Dialogue: 10,0:22:24.86,0:22:26.57,Default,,0,0,0,,{\i1}Perfect Crime Club{\i0}?
 Dialogue: 10,0:22:26.99,0:22:30.20,Default,,0,0,0,,Is this really a hundred times better than {\i1}KTM {\i0}?

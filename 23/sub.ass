@@ -177,14 +177,14 @@ Dialogue: 10,0:06:54.39,0:06:54.97,Default,,0,0,0,,Okay!
 Dialogue: 10,0:06:55.47,0:06:56.68,Default,,0,0,0,,In a week, then!
 Dialogue: 10,0:06:59.69,0:07:00.44,Default,,0,0,0,,Miura!
 Dialogue: 10,0:07:00.44,0:07:02.40,Default,,0,0,0,,What's going on with Ashirogi?!
-Dialogue: 10,0:07:02.40,0:07:05.32,Default,,0,0,0,,There's not even a week left until the deadline for the storyboard!
+Dialogue: 10,0:07:02.40,0:07:05.32,Default,,0,0,0,,There's not even a week left until the deadline for the name!
 Dialogue: 10,0:07:05.32,0:07:09.32,Default,,0,0,0,,Well, they'll definitely make it in time, so let's stay calm—
 Dialogue: 10,0:07:09.32,0:07:10.57,Default,,0,0,0,,Stay calm?!
 Dialogue: 10,0:07:10.57,0:07:11.78,Default,,0,0,0,,You know...
 Dialogue: 10,0:07:11.78,0:07:13.49,Default,,0,0,0,,Oh, excuse me.
 Dialogue: 10,0:07:14.83,0:07:17.08,Default,,0,0,0,,Oh, Takahama, are you finished?
 Dialogue: 10,0:07:18.00,0:07:20.33,Default,,0,0,0,,Okay, I'll come right over.
-Dialogue: 10,0:07:20.83,0:07:24.09,Default,,0,0,0,,It looks like Takahama finished his storyboard, so I'll be heading out.
+Dialogue: 10,0:07:20.83,0:07:24.09,Default,,0,0,0,,It looks like Takahama finished his name, so I'll be heading out.
 Dialogue: 10,0:07:25.29,0:07:28.30,Default,,0,0,0,,Shouldn't Ashirogi be more important than Takahama right now?
 Dialogue: 10,0:07:28.76,0:07:30.76,Default,,0,0,0,,I fixed everything like you said!
 Dialogue: 10,0:07:30.76,0:07:33.05,Default,,0,0,0,,It's way better than last time!
@@ -203,14 +203,14 @@ Dialogue: 10,0:07:59.54,0:08:01.41,Default,,0,0,0,,they won't be able to draw fo
 Dialogue: 10,0:08:01.41,0:08:04.04,Default,,0,0,0,,It was the condition for them being allowed to quit {\i1}Tanto{\i0}.
 Dialogue: 10,0:08:05.04,0:08:09.21,Default,,0,0,0,,So in order to make things easier for Ashirogi, you're asking me to swallow my tears?
 Dialogue: 10,0:08:09.21,0:08:10.30,Default,,0,0,0,,No!
-Dialogue: 10,0:08:10.30,0:08:12.88,Default,,0,0,0,,Before I saw their storyboard,
+Dialogue: 10,0:08:10.30,0:08:12.88,Default,,0,0,0,,Before I saw their name,
 Dialogue: 10,0:08:12.88,0:08:15.05,Default,,0,0,0,,I would have told you to go forward with this.
 Dialogue: 10,0:08:15.05,0:08:19.85,Default,,0,0,0,,But now, I don't think you should submit a work at this level.
 Dialogue: 10,0:08:19.85,0:08:22.81,Default,,0,0,0,,Because Ashirogi's is far better than this.
 Dialogue: 10,0:08:23.23,0:08:24.94,Default,,0,0,0,,Far better?
 Dialogue: 10,0:08:24.94,0:08:25.98,Default,,0,0,0,,Yes.
 Dialogue: 10,0:08:25.98,0:08:27.90,Default,,0,0,0,,I haven't shown it to the higher ups yet,
-Dialogue: 10,0:08:27.90,0:08:30.90,Default,,0,0,0,,but their storyboard is pretty much \Ncomplete up through the third chapter.
+Dialogue: 10,0:08:27.90,0:08:30.90,Default,,0,0,0,,but their name is pretty much \Ncomplete up through the third chapter.
 Dialogue: 10,0:08:30.90,0:08:35.41,Default,,0,0,0,,I can assure you that there's no way theirs will fail and yours will pass.
 Dialogue: 10,0:08:35.41,0:08:37.07,Default,,0,0,0,,The difference is too great.
 Dialogue: 10,0:08:37.95,0:08:42.83,Default,,0,0,0,,If you still want to submit it, I'll try talking to the higher ups...
@@ -278,10 +278,10 @@ Dialogue: 10,0:11:50.89,0:11:54.65,Default,,0,0,0,,The deadline is the day after
 Dialogue: 10,0:11:54.65,0:11:55.86,Default,,0,0,0,,Well...
 Dialogue: 10,0:11:59.86,0:12:00.86,Default,,0,0,0,,Takahama!
 Dialogue: 10,0:12:00.86,0:12:01.86,Default,,0,0,0,,It's been a while.
-Dialogue: 10,0:12:02.91,0:12:04.57,Default,,0,0,0,,What? Our storyboard?
+Dialogue: 10,0:12:02.91,0:12:04.57,Default,,0,0,0,,What? Our name?
 Dialogue: 10,0:12:05.95,0:12:07.87,Default,,0,0,0,,Sure, that's fine.
 Dialogue: 10,0:12:08.45,0:12:10.16,Default,,0,0,0,,Yeah, see you.
-Dialogue: 10,0:12:11.91,0:12:15.29,Default,,0,0,0,,He's coming over. He asked to see the\N storyboard we're submitting to the committee.
+Dialogue: 10,0:12:11.91,0:12:15.29,Default,,0,0,0,,He's coming over. He asked to see the\N name we're submitting to the committee.
 Dialogue: 10,0:12:15.29,0:12:16.04,Default,,0,0,0,,What?
 Dialogue: 10,0:12:16.04,0:12:18.17,Default,,0,0,0,,And you said that was okay?
 Dialogue: 10,0:12:18.17,0:12:20.13,Default,,0,0,0,,He might be our rival next week!
@@ -295,7 +295,7 @@ Dialogue: 10,0:12:44.61,0:12:46.03,Default,,0,0,0,,You don't have to go that far
 Dialogue: 10,0:12:46.03,0:12:48.70,Default,,0,0,0,,No, Miura was right.
 Dialogue: 10,0:12:48.70,0:12:50.49,Default,,0,0,0,,It's way better than mine.
 Dialogue: 10,0:12:51.87,0:12:57.92,Default,,0,0,0,,Now I'm fired up and ready to make something \Nbetter; something that won't lose to Ashirogi Muto!
-Dialogue: 10,0:12:58.75,0:13:02.72,Default,,0,0,0,,I was about to submit my pitiful storyboard to the committee.
+Dialogue: 10,0:12:58.75,0:13:02.72,Default,,0,0,0,,I was about to submit my pitiful name to the committee.
 Dialogue: 10,0:13:02.72,0:13:04.22,Default,,0,0,0,,Takahama.
 Dialogue: 10,0:13:04.22,0:13:05.88,Default,,0,0,0,,Thank you.
 Dialogue: 10,0:13:05.88,0:13:07.05,Default,,0,0,0,,I'm cheering you on!
@@ -303,7 +303,7 @@ Dialogue: 10,0:13:07.05,0:13:08.93,Default,,0,0,0,,And I'll catch up to you soon
 Dialogue: 10,0:13:10.01,0:13:13.77,Default,,0,0,0,,After seeing Takahama's reaction, I'm even more confident in this.
 Dialogue: 10,0:13:13.77,0:13:15.19,Default,,0,0,0,,I'm grateful.
 Dialogue: 10,0:13:16.69,0:13:18.73,Default,,0,0,0,,And I want to try hard for his sake, too!
-Dialogue: 10,0:13:23.36,0:13:26.36,Default,,0,0,0,,Here's Ashirogi's storyboard. Please submit this!
+Dialogue: 10,0:13:23.36,0:13:26.36,Default,,0,0,0,,Here's Ashirogi's name. Please submit this!
 Dialogue: 10,0:13:26.36,0:13:27.99,Default,,0,0,0,,O-Okay.
 Dialogue: 10,0:13:29.12,0:13:32.75,Default,,0,0,0,,Huh? {\i1}Perfect Crime Club{\i0} ? Is this okay?
 Dialogue: 10,0:13:33.25,0:13:35.75,Default,,0,0,0,,It's much more than "okay"!
@@ -317,7 +317,7 @@ Dialogue: 10,0:13:57.14,0:13:59.69,Default,,0,0,0,,We'll be stuck to each other 
 Dialogue: 10,0:14:00.36,0:14:03.61,Default,,0,0,0,,Let's get ready to celebrate while we wait for results from the committee.
 Dialogue: 10,0:14:04.03,0:14:05.61,Default,,0,0,0,,You're confident, right, Saiko?
 Dialogue: 10,0:14:06.03,0:14:07.20,Default,,0,0,0,,Yeah.
-Dialogue: 10,0:14:07.20,0:14:09.28,Default,,0,0,0,,I think the storyboard will pass.
+Dialogue: 10,0:14:07.20,0:14:09.28,Default,,0,0,0,,I think the name will pass.
 Dialogue: 10,0:14:09.28,0:14:12.28,Default,,0,0,0,,Miura told us that Hattori praised it, right?
 Dialogue: 10,0:14:12.28,0:14:14.20,Default,,0,0,0,,"This is what I was looking for", he said.
 Dialogue: 10,0:14:14.62,0:14:16.58,Default,,0,0,0,,If only Miho would come.
