@@ -19,9 +19,9 @@ Keyframes File: ep15_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 506
-Active Line: 527
-Video Position: 31145
+Scroll Position: 394
+Active Line: 412
+Video Position: 27070
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -80,112 +80,127 @@ Dialogue: 10,0:00:03.39,0:00:05.40,Default,,0,0,0,,I think Azuki just dumped me.
 Dialogue: 10,0:00:07.86,0:00:11.74,Default,,0,0,0,,She found out that I've been hiding what happened between her mom and my uncle...
 Dialogue: 10,0:00:11.74,0:00:13.99,Default,,0,0,0,,and told me she couldn't trust me.
 Dialogue: 10,0:00:13.99,0:00:15.66,Default,,0,0,0,,That's not good.
-Dialogue: 10,0:00:15.66,0:00:19.49,Default,,0,0,0,,Unlike Miyoshi, Azuki isn't the type to forgive cheating.
+Dialogue: 10,0:00:15.66,0:00:19.49,Default,,0,0,0,,Unlike Miyoshi, Azuki isn't \Nthe type to forgive cheating.
 Dialogue: 10,0:00:19.49,0:00:20.95,Default,,0,0,0,,I didn't cheat!
-Dialogue: 10,0:00:20.95,0:00:23.96,Default,,0,0,0,,W-Well, yeah... but this is bad.
+Dialogue: 10,0:00:20.95,0:00:22.94,Default,,0,0,0,,W-Well, yeah...
+Dialogue: 10,0:00:22.94,0:00:23.96,Default,,0,0,0,,but this is bad.
 Dialogue: 10,0:00:23.96,0:00:26.96,Default,,0,0,0,,Yeah, for now, I'd better apologize.
 Dialogue: 10,0:00:30.34,0:00:32.47,Default,,0,0,0,,H-Hi, this is Mashiro.
 Dialogue: 10,0:00:33.34,0:00:34.43,Default,,0,0,0,,Yes?
 Dialogue: 10,0:00:34.43,0:00:36.30,Default,,0,0,0,,I'm sorry about before.
-Dialogue: 10,0:00:36.30,0:00:38.72,Default,,0,0,0,,But I haven't done anything wrong, so please trust me.
-Dialogue: 10,0:00:38.72,0:00:41.98,Default,,0,0,0,,I do trust you. So just tell me.
-Dialogue: 10,0:00:41.98,0:00:45.85,Default,,0,0,0,,Well, um, if you trust me, I shouldn't have to tell you...
+Dialogue: 10,0:00:36.30,0:00:38.72,Default,,0,0,0,,But I haven't done anything \Nwrong, so please trust me.
+Dialogue: 10,0:00:38.72,0:00:40.44,Default,,0,0,0,,I do trust you.
+Dialogue: 10,0:00:40.44,0:00:41.98,Default,,0,0,0,,So just tell me.
+Dialogue: 10,0:00:41.98,0:00:43.47,Default,,0,0,0,,Well, um—
+Dialogue: 10,0:00:43.47,0:00:45.85,Default,,0,0,0,,If you trust me, I shouldn't\N have to tell you...
 Dialogue: 10,0:00:45.85,0:00:48.36,Default,,0,0,0,,If no one's done anything wrong, you should be able to talk about it.
-Dialogue: 10,0:00:48.98,0:00:52.11,Default,,0,0,0,,I can only think you're covering for Takagi.
-Dialogue: 10,0:00:52.11,0:00:57.70,Default,,0,0,0,,But when you were worried about doing that photo book, you hid it from me.
-Dialogue: 10,0:00:58.45,0:01:00.95,Default,,0,0,0,,I think hiding something to avoid worrying others
+Dialogue: 10,0:00:48.98,0:00:52.11,Default,,0,0,0,,I can only think you're \Ncovering for Takagi.
+Dialogue: 10,0:00:52.11,0:00:55.74,Default,,0,0,0,,But when you were worried about doing that photo book,
+Dialogue: 10,0:00:55.74,0:00:57.70,Default,,0,0,0,,you hid it from me.
+Dialogue: 10,0:00:58.45,0:01:00.95,Default,,0,0,0,,I think hiding something \Nto avoid worrying others
 Dialogue: 10,0:01:00.95,0:01:03.87,Default,,0,0,0,,and hiding something you did wrong are two different things.
-Dialogue: 10,0:01:03.87,0:01:06.33,Default,,0,0,0,,But I already told you I didn't do anything wrong!
+Dialogue: 10,0:01:03.87,0:01:06.33,Default,,0,0,0,,But I already told you I \Ndidn't do anything wrong!
 Dialogue: 10,0:01:06.33,0:01:08.33,Default,,0,0,0,,How come {\i1}you{\i0} get to decide?
-Dialogue: 10,0:01:08.33,0:01:10.59,Default,,0,0,0,,If nothing's wrong, you should be able to tell me.
+Dialogue: 10,0:01:08.33,0:01:10.59,Default,,0,0,0,,If nothing's wrong, you \Nshould be able to tell me.
 Dialogue: 10,0:01:10.59,0:01:12.76,Default,,0,0,0,,You don't trust me!
 Dialogue: 10,0:01:12.76,0:01:15.09,Default,,0,0,0,,You don't trust me enough to tell me!
 Dialogue: 10,0:01:15.09,0:01:16.09,Default,,0,0,0,,I've had enough!
 Dialogue: 10,0:01:16.09,0:01:17.22,Default,,0,0,0,,That's my line!
 Dialogue: 10,0:01:18.14,0:01:18.72,Default,,0,0,0,,I can't do it.
 Dialogue: 10,0:01:18.72,0:01:20.56,Default,,0,0,0,,I'm pissed now.
-Dialogue: 10,0:01:20.56,0:01:24.18,Default,,0,0,0,,In the end, neither Azuki nor Miyoshi trusts us.
-Dialogue: 10,0:01:24.18,0:01:26.48,Default,,0,0,0,,Even though we haven't done anything wrong.
-Dialogue: 10,0:01:27.15,0:01:30.90,Default,,0,0,0,,If Saiko and Azuki break up because of something I did...
+Dialogue: 10,0:01:20.56,0:01:24.18,Default,,0,0,0,,In the end, neither Azuki \Nnor Miyoshi trusts us.
+Dialogue: 10,0:01:24.18,0:01:26.48,Default,,0,0,0,,Even though we haven't\N done anything wrong.
+Dialogue: 10,0:01:27.15,0:01:30.90,Default-Italic,,0,0,0,,If Saiko and Azuki break up\N because of something I did...
 Dialogue: 10,0:03:15.34,0:03:16.42,Default,,0,0,0,,This won't work.
 Dialogue: 10,0:03:16.42,0:03:18.09,Default,,0,0,0,,Let's just tell them everything!
 Dialogue: 10,0:03:18.72,0:03:20.59,Default,,0,0,0,,What about Aoki?
 Dialogue: 10,0:03:21.01,0:03:22.97,Default,,0,0,0,,Will Miyoshi accept that?
-Dialogue: 10,0:03:22.97,0:03:25.47,Default,,0,0,0,,First, I'll stop exchanging ideas with Aoki.
-Dialogue: 10,0:03:25.93,0:03:28.56,Default,,0,0,0,,I'll tell her afterwards and promise never to do it again.
-Dialogue: 10,0:03:29.18,0:03:31.10,Default,,0,0,0,,And that thing with Iwase was just a misunderstanding.
+Dialogue: 10,0:03:22.97,0:03:25.47,Default,,0,0,0,,First, I'll stop exchanging\N ideas with Aoki.
+Dialogue: 10,0:03:25.93,0:03:28.56,Default,,0,0,0,,I'll tell her afterwards and \Npromise never to do it again.
+Dialogue: 10,0:03:29.10,0:03:31.10,Default,,0,0,0,,And that thing with Iwase \Nwas just a misunderstanding.
 Dialogue: 10,0:03:31.10,0:03:35.11,Default,,0,0,0,,If there's nothing left to hide, then you and Azuki can make up.
 Dialogue: 10,0:03:37.69,0:03:39.28,Default,,0,0,0,,I'll ask Aoki.
 Dialogue: 10,0:03:45.32,0:03:46.78,Default,,0,0,0,,Hello, this is Aoki.
 Dialogue: 10,0:03:46.78,0:03:49.00,Default,,0,0,0,,H-Hello.
 Dialogue: 10,0:03:49.00,0:03:51.12,Default,,0,0,0,,You seem quite cheerful today.
 Dialogue: 10,0:03:51.12,0:03:53.00,Default,,0,0,0,,Ah, I'm sorry.
-Dialogue: 10,0:03:53.50,0:03:57.75,Default,,0,0,0,,You're the only man I can trust right now,
+Dialogue: 10,0:03:53.50,0:03:57.75,Default,,0,0,0,,You're the only man \NI can trust right now,
 Dialogue: 10,0:03:57.75,0:04:00.26,Default,,0,0,0,,so honestly, I enjoy talking with you.
 Dialogue: 10,0:04:00.26,0:04:01.55,Default,,0,0,0,,You enjoy it?!
 Dialogue: 10,0:04:01.55,0:04:02.93,Default,,0,0,0,,Talking with me?
 Dialogue: 10,0:04:02.93,0:04:03.89,Default,,0,0,0,,Yes.
-Dialogue: 10,0:04:05.64,0:04:12.39,Default,,0,0,0,,{\fad(0,400)}This is the first time I've been able to be honest and talk freely with a man.
+Dialogue: 10,0:04:05.64,0:04:07.84,Default,,0,0,0,,This is the first time
+Dialogue: 10,0:04:07.84,0:04:12.39,Default,,0,0,0,,I've been able to be honest \Nand talk freely with a man.
 Dialogue: 10,0:04:12.39,0:04:14.44,Default,,0,0,0,,Thank you for everything.
-Dialogue: 10,0:04:14.44,0:04:20.07,Default,,0,0,0,,I look forward to continuing our relationship as mangakas and occasional rivals.
+Dialogue: 10,0:04:14.44,0:04:17.18,Default,,0,0,0,,I look forward to \Ncontinuing our relationship
+Dialogue: 10,0:04:17.18,0:04:20.07,Default,,0,0,0,,as mangakas and occasional rivals.
 Dialogue: 10,0:04:21.19,0:04:22.74,Default,,0,0,0,,S-Sorry.
-Dialogue: 10,0:04:22.74,0:04:25.45,Default,,0,0,0,,I couldn't tell her I wanted to stop talking with her.
+Dialogue: 10,0:04:22.74,0:04:25.45,Default,,0,0,0,,I couldn't tell her I wanted\N to stop talking with her.
 Dialogue: 10,0:04:25.45,0:04:28.45,Default,,0,0,0,,Well, she didn't do anything wrong.
-Dialogue: 10,0:04:28.45,0:04:31.45,Default,,0,0,0,,Should you tell just Azuki everything?
+Dialogue: 10,0:04:28.45,0:04:31.45,Default,,0,0,0,,Should you tell just \NAzuki everything?
 Dialogue: 10,0:04:31.45,0:04:33.37,Default,,0,0,0,,She'll just tell Miyoshi.
-Dialogue: 10,0:04:33.37,0:04:36.46,Default,,0,0,0,,And if I tell her not to, she'll just get even angrier.
+Dialogue: 10,0:04:33.37,0:04:36.46,Default,,0,0,0,,And if I tell her not to, \Nshe'll just get even angrier.
 Dialogue: 10,0:04:36.88,0:04:38.09,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:04:40.30,0:04:41.63,Default,,0,0,0,,Whatever.
-Dialogue: 10,0:04:41.63,0:04:43.72,Default,,0,0,0,,Let's just wait it out and see how it goes for a while.
-Dialogue: 10,0:04:44.22,0:04:47.05,Default,,0,0,0,,But I've caused trouble for both of you...
-Dialogue: 10,0:04:47.05,0:04:51.43,Default,,0,0,0,,If they apologize, then we can tell them everything.
-Dialogue: 10,0:04:51.43,0:04:53.56,Default,,0,0,0,,Otherwise, they'll walk all over us in the future!
-Dialogue: 10,0:04:53.56,0:04:57.48,Default,,0,0,0,,Now, let's get started on that serialization name for when {\i1}Tanto{\i0} gets first place!
+Dialogue: 10,0:04:41.63,0:04:43.72,Default,,0,0,0,,Let's just wait it out and \Nsee how it goes for a while.
+Dialogue: 10,0:04:44.22,0:04:47.05,Default,,0,0,0,,But I've caused \Ntrouble for both of you...
+Dialogue: 10,0:04:47.05,0:04:48.43,Default,,0,0,0,,If they apologize,
+Dialogue: 10,0:04:48.43,0:04:51.43,Default,,0,0,0,,then we can tell them everything.
+Dialogue: 10,0:04:51.43,0:04:53.56,Default,,0,0,0,,Otherwise, they'll walk \Nall over us in the future!
+Dialogue: 10,0:04:53.56,0:04:54.81,Default,,0,0,0,,Now!
+Dialogue: 10,0:04:54.81,0:04:57.48,Default,,0,0,0,,Let's get started on that serialization \Nname for when {\i1}Tanto{\i0} gets first place!
 Dialogue: 10,0:04:57.48,0:04:58.44,Default,,0,0,0,,Y-Yeah.
-Dialogue: 10,0:05:01.32,0:05:03.65,Default,,0,0,0,,"If they apologize..."
-Dialogue: 10,0:05:04.11,0:05:05.53,Default,,0,0,0,,This is bad.
-Dialogue: 10,0:05:05.53,0:05:08.83,Default,,0,0,0,,Saiko's really stubborn when it comes to things like this.
-Dialogue: 10,0:05:08.83,0:05:11.08,Default,,0,0,0,,What?! You called him?
+Dialogue: 10,0:05:01.32,0:05:03.65,Default-Italic,,0,0,0,,"If they apologize..."
+Dialogue: 10,0:05:04.11,0:05:05.53,Default-Italic,,0,0,0,,This is bad.
+Dialogue: 10,0:05:05.53,0:05:08.83,Default-Italic,,0,0,0,,Saiko's really stubborn when \Nit comes to things like this.
+Dialogue: 10,0:05:08.83,0:05:09.83,Default,,0,0,0,,What?!
+Dialogue: 10,0:05:09.83,0:05:11.08,Default,,0,0,0,,You called him?
 Dialogue: 10,0:05:11.08,0:05:12.91,Default,,0,0,0,,No luck with either Takagi or Mashiro.
 Dialogue: 10,0:05:13.41,0:05:15.41,Default,,0,0,0,,They're both hiding something.
-Dialogue: 10,0:05:15.41,0:05:18.42,Default,,0,0,0,,Both of them? You talked to Mashiro?
-Dialogue: 10,0:05:18.42,0:05:20.63,Default,,0,0,0,,Yeah. We got into a fight.
-Dialogue: 10,0:05:21.38,0:05:22.21,Default,,0,0,0,,A fight?
-Dialogue: 10,0:05:22.21,0:05:24.42,Default,,0,0,0,,Miho and Mashiro had a fight?
-Dialogue: 10,0:05:24.42,0:05:26.93,Default,,0,0,0,,I can't believe he'd hide something from me.
+Dialogue: 10,0:05:15.41,0:05:16.89,Default,,0,0,0,,Both of them?
+Dialogue: 10,0:05:16.89,0:05:18.42,Default,,0,0,0,,You talked to Mashiro?
+Dialogue: 10,0:05:18.42,0:05:19.44,Default,,0,0,0,,Yeah.
+Dialogue: 10,0:05:19.44,0:05:20.63,Default,,0,0,0,,We got into a fight.
+Dialogue: 10,0:05:21.38,0:05:22.21,Default-Italic,,0,0,0,,A fight?
+Dialogue: 10,0:05:22.21,0:05:24.42,Default-Italic,,0,0,0,,Miho and Mashiro had a fight?
+Dialogue: 10,0:05:24.42,0:05:26.93,Default,,0,0,0,,I can't believe he'd \Nhide something from me.
 Dialogue: 10,0:05:26.93,0:05:28.18,Default,,0,0,0,,That's unforgivable, right?
-Dialogue: 10,0:05:28.18,0:05:29.68,Default,,0,0,0,,Huh? Yeah...
-Dialogue: 10,0:05:30.81,0:05:31.76,Default,,0,0,0,,Crap.
-Dialogue: 10,0:05:31.76,0:05:33.64,Default,,0,0,0,,It's our fault...
-Dialogue: 10,0:05:33.64,0:05:34.85,Default,,0,0,0,,What should I do?
-Dialogue: 10,0:05:34.85,0:05:37.14,Default,,0,0,0,,Miho's stubborn when it comes to things like this...
-Dialogue: 10,0:05:37.81,0:05:39.98,Default,,0,0,0,,Well, Mashiro too.
-Dialogue: 10,0:05:45.07,0:05:47.32,Default,,0,0,0,,It usually comes on release day...
-Dialogue: 10,0:05:47.32,0:05:49.32,Default,,0,0,0,,An email from Azuki about her impressions.
+Dialogue: 10,0:05:28.18,0:05:28.91,Default,,0,0,0,,Huh?
+Dialogue: 10,0:05:28.91,0:05:29.68,Default,,0,0,0,,Yeah...
+Dialogue: 10,0:05:30.81,0:05:31.76,Default-Italic,,0,0,0,,Crap.
+Dialogue: 10,0:05:31.76,0:05:33.64,Default-Italic,,0,0,0,,It's our fault...
+Dialogue: 10,0:05:33.64,0:05:34.85,Default-Italic,,0,0,0,,What should I do?
+Dialogue: 10,0:05:34.85,0:05:37.14,Default-Italic,,0,0,0,,Miho's stubborn when it\N comes to things like this...
+Dialogue: 10,0:05:37.81,0:05:39.98,Default-Italic,,0,0,0,,Well, Mashiro too.
+Dialogue: 10,0:05:45.07,0:05:47.32,Default-Italic,,0,0,0,,It usually comes on release day...
+Dialogue: 10,0:05:47.32,0:05:49.32,Default-Italic,,0,0,0,,An email from Azuki \Nabout her impressions.
 Dialogue: 10,0:05:49.32,0:05:50.62,Default,,0,0,0,,What else...
-Dialogue: 10,0:05:50.62,0:05:54.50,Default,,0,0,0,,Hey, how about you stop being stubborn and tell Azuki everything?
+Dialogue: 10,0:05:50.62,0:05:51.58,Default,,0,0,0,,Hey!
+Dialogue: 10,0:05:51.58,0:05:54.50,Default,,0,0,0,,How about you stop being stubborn and tell Azuki everything?
 Dialogue: 10,0:05:54.50,0:05:56.46,Default,,0,0,0,,Let it go already.
 Dialogue: 10,0:05:56.46,0:05:58.21,Default,,0,0,0,,I won't be the one to fold first.
 Dialogue: 10,0:05:58.21,0:06:00.38,Default,,0,0,0,,Anyways, let's get to the office.
 Dialogue: 10,0:06:00.38,0:06:02.09,Default,,0,0,0,,O-Okay.
 Dialogue: 10,0:06:06.47,0:06:09.34,Default,,0,0,0,,It's gonna be a while before we find out Next's final rankings...
-Dialogue: 10,0:06:09.80,0:06:13.76,Default,,0,0,0,,I should have asked him to tell us the early results.
-Dialogue: 10,0:06:13.76,0:06:15.98,Default,,0,0,0,,{\i1}Tanto{\i0}... can get first place, right?
+Dialogue: 10,0:06:09.80,0:06:13.76,Default,,0,0,0,,I should have asked him\N to tell us the early results.
+Dialogue: 10,0:06:13.76,0:06:14.65,Default,,0,0,0,,{\i1}Tanto{\i0}...
+Dialogue: 10,0:06:14.65,0:06:15.98,Default,,0,0,0,,can get first place, right?
 Dialogue: 10,0:06:15.98,0:06:19.60,Default,,0,0,0,,It's not "can", it's "will".
-Dialogue: 10,0:06:19.60,0:06:21.86,Default,,0,0,0,,I think it'll go over well with little kids,
-Dialogue: 10,0:06:22.27,0:06:26.07,Default,,0,0,0,,but Next has a higher readership age than Jack does.
+Dialogue: 10,0:06:19.60,0:06:21.86,Default,,0,0,0,,I think it'll go over \Nwell with little kids,
+Dialogue: 10,0:06:22.27,0:06:26.07,Default,,0,0,0,,but Next has a higher \Nreadership age than Jack does.
 Dialogue: 10,0:06:27.70,0:06:32.24,Default,,0,0,0,,Saiko, you're just useless without Azuki's "It was great!" email.
 Dialogue: 10,0:06:32.24,0:06:33.45,Default,,0,0,0,,That's not true!
 Dialogue: 10,0:06:35.29,0:06:36.54,Default,,0,0,0,,I'll be waiting downstairs.
 Dialogue: 10,0:06:36.54,0:06:37.41,Default,,0,0,0,,Okay.
 Dialogue: 10,0:06:47.30,0:06:48.38,Default,,0,0,0,,That's him!
-Dialogue: 10,0:06:49.72,0:06:52.18,Default,,0,0,0,,{\i1}Tanto{\i0} took 1st place in the final rankings!
+Dialogue: 10,0:06:49.72,0:06:52.18,Default,,0,0,0,,{\i1}Tanto{\i0} took 1st place\N in the final rankings!
 Dialogue: 10,0:06:52.18,0:06:54.68,Default,,0,0,0,,We did it!
-Dialogue: 10,0:06:54.68,0:06:56.72,Default,,0,0,0,,This is the first time we've gotten 1st place!
+Dialogue: 10,0:06:54.68,0:06:56.72,Default,,0,0,0,,This is the first time \Nwe've gotten 1st place!
 Dialogue: 10,0:06:56.72,0:06:57.93,Default,,0,0,0,,I'm so happy!
 Dialogue: 10,0:06:57.93,0:07:01.60,Default,,0,0,0,,It's the first time one of my edited works has gotten 1st, too, idiot!
 Dialogue: 10,0:07:01.60,0:07:04.73,Default,,0,0,0,,Let's ride this momentum all the way to the next serialization meeting!
-Dialogue: 10,0:07:04.73,0:07:06.19,Default,,0,0,0,,Yes! We'll do our best!
+Dialogue: 10,0:07:04.73,0:07:05.37,Default,,0,0,0,,Yes!
+Dialogue: 10,0:07:05.37,0:07:06.19,Default,,0,0,0,,We'll do our best!
 Dialogue: 10,0:07:10.15,0:07:11.61,Default,,0,0,0,,We did it!
 Dialogue: 10,0:07:11.61,0:07:14.28,Default,,0,0,0,,I didn't know I'd be this happy about getting 1st in the final rankings.
 Dialogue: 10,0:07:14.99,0:07:16.70,Default,,0,0,0,,Next time, let's get 1st in Jack!
@@ -195,87 +210,100 @@ Dialogue: 10,0:07:20.92,0:07:22.83,Default,,0,0,0,,I'll try telling Azuki.
 Dialogue: 10,0:07:22.83,0:07:23.67,Default,,0,0,0,,Right!
 Dialogue: 10,0:07:24.63,0:07:26.09,Default,,0,0,0,,Oh, Yamahisa.
 Dialogue: 10,0:07:26.09,0:07:27.55,Default,,0,0,0,,{\i1}Time of Blue Leaves{\i0} got 2nd.
-Dialogue: 10,0:07:27.55,0:07:30.42,Default,,0,0,0,,I think it did well, considering it was up against Ashirogi.
+Dialogue: 10,0:07:27.55,0:07:30.42,Default,,0,0,0,,I think it did well, considering \Nit was up against Ashirogi.
 Dialogue: 10,0:07:30.42,0:07:33.64,Default,,0,0,0,,2nd is just fine for getting serialized.
-Dialogue: 10,0:07:33.64,0:07:35.76,Default,,0,0,0,,It didn't get to have the first few pages in color, after all.
+Dialogue: 10,0:07:33.64,0:07:35.76,Default,,0,0,0,,It didn't get to have the first\N few pages in color, after all.
 Dialogue: 10,0:07:35.76,0:07:38.22,Default,,0,0,0,,I wonder if that's all it was?
 Dialogue: 10,0:07:38.22,0:07:39.14,Default,,0,0,0,,Yamahisa.
 Dialogue: 10,0:07:39.14,0:07:40.27,Default,,0,0,0,,Yes?
 Dialogue: 10,0:07:40.27,0:07:44.52,Default,,0,0,0,,{\i1}Time of Blue Leaves{\i0} did well with older males and females.
-Dialogue: 10,0:07:44.52,0:07:47.11,Default,,0,0,0,,That was pretty much what we were aiming for.
-Dialogue: 10,0:07:47.11,0:07:49.53,Default,,0,0,0,,It's been a while since I've seen a romance like this.
+Dialogue: 10,0:07:44.52,0:07:47.11,Default,,0,0,0,,That was pretty much \Nwhat we were aiming for.
+Dialogue: 10,0:07:47.11,0:07:49.53,Default,,0,0,0,,It's been a while since I've\N seen a romance like this.
 Dialogue: 10,0:07:49.53,0:07:50.44,Default,,0,0,0,,It'll work!
 Dialogue: 10,0:07:50.44,0:07:51.45,Default,,0,0,0,,You really think so?!
 Dialogue: 10,0:07:51.45,0:07:54.41,Default,,0,0,0,,Yeah, if we do something about the art.
 Dialogue: 10,0:07:54.41,0:07:56.20,Default,,0,0,0,,So that {\i1}was {\i0}the issue, after all.
 Dialogue: 10,0:07:56.20,0:07:57.91,Default,,0,0,0,,I was concerned about it.
-Dialogue: 10,0:07:57.91,0:08:01.37,Default,,0,0,0,,If Aoki is fine with drawing the faces alone,
-Dialogue: 10,0:08:01.37,0:08:06.04,Default,,0,0,0,,you could try pairing her up with Nakai Takuro again, with him as the artist and her as the author.
+Dialogue: 10,0:07:57.91,0:08:01.15,Default,,0,0,0,,If Aoki is fine with \Ndrawing the faces alone,
+Dialogue: 10,0:08:01.15,0:08:03.07,Default,,0,0,0,,you could try pairing her \Nup with Nakai Takuro again,
+Dialogue: 10,0:08:03.07,0:08:06.04,Default,,0,0,0,,with him as the artist \Nand her as the author.
 Dialogue: 10,0:08:06.04,0:08:07.84,Default,,0,0,0,,This time, in the magazine itself.
 Dialogue: 10,0:08:09.05,0:08:10.51,Default,,0,0,0,,I understand.
-Dialogue: 10,0:08:10.51,0:08:14.26,Default,,0,0,0,,I'll keep pushing her to pair up with Nakai.
+Dialogue: 10,0:08:10.51,0:08:14.26,Default,,0,0,0,,I'll keep pushing her\N to pair up with Nakai.
 Dialogue: 10,0:08:14.26,0:08:16.47,Default,,0,0,0,,I won't lose to {\i1}Tanto{\i0} lying down!
 Dialogue: 10,0:08:16.47,0:08:17.51,Default,,0,0,0,,I'm counting on you.
-Dialogue: 10,0:08:17.51,0:08:19.52,Default,,0,0,0,,If it goes well, it could get a drama adaptation!
-Dialogue: 10,0:08:20.52,0:08:24.19,Default,,0,0,0,,She could have said "Congratulations", at least...
+Dialogue: 10,0:08:17.51,0:08:19.52,Default,,0,0,0,,If it goes well, it could \Nget a drama adaptation!
+Dialogue: 10,0:08:20.52,0:08:24.19,Default,,0,0,0,,She could have said \N"Congratulations", at least...
 Dialogue: 10,0:08:24.19,0:08:26.65,Default,,0,0,0,,Maybe she's working really late?
-Dialogue: 10,0:08:26.65,0:08:28.94,Default,,0,0,0,,I guess she won't reply unless I apologize.
-Dialogue: 10,0:08:28.94,0:08:31.28,Default,,0,0,0,,Don't you think she's taking things too far?
+Dialogue: 10,0:08:26.65,0:08:28.94,Default,,0,0,0,,I guess she won't \Nreply unless I apologize.
+Dialogue: 10,0:08:28.94,0:08:31.28,Default,,0,0,0,,Don't you think she's\N taking things too far?
 Dialogue: 10,0:08:33.03,0:08:34.78,Default,,0,0,0,,Oh, that's mine.
-Dialogue: 10,0:08:35.24,0:08:37.28,Default,,0,0,0,,Congratulations on getting first place!
+Dialogue: 10,0:08:35.24,0:08:37.28,Default,,0,0,0,,Congratulations on \Ngetting first place!
 Dialogue: 10,0:08:37.28,0:08:39.41,Default,,0,0,0,,Oh, thank you.
 Dialogue: 10,0:08:39.41,0:08:40.91,Default,,0,0,0,,I was second.
-Dialogue: 10,0:08:40.91,0:08:42.96,Default,,0,0,0,,Second? That's great!
-Dialogue: 10,0:08:43.41,0:08:45.62,Default,,0,0,0,,You don't mind if I congratulate you, right?
-Dialogue: 10,0:08:45.62,0:08:48.92,Default,,0,0,0,,I am frustrated, but...
-Dialogue: 10,0:08:49.59,0:08:53.97,Default,,0,0,0,,I'm glad that Ashirogi, whom I collaborated with, was number one.
-Dialogue: 10,0:08:53.97,0:08:56.14,Default,,0,0,0,,Let's both work hard from here on out.
+Dialogue: 10,0:08:40.91,0:08:41.92,Default,,0,0,0,,Second?
+Dialogue: 10,0:08:41.92,0:08:42.96,Default,,0,0,0,,That's great!
+Dialogue: 10,0:08:43.41,0:08:45.62,Default,,0,0,0,,You don't mind if I \Ncongratulate you, right?
+Dialogue: 10,0:08:45.62,0:08:47.29,Default,,0,0,0,,I am frustrated,
+Dialogue: 10,0:08:47.29,0:08:48.11,Default,,0,0,0,,but...
+Dialogue: 10,0:08:49.59,0:08:51.37,Default,,0,0,0,,I'm glad that Ashirogi,
+Dialogue: 10,0:08:51.37,0:08:53.97,Default,,0,0,0,,whom I collaborated \Nwith, was number one.
+Dialogue: 10,0:08:53.97,0:08:56.14,Default,,0,0,0,,Let's both work hard \Nfrom here on out.
 Dialogue: 10,0:08:56.14,0:08:58.60,Default,,0,0,0,,Yes, thank you!
 Dialogue: 10,0:08:58.60,0:08:59.51,Default,,0,0,0,,Talk to you later.
-Dialogue: 10,0:09:02.18,0:09:06.35,Default,,0,0,0,,Why am I so happy even though I only got second place?
-Dialogue: 10,0:09:07.65,0:09:09.90,Default,,0,0,0,,Do I like...?
-Dialogue: 10,0:09:10.57,0:09:13.07,Default,,0,0,0,,No, I can't feel that way for him.
-Dialogue: 10,0:09:13.07,0:09:15.36,Default,,0,0,0,,He has a girlfriend.
+Dialogue: 10,0:09:02.18,0:09:04.17,Default-Italic,,0,0,0,,Why am I so happy?
+Dialogue: 10,0:09:04.17,0:09:06.35,Default-Italic,,0,0,0,,Even though I only \Ngot second place?
+Dialogue: 10,0:09:07.65,0:09:09.90,Default-Italic,,0,0,0,,Do I like...?
+Dialogue: 10,0:09:10.57,0:09:12.23,Default-Italic,,0,0,0,,No, I can't feel that way.
+Dialogue: 10,0:09:13.07,0:09:15.36,Default-Italic,,0,0,0,,He has a girlfriend.
 Dialogue: 10,0:09:16.82,0:09:18.70,Default,,0,0,0,,This is Yamahisa from Jack.
 Dialogue: 10,0:09:18.70,0:09:19.91,Default,,0,0,0,,H-Hello.
-Dialogue: 10,0:09:19.91,0:09:25.08,Default,,0,0,0,,This may be sudden, but we decided to try out {\i1}Time of Blue Leaves{\i0} as a one-shot in Jack!
+Dialogue: 10,0:09:19.91,0:09:23.00,Default,,0,0,0,,This may be sudden, but we decided to try out {\i1}Time of Blue Leaves{\i0}
+Dialogue: 10,0:09:23.00,0:09:25.08,Default,,0,0,0,,as a one-shot in Jack!
 Dialogue: 10,0:09:25.08,0:09:26.00,Default,,0,0,0,,Really?
-Dialogue: 10,0:09:26.00,0:09:29.50,Default,,0,0,0,,Yep! If we can have Nakai do the art.
+Dialogue: 10,0:09:26.00,0:09:27.31,Default,,0,0,0,,Yep!
+Dialogue: 10,0:09:27.31,0:09:29.50,Default,,0,0,0,,If we can have Nakai do the art.
 Dialogue: 10,0:09:30.34,0:09:33.42,Default,,0,0,0,,The general consensus in the editing department is that it would be for the best.
 Dialogue: 10,0:09:33.42,0:09:36.72,Default-Italic,,0,0,0,,Nakai and a fellow female assistant?
 Dialogue: 10,0:09:36.72,0:09:37.59,Default-Italic,,0,0,0,,Yes.
-Dialogue: 10,0:09:37.59,0:09:39.93,Default-Italic,,0,0,0,,So I don't think you need to worry about him anymore.
+Dialogue: 10,0:09:37.59,0:09:39.93,Default-Italic,,0,0,0,,So I don't think you need \Nto worry about him anymore.
 Dialogue: 10,0:09:40.93,0:09:44.35,Default-Italic,,0,0,0,,I don't have the right to criticize Nakai now.
 Dialogue: 10,0:09:44.35,0:09:45.43,Default,,0,0,0,,Aoki?
 Dialogue: 10,0:09:45.43,0:09:47.23,Default,,0,0,0,,I understand.
-Dialogue: 10,0:09:47.23,0:09:50.69,Default,,0,0,0,,If it will improve the manga, I'll trust you and do as you say.
+Dialogue: 10,0:09:47.23,0:09:49.23,Default,,0,0,0,,If it will improve the manga,
+Dialogue: 10,0:09:49.23,0:09:50.69,Default,,0,0,0,,I'll trust you and do as you say.
 Dialogue: 10,0:09:50.69,0:09:51.77,Default,,0,0,0,,Okay!
-Dialogue: 10,0:09:51.77,0:09:54.65,Default,,0,0,0,,Then I'll follow up with Nakai immediately.
+Dialogue: 10,0:09:51.77,0:09:54.65,Default,,0,0,0,,Then I'll follow up \Nwith Nakai immediately.
 Dialogue: 10,0:09:54.65,0:09:55.74,Default,,0,0,0,,No.
 Dialogue: 10,0:09:56.32,0:09:58.82,Default,,0,0,0,,I will speak with him directly.
 Dialogue: 10,0:09:59.62,0:10:01.16,Default,,0,0,0,,Sorry to keep you waiting.
-Dialogue: 10,0:10:01.16,0:10:04.45,Default,,0,0,0,,Um, what was it you wanted to talk about?
-Dialogue: 10,0:10:09.46,0:10:12.67,Default,,0,0,0,,I was wondering if you would draw for me again.
-Dialogue: 10,0:10:14.05,0:10:17.17,Default,,0,0,0,,{\i1}Time of Blue Leaves{\i0}, which was published in Next...
-Dialogue: 10,0:10:17.17,0:10:21.35,Default,,0,0,0,,is going to be tried out as a one-shot in Jack.
-Dialogue: 10,0:10:21.85,0:10:27.10,Default,,0,0,0,,I didn't think it was possible, but could that character in {\i1}Time of Blue Leaves{\i0} really have been...
-Dialogue: 10,0:10:27.10,0:10:29.31,Default,,0,0,0,,Being popular sure is tough.
-Dialogue: 10,0:10:29.73,0:10:34.19,Default,,0,0,0,,My editor suggested that you should do the art.
+Dialogue: 10,0:10:01.16,0:10:04.45,Default,,0,0,0,,Um, what was it you \Nwanted to talk about?
+Dialogue: 10,0:10:09.46,0:10:12.67,Default,,0,0,0,,I was wondering if you \Nwould draw for me again.
+Dialogue: 10,0:10:14.05,0:10:17.17,Default,,0,0,0,,{\i1}Time of Blue Leaves{\i0}, which \Nwas published in Next...
+Dialogue: 10,0:10:17.17,0:10:21.35,Default,,0,0,0,,is going to be tried out\N as a one-shot in Jack.
+Dialogue: 10,0:10:21.85,0:10:23.93,Default-Italic,,0,0,0,,I didn't think it was possible,
+Dialogue: 10,0:10:23.93,0:10:27.10,Default-Italic,,0,0,0,,but could that character in {\i0}Time of Blue Leaves{\i1} really have been...
+Dialogue: 10,0:10:27.10,0:10:29.31,Default-Italic,,0,0,0,,Being popular sure is tough.
+Dialogue: 10,0:10:29.73,0:10:34.19,Default,,0,0,0,,My editor suggested that\N you should do the art.
 Dialogue: 10,0:10:34.19,0:10:38.82,Default,,0,0,0,,I'll be brief, since I slipped out of work to come talk to you.
 Dialogue: 10,0:10:39.32,0:10:40.16,Default,,0,0,0,,Okay.
-Dialogue: 10,0:10:40.16,0:10:47.58,Default,,0,0,0,,You see, I'm enjoying my current job, and I'm getting along well with Katou Natsumi, a fellow assistant.
-Dialogue: 10,0:10:47.58,0:10:52.08,Default,,0,0,0,,I'm having trouble deciding between you two.
+Dialogue: 10,0:10:40.16,0:10:41.50,Default,,0,0,0,,You see,
+Dialogue: 10,0:10:41.50,0:10:45.64,Default,,0,0,0,,I'm enjoying my current job, and I'm getting along well with Katou Natsumi,
+Dialogue: 10,0:10:45.64,0:10:47.58,Default,,0,0,0,,a fellow assistant.
+Dialogue: 10,0:10:47.58,0:10:52.08,Default,,0,0,0,,I'm having trouble deciding\N between you two.
 Dialogue: 10,0:10:52.08,0:10:53.25,Default,,0,0,0,,I don't really understand...
-Dialogue: 10,0:10:53.25,0:10:57.05,Default,,0,0,0,,If you want to work with me, go out with me.
+Dialogue: 10,0:10:53.25,0:10:57.05,Default,,0,0,0,,If you want to work \Nwith me, go out with me.
 Dialogue: 10,0:10:57.05,0:10:59.30,Default,,0,0,0,,That's my condition.
 Dialogue: 10,0:11:09.64,0:11:10.60,Default,,0,0,0,,Nakai.
 Dialogue: 10,0:11:10.60,0:11:11.27,Default,,0,0,0,,Yes?
 Dialogue: 10,0:11:15.32,0:11:16.40,Default,,0,0,0,,Wow.
 Dialogue: 10,0:11:16.40,0:11:17.78,Default,,0,0,0,,That stuff actually happens?
 Dialogue: 10,0:11:17.78,0:11:19.45,Default,,0,0,0,,You're horrible!
-Dialogue: 10,0:11:19.45,0:11:23.24,Default,,0,0,0,,Dating as a requirement for working together?
-Dialogue: 10,0:11:23.24,0:11:25.78,Default,,0,0,0,,As a man... as a person... you're awful!
-Dialogue: 10,0:11:28.66,0:11:31.54,Default,,0,0,0,,I see. I'm relieved.
+Dialogue: 10,0:11:19.45,0:11:23.24,Default,,0,0,0,,Dating as a requirement \Nfor working together?
+Dialogue: 10,0:11:23.24,0:11:24.56,Default,,0,0,0,,As a man...
+Dialogue: 10,0:11:24.56,0:11:25.78,Default,,0,0,0,,as a person... you're awful!
+Dialogue: 10,0:11:28.66,0:11:29.76,Default,,0,0,0,,I see.
+Dialogue: 10,0:11:29.76,0:11:31.54,Default,,0,0,0,,I'm relieved.
 Dialogue: 10,0:11:31.54,0:11:34.96,Default,,0,0,0,,Since you've gone this far, my doubts have all been cleared up.
 Dialogue: 10,0:11:35.38,0:11:38.17,Default,,0,0,0,,Natsumi is waiting for me, so...
 Dialogue: 10,0:11:38.17,0:11:39.51,Default,,0,0,0,,Goodbye.
@@ -284,99 +312,114 @@ Dialogue: 10,0:11:51.14,0:11:53.90,Default,,0,0,0,,and "The cast that punches ba
 Dialogue: 10,0:11:53.90,0:11:57.19,Default,,0,0,0,,Which of these inventions do you want to use for chapters two and up?
 Dialogue: 10,0:11:58.65,0:12:01.24,Default-Italic,,0,0,0,,He hasn't sent Azuki any mail since then.
 Dialogue: 10,0:12:01.24,0:12:02.86,Default-Italic,,0,0,0,,This is getting bad.
-Dialogue: 10,0:12:03.41,0:12:07.70,Default-Italic,,0,0,0,,{\fad(0,330}We have to get this serialized, make it into a big hit, and then we'll get an anime...
+Dialogue: 10,0:12:03.41,0:12:05.36,Default-Italic,,0,0,0,,We have to get this serialized,
+Dialogue: 10,0:12:05.36,0:12:07.70,Default-Italic,,0,0,0,,{\fad(0,330}make it into a big hit, \Nand then we'll get an anime...
 Dialogue: 10,0:12:08.99,0:12:12.16,Default-Italic,,0,0,0,,{\fad(0,400}I can't even email her until then?
-Dialogue: 10,0:12:12.46,0:12:17.88,Default-Italic,,0,0,0,,Actually, is our promise to get married once I get an anime even valid at this point?
+Dialogue: 10,0:12:12.46,0:12:15.48,Default-Italic,,0,0,0,,Actually, is our promise to \Nget married once I get an anime
+Dialogue: 10,0:12:15.48,0:12:17.00,Default-Italic,,0,0,0,,even valid at this point?
 Dialogue: 10,0:12:15.92,0:12:17.00,Default-Alt,,0,0,0,,Hey, you alive?
 Dialogue: 10,0:12:17.00,0:12:17.88,Default-Alt,,0,0,0,,Saiko?
 Dialogue: 10,0:12:18.63,0:12:20.05,Default,,0,0,0,,What?
-Dialogue: 10,0:12:20.92,0:12:23.55,Default,,0,0,0,,I'll go home for today and think about it.
+Dialogue: 10,0:12:20.92,0:12:23.55,Default,,0,0,0,,I'll go home for today \Nand think about it.
 Dialogue: 10,0:12:23.55,0:12:25.18,Default,,0,0,0,,Here's the list of inventions.
-Dialogue: 10,0:12:26.05,0:12:28.31,Default,,0,0,0,,Number them in the order of which ones you like most.
-Dialogue: 10,0:12:30.85,0:12:32.52,Default,,0,0,0,,If he's like that, it'll affect our work.
-Dialogue: 10,0:12:33.48,0:12:35.35,Default,,0,0,0,,This isn't the time to be stubborn.
+Dialogue: 10,0:12:26.05,0:12:28.31,Default,,0,0,0,,Number them in the order \Nof which ones you like most.
+Dialogue: 10,0:12:30.85,0:12:32.52,Default-Italic,,0,0,0,,If he's like that, \Nit'll affect our work.
+Dialogue: 10,0:12:33.48,0:12:35.35,Default-Italic,,0,0,0,,This isn't the time \Nto be stubborn.
 Dialogue: 10,0:12:36.15,0:12:37.31,Default,,0,0,0,,What's wrong?
-Dialogue: 10,0:12:37.31,0:12:41.32,Default,,0,0,0,,Even though you've finally come to visit, you've been looking down this whole time.
+Dialogue: 10,0:12:37.31,0:12:39.37,Default,,0,0,0,,Even though you've\N finally come to visit,
+Dialogue: 10,0:12:39.37,0:12:41.32,Default,,0,0,0,,you've been looking \Ndown this whole time.
 Dialogue: 10,0:12:41.32,0:12:44.03,Default,,0,0,0,,I'm sorry for staying over so long.
-Dialogue: 10,0:12:44.03,0:12:47.41,Default,,0,0,0,,I don't mind. It's like I have more daughters now; It's kind of fun.
+Dialogue: 10,0:12:44.03,0:12:45.31,Default,,0,0,0,,I don't mind.
+Dialogue: 10,0:12:45.31,0:12:47.41,Default,,0,0,0,,It's like I have more \Ndaughters now; It's kind of fun.
 Dialogue: 10,0:12:49.70,0:12:52.66,Default,,0,0,0,,I fought with my friend.
-Dialogue: 10,0:12:52.66,0:12:55.37,Default,,0,0,0,,Your friend... is it a boy?
+Dialogue: 10,0:12:52.66,0:12:53.87,Default,,0,0,0,,Your friend...
+Dialogue: 10,0:12:54.48,0:12:55.37,Default,,0,0,0,,Is it a boy?
 Dialogue: 10,0:12:55.37,0:12:56.63,Default,,0,0,0,,Well, yeah.
-Dialogue: 10,0:12:57.63,0:13:00.50,Default,,0,0,0,,Hey, what's going on with Miho and Mashiro?
+Dialogue: 10,0:12:57.63,0:13:00.50,Default,,0,0,0,,Hey, what's going on \Nwith Miho and Mashiro?
 Dialogue: 10,0:13:01.59,0:13:03.51,Default,,0,0,0,,She doesn't tell me anything,
-Dialogue: 10,0:13:03.51,0:13:06.22,Default,,0,0,0,,so give me the details before she gets back from work!
+Dialogue: 10,0:13:03.51,0:13:06.22,Default,,0,0,0,,so give me the details before \Nshe gets back from work!
 Dialogue: 10,0:13:06.22,0:13:07.76,Default,,0,0,0,,Th-The details?
 Dialogue: 10,0:13:10.06,0:13:11.06,Default,,0,0,0,,Excuse me for a minute.
-Dialogue: 10,0:13:11.47,0:13:12.98,Default,,0,0,0,,I'm saved.
-Dialogue: 10,0:13:14.06,0:13:15.39,Default,,0,0,0,,Takagi?
-Dialogue: 10,0:13:16.81,0:13:17.52,Default,,0,0,0,,What's this?
-Dialogue: 10,0:13:17.52,0:13:20.07,Default,,0,0,0,,What's with that attitude?
+Dialogue: 10,0:13:11.47,0:13:12.98,Default-Italic,,0,0,0,,I'm saved.
+Dialogue: 10,0:13:14.06,0:13:15.39,Default-Italic,,0,0,0,,Takagi?
+Dialogue: 10,0:13:16.81,0:13:17.52,Default-Italic,,0,0,0,,What's this?
+Dialogue: 10,0:13:17.52,0:13:20.07,Default-Italic,,0,0,0,,What's with that attitude?
 Dialogue: 10,0:13:20.07,0:13:20.98,Default,,0,0,0,,A friend?
 Dialogue: 10,0:13:20.98,0:13:22.53,Default,,0,0,0,,Y-Yeah.
 Dialogue: 10,0:13:22.53,0:13:24.40,Default,,0,0,0,,I need to go make a call.
 Dialogue: 10,0:13:24.40,0:13:25.99,Default,,0,0,0,,See you later!
-Dialogue: 10,0:13:25.99,0:13:28.82,Default,,0,0,0,,I won't wait 30 minutes!
+Dialogue: 10,0:13:25.99,0:13:28.82,Default-Italic,,0,0,0,,I won't wait 30 minutes!
 Dialogue: 10,0:13:28.82,0:13:29.99,Default,,0,0,0,,Oh, Miyoshi.
 Dialogue: 10,0:13:29.99,0:13:30.78,Default,,0,0,0,,That was fast.
 Dialogue: 10,0:13:30.78,0:13:32.12,Default,,0,0,0,,What's with the "Oh"?
 Dialogue: 10,0:13:32.12,0:13:34.00,Default,,0,0,0,,You guys are idiots!
 Dialogue: 10,0:13:34.00,0:13:35.33,Default,,0,0,0,,What was with that manga?
-Dialogue: 10,0:13:35.33,0:13:37.79,Default,,0,0,0,,Huh? You didn't like {\i1}Tanto{\i0}?
+Dialogue: 10,0:13:35.33,0:13:36.00,Default,,0,0,0,,Huh?
+Dialogue: 10,0:13:36.00,0:13:37.79,Default,,0,0,0,,You didn't like {\i1}Tanto{\i0}?
 Dialogue: 10,0:13:37.79,0:13:39.75,Default,,0,0,0,,It got 1st place, though...
 Dialogue: 10,0:13:39.75,0:13:40.67,Default,,0,0,0,,Not that one!
-Dialogue: 10,0:13:40.67,0:13:42.88,Default,,0,0,0,,The one that used Miho and Mashiro's romance!
-Dialogue: 10,0:13:42.88,0:13:45.09,Default,,0,0,0,,What are you doing, telling everybody about it?!
+Dialogue: 10,0:13:40.67,0:13:42.88,Default,,0,0,0,,The one that used Miho \Nand Mashiro's romance!
+Dialogue: 10,0:13:42.88,0:13:45.09,Default,,0,0,0,,What are you doing, \Ntelling everybody about it?!
 Dialogue: 10,0:13:45.09,0:13:46.80,Default,,0,0,0,,Oh, that.
-Dialogue: 10,0:13:46.80,0:13:47.97,Default,,0,0,0,,"{\i1}That {\i0}"?!
+Dialogue: 10,0:13:46.80,0:13:47.97,Default,,0,0,0,,"{\i1}That{\i0}"?!
 Dialogue: 10,0:13:47.97,0:13:51.22,Default,,0,0,0,,You're so obviously prattling away with both Iwase and that female mangaka!
 Dialogue: 10,0:13:51.22,0:13:55.23,Default,,0,0,0,,Are the two of you going on group dates with both of them every day, or something?
 Dialogue: 10,0:13:55.85,0:13:57.44,Default,,0,0,0,,Sounds like fun!
-Dialogue: 10,0:13:57.44,0:14:01.11,Default,,0,0,0,,Even though you never take me out on a proper date,
-Dialogue: 10,0:14:01.11,0:14:03.61,Default,,0,0,0,,you're really chummy with pretty girls!
+Dialogue: 10,0:13:57.44,0:14:01.11,Default,,0,0,0,,Even though you never take \Nme out on a proper date,
+Dialogue: 10,0:14:01.11,0:14:03.61,Default,,0,0,0,,you're really chummy \Nwith pretty girls!
 Dialogue: 10,0:14:03.61,0:14:05.99,Default,,0,0,0,,You should only do stuff like that after you break up with me—
 Dialogue: 10,0:14:05.99,0:14:06.49,Default,,0,0,0,,Shut up!
 Dialogue: 10,0:14:06.49,0:14:07.28,Default,,0,0,0,,Be quiet for a minute!
 Dialogue: 10,0:14:09.28,0:14:10.49,Default,,0,0,0,,Just come back already.
-Dialogue: 10,0:14:11.12,0:14:15.20,Default,,0,0,0,,I can't stand that Azuki and Mashiro ended up like this because of us.
+Dialogue: 10,0:14:11.12,0:14:12.32,Default,,0,0,0,,I can't stand
+Dialogue: 10,0:14:12.32,0:14:15.20,Default,,0,0,0,,that Azuki and Mashiro ended \Nup like this because of us.
 Dialogue: 10,0:14:15.87,0:14:18.17,Default,,0,0,0,,I feel the same way, but...
 Dialogue: 10,0:14:18.17,0:14:21.34,Default,,0,0,0,,It's because of {\i1}you{\i0}, not because of {\i1}us{\i0}.
 Dialogue: 10,0:14:22.96,0:14:24.21,Default,,0,0,0,,All right, I get it.
-Dialogue: 10,0:14:24.21,0:14:27.05,Default,,0,0,0,,Anyways, I'm going to explain it to you, so just calm down and listen.
-Dialogue: 10,0:14:29.72,0:14:32.72,Default,,0,0,0,,I can't get Nakai to do the art now.
-Dialogue: 10,0:14:33.47,0:14:35.06,Default,,0,0,0,,What should I do?
-Dialogue: 10,0:14:37.35,0:14:39.44,Default,,0,0,0,,I'm telling you, it was a misunderstanding!
-Dialogue: 10,0:14:40.85,0:14:44.02,Default,,0,0,0,,I told Iwase I liked you 1,000 times more than her.
+Dialogue: 10,0:14:24.21,0:14:25.69,Default,,0,0,0,,Anyways, I'm going \Nto explain it to you,
+Dialogue: 10,0:14:25.69,0:14:27.05,Default,,0,0,0,,so just calm down and listen.
+Dialogue: 10,0:14:29.72,0:14:32.72,Default-Italic,,0,0,0,,I can't get Nakai to do the art now.
+Dialogue: 10,0:14:33.47,0:14:35.06,Default-Italic,,0,0,0,,What should I do?
+Dialogue: 10,0:14:37.35,0:14:39.44,Default,,0,0,0,,I'm telling you, it was\N a misunderstanding!
+Dialogue: 10,0:14:40.85,0:14:44.02,Default,,0,0,0,,I told Iwase I liked you \N1,000 times more than her.
 Dialogue: 10,0:14:44.02,0:14:45.44,Default,,0,0,0,,I really did!
-Dialogue: 10,0:14:45.44,0:14:47.61,Default,,0,0,0,,And how much more do you like me than Aoki?
+Dialogue: 10,0:14:45.44,0:14:47.61,Default,,0,0,0,,And how much more do\N you like me than Aoki?
 Dialogue: 10,0:14:48.70,0:14:49.61,Default,,0,0,0,,Three times?
 Dialogue: 10,0:14:49.61,0:14:51.32,Default,,0,0,0,,Why are you being realistic there?
 Dialogue: 10,0:14:51.32,0:14:52.28,Default,,0,0,0,,That's so stupid.
 Dialogue: 10,0:14:52.87,0:14:56.37,Default,,0,0,0,,But since it's realistic, I'll believe you when you say you like me.
-Dialogue: 10,0:14:56.37,0:14:59.25,Default,,0,0,0,,Yeah, I like you more than anyone.
+Dialogue: 10,0:14:56.37,0:14:57.16,Default,,0,0,0,,Yeah.
+Dialogue: 10,0:14:57.16,0:14:59.25,Default,,0,0,0,,I like you more than anyone.
 Dialogue: 10,0:14:59.67,0:15:02.54,Default,,0,0,0,,If you're going that far, then take me out on a date to the zoo.
-Dialogue: 10,0:15:02.54,0:15:03.96,Default,,0,0,0,,Huh? Why?
-Dialogue: 10,0:15:12.68,0:15:16.18,Default,,0,0,0,,All right. Then I'll explain everything properly at the zoo.
+Dialogue: 10,0:15:02.54,0:15:03.23,Default,,0,0,0,,Huh?
+Dialogue: 10,0:15:03.23,0:15:03.96,Default,,0,0,0,,Why?
+Dialogue: 10,0:15:12.68,0:15:13.98,Default,,0,0,0,,All right.
+Dialogue: 10,0:15:13.98,0:15:16.18,Default,,0,0,0,,Then I'll explain everything\N properly at the zoo.
 Dialogue: 10,0:15:16.18,0:15:19.85,Default,,0,0,0,,Hmm, so you're {\i1}really{\i0} gonna make it up to me by taking me out on a fun date?
-Dialogue: 10,0:15:20.60,0:15:23.81,Default,,0,0,0,,If I'm not satisfied, I'll beat the crap out of you.
+Dialogue: 10,0:15:20.60,0:15:23.81,Default,,0,0,0,,If I'm not satisfied, I'll \Nbeat the crap out of you.
 Dialogue: 10,0:15:24.23,0:15:25.94,Default,,0,0,0,,That'll be up to you.
-Dialogue: 10,0:15:25.94,0:15:28.82,Default,,0,0,0,,But I really do like you more than anyone.
-Dialogue: 10,0:15:29.74,0:15:31.82,Default,,0,0,0,,I get it. I'm coming now.
-Dialogue: 10,0:15:31.82,0:15:34.49,Default,,0,0,0,,Okay. See you at 3 at the monkey mountain, then.
+Dialogue: 10,0:15:25.94,0:15:28.82,Default,,0,0,0,,But I really do like \Nyou more than anyone.
+Dialogue: 10,0:15:29.74,0:15:30.89,Default,,0,0,0,,I get it.
+Dialogue: 10,0:15:30.89,0:15:31.82,Default,,0,0,0,,I'm coming now.
+Dialogue: 10,0:15:31.82,0:15:32.80,Default,,0,0,0,,Okay.
+Dialogue: 10,0:15:32.80,0:15:34.49,Default,,0,0,0,,See you at 3 at the \Nmonkey mountain, then.
 Dialogue: 10,0:15:36.03,0:15:37.29,Default,,0,0,0,,Why the monkey mountain?
-Dialogue: 10,0:15:37.95,0:15:41.75,Default,,0,0,0,,Let's see... monkey mountain, monkey mountain.
-Dialogue: 10,0:15:41.75,0:15:45.46,Default,,0,0,0,,I hope I can tell Miyoshi apart from the monkeys.
+Dialogue: 10,0:15:37.95,0:15:38.75,Default,,0,0,0,,Let's see...
+Dialogue: 10,0:15:38.75,0:15:41.75,Default,,0,0,0,,Monkey mountain, monkey mountain.
+Dialogue: 10,0:15:41.75,0:15:45.46,Default,,0,0,0,,I hope I can tell Miyoshi \Napart from the monkeys.
 Dialogue: 10,0:15:45.46,0:15:47.46,Default,,0,0,0,,Aoki?!
 Dialogue: 10,0:15:47.46,0:15:48.67,Default,,0,0,0,,Takagi!
-Dialogue: 10,0:15:48.67,0:15:50.97,Default,,0,0,0,,Wh-Why?
-Dialogue: 10,0:15:50.97,0:15:53.30,Default,,0,0,0,,Could Miyoshi have arranged this?
-Dialogue: 10,0:15:53.30,0:15:55.89,Default,,0,0,0,,No, she's not capable of that...
+Dialogue: 10,0:15:48.67,0:15:50.97,Default-Italic,,0,0,0,,Wh-Why?
+Dialogue: 10,0:15:50.97,0:15:53.30,Default-Italic,,0,0,0,,Could Miyoshi have arranged this?
+Dialogue: 10,0:15:53.30,0:15:55.89,Default-Italic,,0,0,0,,No, she's not capable of that...
 Dialogue: 10,0:15:56.31,0:15:58.56,Default,,0,0,0,,We meet again by coincidence.
 Dialogue: 10,0:15:58.56,0:16:00.10,Default,,0,0,0,,At this time of all times.
 Dialogue: 10,0:16:01.14,0:16:02.10,Default,,0,0,0,,Of all times?
 Dialogue: 10,0:16:03.02,0:16:04.90,Default,,0,0,0,,I don't know what to do!
 Dialogue: 10,0:16:04.90,0:16:07.11,Default,,0,0,0,,Wh-What's wrong?
-Dialogue: 10,0:16:08.57,0:16:10.03,Default,,0,0,0,,She smells good...
-Dialogue: 10,0:16:10.03,0:16:13.11,Default,,0,0,0,,Wait a minute, I feel like I'm forgetting something.
+Dialogue: 10,0:16:08.57,0:16:10.03,Default-Italic,,0,0,0,,She smells good...
+Dialogue: 10,0:16:10.03,0:16:11.15,Default-Italic,,0,0,0,,Wait a minute,
+Dialogue: 10,0:16:11.15,0:16:13.11,Default-Italic,,0,0,0,,I feel like I'm forgetting something.
 Dialogue: 10,0:16:14.82,0:16:16.16,Default,,0,0,0,,Miyoshi!
 Dialogue: 10,0:16:17.58,0:16:20.33,Default,,0,0,0,,You didn't have to go this far to show off to me! I get it already!
 Dialogue: 10,0:16:20.33,0:16:21.33,Default,,0,0,0,,Wait! That's not it!
@@ -384,18 +427,19 @@ Dialogue: 10,0:16:22.04,0:16:24.29,Default,,0,0,0,,Th-That's my girlfriend!
 Dialogue: 10,0:16:24.29,0:16:25.54,Default,,0,0,0,,Oh no!
 Dialogue: 10,0:16:25.54,0:16:27.46,Default,,0,0,0,,Please wait!
 Dialogue: 10,0:16:27.46,0:16:30.80,Default,,0,0,0,,I-I'm no one suspicious!
-Dialogue: 10,0:16:30.80,0:16:32.63,Default,,0,0,0,,Suspicious?
+Dialogue: 10,0:16:30.80,0:16:32.63,Default-Italic,,0,0,0,,Suspicious?
 Dialogue: 10,0:16:32.63,0:16:34.72,Default,,0,0,0,,You're super suspicious!
 Dialogue: 10,0:16:34.72,0:16:37.55,Default,,0,0,0,,How can you say that when you were all over him, you temptress!
 Dialogue: 10,0:16:37.55,0:16:38.89,Default,,0,0,0,,She wasn't all over me!
 Dialogue: 10,0:16:38.89,0:16:40.35,Default,,0,0,0,,I just had my hand on her shoulder!
-Dialogue: 10,0:16:40.35,0:16:43.31,Default,,0,0,0,,You should have just kissed while you were at it!
-Dialogue: 10,0:16:43.31,0:16:44.77,Default,,0,0,0,,That's what you wanted me to see, right?!
+Dialogue: 10,0:16:40.35,0:16:43.31,Default,,0,0,0,,You should have just\N kissed while you were at it!
+Dialogue: 10,0:16:43.31,0:16:44.77,Default,,0,0,0,,That's what you wanted \Nme to see, right?!
 Dialogue: 10,0:16:44.77,0:16:45.69,Default,,0,0,0,,Wait!
 Dialogue: 10,0:16:45.69,0:16:47.15,Default,,0,0,0,,I hope you're happy together!
 Dialogue: 10,0:16:47.15,0:16:47.65,Default,,0,0,0,,Takagi!
 Dialogue: 10,0:16:48.90,0:16:49.90,Default,,0,0,0,,Miyoshi!
-Dialogue: 10,0:16:49.90,0:16:51.32,Default,,0,0,0,,Shut up! Leave me alone!
+Dialogue: 10,0:16:49.90,0:16:50.75,Default,,0,0,0,,Shut up!
+Dialogue: 10,0:16:50.75,0:16:51.32,Default,,0,0,0,,Leave me alone!
 Dialogue: 10,0:16:51.82,0:16:53.07,Default,,0,0,0,,Marry me!
 Dialogue: 10,0:16:55.57,0:16:58.16,Default,,0,0,0,,I love you more than anyone else!
 Dialogue: 10,0:16:58.16,0:16:59.28,Default,,0,0,0,,Marry me!
@@ -409,127 +453,149 @@ Dialogue: 10,0:17:13.38,0:17:16.59,Default,,0,0,0,,I'm 19, and you're still 18!
 Dialogue: 10,0:17:16.59,0:17:18.85,Default,,0,0,0,,We can legally marry!
 Dialogue: 10,0:17:18.85,0:17:20.51,Default,,0,0,0,,But we're still college students!
 Dialogue: 10,0:17:20.51,0:17:22.68,Default,,0,0,0,,I think it's a wonderful thing for college students to marry.
-Dialogue: 10,0:17:23.48,0:17:25.85,Default,,0,0,0,,You think it's {\i1}wonderful{\i0} ?
+Dialogue: 10,0:17:23.48,0:17:25.85,Default,,0,0,0,,You think it's {\i1}wonderful{\i0}?
 Dialogue: 10,0:17:25.85,0:17:27.35,Default,,0,0,0,,Who the hell are you, anyway?
-Dialogue: 10,0:17:27.35,0:17:29.52,Default,,0,0,0,,I thought he was cheating with {\i1}Iwase{\i0}.
+Dialogue: 10,0:17:27.35,0:17:29.52,Default,,0,0,0,,I thought he was \Ncheating with {\i1}Iwase{\i0}.
 Dialogue: 10,0:17:30.65,0:17:32.53,Default,,0,0,0,,I'm Aoki Yuriko.
 Dialogue: 10,0:17:32.53,0:17:36.74,Default,,0,0,0,,I was serialized in Shounen Jack under the name Aoki Ko.
 Dialogue: 10,0:17:36.74,0:17:38.37,Default,,0,0,0,,I know that,
-Dialogue: 10,0:17:38.37,0:17:40.24,Default,,0,0,0,,but you two were hugging back there.
+Dialogue: 10,0:17:38.37,0:17:40.24,Default,,0,0,0,,but you two were \Nhugging back there.
 Dialogue: 10,0:17:40.24,0:17:43.37,Default,,0,0,0,,Since you drew a manga like that, you and Takagi must be real close, huh?
 Dialogue: 10,0:17:43.37,0:17:45.08,Default,,0,0,0,,Well, that's...
 Dialogue: 10,0:17:45.08,0:17:46.54,Default,,0,0,0,,I won't deny that.
 Dialogue: 10,0:17:48.04,0:17:49.04,Default,,0,0,0,,I thought so!
 Dialogue: 10,0:17:49.04,0:17:51.55,Default,,0,0,0,,No, we just talked about manga!
 Dialogue: 10,0:17:51.55,0:17:53.26,Default,,0,0,0,,While {\i1}hugging?
-Dialogue: 10,0:17:53.26,0:17:55.22,Default,,0,0,0,,There's a really good explanation for that...
+Dialogue: 10,0:17:53.26,0:17:55.22,Default,,0,0,0,,There's a really good \Nexplanation for that...
 Dialogue: 10,0:17:55.22,0:17:56.43,Default,,0,0,0,,There is, right?
 Dialogue: 10,0:17:56.43,0:18:00.10,Default,,0,0,0,,No, I don't have a reasonable justification for hugging you.
 Dialogue: 10,0:18:00.10,0:18:02.06,Default,,0,0,0,,You don't?!
 Dialogue: 10,0:18:03.56,0:18:05.64,Default,,0,0,0,,I get the overall picture.
-Dialogue: 10,0:18:06.23,0:18:10.31,Default,,0,0,0,,Would you really meet at the zoo by coincidence twice? This isn't a manga.
-Dialogue: 10,0:18:10.31,0:18:13.57,Default,,0,0,0,,And on top of that, Aoki was troubled both times?
+Dialogue: 10,0:18:06.23,0:18:07.71,Default,,0,0,0,,This isn't a manga.
+Dialogue: 10,0:18:07.71,0:18:10.31,Default,,0,0,0,,Would you really meet at \Nthe zoo by coincidence twice?
+Dialogue: 10,0:18:10.31,0:18:13.57,Default,,0,0,0,,And on top of that, Aoki \Nwas troubled both times?
 Dialogue: 10,0:18:13.57,0:18:15.49,Default,,0,0,0,,Well, that's what happened.
 Dialogue: 10,0:18:16.07,0:18:18.07,Default,,0,0,0,,I'm really sorry.
-Dialogue: 10,0:18:18.07,0:18:21.83,Default,,0,0,0,,I won't call him anymore, and I won't talk to him if we meet by coincidence again.
+Dialogue: 10,0:18:18.07,0:18:19.52,Default,,0,0,0,,I won't call him anymore,
+Dialogue: 10,0:18:19.52,0:18:21.83,Default,,0,0,0,,and I won't talk to him if we\N meet by coincidence again.
 Dialogue: 10,0:18:22.91,0:18:24.62,Default,,0,0,0,,Sorry for all this.
 Dialogue: 10,0:18:24.62,0:18:27.37,Default,,0,0,0,,So trust Takagi and marry him!
-Dialogue: 10,0:18:29.33,0:18:32.75,Default,,0,0,0,,He proposed on a whim just to stop me from running off.
+Dialogue: 10,0:18:29.33,0:18:32.75,Default,,0,0,0,,He proposed on a whim just \Nto stop me from running off.
 Dialogue: 10,0:18:32.75,0:18:35.46,Default,,0,0,0,,No, if you say yes, then I'll do it.
-Dialogue: 10,0:18:35.46,0:18:38.13,Default,,0,0,0,,If we're always together, there won't be any more misunderstandings like this.
+Dialogue: 10,0:18:35.46,0:18:36.54,Default,,0,0,0,,If we're always together,
+Dialogue: 10,0:18:36.54,0:18:38.13,Default,,0,0,0,,there won't be any more\N misunderstandings like this.
 Dialogue: 10,0:18:38.80,0:18:43.01,Default,,0,0,0,,I would have preferred to do it after becoming a famous mangaka,
-Dialogue: 10,0:18:43.01,0:18:44.77,Default,,0,0,0,,but if you're willing to struggle with me, then...
-Dialogue: 10,0:18:44.77,0:18:49.02,Default,,0,0,0,,I think it's wonderful for people to struggle together and form a strong bond.
-Dialogue: 10,0:18:49.02,0:18:51.48,Default,,0,0,0,,You guys say some nice things.
-Dialogue: 10,0:18:52.06,0:18:56.44,Default,,0,0,0,,B-But there's stuff like the ceremony and my parents' permission to worry about...
-Dialogue: 10,0:18:56.44,0:18:59.99,Default,,0,0,0,,Oh, right. I have to ask for your hand in marriage and stuff.
+Dialogue: 10,0:18:43.01,0:18:44.77,Default,,0,0,0,,but if you're willing to\N struggle with me, then...
+Dialogue: 10,0:18:44.77,0:18:46.32,Default,,0,0,0,,I think it's wonderful
+Dialogue: 10,0:18:46.32,0:18:49.02,Default,,0,0,0,,for people to struggle together \Nand form a strong bond.
+Dialogue: 10,0:18:49.02,0:18:51.48,Default-Italic,,0,0,0,,You guys say some nice things.
+Dialogue: 10,0:18:52.06,0:18:53.71,Default,,0,0,0,,B-But there's stuff
+Dialogue: 10,0:18:53.71,0:18:56.44,Default,,0,0,0,,like the ceremony and my parents' permission to worry about...
+Dialogue: 10,0:18:56.44,0:18:57.79,Default,,0,0,0,,Oh, right.
+Dialogue: 10,0:18:57.79,0:18:59.99,Default,,0,0,0,,I have to ask for your \Nhand in marriage and stuff.
 Dialogue: 10,0:18:59.99,0:19:01.16,Default,,0,0,0,,Do you think I'd get permission?
 Dialogue: 10,0:19:01.16,0:19:03.20,Default,,0,0,0,,I mean, I'll do my best!
-Dialogue: 10,0:19:04.99,0:19:07.41,Default,,0,0,0,,Then let's get married when you get serialized.
+Dialogue: 10,0:19:04.99,0:19:07.41,Default,,0,0,0,,Then let's get married\N when you get serialized.
 Dialogue: 10,0:19:07.41,0:19:08.25,Default,,0,0,0,,It's decided.
 Dialogue: 10,0:19:08.25,0:19:09.58,Default,,0,0,0,,O-Okay.
 Dialogue: 10,0:19:09.58,0:19:10.92,Default,,0,0,0,,Congratulations!
-Dialogue: 10,0:19:11.46,0:19:15.50,Default,,0,0,0,,But you'll be busy when that happens, so we'll just get registered.
+Dialogue: 10,0:19:11.46,0:19:14.04,Default,,0,0,0,,But you'll be busy \Nwhen that happens,
+Dialogue: 10,0:19:14.04,0:19:15.50,Default,,0,0,0,,so we'll just get registered.
 Dialogue: 10,0:19:15.50,0:19:17.05,Default,,0,0,0,,We'll have a ceremony when we can.
 Dialogue: 10,0:19:17.05,0:19:17.63,Default,,0,0,0,,Right!
-Dialogue: 10,0:19:17.63,0:19:20.38,Default,,0,0,0,,Please let me know when that happens.
-Dialogue: 10,0:19:21.47,0:19:25.39,Default,,0,0,0,,Oh, sorry. I will support you from behind.
-Dialogue: 10,0:19:26.06,0:19:29.81,Default,,0,0,0,,I just said I wouldn't talk with Takagi anymore...
+Dialogue: 10,0:19:17.63,0:19:20.38,Default,,0,0,0,,Please let me know \Nwhen that happens.
+Dialogue: 10,0:19:21.47,0:19:22.75,Default,,0,0,0,,Oh, sorry.
+Dialogue: 10,0:19:22.75,0:19:25.39,Default,,0,0,0,,I will support you from behind.
+Dialogue: 10,0:19:26.06,0:19:29.81,Default,,0,0,0,,I just said I wouldn't talk\N with Takagi anymore...
 Dialogue: 10,0:19:29.81,0:19:34.65,Default,,0,0,0,,But Takagi's the only man you can trust and consult, right?
-Dialogue: 10,0:19:35.90,0:19:42.11,Default,,0,0,0,,I've never had a person I could get along with like Takagi.
-Dialogue: 10,0:19:42.11,0:19:45.49,Default,,0,0,0,,I'm sorry. I think I was starting to like him.
-Dialogue: 10,0:19:47.16,0:19:49.62,Default,,0,0,0,,Why did you have to be so honest about that?
-Dialogue: 10,0:19:49.62,0:19:53.79,Default,,0,0,0,,You should have stuck with the "We're just fellow mangakas" story.
+Dialogue: 10,0:19:35.90,0:19:36.92,Default,,0,0,0,,I've never...
+Dialogue: 10,0:19:37.82,0:19:40.06,Default,,0,0,0,,had a person I could \Nget along with
+Dialogue: 10,0:19:40.06,0:19:41.66,Default,,0,0,0,,like Takagi.
+Dialogue: 10,0:19:42.11,0:19:43.50,Default,,0,0,0,,I'm sorry.
+Dialogue: 10,0:19:43.50,0:19:45.49,Default,,0,0,0,,I think I was starting to like him.
+Dialogue: 10,0:19:47.16,0:19:49.62,Default,,0,0,0,,Why did you have to \Nbe so honest about that?
+Dialogue: 10,0:19:49.62,0:19:51.00,Default,,0,0,0,,You should have stuck with the
+Dialogue: 10,0:19:51.00,0:19:53.79,Default,,0,0,0,,"We're just fellow mangakas" story.
 Dialogue: 10,0:19:53.79,0:19:54.42,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:19:57.34,0:20:00.67,Default,,0,0,0,,But Takai and Nakai are both idiots.
-Dialogue: 10,0:20:00.67,0:20:04.09,Default,,0,0,0,,If I were a man, I'd definitely choose you.
+Dialogue: 10,0:20:00.67,0:20:04.09,Default,,0,0,0,,If I were a man, I'd  \Ndefinitely choose you.
 Dialogue: 10,0:20:05.39,0:20:06.68,Default,,0,0,0,,I can still change my mind...
 Dialogue: 10,0:20:06.68,0:20:07.64,Default,,0,0,0,,Takagi!
 Dialogue: 10,0:20:07.64,0:20:10.68,Default,,0,0,0,,What are you saying in front of the girl you just proposed to?!
 Dialogue: 10,0:20:10.68,0:20:11.73,Default,,0,0,0,,I'll think less of you!
-Dialogue: 10,0:20:13.56,0:20:16.61,Default,,0,0,0,,No, that was just one of his jokes.
+Dialogue: 10,0:20:13.56,0:20:14.38,Default,,0,0,0,,No.
+Dialogue: 10,0:20:14.38,0:20:16.61,Default,,0,0,0,,That was just one of his jokes.
 Dialogue: 10,0:20:17.44,0:20:18.90,Default,,0,0,0,,Oh, okay.
 Dialogue: 10,0:20:18.90,0:20:19.94,Default,,0,0,0,,Sorry.
-Dialogue: 10,0:20:25.74,0:20:29.49,Default,,0,0,0,,Aoki, please continue talking to Takagi.
-Dialogue: 10,0:20:30.04,0:20:33.21,Default,,0,0,0,,In exchange, I want you to become friends with me, too!
+Dialogue: 10,0:20:25.74,0:20:29.49,Default,,0,0,0,,Aoki, please continue\N talking to Takagi.
+Dialogue: 10,0:20:30.04,0:20:31.07,Default,,0,0,0,,In exchange,
+Dialogue: 10,0:20:31.07,0:20:33.21,Default,,0,0,0,,I want you to become\N friends with me, too!
 Dialogue: 10,0:20:37.09,0:20:40.09,Default,,0,0,0,,I-I'm very happy.
 Dialogue: 10,0:20:40.67,0:20:42.01,Default,,0,0,0,,Thank you.
 Dialogue: 10,0:20:43.30,0:20:44.18,Default,,0,0,0,,What?
-Dialogue: 10,0:20:44.18,0:20:47.89,Default,,0,0,0,,Um, well, I was just wondering if Azuki will be satisfied with this.
+Dialogue: 10,0:20:44.18,0:20:45.37,Default,,0,0,0,,Um, well,
+Dialogue: 10,0:20:45.37,0:20:47.89,Default,,0,0,0,,I was just wondering if Azuki \Nwill be satisfied with this.
 Dialogue: 10,0:20:47.89,0:20:49.77,Default,,0,0,0,,Yeah, probably.
-Dialogue: 10,0:20:49.77,0:20:53.06,Default,,0,0,0,,I can't trust you, but I can trust Aoki.
+Dialogue: 10,0:20:49.77,0:20:51.50,Default,,0,0,0,,I can't trust you,
+Dialogue: 10,0:20:51.50,0:20:53.06,Default,,0,0,0,,but I can trust Aoki.
 Dialogue: 10,0:20:53.06,0:20:54.35,Default,,0,0,0,,What's with that?
-Dialogue: 10,0:20:54.35,0:20:57.65,Default,,0,0,0,,That was a joke, too... right?
+Dialogue: 10,0:20:54.35,0:20:56.67,Default,,0,0,0,,That was a joke, too...
+Dialogue: 10,0:20:56.67,0:20:57.65,Default,,0,0,0,,Right?
 Dialogue: 10,0:20:57.65,0:20:59.19,Default,,0,0,0,,I wonder?
 Dialogue: 10,0:20:59.19,0:20:59.90,Default,,0,0,0,,Miyoshi!
 Dialogue: 10,0:20:59.90,0:21:01.03,Default,,0,0,0,,Miyoshi?
-Dialogue: 10,0:21:08.78,0:21:13.04,Default,,0,0,0,,If I don't apologize, our relationship might end like this!
-Dialogue: 10,0:21:13.04,0:21:16.46,Default,,0,0,0,,But Azuki should trust me more...
+Dialogue: 10,0:21:08.78,0:21:10.62,Default-Italic,,0,0,0,,If I don't apologize,
+Dialogue: 10,0:21:10.62,0:21:13.04,Default-Italic,,0,0,0,,our relationship \Nmight end like this!
+Dialogue: 10,0:21:13.04,0:21:16.46,Default-Italic,,0,0,0,,But Azuki should trust me more...
 Dialogue: 10,0:21:17.46,0:21:19.34,Default,,0,0,0,,It's no good!
 Dialogue: 10,0:21:19.34,0:21:21.42,Default,,0,0,0,,I can't make any progress.
-Dialogue: 10,0:21:25.18,0:21:26.34,Default,,0,0,0,,Azuki!
-Dialogue: 10,0:21:26.34,0:21:29.10,Default,,0,0,0,,Crap! This might be a break-up email!
-Dialogue: 10,0:21:29.10,0:21:32.31,Default,,0,0,0,,If it was going to come to this, I should have...
+Dialogue: 10,0:21:25.18,0:21:26.34,Default-Italic,,0,0,0,,Azuki!
+Dialogue: 10,0:21:26.34,0:21:27.37,Default-Italic,,0,0,0,,Crap!
+Dialogue: 10,0:21:27.37,0:21:29.10,Default-Italic,,0,0,0,,This might be a break-up email!
+Dialogue: 10,0:21:29.10,0:21:32.31,Default-Italic,,0,0,0,,If it was going to come \Nto this, I should have...
 Dialogue: 10,0:21:33.02,0:21:33.81,Default,,0,0,0,,Huh?
 Dialogue: 10,0:21:33.81,0:21:36.02,Default,,0,0,0,,What's this?
 Dialogue: 10,0:21:36.44,0:21:38.98,Default,,0,0,0,,If anyone saw this, they'd think "Who does this guy think he is?"
-Dialogue: 10,0:21:38.98,0:21:41.07,Default,,0,0,0,,He's got three beautiful girls around him.
+Dialogue: 10,0:21:38.98,0:21:41.07,Default,,0,0,0,,He's got three beautiful \Ngirls around him.
 Dialogue: 10,0:21:41.07,0:21:42.40,Default,,0,0,0,,Two beautiful girls, you mean.
 Dialogue: 10,0:21:42.40,0:21:44.19,Default,,0,0,0,,He's picking on you, Miho.
 Dialogue: 10,0:21:45.70,0:21:47.82,Default,,0,0,0,,Oh, a reply from Mashiro?
 Dialogue: 10,0:21:47.82,0:21:48.82,Default,,0,0,0,,What does it say?
 Dialogue: 10,0:21:50.03,0:21:52.87,Default,,0,0,0,,"Huh? I don't get it."
 Dialogue: 10,0:21:53.75,0:21:54.54,Default,,0,0,0,,Figures.
-Dialogue: 10,0:21:55.16,0:21:57.96,Default,,0,0,0,,I should tell him the four of us are having tea.
+Dialogue: 10,0:21:55.16,0:21:57.96,Default,,0,0,0,,I should tell him the four\N of us are having tea.
 Dialogue: 10,0:21:57.96,0:21:59.84,Default,,0,0,0,,He'll get even more confused.
 Dialogue: 10,0:21:59.84,0:22:00.92,Default,,0,0,0,,Yeah.
-Dialogue: 10,0:22:00.92,0:22:03.42,Default,,0,0,0,,Huh? The four of them?
+Dialogue: 10,0:22:00.92,0:22:01.71,Default,,0,0,0,,Huh?
+Dialogue: 10,0:22:01.71,0:22:03.42,Default,,0,0,0,,The four of them?
 Dialogue: 10,0:22:03.42,0:22:06.05,Default,,0,0,0,,I see, so Shuujin...
-Dialogue: 10,0:22:06.05,0:22:08.59,Default,,0,0,0,,Even though he said he was headed home for today.
+Dialogue: 10,0:22:06.05,0:22:08.59,Default,,0,0,0,,Even though he said he \Nwas headed home for today.
 Dialogue: 10,0:22:08.59,0:22:09.76,Default,,0,0,0,,Hey, Saiko.
 Dialogue: 10,0:22:09.76,0:22:11.26,Default,,0,0,0,,Don't "Hey" me!
 Dialogue: 10,0:22:11.26,0:22:13.85,Default,,0,0,0,,What are you doing leaving me out?
-Dialogue: 10,0:22:13.85,0:22:17.39,Default,,0,0,0,,Sorry. But you're mailing each other again, right?
+Dialogue: 10,0:22:13.85,0:22:14.80,Default,,0,0,0,,Sorry.
+Dialogue: 10,0:22:14.80,0:22:17.39,Default,,0,0,0,,But you're mailing each \Nother again, right?
 Dialogue: 10,0:22:17.39,0:22:19.15,Default,,0,0,0,,Y-Yeah.
 Dialogue: 10,0:22:19.15,0:22:20.36,Default,,0,0,0,,You'd better be grateful.
-Dialogue: 10,0:22:20.36,0:22:25.19,Default,,0,0,0,,Because of you, I was forced to agree to marry Miyoshi when we get serialized.
+Dialogue: 10,0:22:20.36,0:22:21.88,Default,,0,0,0,,Because of you,
+Dialogue: 10,0:22:21.88,0:22:25.19,Default,,0,0,0,,I was forced to agree to marry \NMiyoshi when we get serialized.
 Dialogue: 10,0:22:25.90,0:22:27.45,Default,,0,0,0,,M-Marriage?!
 Dialogue: 10,0:22:27.45,0:22:29.41,Default,,0,0,0,,What do you mean by "forced"?!
 Dialogue: 10,0:22:29.41,0:22:30.12,Default,,0,0,0,,Ow!
 Dialogue: 10,0:22:30.12,0:22:31.95,Default,,0,0,0,,Miyoshi!
 Dialogue: 10,0:22:31.95,0:22:33.45,Default,,0,0,0,,But Kaya looks happy.
 Dialogue: 10,0:22:33.45,0:22:34.49,Default,,0,0,0,,Shuujin.
-Dialogue: 10,0:22:36.83,0:22:39.75,Default,,0,0,0,,Let's get serialized for sure and make a popular manga!
+Dialogue: 10,0:22:36.83,0:22:39.75,Default,,0,0,0,,Let's get serialized for sure \Nand make a popular manga!
 Dialogue: 10,0:22:40.38,0:22:41.25,Default,,0,0,0,,Yeah!
-Dialogue: 10,0:22:41.25,0:22:43.71,Default,,0,0,0,,When it gets an anime, you get married, too!
+Dialogue: 10,0:22:41.25,0:22:43.71,Default,,0,0,0,,When it gets an anime, \Nyou get married, too!
 Dialogue: 10,0:22:43.71,0:22:44.88,Default,,0,0,0,,Yeah!
-Dialogue: 10,0:24:15.43,0:24:16.81,Default,,0,0,0,,I'll work hard and aim for a serialization.
+Dialogue: 10,0:24:15.43,0:24:16.81,Default,,0,0,0,,I'll work hard and\N aim for a serialization.
 Dialogue: 10,0:24:16.81,0:24:18.43,Default,,0,0,0,,We're going to get married!
 Dialogue: 10,0:24:18.43,0:24:19.81,Default,,0,0,0,,But will it go well?
 Dialogue: 10,0:24:19.81,0:24:21.18,Default,,0,0,0,,It'll work out somehow!
-Dialogue: 10,0:24:21.18,0:24:22.31,Default,,0,0,25,,Next time on Bakuman:
-Dialogue: 10,0:24:22.31,0:24:23.77,Default,,0,0,25,,The King and the Savior.
-Dialogue: 10,0:24:23.77,0:24:27.82,Default,,0,0,25,,Is there anyone who will lend me a hand in accomplishing my dream?
+Dialogue: 10,0:24:21.18,0:24:22.31,Default,,0,0,0,,Next time on Bakuman:
+Dialogue: 10,0:24:22.31,0:24:23.77,Default,,0,0,0,,The King and the Savior.
+Dialogue: 10,0:24:23.77,0:24:27.82,Default,,0,0,0,,Is there anyone who will lend me a hand in accomplishing my dream?
 Dialogue: 0,0:01:51.13,0:01:57.30,Lyrics-Jap,,0,0,0,,yume kanaeru made chousen wa tsuzuku
 Dialogue: 0,0:01:57.30,0:02:03.56,Lyrics-Jap,,0,0,0,,boku wa dokomade chikazuketandarou?
 Dialogue: 0,0:02:03.56,0:02:08.85,Lyrics-Jap,,0,0,0,,juunengo no mirai kagayaiteru sugata wa
@@ -555,13 +621,13 @@ Dialogue: 0,0:02:50.06,0:02:56.32,Lyrics-Eng,,0,0,0,,But I'll simply believe in 
 Dialogue: 0,0:02:56.32,0:03:02.20,Lyrics-Eng,,0,0,0,,And rise back up again and again and again
 Dialogue: 0,0:22:47.34,0:22:54.47,Lyrics-Jap-ED,,0,0,0,,kurikaesu nibuku detarame na sekai
 Dialogue: 0,0:22:54.47,0:23:00.40,Lyrics-Jap-ED,,0,0,0,,urusakute mimi wo fusaida
-Dialogue: 0,0:23:00.40,0:23:07.65,Lyrics-Jap-ED,,0,0,0,,nan no tame ni kizutsukeatteiru no? 
+Dialogue: 0,0:23:00.40,0:23:07.65,Lyrics-Jap-ED,,0,0,0,,nan no tame ni kizutsukeatteiru no?
 Dialogue: 0,0:23:08.11,0:23:10.49,Lyrics-Jap-ED,,0,0,0,,Can you hear my heartbeat
 Dialogue: 0,0:23:10.49,0:23:14.99,Lyrics-Jap-ED,,0,0,0,,Baby I trust you my friend
 Dialogue: 0,0:23:14.99,0:23:18.96,Lyrics-Jap-ED,,0,0,0,,zetsubou ni fushita kokoro no sumi
 Dialogue: 0,0:23:18.96,0:23:22.67,Lyrics-Jap-ED,,0,0,0,,orikasanaru mujun no kage ni
 Dialogue: 0,0:23:22.67,0:23:25.55,Lyrics-Jap-ED,,0,0,0,,mune wo itamenagara
-Dialogue: 0,0:23:25.55,0:23:28.55,Lyrics-Jap-ED,,0,0,0,,ashita wo yume mireru no? 
+Dialogue: 0,0:23:25.55,0:23:28.55,Lyrics-Jap-ED,,0,0,0,,ashita wo yume mireru no?
 Dialogue: 0,0:23:28.55,0:23:35.56,Lyrics-Jap-ED,,0,0,0,,toori ame no ato ni mitsuketa niji wo omotte
 Dialogue: 0,0:23:35.56,0:23:42.19,Lyrics-Jap-ED,,0,0,0,,me wo tojiru Fly with me donna nagai yume mo
 Dialogue: 0,0:23:42.19,0:23:45.65,Lyrics-Jap-ED,,0,0,0,,iroasenai kimi to nara
@@ -586,7 +652,8 @@ Dialogue: 0,0:24:06.88,0:24:10.30,Lyrics-Eng,,0,0,0,,{\fad(0,950)}over and over 
 Dialogue: 0,0:03:04.45,0:03:07.95,Ep Titles,,0,0,0,,{\pos(640,464.62)\blur0.334}Monkeys and Marriage
 Dialogue: 0,0:24:14.97,0:24:20.48,NextEpTitle,,0,0,0,,{\blur0.334\pos(79.676,519.696)}Next\NEpisode
 Dialogue: 0,0:24:21.64,0:24:29.99,NextEpTitle,,0,0,0,,{\blur0.334\an9\pos(1214,56)}Prince and \NSavior
-Dialogue: 0,0:00:00.00,0:00:01.98,Textmsgs,,0,0,0,,{\fax0.1\blur1\fs38\frz348.848\fscx62\fscy62\pos(687,273)\c&HFFFFFF&\frx340\fry358}Call Ended
+Dialogue: 1,0:00:00.00,0:00:01.98,Textmsgs,,0,0,0,,{\fax0.1\blur1.2\fs38\frz348.848\fscx62\fscy62\pos(687,273)\c&HFFFFFF&\frx340\fry358}Call Ended
+Dialogue: 0,0:00:00.00,0:00:01.98,Textmsgs,,0,0,0,,{\fax0.1\blur2\fs38\frz348.848\fscx62\fscy62\pos(687,273)\c&HFFFFFF&\frx340\fry358\1a&H97&}Call Ended
 Dialogue: 1,0:06:03.46,0:06:05.88,Signs2,,0,0,0,,{\blur0.6\fad(208,0)\c&HE4E4E3&\bord0\fscx150\fscy150\pos(645,306)}Thursday, August 23rd
 Dialogue: 0,0:06:03.46,0:06:05.88,Signs2,,0,0,0,,{\blur0.6\fad(208,0)\c&H111211&\3c&H111211&\bord4\fscx150\fscy150\pos(645,306)}Thursday, August 23rd
 Dialogue: 1,0:06:43.71,0:06:46.59,Signs2,,0,0,0,,{\blur0.6\fad(208,208)\c&HE4E5E2&\bord0\fscx150\fscy150\pos(645,306)}Thursday, August 30th
