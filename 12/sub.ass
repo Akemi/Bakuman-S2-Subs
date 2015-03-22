@@ -20,8 +20,8 @@ Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
 Scroll Position: 691
-Active Line: 707
-Video Position: 22649
+Active Line: 703
+Video Position: 24923
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -524,13 +524,13 @@ Dialogue: 0,0:01:47.08,0:01:53.36,Lyrics-Eng,,0,0,0,,But I'll simply believe in 
 Dialogue: 0,0:01:53.36,0:01:59.24,Lyrics-Eng,,0,0,0,,And rise back up again and again and again
 Dialogue: 0,0:22:48.34,0:22:55.47,Lyrics-Jap-ED,,0,0,0,,kurikaesu nibuku detarame na sekai
 Dialogue: 0,0:22:55.47,0:23:01.40,Lyrics-Jap-ED,,0,0,0,,urusakute mimi wo fusaida
-Dialogue: 0,0:23:01.40,0:23:08.65,Lyrics-Jap-ED,,0,0,0,,nan no tame ni kizutsukeatteiru no? 
+Dialogue: 0,0:23:01.40,0:23:08.65,Lyrics-Jap-ED,,0,0,0,,nan no tame ni kizutsukeatteiru no?
 Dialogue: 0,0:23:09.11,0:23:11.49,Lyrics-Jap-ED,,0,0,0,,Can you hear my heartbeat
 Dialogue: 0,0:23:11.49,0:23:15.99,Lyrics-Jap-ED,,0,0,0,,Baby I trust you my friend
 Dialogue: 0,0:23:15.99,0:23:19.96,Lyrics-Jap-ED,,0,0,0,,zetsubou ni fushita kokoro no sumi
 Dialogue: 0,0:23:19.96,0:23:23.67,Lyrics-Jap-ED,,0,0,0,,orikasanaru mujun no kage ni
 Dialogue: 0,0:23:23.67,0:23:26.55,Lyrics-Jap-ED,,0,0,0,,mune wo itamenagara
-Dialogue: 0,0:23:26.55,0:23:29.55,Lyrics-Jap-ED,,0,0,0,,ashita wo yume mireru no? 
+Dialogue: 0,0:23:26.55,0:23:29.55,Lyrics-Jap-ED,,0,0,0,,ashita wo yume mireru no?
 Dialogue: 0,0:23:29.55,0:23:36.56,Lyrics-Jap-ED,,0,0,0,,toori ame no ato ni mitsuketa niji wo omotte
 Dialogue: 0,0:23:36.56,0:23:43.19,Lyrics-Jap-ED,,0,0,0,,me wo tojiru Fly with me donna nagai yume mo
 Dialogue: 0,0:23:43.19,0:23:46.65,Lyrics-Jap-ED,,0,0,0,,iroasenai kimi to nara
@@ -771,8 +771,8 @@ Dialogue: 0,0:02:27.33,0:02:33.92,Book,,0,0,0,,{\fad(459,0)\fs18\b0\blur1\bord0\
 Dialogue: 0,0:02:27.33,0:02:33.92,Book,,0,0,0,,{\fad(459,0)\an3\fs19\b0\blur1\bord0\c&H6A615E&\frx16\fry332\move(615,625,615,683,26,6574)\frz350}Male\N{\frz353}Female
 Dialogue: 0,0:02:27.33,0:02:33.92,Book,,0,0,0,,{\fad(459,0)\b0\fs19\blur1\bord0\c&H86807A&\move(374,567,374,625,26,6574)\frx30\fry348\frz351.846}Name
 Dialogue: 0,0:02:27.33,0:02:33.92,Book,,0,0,0,,{\fax0.1\fad(459,0)\fs19\b0\blur1\bord0\c&H6E6462&\frz350.936\move(711,615,711,673,26,6590)\frx28\fry346}Age
-Dialogue: 0,0:17:19.47,0:17:22.35,Mashiro,,0,0,0,,{\c&HF7FEFD&\fax0.2\b0\blur1\fscx42.5\fscy55\frx8\fry38\pos(614,267)\frz263\t(,0,375,(\c&H437B8B&))}Green Graduation
-Dialogue: 0,0:17:19.47,0:17:22.35,Mashiro,,0,0,0,,{\c&HF7FEFD&\fax0.2\b0\blur1\frz268\pos(617,549)\fscx42.5\fscy55\frx2\fry40\t(,0,375,(\c&H637A88&))}Akina Aiko
+Dialogue: 0,0:17:19.47,0:17:22.35,Mashiro,,0,0,0,,{\c&HF7FEFD&\fax0.2\b0\blur1\fscx42.5\fscy55\frx8\fry38\pos(614,267)\frz263\t(0,375,(\c&H437B8B&))}Green Graduation
+Dialogue: 0,0:17:19.47,0:17:22.35,Mashiro,,0,0,0,,{\c&HF7FEFD&\fax0.2\b0\blur1\frz268\pos(617,549)\fscx42.5\fscy55\frx2\fry40\t(0,375,(\c&H637A88&))}Akina Aiko
 Dialogue: 3,0:15:44.63,0:15:47.00,NextEpTitle,,0,0,0,,{\fnOdense\fad(0,0)\blur0.8\frz12\fax-0.22\fs80\bord0\3c&H5D5E67&\an8\c&H80A8AF&\pos(1026,72)}Tooh University
 Dialogue: 2,0:15:44.63,0:15:47.00,NextEpTitle,,0,0,0,,{\fnOdense\fad(0,0)\blur0.8\frz12\fax-0.22\fs80\bord0\3c&H5D5E67&\an8\c&H262627&\pos(1029,73)}Tooh University
 Dialogue: 2,0:15:44.63,0:15:47.00,NextEpTitle,,0,0,0,,{\fnOdense\fad(0,0)\blur0.8\frz12\fax-0.22\fs80\bord0\3c&H5D5E67&\an8\c&H262627&\pos(1028.5,72)}Tooh University
