@@ -21,8 +21,8 @@ Keyframes File: ep4_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 453
-Active Line: 464
+Scroll Position: 273
+Active Line: 295
 Video Position: 27257
 
 [V4+ Styles]
@@ -121,7 +121,7 @@ Dialogue: 10,0:04:32.87,0:04:35.75,Default,,0,0,0,,but none of them even \Ngot t
 Dialogue: 10,0:04:35.75,0:04:40.63,Default,,0,0,0,,I don't want to say anything bad about someone who's willing to take on challenging projects,
 Dialogue: 10,0:04:40.63,0:04:45.05,Default,,0,0,0,,but he doesn't have much experience and he's way too optimistic.
 Dialogue: 10,0:04:45.05,0:04:51.10,Default,,0,0,0,,So I'm just trying to submit \Nworks that {\i1}I{\i0} think are good.
-Dialogue: 10,0:04:51.10,0:04:53.68,Default,,0,0,0,,Won't be bad if I just change the name without consulting him...?
+Dialogue: 10,0:04:51.10,0:04:53.68,Default,,0,0,0,,Won't it be bad if I just change the name without consulting him...?
 Dialogue: 10,0:04:54.19,0:04:56.69,Default,,0,0,0,,You're the one who's \Nultimately in charge of the plot.
 Dialogue: 10,0:04:56.69,0:04:59.98,Default,,0,0,0,,I'll draw whatever you feel is best.
 Dialogue: 10,0:05:00.98,0:05:05.07,Default,,0,0,0,,With that, we have to show Miura the name two days from now.
@@ -353,7 +353,7 @@ Dialogue: 10,0:14:02.82,0:14:04.82,Default,,0,0,0,,Oh, thanks, Mashiro!
 Dialogue: 10,0:14:04.82,0:14:06.91,Default,,0,0,0,,You didn't have to call.
 Dialogue: 10,0:14:06.91,0:14:10.87,Default,,0,0,0,,Yeah, if I failed this time, \NI was gonna knock Yuujirou out.
 Dialogue: 10,0:14:10.87,0:14:12.87,Default,,0,0,0,,{\i1}Trap{\i0}'s been having a difficult time though, right?
-Dialogue: 10,0:14:12.87,0:14:13.83,Default,,0,0,0,,Are you okay?
+Dialogue: 10,0:14:12.87,0:14:13.83,Default,,0,0,0,,You okay?
 Dialogue: 10,0:14:13.83,0:14:15.16,Default-Italic,,0,0,0,,A difficult time...
 Dialogue: 10,0:14:15.16,0:14:17.08,Default-Italic,,0,0,0,,it does seem that way after all.
 Dialogue: 10,0:14:17.08,0:14:18.92,Default,,0,0,0,,Hello? I'm giving the phone to Nakai.
@@ -503,7 +503,7 @@ Dialogue: 10,0:21:43.69,0:21:45.20,Default,,0,0,0,,What's up?
 Dialogue: 10,0:21:45.20,0:21:47.36,Default,,0,0,0,,I wanted to thank you.
 Dialogue: 10,0:21:47.36,0:21:48.32,Default,,0,0,0,,Thank me?
 Dialogue: 10,0:21:48.32,0:21:48.91,Default,,0,0,0,,Yes.
-Dialogue: 10,0:21:49.57,0:21:53.75,Default,,0,0,0,,Actually, we were confused as to what direction to take {\i1}Trap{\i0} forward. 
+Dialogue: 10,0:21:49.57,0:21:53.75,Default,,0,0,0,,Actually, we were confused as to what direction to take {\i1}Trap{\i0} forward.
 Dialogue: 10,0:21:53.75,0:21:55.62,Default,,0,0,0,,What were you confused about?
 Dialogue: 10,0:21:55.62,0:21:56.87,Default,,0,0,0,,It's good as is.
 Dialogue: 10,0:21:56.87,0:21:59.04,Default,,0,0,0,,Yeah. It's good.
