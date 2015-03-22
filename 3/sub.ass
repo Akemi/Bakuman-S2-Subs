@@ -21,8 +21,8 @@ Keyframes File: ep3_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 48
-Active Line: 70
+Scroll Position: 188
+Active Line: 210
 Video Position: 7965
 
 [V4+ Styles]
@@ -252,7 +252,7 @@ Dialogue: 10,0:10:43.58,0:10:44.58,Default,,0,0,0,,Really.
 Dialogue: 10,0:10:44.58,0:10:45.66,Default,,0,0,0,,Koogy?
 Dialogue: 10,0:10:45.66,0:10:47.83,Default,,0,0,0,,Even more, he's partnering with Aoki.
 Dialogue: 10,0:10:48.79,0:10:51.75,Default,,0,0,0,,He called a press conference today,
-Dialogue: 10,0:10:51.75,0:10:54.42,Default,,0,0,0,,when it's announced, there'll be a such a big fuss!
+Dialogue: 10,0:10:51.75,0:10:54.42,Default,,0,0,0,,when it's announced, there'll be such a big fuss!
 Dialogue: 10,0:10:54.88,0:10:57.21,Default,,0,0,0,,Starting with Jack SQ,
 Dialogue: 10,0:10:57.21,0:10:59.30,Default,,0,0,0,,{\fad(0,390)}I'll take the top of the manga world!
 Dialogue: 10,0:11:00.13,0:11:02.05,Default,,0,0,0,,Aoki and Koogy?
@@ -268,7 +268,7 @@ Dialogue: 10,0:11:25.78,0:11:27.91,Default,,0,0,0,,Spin!! Good work today.
 Dialogue: 10,0:11:31.79,0:11:33.25,Default,,0,0,0,,It's from Mashiro.
 Dialogue: 10,0:11:33.25,0:11:35.96,Default,,0,0,0,,Tell him that their first chapter was good.
 Dialogue: 10,0:11:37.84,0:11:38.92,Default,,0,0,0,,Yo.
-Dialogue: 10,0:11:38.92,0:11:40.34,Default,,0,0,0,,{\i1}Trap{\i0}'s serialization off to a good start huh?
+Dialogue: 10,0:11:38.92,0:11:40.34,Default,,0,0,0,,{\i1}Trap{\i0}'s serialization is off to a good start huh?
 Dialogue: 10,0:11:40.97,0:11:43.80,Default,,0,0,0,,Niizuma told me to tell you it was good.
 Dialogue: 10,0:11:43.80,0:11:45.89,Default,,0,0,0,,Thank you.
 Dialogue: 10,0:11:45.89,0:11:48.39,Default,,0,0,0,,Um, there's something we're a bit concerned about.
