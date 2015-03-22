@@ -22,8 +22,8 @@ Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
 Scroll Position: 516
-Active Line: 531
-Video Position: 23010
+Active Line: 532
+Video Position: 27257
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -551,13 +551,13 @@ Dialogue: 0,0:02:30.12,0:02:36.38,Lyrics-Eng,,0,0,0,,But I'll simply believe in 
 Dialogue: 0,0:02:36.38,0:02:42.26,Lyrics-Eng,,0,0,0,,And rise back up again and again and again
 Dialogue: 0,0:22:48.22,0:22:55.35,Lyrics-Jap-ED,,0,0,0,,kurikaesu nibuku detarame na sekai
 Dialogue: 0,0:22:55.35,0:23:01.27,Lyrics-Jap-ED,,0,0,0,,urusakute mimi wo fusaida
-Dialogue: 0,0:23:01.27,0:23:08.53,Lyrics-Jap-ED,,0,0,0,,nan no tame ni kizutsukeatteiru no? 
+Dialogue: 0,0:23:01.27,0:23:08.53,Lyrics-Jap-ED,,0,0,0,,nan no tame ni kizutsukeatteiru no?
 Dialogue: 0,0:23:08.99,0:23:11.36,Lyrics-Jap-ED,,0,0,0,,Can you hear my heartbeat
 Dialogue: 0,0:23:11.36,0:23:15.87,Lyrics-Jap-ED,,0,0,0,,Baby I trust you my friend
 Dialogue: 0,0:23:15.87,0:23:19.83,Lyrics-Jap-ED,,0,0,0,,zetsubou ni fushita kokoro no sumi
 Dialogue: 0,0:23:19.83,0:23:23.54,Lyrics-Jap-ED,,0,0,0,,orikasanaru mujun no kage ni
 Dialogue: 0,0:23:23.54,0:23:26.42,Lyrics-Jap-ED,,0,0,0,,mune wo itamenagara
-Dialogue: 0,0:23:26.42,0:23:29.42,Lyrics-Jap-ED,,0,0,0,,ashita wo yume mireru no? 
+Dialogue: 0,0:23:26.42,0:23:29.42,Lyrics-Jap-ED,,0,0,0,,ashita wo yume mireru no?
 Dialogue: 0,0:23:29.42,0:23:36.43,Lyrics-Jap-ED,,0,0,0,,toori ame no ato ni mitsuketa niji wo omotte
 Dialogue: 0,0:23:36.43,0:23:43.06,Lyrics-Jap-ED,,0,0,0,,me wo tojiru Fly with me donna nagai yume mo
 Dialogue: 0,0:23:43.06,0:23:46.52,Lyrics-Jap-ED,,0,0,0,,iroasenai kimi to nara
@@ -590,4 +590,4 @@ Dialogue: 0,0:01:01.79,0:01:06.46,AssistToo,,0,0,0,,{\blur1\fscx75\fscy75\c&H333
 Dialogue: 1,0:01:01.79,0:01:06.46,Assist,,0,0,0,,{\blur1\fs48\fscx75\fscy75\c&H3A2DD5&\frz2.239\pos(267,462)}Assistant IN
 Dialogue: 1,0:01:01.79,0:01:06.46,Assist,,0,0,0,,{\blur1\fscx95\fscy95\c&H4036D6&\frz1.184\pos(970,449)}Assistant IN
 Dialogue: 0,0:15:52.84,0:16:00.73,Huge,,0,0,0,,{\fad(1376,1335)\b0\blur1\frz349.697\fscx55\fscy55\move(1286,360,1106,360)\c&H000000&\t(0,1355,\c&H767575&)\t(6535,7870,\c&H000000&)}Shady Detective Trap \NSerialization Name Chapter 5
-Dialogue: 0,0:18:56.82,0:19:04.45,Huge,,0,0,0,,{\b0\blur1\frz352.044\move(244,324,741,324)\c&H807C7E&}Shady Detective Trap Serialization\N Name Chapter 7
+Dialogue: 0,0:18:56.82,0:19:04.45,Huge,,0,0,0,,{\b0\blur1\frz352.044\move(244,324,741,324)\c&H807C7E&}Shady Detective Trap \NSerialization Name Chapter 7
