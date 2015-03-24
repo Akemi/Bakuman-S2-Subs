@@ -5,14 +5,21 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: None
+YCbCr Matrix: TV.601
 PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: tmp
-Active Line: 3
-Video Position: 454
+Audio File: ep3.mkv
+Video File: ep3.mkv
+Keyframes File: ep3_keyframes.log
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 1.000000
+Scroll Position: 85
+Active Line: 91
+Video Position: 8626
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -137,7 +144,7 @@ Dialogue: 10,0:05:49.70,0:05:51.37,Default,,0,0,0,,Nice...
 Dialogue: 10,0:05:51.37,0:05:52.79,Default,,0,0,0,,Very nice.
 Dialogue: 10,0:05:52.79,0:05:54.66,Default,,0,0,0,,I'm so glad I asked you.
 Dialogue: 10,0:05:54.66,0:05:58.00,Default,,0,0,0,,As I thought, your style \Nsuits us much better.
-Dialogue: 10,0:05:58.00,0:05:59.33,Default,,0,0,0,,More than {\i1}Jack{\i0}.
+Dialogue: 10,0:05:58.00,0:05:59.33,Default,,0,0,0,,More than {\i1}Shounen Jack{\i0}.
 Dialogue: 10,0:05:59.75,0:06:00.46,Default,,0,0,0,,Thank you.
 Dialogue: 10,0:06:00.46,0:06:04.26,Default,,0,0,0,,Why is Aoki meeting with \Nthe head editor of Jack SQ?
 Dialogue: 10,0:06:04.26,0:06:07.68,Default,,0,0,0,,She's doing an original work with Koogy.

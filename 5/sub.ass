@@ -21,9 +21,9 @@ Keyframes File: ep5_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 378
-Active Line: 387
-Video Position: 23892
+Scroll Position: 1296
+Active Line: 1310
+Video Position: 9242
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1369,9 +1369,10 @@ Dialogue: 1,0:06:09.76,0:06:11.93,Sunny,,0,0,0,,{\blur0.8\fsp-1\fax0.25\3c&H694E
 Dialogue: 0,0:06:09.76,0:06:11.93,Sunny,,0,0,0,,{\blur0.8\fsp-1\fax0.25\3c&H5B395F&\frz11.675\fscx30\fscy30\pos(661,176)\bord2\c&H5B3A5A&} Top 100 Famous Conversations
 Dialogue: 1,0:06:09.76,0:06:11.93,Sunny,,0,0,0,,{\blur0.8\fax0.25\3c&H5C3E5F&\bord0\frz11.675\fscx20\fscy20\pos(694,253)\c&HF1DBF4&}Study the conversations of the famous!
 Dialogue: 0,0:06:09.76,0:06:11.93,Sunny,,0,0,0,,{\blur0.8\fax0.25\3c&H5C3E5F&\bord2\frz11.675\fscx20\fscy20\pos(694,253)\c&H5C3E5F&}Study the conversations of the famous!
-Dialogue: 0,0:06:25.57,0:06:28.86,Ep Titles,,0,0,0,,{\an2\fnOdense\fsp-1\fscx50\fscy50\fad(709,0)\blur0.8\frz90\move(1022,322,1349,322)}If you atone for your sins,\N they will be forgiven.
-Dialogue: 0,0:06:25.57,0:06:30.78,Ep Titles,,0,0,0,,{\an2\fnOdense\b1\fscx50\fscy50\fad(709,0)\blur0.8\frz90\move(437,295,955,295)}I'm going ahead with that assumption.
-Dialogue: 0,0:06:27.78,0:06:30.78,Ep Titles,,0,0,0,,{\an2\fnOdense\b1\fscx50\fscy50\fad(751,0)\blur0.8\frz90\move(160,517,458,517)}Is living fun?
+Dialogue: 0,0:06:25.57,0:06:28.86,Ep Titles,,0,0,0,,{\c&H523203&\an7\fnOdense\fsp-1\fscx50\fscy50\blur0.8\move(1087,367,1414,367)\t(0,709,\c&H000100&)\fad(500,0)}If you atone \Nfor your sins,\N they will \Nbe forgiven.
+Dialogue: 0,0:06:25.57,0:06:30.78,Ep Titles,,0,0,0,,{\an8\fnOdense\b1\fscx50\fscy50\c&H3B2505&\t(0,709,\c&H000100&)\fad(500,0)\blur0.8\move(426,453,944,453)}\h\h\h\h\hwith that\N assumption.
+Dialogue: 0,0:06:25.57,0:06:30.78,Ep Titles,,0,0,0,,{\an7\fnOdense\b1\fscx50\fscy50\c&H3B2505&\t(0,709,\c&H000100&)\fad(350,0)\blur0.8\move(349,28,867,28)}I'm going \Nahead
+Dialogue: 0,0:06:27.78,0:06:30.78,Ep Titles,,0,0,0,,{\an2\fnOdense\b1\fscx50\fscy50\c&H3B2505&\t(0,709,\c&H000100&)\fad(500,0)\blur0.8\move(277,424,575,424)}Is living fun?
 Dialogue: 2,0:06:33.45,0:06:37.16,Sunny,,0,0,0,,{\blur1\fax0.4\frz13.582\pos(496,271)\c&HE3E7E7&}Sunny Sunny Tale
 Dialogue: 1,0:06:33.45,0:06:37.16,Sunny,,0,0,0,,{\blur1\fax0.4\pos(496,271)\bord5\c&H464C4B&\3c&H464C4B&\frz13.582}Sunny Sunny Tale
 Dialogue: 0,0:06:33.45,0:06:37.16,Sunny,,0,0,0,,{\blur1\fax0.4\pos(502,275)\bord5\c&H464C4B&\3c&H464C4B&\frz13.582}Sunny Sunny Tale
