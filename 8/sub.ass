@@ -19,7 +19,9 @@ Keyframes File: ep8_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Video Position: 448
+Scroll Position: 538
+Active Line: 557
+Video Position: 24913
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -58,6 +60,7 @@ Style: Preview Dialog,Leelawadee,45,&H00E5E5E5,&H000000FF,&H002C2C2C,&H00000000,
 Style: marker,CK Marker,45,&H00000000,&H000000FF,&H002C2C2C,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,45,40,31,1
 Style: lul,blemished,44,&H00000000,&H000000FF,&H1E5A391A,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,40,40,33,1
 Style: Signs,BakuShinn,48,&H00FFFFFF,&H000000FF,&H00272422,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,90,90,45,1
+Style: Signs2,Bell Gothic Bold,76,&H00000100,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -618,7 +621,8 @@ Dialogue: 0,0:17:12.21,0:17:14.51,Huge,,0,0,0,,{\blur1\b1\fs40\fscx70\fscy83.75\
 Dialogue: 0,0:17:12.21,0:17:14.51,Huge,,0,0,0,,{\fsp-1\fax-0.1\blur1\b0\frz81.745\c&H485259&\fscx130\fscy130\pos(791,487)}No Mr.Yoshida
 Dialogue: 0,0:17:12.21,0:17:14.51,Huge,,0,0,0,,{\fsp-1\fax-0.1\blur1\b0\c&H3D4D55&\frz61.112\fscx130\fscy130\pos(880,651)}No
 Dialogue: 0,0:17:12.21,0:17:14.51,Huge,,0,0,0,,{\fsp-1\fax-0.1\blur1\b0\c&H3D4D55&\frz61.112\fscx130\fscy130\pos(908,672)}Soliciting
-Dialogue: 0,0:17:19.05,0:17:21.47,Ep Titles,,0,0,0,,{\fnOdense\an2\blur1\frz243.292\c&H143234&\fscx85\fscy90\pos(426,409)}Weekly Shounen Jack\N\N\N{\fscx60\fscy60}Title: {\fscx100\fscy100\fnJP Hand\b0}Kiyoshi Knight
+Dialogue: 0,0:17:19.05,0:17:21.47,Signs2,,0,0,0,,{\fnOdense\an2\blur1\frz243.292\c&H143234&\fscx85\fscy90\pos(426,409)}Weekly Shounen Jack\N\N\N{\fscx100\fscy15\1a&HFF&}.\N{\1a&H00&\fscx60\fscy60}Title: {\fscx100\fscy100\fnJP Hand\b0}Kiyoshi Knight
+Dialogue: 0,0:17:19.05,0:17:21.47,Signs2,,0,0,0,,{\fnOdense\an2\blur1\frz-95\c&H1F3A3B&\fscx85\fscy90\pos(1006,397)}Weekly Shounen Jack
 Dialogue: 0,0:17:54.34,0:17:57.22,Ep Titles,,0,0,0,,{\fnOdense\an2\blur1\frz203.266\fscx60\fax0.1\fscy64\c&H253134&\move(729,489,775,489)}Weekly Shounen Jack\h\h\N\N\N{\fscx30\fscy34}Title: {\blur1\fscx60\fscy64\fnCK Marker\b0\c&H1E2F2E&}Shady Detective Trap #23
 Dialogue: 1,0:20:00.30,0:20:02.05,Dates,,0,0,0,,{\blur0.8\fad(0,459)\pos(655,274)\bord0\c&HFEFEFF&}September 15th
 Dialogue: 0,0:20:00.30,0:20:02.05,Dates,,0,0,0,,{\blur0.8\fad(0,459)\pos(655,274)\c&H000000&}September 15th
