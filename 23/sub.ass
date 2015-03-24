@@ -75,7 +75,7 @@ Style: Signs2,blemished,42,&H00E1E1DD,&H000000FF,&H001D1E1F,&H00000000,0,0,0,0,1
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 10,0:00:02.35,0:00:03.23,Default,,0,0,0,,Here it is!
 Dialogue: 10,0:00:03.23,0:00:05.31,Default,,0,0,0,,{\i1}Perfect Crime Club{\i0}?
-Dialogue: 10,0:00:05.31,0:00:08.44,Default,,0,0,0,,Is this really 100 times \Nbetter than {\i1}KTM{\i0} ?
+Dialogue: 10,0:00:05.31,0:00:08.44,Default,,0,0,0,,Is this really 100 times \Nbetter than {\i1}KTM{\i0}?
 Dialogue: 10,0:00:08.44,0:00:10.74,Default,,0,0,0,,Just read it!
 Dialogue: 10,0:01:49.67,0:01:51.59,Default-Italic,,0,0,0,,Thanks for the food!
 Dialogue: 10,0:01:52.17,0:01:53.55,Default-Italic,,0,0,0,,At my school,
