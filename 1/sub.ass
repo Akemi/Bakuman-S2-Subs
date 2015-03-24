@@ -19,9 +19,9 @@ Keyframes File: ep1_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 563
-Active Line: 582
-Video Position: 31320
+Scroll Position: 544
+Active Line: 560
+Video Position: 29728
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -198,7 +198,7 @@ Dialogue: 10,0:04:17.77,0:04:19.73,Default,,0,0,0,,You've got the wrong idea.
 Dialogue: 10,0:04:20.36,0:04:25.49,Default,,0,0,0,,Yesterday, he was begging so desperately to be allowed to work on Ashirogi Muto,
 Dialogue: 10,0:04:25.49,0:04:26.91,Default,,0,0,0,,they got angry with him.
 Dialogue: 10,0:04:30.79,0:04:31.87,Default,,0,0,0,,Hattori!
-Dialogue: 10,0:04:37.13,0:04:39.34,Default,,0,0,0,,Thank you for everything you've done for us 'til now!
+Dialogue: 10,0:04:37.13,0:04:39.34,Default,,0,0,0,,Thank you for everything \Nyou've done for us 'til now!
 Dialogue: 10,0:04:39.34,0:04:40.80,Default,,0,0,0,,Thank you!
 Dialogue: 10,0:04:45.26,0:04:47.60,Default,,0,0,0,,You'd better show me a good manga!
 Dialogue: 10,0:04:48.26,0:04:49.01,Default,,0,0,0,,Yes sir!
@@ -227,8 +227,8 @@ Dialogue: 10,0:05:58.21,0:05:59.42,Default,,0,0,0,,Okay.
 Dialogue: 10,0:05:59.42,0:06:01.79,Default,,0,0,0,,The copyright belongs to Yueisha.
 Dialogue: 10,0:06:01.79,0:06:04.76,Default,,0,0,0,,No other magazine may publish your work.
 Dialogue: 10,0:06:04.76,0:06:05.88,Default,,0,0,0,,That's about it.
-Dialogue: 10,0:06:05.88,0:06:08.38,Default,,0,0,0,,We don't have the time to draw for another magazine!
-Dialogue: 10,0:06:08.38,0:06:10.78,Default,,0,0,0,,Quite the opposite; since we have an annual contract,
+Dialogue: 10,0:06:05.88,0:06:08.38,Default,,0,0,0,,We don't have the time to \Ndraw for another magazine!
+Dialogue: 10,0:06:08.38,0:06:10.78,Default,,0,0,0,,Quite the opposite; since we\N have an annual contract,
 Dialogue: 10,0:06:10.78,0:06:12.76,Default,,0,0,0,,I want to make sure it runs continuously for the whole year.
 Dialogue: 10,0:06:12.76,0:06:14.27,Default,,0,0,0,,That's the spirit!
 Dialogue: 10,0:06:14.27,0:06:17.39,Default,,0,0,0,,I'll bring a proper contract next time, so you can sign it then.
@@ -279,8 +279,9 @@ Dialogue: 10,0:08:08.88,0:08:11.76,Default,,0,0,0,,The deadline is two weeks bef
 Dialogue: 10,0:08:11.76,0:08:15.80,Default,,0,0,0,,In other words, two weeks before \Nthe Monday that the issue is released.
 Dialogue: 10,0:08:15.80,0:08:19.97,Default,,0,0,0,,Ideally, we want the finished \Nmanuscript by the Friday before that.
 Dialogue: 10,0:08:20.52,0:08:23.06,Default,,0,0,0,,The final deadline for {\i1}Trap{\i0} is February 4th.
-Dialogue: 10,0:08:23.06,0:08:26.31,Default,,0,0,0,,The first chapter is 54 pages. The second is 27.
-Dialogue: 10,0:08:26.31,0:08:29.32,Default,,0,0,0,,It really only has to be 25, but  you wanted a bit more?
+Dialogue: 10,0:08:23.06,0:08:24.52,Default,,0,0,0,,The first chapter is 54 pages.
+Dialogue: 10,0:08:24.52,0:08:26.31,Default,,0,0,0,,The second is 27.
+Dialogue: 10,0:08:26.31,0:08:29.32,Default,,0,0,0,,It really only has to be 25, \Nbut you wanted a bit more?
 Dialogue: 10,0:08:29.32,0:08:30.40,Default,,0,0,0,,Yes, we'll take care of it.
 Dialogue: 10,0:08:30.40,0:08:32.82,Default,,0,0,0,,I'd like you to turn that in as soon as possible.
 Dialogue: 10,0:08:32.82,0:08:35.87,Default,,0,0,0,,I want to wait for the survey results for chapter 4 onward, so we won't get into those yet.
@@ -324,18 +325,18 @@ Dialogue: 10,0:09:59.57,0:10:02.20,Default,,0,0,0,,All serialized mangakas atten
 Dialogue: 10,0:10:02.20,0:10:04.17,Default,,0,0,0,,If authors don't attend without a good reason,
 Dialogue: 10,0:10:04.17,0:10:07.04,Default,,0,0,0,,the editors in charge of \Nthem won't have it easy!
 Dialogue: 10,0:10:07.04,0:10:08.83,Default,,0,0,0,,New Year's party...
-Dialogue: 10,0:10:09.33,0:10:11.71,Default,,0,0,0,,I'm happy, but nervous at the same time!
+Dialogue: 10,0:10:09.33,0:10:11.71,Default,,0,0,0,,I'm happy, but nervous \Nat the same time!
 Dialogue: 10,0:10:11.71,0:10:14.05,Default,,0,0,0,,It's not a problem of being nervous!
 Dialogue: 10,0:10:14.05,0:10:16.01,Default,,0,0,0,,Anyway, a limo will be coming to pick you up.
 Dialogue: 10,0:10:16.01,0:10:17.51,Default,,0,0,0,,A limo?!
 Dialogue: 10,0:10:18.26,0:10:19.97,Default,,0,0,0,,A limo's picking you up, huh?
 Dialogue: 10,0:10:19.97,0:10:22.30,Default,,0,0,0,,Serialized mangakas are pretty amazing.
-Dialogue: 10,0:10:22.30,0:10:24.04,Default,,0,0,0,,Today's our first meeting with the assistants.
+Dialogue: 10,0:10:22.30,0:10:24.04,Default,,0,0,0,,Today's our first meeting\N with the assistants.
 Dialogue: 10,0:10:24.04,0:10:25.52,Default,,0,0,0,,I'm kind of nervous.
 Dialogue: 10,0:10:26.23,0:10:29.73,Default,,0,0,0,,Shouldn't I come then? I could do odd jobs.
 Dialogue: 10,0:10:29.73,0:10:31.52,Default,,0,0,0,,You'd calm down if a girl was there!
-Dialogue: 10,0:10:30.77,0:10:31.52,Default-Alt,,0,0,0,,No.
-Dialogue: 10,0:10:32.19,0:10:34.48,Default,,0,0,0,,There will only be five men working today.
+Dialogue: 10,0:10:30.77,0:10:31.52,Default-Alt2,,0,0,0,,No.
+Dialogue: 10,0:10:32.19,0:10:34.48,Default,,0,0,0,,There will only be five \Nmen working today.
 Dialogue: 10,0:10:34.48,0:10:35.73,Default,,0,0,0,,It'll be a man's workplace.
 Dialogue: 10,0:10:35.73,0:10:37.57,Default,,0,0,0,,It'll be different from before.
 Dialogue: 10,0:10:38.73,0:10:40.95,Default,,0,0,0,,Alright. I'll refrain from coming by.
@@ -346,17 +347,19 @@ Dialogue: 10,0:10:49.79,0:10:51.79,Default,,0,0,0,,It's an honor to meet you!
 Dialogue: 10,0:10:51.79,0:10:53.09,Default,,0,0,0,,I'll be in your care.
 Dialogue: 10,0:10:53.09,0:10:54.04,Default,,0,0,0,,Also—
 Dialogue: 10,0:10:54.04,0:10:54.96,Default,,0,0,0,,Miura!
-Dialogue: 10,0:10:54.96,0:10:57.09,Default,,0,0,0,,You didn't say anything about a girl coming!
+Dialogue: 10,0:10:54.96,0:10:57.09,Default,,0,0,0,,You didn't say anything\N about a girl coming!
 Dialogue: 10,0:10:57.09,0:10:59.20,Default,,0,0,0,,Kato only lives 3 train stops from here.
 Dialogue: 10,0:10:59.20,0:11:00.51,Default,,0,0,0,,She won't be staying overnight.
-Dialogue: 10,0:11:00.51,0:11:05.06,Default,,0,0,0,,She has a year of experience as an\N assistant in both shoujo and shounen manga too!
+Dialogue: 10,0:11:00.51,0:11:02.22,Default,,0,0,0,,She has a year of experience
+Dialogue: 10,0:11:02.22,0:11:05.06,Default,,0,0,0,,as an assistant in both \Nshoujo and shounen manga too!
 Dialogue: 10,0:11:05.06,0:11:06.97,Default,,0,0,0,,You won't find another person with that much experience!
 Dialogue: 10,0:11:08.06,0:11:08.81,Default,,0,0,0,,But...
 Dialogue: 10,0:11:09.52,0:11:11.06,Default,,0,0,0,,You'll get distracted if there's a girl here?
 Dialogue: 10,0:11:11.06,0:11:11.77,Default,,0,0,0,,Silly young man.
-Dialogue: 10,0:11:11.77,0:11:13.90,Default,,0,0,0,,That's not it! But my girlfriend...
-Dialogue: 10,0:11:13.90,0:11:14.98,Default,,0,0,0,,What?!
-Dialogue: 10,0:11:13.56,0:11:15.82,Default-Alt,,0,0,0,,{\i1}Should we get Miyoshi to do the inking after all?
+Dialogue: 10,0:11:11.77,0:11:12.56,Default,,0,0,0,,That's not it!
+Dialogue: 10,0:11:12.56,0:11:13.90,Default-Alt,,0,0,0,,But my girlfriend...
+Dialogue: 10,0:11:13.90,0:11:14.98,Default-Alt,,0,0,0,,What?!
+Dialogue: 10,0:11:13.56,0:11:15.82,Default-Italic,,0,0,0,,Should we get Miyoshi to\N do the inking after all?
 Dialogue: 10,0:11:18.15,0:11:19.69,Default,,0,0,0,,And that's Takahama.
 Dialogue: 10,0:11:19.69,0:11:20.65,Default,,0,0,0,,He's 19.
 Dialogue: 10,0:11:20.65,0:11:23.49,Default,,0,0,0,,Of the people under me, \Nhe's the best at drawing.
@@ -393,8 +396,8 @@ Dialogue: 10,0:12:27.42,0:12:31.43,Default,,0,0,0,,look at the whole manuscript 
 Dialogue: 10,0:12:31.98,0:12:34.85,Default,,0,0,0,,Though you're good at it, \Na little discrepancy stands out.
 Dialogue: 10,0:12:34.85,0:12:36.52,Default,,0,0,0,,Okay, that's enough.
 Dialogue: 10,0:12:37.61,0:12:40.28,Default,,0,0,0,,I'll do most of the backgrounds and spread the work among the three of us.
-Dialogue: 10,0:12:40.28,0:12:42.32,Default,,0,0,0,,I'll leave the characters to Takahama and
-Dialogue: 10,0:12:42.32,0:12:44.66,Default,,0,0,0,,Finishing will be done by \Nthe person with less work.
+Dialogue: 10,0:12:40.28,0:12:42.32,Default,,0,0,0,,I'll leave the characters to Takahama
+Dialogue: 10,0:12:42.32,0:12:44.66,Default,,0,0,0,,and finishing will be done by \Nthe person with less work.
 Dialogue: 10,0:12:44.66,0:12:48.45,Default,,0,0,0,,Miura, if the first chapter is 54 pages, and the second is 27,
 Dialogue: 10,0:12:48.45,0:12:50.66,Default,,0,0,0,,we need turn this in soon.
 Dialogue: 10,0:12:51.91,0:12:53.29,Default-Italic,,0,0,0,,He's really great!
@@ -428,8 +431,8 @@ Dialogue: 10,0:13:56.52,0:14:00.73,Default,,0,0,0,,W-Well then, we would like \N
 Dialogue: 10,0:14:00.73,0:14:02.15,Default,,0,0,0,,Understood.
 Dialogue: 10,0:14:05.44,0:14:09.03,Default,,0,0,0,,Being driven around like this makes me feel extra nervous.
 Dialogue: 10,0:14:09.62,0:14:10.99,Default,,0,0,0,,That's right, I need to practice.
-Dialogue: 10,0:14:12.12,0:14:13.16,Default,,0,0,0,,Greetings.
-Dialogue: 10,0:14:13.16,0:14:15.58,Default,,0,0,0,,My name is Takagi, one of the mangaka duo under the name Ashirogi Muto,
+Dialogue: 10,0:14:12.12,0:14:13.05,Default,,0,0,0,,Greetings.
+Dialogue: 10,0:14:13.05,0:14:15.58,Default,,0,0,0,,My name is Takagi, one of the mangaka duo under the name Ashirogi Muto,
 Dialogue: 10,0:14:15.58,0:14:19.05,Default,,0,0,0,,creators of the manga {\i1}Shady Detective Trap
 Dialogue: 10,0:14:19.05,0:14:21.42,Default,,0,0,0,,which will begin serialization in February.
 Dialogue: 10,0:14:21.42,0:14:23.25,Default,,0,0,0,,It's a pleasure to meet you.
@@ -449,7 +452,8 @@ Dialogue: 10,0:14:49.11,0:14:50.95,Default,,0,0,0,,Please take this number card 
 Dialogue: 10,0:14:50.95,0:14:52.37,Default,,0,0,0,,O-Okay!
 Dialogue: 10,0:14:52.37,0:14:53.87,Default,,0,0,0,,Oh, you're here.
 Dialogue: 10,0:14:54.41,0:14:55.79,Default,,0,0,0,,Miura, Hattori!
-Dialogue: 10,0:14:56.45,0:14:58.96,Default,,0,0,0,,Thank goodness. I felt kind of out of place.
+Dialogue: 10,0:14:56.45,0:14:57.28,Default,,0,0,0,,Thank goodness.
+Dialogue: 10,0:14:57.28,0:14:58.96,Default,,0,0,0,,I felt kind of out of place.
 Dialogue: 10,0:14:58.96,0:15:00.58,Default,,0,0,0,,This is some place!
 Dialogue: 10,0:15:00.58,0:15:04.04,Default,,0,0,0,,If your serialization continues,\N you'll come here every year!
 Dialogue: 10,0:15:04.04,0:15:05.21,Default,,0,0,0,,You get used to it.
@@ -513,7 +517,8 @@ Dialogue: 10,0:17:11.88,0:17:13.38,Default,,0,0,0,,Damn, it's him.
 Dialogue: 10,0:17:13.38,0:17:17.18,Default,,0,0,0,,He's the one who flattered me by saying "You have talent!" and "You're a genius!"
 Dialogue: 10,0:17:15.51,0:17:17.01,Default-Alt,,0,0,0,,Before the party gets going,
 Dialogue: 10,0:17:17.01,0:17:18.26,Default-Alt,,0,0,0,,let's talk about the problem spots in the third chapter—
-Dialogue: 10,0:17:18.30,0:17:21.64,Default,,0,0,0,,Yoshida-shi! Do you think it's good to be alive?!
+Dialogue: 10,0:17:18.30,0:17:19.55,Default,,0,0,0,,Yoshida-shi!
+Dialogue: 10,0:17:19.55,0:17:21.64,Default,,0,0,0,,Do you think it's good to be alive?!
 Dialogue: 10,0:17:22.43,0:17:24.10,Default,,0,0,0,,Alright, lets go with that.
 Dialogue: 10,0:17:24.10,0:17:25.80,Default,,0,0,0,,The catchphrase of your third chapter...
 Dialogue: 10,0:17:25.80,0:17:28.81,Default,,0,0,0,,Hiramaru is kind of weird and interesting.
@@ -521,7 +526,7 @@ Dialogue: 10,0:17:28.81,0:17:30.69,Default,,0,0,0,,There you are.
 Dialogue: 10,0:17:30.69,0:17:32.69,Default,,0,0,0,,It's about to start, so come up to the front...
 Dialogue: 10,0:17:32.69,0:17:33.36,Default,,0,0,0,,Huh?
 Dialogue: 10,0:17:33.36,0:17:34.53,Default,,0,0,0,,What's wrong?
-Dialogue: 10,0:17:34.53,0:17:37.74,Default,,0,0,0,,Uh, we were just hit by Hiramaru's negative aura...
+Dialogue: 10,0:17:34.53,0:17:37.74,Default,,0,0,0,,Uh, we were just hit by\N Hiramaru's negative aura...
 Dialogue: 10,0:17:37.74,0:17:38.53,Default,,0,0,0,,Negative aura?
 Dialogue: 10,0:17:38.53,0:17:41.08,Default,,0,0,0,,Speaking of which, he did say serialization was impossible.
 Dialogue: 10,0:17:41.08,0:17:45.96,Default,,0,0,0,,Well, there are certainly people who are\N uncertain when they get serialized so suddenly.
@@ -537,7 +542,7 @@ Dialogue: 10,0:18:09.15,0:18:10.94,Default,,0,0,0,,Thank you very much.
 Dialogue: 10,0:18:11.94,0:18:13.53,Default,,0,0,0,,Let's pretend to drink it.
 Dialogue: 10,0:18:13.53,0:18:14.44,Default,,0,0,0,,Nice attitude.
 Dialogue: 10,0:18:12.73,0:18:16.49,Default-Alt,,0,0,0,,First of all, let's have a few words from Mr. Torishima of the Board of Directors.
-Dialogue: 10,0:18:17.15,0:18:22.08,Default,,0,0,0,,That's who {\i1}Arale-chan's{\i0} Mashirito and S{\i1}uper Hero Legend{\i0}'s Torishiman are based on!
+Dialogue: 10,0:18:17.15,0:18:22.08,Default,,0,0,0,,That's who {\i1}Arale-chan's{\i0} Mashirito and {\i1}Super Hero Legend{\i0}'s Torishiman are based on!
 Dialogue: 10,0:18:24.58,0:18:25.95,Default,,0,0,0,,I'm Torishima.
 Dialogue: 10,0:18:26.79,0:18:29.75,Default-Italic,,0,0,0,,Torishima was a model for chief\N editors while I was working there.
 Dialogue: 10,0:18:29.75,0:18:32.09,Default-Italic,,0,0,0,,I was happy when he came up to me at the New Years party,
@@ -602,7 +607,7 @@ Dialogue: 10,0:20:27.53,0:20:31.20,Default,,0,0,0,,I want to be able to come her
 Dialogue: 10,0:20:31.91,0:20:34.21,Default,,0,0,0,,Yeah, we'll definitely come back.
 Dialogue: 10,0:20:35.54,0:20:38.13,Default,,0,0,0,,For that, you need to work \Nhard on your serialization.
 Dialogue: 10,0:20:38.71,0:20:39.88,Default,,0,0,0,,Hattori!
-Dialogue: 10,0:20:39.88,0:20:41.59,Default,,0,0,0,,Well? Have you gotten a bit more settled?
+Dialogue: 10,0:20:39.88,0:20:41.59,Default,,0,0,0,,Well? Have you gotten\N a bit more settled?
 Dialogue: 10,0:20:42.01,0:20:44.26,Default,,0,0,0,,Ah, well, somehow.
 Dialogue: 10,0:20:44.26,0:20:46.80,Default,,0,0,0,,The people here are really charismatic, and we got a bit overwhelmed.
 Dialogue: 10,0:20:47.89,0:20:49.93,Default,,0,0,0,,This is a great opportunity. Enjoy it.
