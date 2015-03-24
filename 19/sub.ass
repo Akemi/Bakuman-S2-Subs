@@ -20,9 +20,9 @@ Keyframes File: ep19_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 505
-Active Line: 527
-Video Position: 32639
+Scroll Position: 325
+Active Line: 343
+Video Position: 21676
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -350,7 +350,7 @@ Dialogue: 10,0:11:28.75,0:11:30.00,Default,,0,0,0,,What?
 Dialogue: 10,0:11:30.00,0:11:30.86,Default,,0,0,0,,All right.
 Dialogue: 10,0:11:30.86,0:11:32.58,Default,,0,0,0,,They've all gone home.
 Dialogue: 10,0:11:33.33,0:11:35.42,Default,,0,0,0,,Hiramaru, what are you \Ndoing there all alone?
-Dialogue: 10,0:11:36.80,0:11:37.67,Default,,0,0,0,,Mr. Yoshida...
+Dialogue: 10,0:11:36.80,0:11:37.67,Default,,0,0,0,,Yoshida-shi...
 Dialogue: 10,0:11:41.47,0:11:43.68,Default,,0,0,0,,Akira, you were too obvious.
 Dialogue: 10,0:11:44.30,0:11:45.55,Default,,0,0,0,,What do you mean?
 Dialogue: 10,0:11:45.55,0:11:48.81,Default,,0,0,0,,Giving Ashirogi that \Nmuch incentive...
@@ -426,7 +426,7 @@ Dialogue: 10,0:14:53.66,0:14:55.37,Default,,0,0,0,,Speaking of anime adaptations
 Dialogue: 10,0:14:55.37,0:14:58.83,Default,,0,0,0,,{\i1}Otters 11{\i0} will be turned \Ninto a late-night anime!
 Dialogue: 10,0:14:59.37,0:15:00.25,Default,,0,0,0,,No way!
 Dialogue: 10,0:15:00.25,0:15:02.38,Default,,0,0,0,,Not even I could lie about that.
-Dialogue: 10,0:15:04.04,0:15:05.84,Default,,0,0,0,,Mr. Yoshida!
+Dialogue: 10,0:15:04.04,0:15:05.34,Default,,0,0,0,,Yoshida-shi!
 Dialogue: 10,0:15:05.84,0:15:07.38,Default,,0,0,0,,I'm so glad I followed you!
 Dialogue: 10,0:15:07.38,0:15:10.06,Default,,0,0,0,,I've been a terrible\N person for thinking of you
 Dialogue: 10,0:15:10.06,0:15:12.47,Default,,0,0,0,,as a long-haired narcissistic con man who tricked me time and time again!

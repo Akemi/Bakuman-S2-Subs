@@ -19,9 +19,9 @@ Keyframes File: ep7_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 447
-Active Line: 462
-Video Position: 31979
+Scroll Position: 108
+Active Line: 129
+Video Position: 10828
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -178,7 +178,7 @@ Dialogue: 10,0:06:47.59,0:06:49.84,Default,,0,0,0,,My husband said that \Nhe's n
 Dialogue: 10,0:06:49.84,0:06:52.51,Default,,0,0,0,,and to let him continue \Non the path he chose.
 Dialogue: 10,0:06:52.93,0:06:54.47,Default,,0,0,0,,But I just can't...
 Dialogue: 10,0:06:54.93,0:06:58.68,Default,,0,0,0,,Rest assured, we will not \Nlet any harm come to him.
-Dialogue: 10,0:06:59.52,0:07:00.65,Default,,0,0,0,,Mr. Yoshida...
+Dialogue: 10,0:06:59.52,0:07:00.65,Default,,0,0,0,,Yoshida-shi...
 Dialogue: 10,0:07:00.65,0:07:03.36,Default,,0,0,0,,I think I should go visit \NAshirogi in the hospital.
 Dialogue: 10,0:07:03.36,0:07:05.36,Default,,0,0,0,,Where did you hear about that?
 Dialogue: 10,0:07:05.36,0:07:06.94,Default,,0,0,0,,We tried to keep it quiet.
@@ -191,7 +191,7 @@ Dialogue: 10,0:07:20.83,0:07:23.67,Default,,0,0,0,,A mangaka isn't a real \Nmemb
 Dialogue: 10,0:07:24.42,0:07:25.80,Default,,0,0,0,,So cruel!
 Dialogue: 10,0:07:25.80,0:07:27.92,Default,,0,0,0,,I'm not a member of society anymore?
 Dialogue: 10,0:07:27.92,0:07:29.80,Default,,0,0,0,,I'm already a caged bird.
-Dialogue: 10,0:07:29.80,0:07:31.63,Default,,0,0,0,,No, I'm Mr. Yoshida's pet dog.
+Dialogue: 10,0:07:29.80,0:07:31.63,Default,,0,0,0,,No, I'm Yoshida's pet dog.
 Dialogue: 10,0:07:31.63,0:07:34.55,Default,,0,0,0,,I'm not allowed to act\N like a human anymore!
 Dialogue: 10,0:07:34.55,0:07:37.85,Default,,0,0,0,,If I wasn't here, you'd look up his hospital and go anyways, right?
 Dialogue: 10,0:07:37.85,0:07:40.18,Default,,0,0,0,,Let's just go on Monday \Nand get it over with, then.
@@ -249,7 +249,7 @@ Dialogue: 10,0:09:39.47,0:09:42.22,Default,,0,0,0,,Isn't he the model mangaka?
 Dialogue: 10,0:09:42.22,0:09:43.18,Default,,0,0,0,,Yes...
 Dialogue: 10,0:09:44.02,0:09:47.90,Default,,0,0,0,,Are you drawn to this kind \Nof lifestyle, Miss Girlfriend?
 Dialogue: 10,0:09:47.90,0:09:50.02,Default,,0,0,0,,Um, yes.
-Dialogue: 10,0:09:50.02,0:09:54.36,Default,,0,0,0,,Mr. Yoshida, when we \Nreturn, I will definitely draw.
+Dialogue: 10,0:09:50.02,0:09:54.36,Default,,0,0,0,,Yoshida-shi, when we \Nreturn, I will definitely draw.
 Dialogue: 10,0:09:54.36,0:09:55.90,Default,,0,0,0,,I feel like I was mistaken...
 Dialogue: 10,0:09:55.90,0:09:56.65,Default,,0,0,0,,Yes, you were.
 Dialogue: 10,0:09:56.65,0:09:58.70,Default,,0,0,0,,You should feel ashamed \Nof yourself, Hiramaru.
@@ -569,13 +569,13 @@ Dialogue: 0,0:01:37.11,0:01:43.36,Lyrics-Eng,,0,0,0,,But I'll simply believe in 
 Dialogue: 0,0:01:43.36,0:01:49.24,Lyrics-Eng,,0,0,0,,And rise back up again and again and again
 Dialogue: 0,0:22:47.34,0:22:54.47,Lyrics-Jap-ED,,0,0,0,,kurikaesu nibuku detarame na sekai
 Dialogue: 0,0:22:54.47,0:23:00.40,Lyrics-Jap-ED,,0,0,0,,urusakute mimi wo fusaida
-Dialogue: 0,0:23:00.40,0:23:07.65,Lyrics-Jap-ED,,0,0,0,,nan no tame ni kizutsukeatteiru no? 
+Dialogue: 0,0:23:00.40,0:23:07.65,Lyrics-Jap-ED,,0,0,0,,nan no tame ni kizutsukeatteiru no?
 Dialogue: 0,0:23:08.11,0:23:10.49,Lyrics-Jap-ED,,0,0,0,,Can you hear my heartbeat
 Dialogue: 0,0:23:10.49,0:23:14.99,Lyrics-Jap-ED,,0,0,0,,Baby I trust you my friend
 Dialogue: 0,0:23:14.99,0:23:18.96,Lyrics-Jap-ED,,0,0,0,,zetsubou ni fushita kokoro no sumi
 Dialogue: 0,0:23:18.96,0:23:22.67,Lyrics-Jap-ED,,0,0,0,,orikasanaru mujun no kage ni
 Dialogue: 0,0:23:22.67,0:23:25.55,Lyrics-Jap-ED,,0,0,0,,mune wo itamenagara
-Dialogue: 0,0:23:25.55,0:23:28.55,Lyrics-Jap-ED,,0,0,0,,ashita wo yume mireru no? 
+Dialogue: 0,0:23:25.55,0:23:28.55,Lyrics-Jap-ED,,0,0,0,,ashita wo yume mireru no?
 Dialogue: 0,0:23:28.55,0:23:35.56,Lyrics-Jap-ED,,0,0,0,,toori ame no ato ni mitsuketa niji wo omotte
 Dialogue: 0,0:23:35.56,0:23:42.19,Lyrics-Jap-ED,,0,0,0,,me wo tojiru Fly with me donna nagai yume mo
 Dialogue: 0,0:23:42.19,0:23:45.65,Lyrics-Jap-ED,,0,0,0,,iroasenai kimi to nara

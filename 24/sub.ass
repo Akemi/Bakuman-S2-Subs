@@ -20,9 +20,9 @@ Keyframes File: ep24_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 53
-Active Line: 67
-Video Position: 27706
+Scroll Position: 268
+Active Line: 287
+Video Position: 17893
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -357,10 +357,10 @@ Dialogue: 10,0:12:06.56,0:12:09.16,Default,,0,0,0,,You can exchange the \Nhands 
 Dialogue: 10,0:12:09.16,0:12:10.45,Default,,0,0,0,,That's the one.
 Dialogue: 10,0:12:10.45,0:12:13.79,Default,,0,0,0,,My assistant really wants it.
 Dialogue: 10,0:12:15.04,0:12:15.96,Default,,0,0,0,,Your assistant?
-Dialogue: 10,0:12:17.04,0:12:18.14,Default,,0,0,0,,Mr. Yoshida?
+Dialogue: 10,0:12:17.04,0:12:18.14,Default,,0,0,0,,Yoshida-shi?
 Dialogue: 10,0:12:18.14,0:12:19.88,Default,,0,0,0,,What's this all about?
 Dialogue: 10,0:12:19.88,0:12:20.88,Default,,0,0,0,,Huh?
-Dialogue: 10,0:12:21.67,0:12:23.68,Default,,0,0,0,,Mr. Yoshida?
+Dialogue: 10,0:12:21.44,0:12:23.68,Default,,0,0,0,,Yoshida-shi?
 Dialogue: 10,0:12:26.26,0:12:28.85,Default,,0,0,0,,Hey, you two!
 Dialogue: 10,0:12:28.85,0:12:30.31,Default,,0,0,0,,Congrats on your serialization!
 Dialogue: 10,0:12:30.31,0:12:31.56,Default,,0,0,0,,Thank you!
