@@ -21,9 +21,9 @@ Keyframes File: ep6_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 371
-Active Line: 387
-Video Position: 28514
+Scroll Position: 243
+Active Line: 247
+Video Position: 18039
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -308,7 +308,7 @@ Dialogue: 10,0:12:18.50,0:12:23.26,Default,,0,0,0,,Right now, I'm moving quickly
 Dialogue: 10,0:12:24.18,0:12:28.35,Default,,0,0,0,,As long as I continue the serialization nonstop for a bit longer,
 Dialogue: 10,0:12:28.35,0:12:29.47,Default,,0,0,0,,I'll definitely...
 Dialogue: 10,0:12:30.77,0:12:31.68,Default,,0,0,0,,Okay.
-Dialogue: 10,0:12:32.35,0:12:35.52,Default,,0,0,0,,Then, even though it's a bit embarrassing, I'll speak from here.
+Dialogue: 10,0:12:32.35,0:12:35.52,Default,,0,0,0,,Then, even though it's a bit \Nembarrassing, I'll speak from here.
 Dialogue: 10,0:12:35.52,0:12:37.23,Default,,0,0,0,,We can at least talk, right?
 Dialogue: 10,0:12:37.23,0:12:39.11,Default,,0,0,0,,Well, yeah.
 Dialogue: 10,0:12:41.74,0:12:42.90,Default,,0,0,0,,Mashiro.
