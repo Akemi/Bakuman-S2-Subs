@@ -19,9 +19,9 @@ Keyframes File: ep15_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 394
-Active Line: 412
-Video Position: 27070
+Scroll Position: 566
+Active Line: 581
+Video Position: 8152
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -654,6 +654,11 @@ Dialogue: 0,0:24:14.97,0:24:20.48,NextEpTitle,,0,0,0,,{\blur0.334\pos(79.676,519
 Dialogue: 0,0:24:21.64,0:24:29.99,NextEpTitle,,0,0,0,,{\blur0.334\an9\pos(1214,56)}Prince and \NSavior
 Dialogue: 1,0:00:00.00,0:00:01.98,Textmsgs,,0,0,0,,{\fax0.1\blur1.2\fs38\frz348.848\fscx62\fscy62\pos(687,273)\c&HFFFFFF&\frx340\fry358}Call Ended
 Dialogue: 0,0:00:00.00,0:00:01.98,Textmsgs,,0,0,0,,{\fax0.1\blur2\fs38\frz348.848\fscx62\fscy62\pos(687,273)\c&HFFFFFF&\frx340\fry358\1a&H97&}Call Ended
+Dialogue: 2,0:05:39.98,0:05:41.94,AssistToo,,0,0,0,,{\fsp-1\blur0.9\c&H43403B&\3c&HCAF3EF&\b1\fscx40\fscy40\frz4.165\pos(354,336)}Rice Balls
+Dialogue: 1,0:05:39.98,0:05:41.94,AssistToo,,0,0,0,,{\fsp-1\blur1.2\c&HEBEBEB&\3c&HEBEBEB&\bord1.5\fscx40\fscy40\frz4.165\pos(354,336)}Rice Balls
+Dialogue: 2,0:05:39.98,0:05:41.94,Herotoo,,0,0,0,,{\fsp-1\blur0.8\bord0\c&HDCF6FF&\fscx43.75\fscy46.25\pos(520,299)}Yen
+Dialogue: 1,0:05:39.98,0:05:41.94,Herotoo,,0,0,0,,{\fsp-1\blur1.2\3c&HFCFCFB&\bord1.8\c&HFCFCFB&\fscx43.75\fscy46.25\pos(520,299)}Yen
+Dialogue: 0,0:05:39.98,0:05:41.94,Herotoo,,0,0,0,,{\fsp-1\blur1\3c&HCAF3EF&\bord0\fscx43.75\fscy46.25\c&H8989C8&\pos(405,312)}All
 Dialogue: 1,0:06:03.46,0:06:05.88,Signs2,,0,0,0,,{\blur0.6\fad(208,0)\c&HE4E4E3&\bord0\fscx150\fscy150\pos(645,306)}Thursday, August 23rd
 Dialogue: 0,0:06:03.46,0:06:05.88,Signs2,,0,0,0,,{\blur0.6\fad(208,0)\c&H111211&\3c&H111211&\bord4\fscx150\fscy150\pos(645,306)}Thursday, August 23rd
 Dialogue: 1,0:06:43.71,0:06:46.59,Signs2,,0,0,0,,{\blur0.6\fad(208,208)\c&HE4E5E2&\bord0\fscx150\fscy150\pos(645,306)}Thursday, August 30th

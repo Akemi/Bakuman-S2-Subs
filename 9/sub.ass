@@ -19,9 +19,9 @@ Keyframes File: ep9_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 795
-Active Line: 814
-Video Position: 29344
+Scroll Position: 48
+Active Line: 62
+Video Position: 8061
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -127,8 +127,8 @@ Dialogue: 0,0:24:14.97,0:24:19.64,NextEpTitle,,0,0,0,,{\blur0.334\pos(79.676,519
 Dialogue: 0,0:24:22.23,0:24:29.99,NextEpTitle,,0,0,0,,{\blur0.334\an9\pos(1214,56)}Gags and \NSerious
 Dialogue: 0,0:02:07.85,0:02:11.90,Huge,,0,0,0,,{\blur1\b1\fscx89\fscy89\c&H454C4B&\3c&H484C4C&\frz87.997\move(434,504,586,395)}Chapter 20 Restart
 Dialogue: 0,0:02:07.85,0:02:11.90,Huge,,0,0,0,,{\blur1\fscx75\fscy75\c&H484C4C&\frz87.997\move(528,504,680,395)}Color
-Dialogue: 2,0:05:36.19,0:05:38.19,AssistToo,,0,0,0,,{\fsp-1\blur0.9\c&H234048&\3c&HCAF3EF&\b1\fscx40\fscy40\frz4.165\pos(355,342)}Rice Balls
-Dialogue: 1,0:05:36.19,0:05:38.19,AssistToo,,0,0,0,,{\fsp-1\blur0.9\c&H74D1BC&\3c&HD2F5ED&\bord1.5\fscx40\fscy40\frz4.165\pos(355,342)}Rice Balls
+Dialogue: 2,0:05:36.19,0:05:38.19,AssistToo,,0,0,0,,{\fsp-1\blur0.9\c&H0B2B2E&\3c&HCAF3EF&\b1\fscx40\fscy40\frz4.165\pos(355,342)}Rice Balls
+Dialogue: 1,0:05:36.19,0:05:38.19,AssistToo,,0,0,0,,{\fsp-1\blur0.9\c&HD2F5ED&\3c&HD2F5ED&\bord1.5\fscx40\fscy40\frz4.165\pos(355,342)}Rice Balls
 Dialogue: 2,0:05:36.19,0:05:38.19,Herotoo,,0,0,0,,{\fsp-1\blur0.8\bord0\c&H4B7BE4&\fscx43.75\fscy46.25\pos(527,304)}Yen
 Dialogue: 1,0:05:36.19,0:05:38.19,Herotoo,,0,0,0,,{\fsp-1\blur0.8\3c&HD2FFFF&\bord1.5\c&HD2FFFF&\fscx43.75\fscy46.25\pos(527,304)}Yen
 Dialogue: 0,0:05:36.19,0:05:38.19,Herotoo,,0,0,0,,{\fsp-1\blur1\3c&HCAF3EF&\bord0\fscx43.75\fscy46.25\c&H5585D4&\pos(407,317)}All
