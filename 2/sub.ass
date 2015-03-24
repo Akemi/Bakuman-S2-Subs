@@ -19,10 +19,10 @@ Video File: ep2.mkv
 Keyframes File: ep2_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 731
-Active Line: 771
-Video Position: 35036
+Video Zoom Percent: 1.000000
+Scroll Position: 739
+Active Line: 757
+Video Position: 31943
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -636,11 +636,11 @@ Dialogue: 10,0:12:42.86,0:12:44.38,Default,,0,0,0,,A real "man's manga".
 Dialogue: 10,0:12:44.38,0:12:45.16,Default,,0,0,0,,Yeah!
 Dialogue: 10,0:12:45.16,0:12:46.74,Default,,0,0,0,,Really? You talked with Takahama?
 Dialogue: 10,0:12:46.74,0:12:48.95,Default,,0,0,0,,It was interesting talking to him.
-Dialogue: 10,0:12:48.95,0:12:50.64,Default,,0,0,0,,So much so I didn't even finish inking!
+Dialogue: 10,0:12:48.95,0:12:50.64,Default,,0,0,0,,So much so I didn't \Neven finish inking!
 Dialogue: 10,0:12:50.64,0:12:51.64,Default,,0,0,0,,That's fine.
 Dialogue: 10,0:12:51.64,0:12:53.85,Default,,0,0,0,,It's also important to communicate.
 Dialogue: 10,0:12:53.85,0:12:55.83,Default,,0,0,0,,I'm headed to our office now.
-Dialogue: 10,0:12:55.83,0:12:58.25,Default,,0,0,0,,I want to finish up before they get there.
+Dialogue: 10,0:12:55.83,0:12:58.25,Default,,0,0,0,,I want to finish up \Nbefore they get there.
 Dialogue: 10,0:12:58.25,0:13:01.39,Default,,0,0,0,,After I'm done with the classroom chores, I'll head right over.
 Dialogue: 10,0:13:01.39,0:13:02.21,Default,,0,0,0,,Okay!
 Dialogue: 10,0:13:04.72,0:13:07.01,Default-Italic,,0,0,0,,I forgot to ask about Azuki.
@@ -814,7 +814,7 @@ Dialogue: 10,0:22:02.24,0:22:04.51,Default,,0,0,0,,Me too.
 Dialogue: 10,0:22:04.51,0:22:08.16,Default,,0,0,0,,And she asked me to \Nproperly apologize to Takagi.
 Dialogue: 10,0:22:08.65,0:22:10.86,Default,,0,0,0,,You were really fearsome that day.
 Dialogue: 10,0:22:10.86,0:22:12.25,Default,,0,0,0,,I said I'm sorry.
-Dialogue: 10,0:22:12.25,0:22:14.67,Default,,0,0,0,,It all went well after that though, right?
+Dialogue: 10,0:22:12.25,0:22:14.67,Default,,0,0,0,,It all went well after\N that though, right?
 Dialogue: 10,0:22:14.67,0:22:18.11,Default,,0,0,0,,Most importantly, {\i1}Trap{\i0} safely began its first serialization.
 Dialogue: 10,0:22:18.11,0:22:20.51,Default,,0,0,0,,Yeah, it's finally begun.
 Dialogue: 10,0:22:20.51,0:22:24.16,Default,,0,0,0,,Now we just have to wait and see how it does in the polls.
