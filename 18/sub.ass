@@ -20,9 +20,9 @@ Keyframes File: ep18_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 514
-Active Line: 536
-Video Position: 32519
+Scroll Position: 614
+Active Line: 629
+Video Position: 27401
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -709,7 +709,7 @@ Dialogue: 0,0:18:52.81,0:18:57.36,Huge,,0,0,0,,{\blur1\c&H4F5251&\frx2\fry342\fs
 Dialogue: 0,0:18:52.81,0:18:57.36,Huge,,0,0,0,,{\blur1\c&H5B605E&\fs36\b1\frx8\fry338\frz273.2\pos(765.4,360.62)} Greet Miyosh's parents{\b0}
 Dialogue: 0,0:18:52.81,0:18:57.36,Huge,,0,0,0,,{\blur1\c&H5B605E&\fs36\b1\frx8\fry338\frz273.2\pos(765.4,360.62)} Greet Miyosh's parents{\b0}
 Dialogue: 0,0:19:02.82,0:19:04.83,Huge,,0,0,0,,{\an1\fscx160\fscy160\fs60\blur1\c&HDDDDD6&\pos(640,269)}N{\c&HCBC8C4&}i{\c&HCDCAC3&}i{\c&HCDC9C3&}z{\c&HD9D9D4&}u{\c&HDFDEDA&}m{\c&HF9F8F3&}a
-Dialogue: 0,0:19:02.82,0:19:04.83,Huge,,0,0,0,,{\an1\blur1\c&H42423F&\frx0\fry0\fscx135\fscy135\pos(884,653)}Eiji  Ltd.
+Dialogue: 0,0:19:02.82,0:19:04.83,Huge,,0,0,0,,{\an1\blur1\c&H44403D&\frx0\fry0\fscx135\fscy135\pos(884,653)}Eiji  Ltd.
 Dialogue: 0,0:04:15.31,0:04:17.02,Silence,,0,0,0,,{\an1\pos(852,238)\b0\fs55\fsp-1\blur0.8\bord0\shad0\c&HC8CACE&}Editorial Department
 Dialogue: 0,0:04:15.31,0:04:17.02,Silence,,0,0,0,,{\an1\pos(857,414)\b0\fs55\fsp-1\blur0.8\bord0\shad0\c&HB1B4B9&}Shounen Jack
 Dialogue: 0,0:04:15.31,0:04:17.02,Silence,,0,0,0,,{\an1\pos(858,605)\b0\fsp-1\fs55\blur0.8\bord0\shad0\c&H95989E&}Jack SQ

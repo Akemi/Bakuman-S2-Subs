@@ -19,9 +19,9 @@ Keyframes File: ep25_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 548
-Active Line: 565
-Video Position: 33421
+Scroll Position: 596
+Active Line: 621
+Video Position: 29856
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -696,4 +696,4 @@ Dialogue: 0,0:19:39.03,0:19:42.28,Detective,,0,0,0,,{\fax-0.25\bord0\blur1\fsp-3
 Dialogue: 0,0:19:39.03,0:19:42.28,Detective,,0,0,0,,{\fax-0.15\bord0\blur1\fsp-3\fscx45\fscy45\frx0\fry2\frz2.779\pos(1086,676)\c&H8A7F78&}Fukuda Shinta
 Dialogue: 0,0:19:39.03,0:19:42.28,Detective,,0,0,0,,{\fax-0.25\bord0\fs75\blur1\fsp-3\fscx45\fscy45\frx0\fry2\frz2.779\c&H94867D&\pos(453,703)}Road Racer Buchigiri
 Dialogue: 0,0:20:45.22,0:20:46.76,Huge,,0,0,0,,{\an1\fscx160\fscy160\fs60\blur1\c&HDDDDD6&\pos(640,269)}N{\c&HCBC8C4&}i{\c&HCDCAC3&}i{\c&HCDC9C3&}z{\c&HD9D9D4&}u{\c&HDFDEDA&}m{\c&HF9F8F3&}a
-Dialogue: 0,0:20:45.22,0:20:46.76,Huge,,0,0,0,,{\an1\blur1\c&H3E3C39&\frx0\fry0\fscx135\fscy135\pos(884,653)}Eiji  Ltd.
+Dialogue: 0,0:20:45.22,0:20:46.76,Huge,,0,0,0,,{\an1\blur1\c&H433E3E&\frx0\fry0\fscx135\fscy135\pos(884,653)}Eiji  Ltd.

@@ -19,9 +19,9 @@ Keyframes File: ep14_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 1850
-Active Line: 1871
-Video Position: 18906
+Scroll Position: 10
+Active Line: 34
+Video Position: 23413
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -110,7 +110,7 @@ Dialogue: 0,0:20:08.01,0:20:08.14,Textmsgs,,0,0,0,,{\pos(722,139)\fax0.05\blur1\
 Dialogue: 0,0:20:08.14,0:20:08.27,Textmsgs,,0,0,0,,{\pos(711,134)\fax0.05\blur1\fs40\fscx43\fscy43\c&HECE5E2&\frz353.032}Receiving          Azuki Miho
 Dialogue: 0,0:20:08.27,0:20:10.10,Textmsgs,,0,0,0,,{\pos(698,126)\fax0.05\blur1\fs40\fscx43\fscy43\c&HECE5E2&\frz354.176}Receiving          Azuki Miho
 Dialogue: 0,0:16:16.49,0:16:19.83,Huge,,0,0,0,,{\an1\fscx160\fscy160\fs60\blur1\c&HDDDDD6&\pos(640,269)}N{\c&HCBC8C4&}i{\c&HCDCAC3&}i{\c&HCDC9C3&}z{\c&HD9D9D4&}u{\c&HDFDEDA&}m{\c&HF9F8F3&}a
-Dialogue: 0,0:16:16.49,0:16:19.83,Huge,,0,0,0,,{\an1\blur1\c&H42423F&\frx0\fry0\fscx135\fscy135\pos(884,653)}Eiji  Ltd.
+Dialogue: 0,0:16:16.49,0:16:19.83,Huge,,0,0,0,,{\an1\blur1\c&H464340&\frx0\fry0\fscx135\fscy135\pos(884,653)}Eiji  Ltd.
 Dialogue: 1,0:10:42.41,0:10:44.87,Ep Titles,,0,0,0,,{\an1\pos(494,366)\blur1\b0\fsp-2\fscx54\fscy59\bord0\c&HD6DADF&\3c&HDDE2E5&\iclip(m 513 280 b 522 282 521 293 522 302 522 319 520 329 510 339 505 350 501 362 499 373 493 384 464 343 466 330 463 316 483 279 503 281)}Green Graduation\N {\alpha&HFF&\alpha&H00&\fscx44\fscy44\bord0\c&H384947&}Akina Aiko
 Dialogue: 0,0:10:42.41,0:10:44.87,Ep Titles,,0,0,0,,{\an1\pos(494,366)\blur1\b0\fsp-2\fscx54\fscy59\bord2\c&H5D6D8C&\3c&H5D6D8C&\iclip(m 513 280 b 522 282 521 293 522 302 522 319 520 329 510 339 505 350 501 362 499 373 493 384 464 343 466 330 463 316 483 279 503 281)}Green Graduation\N {\alpha&HFF&\alpha&H00&\fscx44\fscy44\bord1\c&HD6DADD&\3c&HD6DADD&}Akina Aiko
 Dialogue: 1,0:10:42.41,0:10:44.87,Herotoo,,0,0,0,,{\an1\pos(522,546)\blur1\b0\bord0\fscx40\fscy38\c&H777261&\frz359.728}Pleiades Amateur Novel Contest Winner

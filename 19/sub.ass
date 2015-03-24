@@ -20,9 +20,9 @@ Keyframes File: ep19_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 325
-Active Line: 343
-Video Position: 21676
+Scroll Position: 577
+Active Line: 589
+Video Position: 16751
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -672,7 +672,7 @@ Dialogue: 2,0:04:49.18,0:04:53.06,Mashiro,,0,0,0,,{\an7\move(305,504,305,317)\fs
 Dialogue: 1,0:04:49.18,0:04:53.06,Mashiro,,0,0,0,,{\c&HFEFDFF&\4c&HFEFDFF&\fax-0.29\fsp-4\blur1\b0\shad0\fscx100\fscy100\move(867,536,867,349)\fs40\frx0\fry0\frz14.3\t(0,876,(\4c&H474747&\c&H63888D&)}Yakusa City Akehi Middle School
 Dialogue: 0,0:04:49.18,0:04:53.06,Mashiro,,0,0,0,,{\c&HFEFDFF&\4c&HFEFDFF&\fax-0.29\fsp-4\blur1\b0\shad0\fscx100\fscy100\move(869,538,869,351)\fs40\frx0\fry0\frz14.3\t(0,876,(\4c&H474747&\c&H1B262A&)}Yakusa City Akehi Middle School
 Dialogue: 0,0:11:38.63,0:11:41.09,Huge,,0,0,0,,{\an1\fscx160\fscy160\fs60\blur1\c&HDDDDD6&\pos(640,269)}N{\c&HCBC8C4&}i{\c&HCDCAC3&}i{\c&HCDC9C3&}z{\c&HD9D9D4&}u{\c&HDFDEDA&}m{\c&HF9F8F3&}a
-Dialogue: 0,0:11:38.63,0:11:41.09,Huge,,0,0,0,,{\an1\blur1\c&H42423F&\frx0\fry0\fscx135\fscy135\pos(884,653)}Eiji  Ltd.
+Dialogue: 0,0:11:38.63,0:11:41.09,Huge,,0,0,0,,{\an1\blur1\c&H44403D&\frx0\fry0\fscx135\fscy135\pos(884,653)}Eiji  Ltd.
 Dialogue: 1,0:13:35.21,0:13:37.67,Sunny,,0,0,0,,{\fax-0.53\blur1\fscx36.25\fscy30\frx20\fry0\frz31\c&H361F0D&\pos(755,158)}Takagi
 Dialogue: 0,0:13:54.10,0:13:57.81,Ep Titles,,0,0,0,,{\fnOdense\fax0.03\fsp-2\b0\blur1\fscx70\fscy70\frz358.034\frx2\fry12\pos(675,223)\c&H211A1A&}Mashiro
 Dialogue: 1,0:16:36.43,0:16:39.26,Huge,,0,0,0,,{\fsp-1\fs22\fax-0.89\blur1\fscx68.75\fscy101.25\alpha&HFF&\frz37\frx356\fry20\move(745,335,745,837)\c&H2F2F2F&}______{\alpha&H00&}Jack \NSold Out

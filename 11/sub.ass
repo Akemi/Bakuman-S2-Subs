@@ -19,9 +19,8 @@ Keyframes File: ep11_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 5821
-Active Line: 5830
-Video Position: 24843
+Scroll Position: 46
+Active Line: 57
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -93,13 +92,13 @@ Dialogue: 0,0:01:56.11,0:02:02.36,Lyrics-Eng,,0,0,0,,But I'll simply believe in 
 Dialogue: 0,0:02:02.36,0:02:08.24,Lyrics-Eng,,0,0,0,,And rise back up again and again and again
 Dialogue: 0,0:22:47.22,0:22:54.35,Lyrics-Jap-ED,,0,0,0,,kurikaesu nibuku detarame na sekai
 Dialogue: 0,0:22:54.35,0:23:00.27,Lyrics-Jap-ED,,0,0,0,,urusakute mimi wo fusaida
-Dialogue: 0,0:23:00.27,0:23:07.53,Lyrics-Jap-ED,,0,0,0,,nan no tame ni kizutsukeatteiru no? 
+Dialogue: 0,0:23:00.27,0:23:07.53,Lyrics-Jap-ED,,0,0,0,,nan no tame ni kizutsukeatteiru no?
 Dialogue: 0,0:23:07.99,0:23:10.36,Lyrics-Jap-ED,,0,0,0,,Can you hear my heartbeat
 Dialogue: 0,0:23:10.36,0:23:14.87,Lyrics-Jap-ED,,0,0,0,,Baby I trust you my friend
 Dialogue: 0,0:23:14.87,0:23:18.83,Lyrics-Jap-ED,,0,0,0,,zetsubou ni fushita kokoro no sumi
 Dialogue: 0,0:23:18.83,0:23:22.54,Lyrics-Jap-ED,,0,0,0,,orikasanaru mujun no kage ni
 Dialogue: 0,0:23:22.54,0:23:25.42,Lyrics-Jap-ED,,0,0,0,,mune wo itamenagara
-Dialogue: 0,0:23:25.42,0:23:28.42,Lyrics-Jap-ED,,0,0,0,,ashita wo yume mireru no? 
+Dialogue: 0,0:23:25.42,0:23:28.42,Lyrics-Jap-ED,,0,0,0,,ashita wo yume mireru no?
 Dialogue: 0,0:23:28.42,0:23:35.43,Lyrics-Jap-ED,,0,0,0,,toori ame no ato ni mitsuketa niji wo omotte
 Dialogue: 0,0:23:35.43,0:23:42.06,Lyrics-Jap-ED,,0,0,0,,me wo tojiru Fly with me donna nagai yume mo
 Dialogue: 0,0:23:42.06,0:23:45.52,Lyrics-Jap-ED,,0,0,0,,iroasenai kimi to nara
@@ -125,7 +124,7 @@ Dialogue: 0,0:02:10.48,0:02:13.98,Ep Titles,,0,0,0,,{\pos(640,464.62)\blur0.334}
 Dialogue: 0,0:24:14.97,0:24:19.22,NextEpTitle,,0,0,0,,{\blur0.334\pos(79.676,519.696)}Next\NEpisode
 Dialogue: 0,0:24:23.35,0:24:29.99,NextEpTitle,,0,0,0,,{\blur0.334\an9\pos(1214,56)}Experience \Nand Data
 Dialogue: 0,0:00:00.00,0:00:01.98,Huge,,0,0,0,,{\an1\fscx160\fscy160\fs60\blur1\c&HDDDDD6&\pos(640,269)}N{\c&HCBC8C4&}i{\c&HCDCAC3&}i{\c&HCDC9C3&}z{\c&HD9D9D4&}u{\c&HDFDEDA&}m{\c&HF9F8F3&}a
-Dialogue: 0,0:00:00.00,0:00:01.98,Huge,,0,0,0,,{\an1\blur1\c&H42423F&\frx0\fry0\fscx135\fscy135\pos(884,653)}Eiji  Ltd.
+Dialogue: 0,0:00:00.00,0:00:01.98,Huge,,0,0,0,,{\an1\blur1\c&H44403D&\frx0\fry0\fscx135\fscy135\pos(884,653)}Eiji  Ltd.
 Dialogue: 0,0:00:25.12,0:00:28.80,Huge,,0,0,0,,{\fad(709,0)\frx2\fax-0.05\blur0.8\fs45\c&H545152&\frz342.718\move(445,45,445,252,24,3652)\b0\fscx75\fscy91.25}Ashirogi Muto
 Dialogue: 0,0:00:33.63,0:00:33.68,Huge,,0,0,0,,{\fad(0,0)\blur0.8\fs75\c&H433F3F&\an8\pos(698,654)\b0\fscx120\fscy113.75}Ashirogi Muto
 Dialogue: 0,0:00:33.68,0:00:33.72,Huge,,0,0,0,,{\fad(0,0)\blur0.8\fs75\c&H433F3F&\an8\pos(698,655)\b0\fscx120\fscy113.75}Ashirogi Muto
