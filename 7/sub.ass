@@ -19,9 +19,9 @@ Keyframes File: ep7_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 358
-Active Line: 383
-Video Position: 27109
+Scroll Position: 166
+Active Line: 172
+Video Position: 13318
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -177,7 +177,7 @@ Dialogue: 10,0:06:43.88,0:06:45.63,Default,,0,0,0,,I'd like to talk with you.
 Dialogue: 10,0:06:47.59,0:06:49.84,Default,,0,0,0,,My husband said that \Nhe's not a child anymore,
 Dialogue: 10,0:06:49.84,0:06:52.51,Default,,0,0,0,,and to let him continue \Non the path he chose.
 Dialogue: 10,0:06:52.93,0:06:54.47,Default,,0,0,0,,But I just can't...
-Dialogue: 10,0:06:54.93,0:06:58.68,Default,,0,0,0,,Rest assured, we won't \Nlet him in harm's way.
+Dialogue: 10,0:06:54.93,0:06:58.68,Default,,0,0,0,,Rest assured, we won't \Nput him in harm's way.
 Dialogue: 10,0:06:59.52,0:07:00.65,Default,,0,0,0,,Yoshida-shi...
 Dialogue: 10,0:07:00.65,0:07:03.36,Default,,0,0,0,,I think I should go visit \NAshirogi in the hospital.
 Dialogue: 10,0:07:03.36,0:07:05.36,Default,,0,0,0,,Where did you even hear about that?
@@ -233,7 +233,6 @@ Dialogue: 10,0:09:00.18,0:09:03.64,Default,,0,0,0,,Well, it does take some stren
 Dialogue: 10,0:09:04.14,0:09:05.52,Default,,0,0,0,,They met, though.
 Dialogue: 10,0:09:05.52,0:09:07.73,Default,,0,0,0,,You think they can go \Nback to staying apart now?
 Dialogue: 10,0:09:07.73,0:09:11.78,Default,,0,0,0,,If they kiss in the hospital or something, I bet they won't be able to!
-Dialogue: 10,0:09:11.78,0:09:13.44,Default,,0,0,0,,
 Dialogue: 10,0:09:13.44,0:09:15.45,Default,,0,0,0,,Where are you going with that?
 Dialogue: 10,0:09:15.45,0:09:18.07,Default,,0,0,0,,Whatever, you don't \Nunderstand a woman's heart.
 Dialogue: 10,0:09:18.45,0:09:20.12,Default,,0,0,0,,All right, the name's done.
