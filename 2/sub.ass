@@ -20,9 +20,9 @@ Keyframes File: ep2_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 739
-Active Line: 757
-Video Position: 31943
+Scroll Position: 309
+Active Line: 329
+Video Position: 28034
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -388,7 +388,7 @@ Dialogue: 1,0:19:29.23,0:19:34.15,Book,,0,0,0,,{\fsp-1\blur0.8\fax0.19\bord1\frz
 Dialogue: 2,0:19:29.23,0:19:34.15,Book,,0,0,0,,{\fsp-1\blur0.8\fax0.19\frz13.818\fscx125\fscy125\pos(570,176)\c&H13231A&\3c&H40574C&}Class of 2005
 Dialogue: 1,0:19:29.23,0:19:34.15,Book,,0,0,0,,{\fsp-1\blur0.8\fax0.19\bord1\frz13.818\fscx125\fscy125\pos(570,176)\c&H4D6C5D&\3c&H4D6C5D&}Class of 2005
 Dialogue: 0,0:24:14.97,0:24:19.31,NextEpTitle,,0,0,0,,{\blur0.334\pos(79.676,519.696)}Next\NEpisode\N
-Dialogue: 0,0:24:21.27,0:24:29.78,NextEpTitle,,0,0,0,,{\an9\pos(1219.75,48)}Window\Nand Snow
+Dialogue: 0,0:24:21.27,0:24:29.99,NextEpTitle,,0,0,0,,{\an9\pos(1219.75,48)}Window\Nand Snow
 Dialogue: 10,0:00:03.45,0:00:04.94,Default,,0,0,0,,I'm home.
 Dialogue: 10,0:00:05.60,0:00:06.68,Default,,0,0,0,,Welcome back.
 Dialogue: 10,0:00:06.68,0:00:07.94,Default,,0,0,0,,You were out late today.
