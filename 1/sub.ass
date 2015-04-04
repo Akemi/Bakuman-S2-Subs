@@ -19,9 +19,9 @@ Keyframes File: ep1_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 386
-Active Line: 406
-Video Position: 21514
+Scroll Position: 88
+Active Line: 108
+Video Position: 3677
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -148,8 +148,8 @@ Dialogue: 10,0:00:33.01,0:00:37.18,Default,,0,0,0,,He said he had some things to
 Dialogue: 10,0:00:38.56,0:00:39.31,Default,,0,0,0,,He's here!
 Dialogue: 10,0:00:41.93,0:00:43.23,Default,,0,0,0,,Congrats on the serialization!
 Dialogue: 10,0:00:43.23,0:00:45.10,Default,,0,0,0,,Oh, thank you.
-Dialogue: 10,0:00:45.90,0:00:47.40,Default,,0,0,0,,Why is someone else here?
-Dialogue: 10,0:00:47.81,0:00:49.32,Default,,0,0,0,,Does it have something to do with the contract?
+Dialogue: 10,0:00:45.90,0:00:47.40,Default-Italic,,0,0,0,,Why is someone else here?
+Dialogue: 10,0:00:47.81,0:00:49.32,Default-Italic,,0,0,0,,Does it have something to do with the contract?
 Dialogue: 10,0:00:49.90,0:00:52.36,Default,,0,0,0,,I'm Miura. I've been with Jack since last year.
 Dialogue: 10,0:00:52.36,0:00:53.44,Default,,0,0,0,,Nice to meet you!
 Dialogue: 10,0:00:53.44,0:00:54.99,Default,,0,0,0,,Y-Yeah...
