@@ -17,9 +17,9 @@ Keyframes File: ep3_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 85
-Active Line: 91
-Video Position: 8626
+Scroll Position: 314
+Active Line: 318
+Video Position: 25276
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -372,7 +372,7 @@ Dialogue: 10,0:17:22.10,0:17:23.89,Default,,0,0,0,,All that's left is to wait fo
 Dialogue: 10,0:17:24.31,0:17:26.98,Default,,0,0,0,,Right now, it's more important to pen-in the fifth chapter.
 Dialogue: 10,0:17:28.86,0:17:30.52,Default,,0,0,0,,It's crazy out there!
 Dialogue: 10,0:17:30.52,0:17:32.48,Default,,0,0,0,,It's snowing really hard.
-Dialogue: 10,0:17:32.48,0:17:34.24,Default,,0,0,0,,The snow's already starting to stick!
+Dialogue: 10,0:17:32.48,0:17:34.24,Default,,0,0,0,,The snow's already starting to pile up!
 Dialogue: 10,0:17:34.24,0:17:35.32,Default,,0,0,0,,I'm so cold!
 Dialogue: 10,0:17:35.70,0:17:39.83,Default,,0,0,0,,That's right, the weather report said there'd be a snowstorm.
 Dialogue: 10,0:17:39.83,0:17:41.03,Default,,0,0,0,,Snowstorm?!

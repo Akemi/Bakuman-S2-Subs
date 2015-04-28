@@ -21,9 +21,9 @@ Keyframes File: ep4_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 351
-Active Line: 373
-Video Position: 26707
+Scroll Position: 131
+Active Line: 142
+Video Position: 11628
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -200,7 +200,7 @@ Dialogue: 10,0:07:57.91,0:07:59.66,Default,,0,0,0,,There's nothing better than t
 Dialogue: 10,0:07:59.66,0:08:00.60,Default,,0,0,0,,Take down {\i1}Crow{\i0}!
 Dialogue: 10,0:08:00.60,0:08:02.42,Default,,0,0,0,,No, take down every other manga!
 Dialogue: 10,0:08:02.42,0:08:04.96,Default,,0,0,0,,I won't lose to {\i1}Kiyoshi{\i0} or {\i1}Door{\i0}.
-Dialogue: 10,0:08:04.96,0:08:06.46,Default,,0,0,0,,Bring it on, bros.
+Dialogue: 10,0:08:04.96,0:08:06.46,Default,,0,0,0,,Bring it on, guys.
 Dialogue: 10,0:08:06.46,0:08:07.25,Default,,0,0,0,,Yeah!
 Dialogue: 10,0:08:07.25,0:08:08.80,Default,,0,0,0,,I won't lose, either!
 Dialogue: 10,0:08:08.80,0:08:10.63,Default,,0,0,0,,Both Aoki and I!
