@@ -21,9 +21,8 @@ Keyframes File: ep4_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 131
-Active Line: 142
-Video Position: 11628
+Active Line: 189
+Video Position: 14303
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -247,7 +246,7 @@ Dialogue: 10,0:09:50.98,0:09:52.07,Default,,0,0,0,,Actually...
 Dialogue: 10,0:09:52.07,0:09:53.90,Default,,0,0,0,,What?! You want to change the name?!
 Dialogue: 10,0:09:53.90,0:09:55.03,Default,,0,0,0,,What are you talking about?
 Dialogue: 10,0:09:55.03,0:09:56.53,Default,,0,0,0,,You said you'd show it to me today!
-Dialogue: 10,0:09:56.53,0:09:58.45,Default,,0,0,0,,You have to draw it according to our arrangement at the meeting!
+Dialogue: 10,0:09:56.53,0:09:58.45,Default,,0,0,0, [unreadable],You have to draw it according to our arrangement at the meeting!
 Dialogue: 10,0:09:58.45,0:10:01.08,Default,,0,0,0,,No, I don't think things \Nwill go well like this.
 Dialogue: 10,0:10:01.08,0:10:03.49,Default,,0,0,0,,Let's have another meeting!
 Dialogue: 10,0:10:03.49,0:10:05.41,Default,,0,0,0,,Another one?!
@@ -272,8 +271,8 @@ Dialogue: 10,0:10:51.92,0:10:53.84,Default,,0,0,0,,If that doesn't work out, oh 
 Dialogue: 10,0:10:53.84,0:10:55.67,Default-Italic,,0,0,0,,Oh well?
 Dialogue: 10,0:10:55.67,0:10:57.97,Default,,0,0,0,,Oops, I have to call them.
 Dialogue: 10,0:10:59.97,0:11:01.64,Default,,0,0,0,,Sorry I kept you waiting.
-Dialogue: 10,0:11:01.64,0:11:02.26,Default,,0,0,0,,It's fine.
-Dialogue: 10,0:11:02.26,0:11:05.18,Default,,0,0,0,,Can we continue this conversation tomorrow when I come to pick up the manuscript?
+Dialogue: 10,0:11:01.64,0:11:02.12,Default,,0,0,0,,It's fine.
+Dialogue: 10,0:11:02.12,0:11:05.18,Default,,0,0,0,,Can we continue this conversation tomorrow when I come to pick up the manuscript?
 Dialogue: 10,0:11:05.18,0:11:07.24,Default,,0,0,0,,Tomorrow?
 Dialogue: 10,0:11:07.24,0:11:10.14,Default,,0,0,0,,I'd like to talk about it before then, but...
 Dialogue: 10,0:11:10.77,0:11:11.98,Default,,0,0,0,,I understand.
@@ -299,13 +298,13 @@ Dialogue: 10,0:11:57.11,0:12:00.61,Default,,0,0,0,,Miura, you'd be better \Noff 
 Dialogue: 10,0:12:01.32,0:12:05.32,Default,,0,0,0,,{\i1}Trap{\i0} is the kind of manga that'll get more popular on it's own, slowly but surely.
 Dialogue: 10,0:12:05.32,0:12:07.03,Default,,0,0,0,,T-That's right!
 Dialogue: 10,0:12:07.03,0:12:09.16,Default,,0,0,0,,No, he should help them out.
-Dialogue: 10,0:12:09.70,0:12:12.33,Default,,0,0,0,,A mystery will never be popular in Jack!
-Dialogue: 10,0:12:12.33,0:12:14.79,Default,,0,0,0,,It should set up an interesting mystery and tricks, no matter how many chapters that takes.
+Dialogue: 10,0:12:09.70,0:12:12.03,Default,,0,0,0,,A mystery will never be popular in Jack!
+Dialogue: 10,0:12:12.03,0:12:14.79,Default,,0,0,0, [unreadable!],It should set up an interesting mystery and tricks, no matter how many chapters that takes.
 Dialogue: 10,0:12:14.79,0:12:17.38,Default,,0,0,0,,If they do that, it'll definitely get popular.
 Dialogue: 10,0:12:17.38,0:12:20.92,Default,,0,0,0,,How about seeing how it goes if you resolve mysteries in one chapter?
 Dialogue: 10,0:12:20.92,0:12:24.09,Default,,0,0,0,,No, if you do that, the tricks will be cheap.
 Dialogue: 10,0:12:24.09,0:12:26.30,Default,,0,0,0,,You should build it up \Nslowly over many chapters.
-Dialogue: 10,0:12:26.30,0:12:29.64,Default,,0,0,0,,And I've been saying that kind of of mystery isn't suited for Jack!
+Dialogue: 10,0:12:26.30,0:12:29.64,Default,,0,0,0,,And I've been saying that kind of mystery isn't suited for Jack!
 Dialogue: 10,0:12:29.64,0:12:32.31,Default,,0,0,0,,H-Hey everybody, stop \Nsaying different things!
 Dialogue: 10,0:12:32.31,0:12:33.52,Default,,0,0,0,,I'll get even more confused!
 Dialogue: 10,0:12:33.52,0:12:37.19,Default-Alt,,0,0,0,,Anyways, with a double-digit ranking they won't be able to keep it going.
@@ -314,17 +313,17 @@ Dialogue: 10,0:12:36.02,0:12:38.94,Default,,0,0,0,,He's worried about the \Ndire
 Dialogue: 10,0:12:37.19,0:12:38.57,Default-Alt,,0,0,0,,That's bad, isn't it?
 Dialogue: 10,0:12:38.57,0:12:41.90,Default-Alt,,0,0,0,,The longer it runs, the more popular it'll get.
 Dialogue: 10,0:12:42.74,0:12:45.78,Default-Alt,,0,0,0,,But most manga get canceled before they reach that point.
-Dialogue: 10,0:12:39.44,0:12:41.90,Default,,0,0,0,,If the editor's in this state, he isn't going to get good results from his authors.
+Dialogue: 10,0:12:38.94,0:12:41.90,Default,,0,0,0,,If the editor's in this state, he isn't going to get good results from his authors.
 Dialogue: 10,0:12:41.90,0:12:44.03,Default,,0,0,0,,Heishi, go over there.
 Dialogue: 10,0:12:44.03,0:12:45.20,Default,,0,0,0,,Yes, sir.
 Dialogue: 10,0:12:45.78,0:12:49.58,Default,,0,0,0,,Hey, don't get full of yourself just because {\i1}Crow{\i0}'s popular!
 Dialogue: 10,0:12:49.58,0:12:52.51,Default,,0,0,0,,Yoshida, you shouldn't go thinking that you're right all the time either,
 Dialogue: 10,0:12:52.51,0:12:54.79,Default,,0,0,0,,just because {\i1}Otters 11{\i0} \Ngot a good reception!
 Dialogue: 10,0:12:54.79,0:12:56.13,Default,,0,0,0,,Hey, hey...
-Dialogue: 10,0:12:54.79,0:12:56.79,Default,,0,0,0,,{\an8}Hey, this is about the gap!
-Dialogue: 10,0:12:56.13,0:12:58.00,Default,,0,0,0,,Wait, why am I trying to \Nsmooth things over here?
-Dialogue: 10,0:12:56.83,0:12:58.38,Default-Alt,,0,0,0,,That has nothing to do with this!
-Dialogue: 10,0:12:58.00,0:13:00.00,Default,,0,0,0,,That's enough, all of you.
+Dialogue: 10,0:12:54.79,0:12:56.75,Default-Alt,,0,0,0,,Hey, this is about the gap!
+Dialogue: 10,0:12:56.13,0:12:58.13,Default,,0,0,0,,Wait, why am I trying to \Nsmooth things over here?
+Dialogue: 10,0:12:56.75,0:12:58.13,Default-Alt,,0,0,0,,That has nothing to do with this!
+Dialogue: 10,0:12:58.13,0:13:00.00,Default,,0,0,0,,That's enough, all of you.
 Dialogue: 10,0:13:01.01,0:13:02.88,Default,,0,0,0,,Sorry, we just...
 Dialogue: 10,0:13:02.88,0:13:05.47,Default,,0,0,0,,Have more confidence in yourself, Miura!
 Dialogue: 10,0:13:05.47,0:13:07.05,Default,,0,0,0,,Y-Yes sir.
@@ -373,8 +372,8 @@ Dialogue: 10,0:14:46.07,0:14:48.57,Default-Italic,,0,0,0,,We're going to change 
 Dialogue: 10,0:14:49.49,0:14:52.03,Default-Italic,,0,0,0,,But as it is now, {\i1}Trap{\i0} will...!
 Dialogue: 10,0:14:52.53,0:14:53.87,Default,,0,0,0,,Ashirogi-sensei!
 Dialogue: 10,0:14:53.87,0:14:54.58,Default,,0,0,0,,Eiji!
-Dialogue: 10,0:14:54.58,0:14:57.83,Default,,0,0,0,,Shady Detective {\i1}Trap{\i0} is really interesting!
-Dialogue: 10,0:14:57.83,0:14:59.54,Default,,0,0,0,,It's good to differentiate \Nfrom Jack's normal stuff.
+Dialogue: 10,0:14:54.58,0:14:57.64,Default,,0,0,0,,Shady Detective {\i1}Trap{\i0} is really interesting!
+Dialogue: 10,0:14:57.64,0:14:59.54,Default,,0,0,0,,It's good to differentiate \Nfrom Jack's normal stuff.
 Dialogue: 10,0:15:00.87,0:15:04.21,Default,,0,0,0,,The stories that Takagi \Nmakes are really well done.
 Dialogue: 10,0:15:04.21,0:15:05.59,Default,,0,0,0,,I'm surprised!
 Dialogue: 10,0:15:05.59,0:15:08.13,Default,,0,0,0,,Ah, thank you.
@@ -484,8 +483,8 @@ Dialogue: 10,0:20:38.63,0:20:40.63,Default,,0,0,0,,Saiko, I don't get what you'r
 Dialogue: 10,0:20:41.05,0:20:43.30,Default,,0,0,0,,The stories you make are good!
 Dialogue: 10,0:20:43.30,0:20:45.01,Default,,0,0,0,,Yeah, they're good!
 Dialogue: 10,0:20:45.01,0:20:48.14,Default,,0,0,0,,Last night I read chapters one through six over and over again.
-Dialogue: 10,0:20:48.14,0:20:49.60,Default,,0,0,0,,They're still really good!
-Dialogue: 10,0:20:49.60,0:20:52.31,Default,,0,0,0,,Eiji said yesterday that it's good to differentiate from Jack's normal stuff.
+Dialogue: 10,0:20:48.14,0:20:49.51,Default,,0,0,0,,They're still really good!
+Dialogue: 10,0:20:49.51,0:20:52.31,Default,,0,0,0,,Eiji said yesterday that it's good to differentiate from Jack's normal stuff.
 Dialogue: 10,0:20:52.31,0:20:55.10,Default,,0,0,0,,That was praise, after all!
 Dialogue: 10,0:20:55.69,0:20:59.57,Default,,0,0,0,,It's fine for a genuine mystery manga to be different from Jack's normal stuff!
 Dialogue: 10,0:20:59.98,0:21:02.49,Default,,0,0,0,,In other magazines, this type of story is successful with readers.
@@ -517,7 +516,7 @@ Dialogue: 10,0:22:14.35,0:22:15.14,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:22:15.14,0:22:20.02,Default,,0,0,0,,But really, it was Mashiro who \Nsaid what I wanted to say.
 Dialogue: 10,0:22:20.02,0:22:22.86,Default,,0,0,0,,Well, at any rate, everything worked out.
 Dialogue: 10,0:22:22.86,0:22:23.86,Default,,0,0,0,,Yeah!
-Dialogue: 10,0:22:25.03,0:22:29.41,Default-Italic,,0,0,0,,I thought he'd say that they decided to take the easy road and turn it into a battle manga, but..
+Dialogue: 10,0:22:25.03,0:22:29.41,Default-Italic,,0,0,0,,I thought he'd say that they decided to take the easy road and turn it into a battle manga, but...
 Dialogue: 10,0:22:30.03,0:22:32.49,Default-Italic,,0,0,0,,they've both grown.
 Dialogue: 10,0:22:33.74,0:22:37.50,Default-Italic,,0,0,0,,But it will certainly be \Ndangerous from now on.
 Dialogue: 10,0:24:16.35,0:24:18.60,Default,,0,0,0,,I hope {\i1}Trap{\i0} gets popular!

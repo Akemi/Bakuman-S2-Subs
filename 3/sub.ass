@@ -17,9 +17,8 @@ Keyframes File: ep3_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 314
-Active Line: 318
-Video Position: 25276
+Active Line: 32
+Video Position: 4834
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -85,8 +84,8 @@ Dialogue: 10,0:03:04.99,0:03:09.75,Default,,0,0,0,,Come on, you got third in {\i
 Dialogue: 10,0:03:09.75,0:03:11.00,Default,,0,0,0,,Be happy!
 Dialogue: 10,0:03:11.00,0:03:15.67,Default,,0,0,0,,But Hiramaru's {\i1}Otters 11{\i0}, which started two issues before us,
 Dialogue: 10,0:03:15.67,0:03:18.50,Default,,0,0,0,,got first place with its first chapter.
-Dialogue: 10,0:03:18.50,0:03:21.80,Default,,0,0,0,,Yeah, {\i1}Otter{\i0} had a great start.
-Dialogue: 10,0:03:21.80,0:03:24.43,Default,,0,0,0,,His second chapter got third place, and his third chapter got fourth place.
+Dialogue: 10,0:03:18.50,0:03:21.59,Default,,0,0,0,,Yeah, {\i1}Otter{\i0} had a great start.
+Dialogue: 10,0:03:21.59,0:03:24.43,Default,,0,0,0,,His second chapter got third place, and his third chapter got fourth place.
 Dialogue: 10,0:03:24.80,0:03:26.14,Default,,0,0,0,,It's amazing.
 Dialogue: 10,0:03:26.14,0:03:28.93,Default,,0,0,0,,Arai-sensei's {\i1}Baked Cheese{\i0} started last week,
 Dialogue: 10,0:03:28.93,0:03:30.94,Default,,0,0,0,,and the first chapter got third place, right?
@@ -94,8 +93,8 @@ Dialogue: 10,0:03:30.94,0:03:32.02,Default,,0,0,0,,How'd his second chapter do?
 Dialogue: 10,0:03:32.65,0:03:33.81,Default,,0,0,0,,Ninth.
 Dialogue: 10,0:03:34.86,0:03:36.23,Default,,0,0,0,,Ninth?
 Dialogue: 10,0:03:36.23,0:03:41.36,Default,,0,0,0,,So then, we can expect {\i1}Trap{\i0}'s ranking to fall that much for the second chapter?
-Dialogue: 10,0:03:41.36,0:03:43.24,Default,,0,0,0,,What do you mean?
-Dialogue: 10,0:03:43.24,0:03:45.58,Default,,0,0,0,,If the second chapter stays in the top ten, that's an accomplishment!
+Dialogue: 10,0:03:41.36,0:03:43.13,Default,,0,0,0,,What do you mean?
+Dialogue: 10,0:03:43.13,0:03:45.58,Default,,0,0,0,,If the second chapter stays in the top ten, that's an accomplishment!
 Dialogue: 10,0:03:45.58,0:03:48.49,Default,,0,0,0,,Besides, {\i1}Trap{\i0}'s second and \Nthird chapters are well done.
 Dialogue: 10,0:03:48.49,0:03:50.29,Default,,0,0,0,,Don't be such a downer!
 Dialogue: 10,0:03:50.29,0:03:51.96,Default,,0,0,0,,Have some confidence in your work!
@@ -151,11 +150,12 @@ Dialogue: 10,0:06:04.26,0:06:07.68,Default,,0,0,0,,She's doing an original work 
 Dialogue: 10,0:06:07.68,0:06:08.30,Default,,0,0,0,,What?!
 Dialogue: 10,0:06:08.30,0:06:10.14,Default,,0,0,0,,Is that okay, Aida?
 Dialogue: 10,0:06:10.14,0:06:12.26,Default,,0,0,0,,Aren't you her editor?
-Dialogue: 10,0:06:12.26,0:06:15.28,Default,,0,0,0,,A while ago, I asked her to \Npolish up {\i1}Hideout Door{\i0}
+Dialogue: 10,0:06:12.26,0:06:15.28,Default,,0,0,0,,A while ago, I asked her to \Npolish up {\i1}Hideout Door
 Dialogue: 10,0:06:15.28,0:06:17.94,Default,,0,0,0,,in preparation for the next \Nserialization meeting, but...
 Dialogue: 10,0:06:18.73,0:06:19.98,Default,,0,0,0,,Battling?
-Dialogue: 10,0:06:19.98,0:06:25.32,Default,,0,0,0,,Yeah. The editorial department thinks the characters need to fight against something, shounen-style.
-Dialogue: 10,0:06:25.32,0:06:27.32,Default,,0,0,0,,There are already psychological \Nstruggles in the story.
+Dialogue: 10,0:06:19.98,0:06:20.91,Default,,0,0,0,,Yeah.
+Dialogue: 10,0:06:20.91,0:06:25.23,Default,,0,0,0,,The editorial department thinks the characters need to fight against something, shounen-style.
+Dialogue: 10,0:06:25.23,0:06:27.32,Default,,0,0,0,,There are already psychological \Nstruggles in the story.
 Dialogue: 10,0:06:27.95,0:06:29.84,Default,,0,0,0,,Well, that's not exactly what we want.
 Dialogue: 10,0:06:29.84,0:06:31.16,Default,,0,0,0,,You want punching and kicking, then?
 Dialogue: 10,0:06:31.57,0:06:34.66,Default,,0,0,0,,Yes, to put it simply.
@@ -190,7 +190,7 @@ Dialogue: 10,0:08:07.75,0:08:09.42,Default,,0,0,0,,Then, what about me?
 Dialogue: 10,0:08:09.42,0:08:10.59,Default,,0,0,0,,We're over.
 Dialogue: 10,0:08:13.05,0:08:14.09,Default,,0,0,0,,Why?
 Dialogue: 10,0:08:14.09,0:08:16.64,Default,,0,0,0,,{\i1}Hideout Door{\i0} is a wonderful work!
-Dialogue: 10,0:08:16.64,0:08:18.81,Default,,0,0,0,,If you submit it to the next serialization committee, it'll definitely pass!
+Dialogue: 10,0:08:16.64,0:08:18.81,Default,,0,0,0, [unreadable!],If you submit it to the next serialization committee, it'll definitely pass!
 Dialogue: 10,0:08:18.81,0:08:20.66,Default,,0,0,0,,So why are you doing this?
 Dialogue: 10,0:08:20.66,0:08:25.73,Default,,0,0,0,,Your art can't convey \Nmy worldview or my story.
 Dialogue: 10,0:08:25.73,0:08:26.98,Default,,0,0,0,,My art...
@@ -231,8 +231,8 @@ Dialogue: 10,0:09:56.61,0:09:58.36,Default,,0,0,0,,What the heck is he thinking?
 Dialogue: 10,0:09:58.36,0:10:00.20,Default,,0,0,0,,About manga, surely.
 Dialogue: 10,0:10:10.67,0:10:11.96,Default,,0,0,0,,All right.
 Dialogue: 10,0:10:12.42,0:10:14.46,Default,,0,0,0,,I've got the fourth chapter now.
-Dialogue: 10,0:10:14.46,0:10:15.42,Default,,0,0,0,,Yes.
-Dialogue: 10,0:10:15.42,0:10:17.17,Default,,0,0,0,,Your first chapter got third \Nplace in the final results too.
+Dialogue: 10,0:10:14.46,0:10:15.13,Default,,0,0,0,,Yes.
+Dialogue: 10,0:10:15.13,0:10:17.17,Default,,0,0,0,,Your first chapter got third \Nplace in the final results too.
 Dialogue: 10,0:10:17.59,0:10:19.22,Default,,0,0,0,,You're off to a good start.
 Dialogue: 10,0:10:19.22,0:10:20.51,Default,,0,0,0,,Yeah...
 Dialogue: 10,0:10:20.51,0:10:24.89,Default,,0,0,0,,You guys are third in {\i1}Jack{\i0}! Cheer up!
@@ -565,7 +565,7 @@ Dialogue: 1,0:05:32.18,0:05:34.77,Textmsgsol,,0,0,0,,{\blur1\p1\c&HF5EBEA&}m 254
 Dialogue: 2,0:05:32.18,0:05:34.77,Textmsgsol,,0,0,0,,{\blur1\p1\c&HF4EAE9&}m 217 486 l 693 678 727 619 242 431
 Dialogue: 3,0:05:32.18,0:05:34.77,Textmsgsol,,0,0,0,,{\blur1\p1\c&HF3E9E8&}m 188 554 l 522 700 551 640 212 505
 Dialogue: 0,0:06:53.64,0:06:55.47,Huge,,0,0,0,,{\blur0.8\fs60\fscx145\fscy145\c&HDFDED8&\pos(724,281)}N{\c&HD7D2CC&}i{\c&HD4D4CD&}i{\c&HE5E3D9&}z{\c&HE8E6E0&}u{\c&HF9FBF5&}m{\c&HFAF5EF&}a
-Dialogue: 2,0:17:47.46,0:17:49.17,Assist,,0,0,0,,{\blur0.8\fscx40\fscy40\frz8.701\c&H4A8D9A&\pos(397,526)}Hungry{\c&H3F8794&}
+Dialogue: 2,0:17:47.46,0:17:49.17,Assist,,0,0,0,,{\blur0.8\fscx40\fscy40\frz8.701\c&H4A8D9A&\pos(397,526)}Hungry
 Dialogue: 2,0:17:47.46,0:17:49.17,Assist,,0,0,0,,{\blur0.8\fscx40\fscy40\frz8.701\c&H7CC2D1&\pos(456,537)}Hungry
 Dialogue: 2,0:17:47.46,0:17:49.17,Assist,,0,0,0,,{\blur0.8\fscx40\fscy40\frz8.701\c&H78BECE&\pos(533,555)}Pork
 Dialogue: 2,0:17:47.46,0:17:49.17,Assist,,0,0,0,,{\blur0.8\fscx40\fscy40\frz8.701\c&H78BECE&\pos(551,567)}Stew
@@ -573,7 +573,7 @@ Dialogue: 1,0:17:47.46,0:17:49.17,Assist,,0,0,0,,{\blur0.8\fscx40\fscy40\frz8.70
 Dialogue: 1,0:17:47.46,0:17:49.17,Assist,,0,0,0,,{\blur0.8\fscx40\fscy40\frz8.701\c&H213D57&\pos(458,539)}Hungry
 Dialogue: 1,0:17:47.46,0:17:49.17,Assist,,0,0,0,,{\blur0.8\fscx40\fscy40\frz8.701\c&H203855&\pos(535,557)}Pork
 Dialogue: 1,0:17:47.46,0:17:49.17,Assist,,0,0,0,,{\blur0.8\fscx40\fscy40\frz8.701\c&H243B54&\pos(553,569)}Stew
-Dialogue: 2,0:17:52.96,0:17:59.72,Assist,,0,0,0,,{\blur0.8\fscx40\fscy40\frz8.701\c&H4A8D9A&\pos(397,526)}Hungry{\c&H3F8794&}
+Dialogue: 2,0:17:52.96,0:17:59.72,Assist,,0,0,0,,{\blur0.8\fscx40\fscy40\frz8.701\c&H4A8D9A&\pos(397,526)}Hungry
 Dialogue: 2,0:17:52.96,0:17:59.72,Assist,,0,0,0,,{\blur0.8\fscx40\fscy40\frz8.701\c&H7CC2D1&\pos(456,537)}Hungry
 Dialogue: 2,0:17:52.96,0:17:59.72,Assist,,0,0,0,,{\blur0.8\fscx40\fscy40\frz8.701\c&H78BECE&\pos(533,555)}Pork
 Dialogue: 2,0:17:52.96,0:17:59.72,Assist,,0,0,0,,{\blur0.8\fscx40\fscy40\frz8.701\c&H78BECE&\pos(551,567)}Stew

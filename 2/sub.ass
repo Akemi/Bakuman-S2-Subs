@@ -20,9 +20,9 @@ Keyframes File: ep2_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 309
-Active Line: 329
-Video Position: 28034
+Scroll Position: 549
+Active Line: 482
+Video Position: 11916
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -343,10 +343,10 @@ Dialogue: 0,0:14:21.71,0:14:21.75,Textmsgslazy,,0,0,0,,{\blur1\fs52\an7\c&H491E0
 Dialogue: 0,0:14:21.75,0:14:21.79,Textmsgslazy,,0,0,0,,{\blur1\fs52\an7\c&H491E0F&\1a&H5B&\pos(143,430.58)}Because if you see me naked, I shouldn't have a problem with anyone else seeing me in a bathing suit (lol)
 Dialogue: 0,0:14:21.79,0:14:22.17,Textmsgslazy,,0,0,0,,{\blur1\fs52\an7\c&H491E0F&\1a&H5B&\pos(143,429.29)}Because if you see me naked, I shouldn't have a problem with anyone else seeing me in a bathing suit (lol)
 Dialogue: 0,0:14:57.37,0:14:57.50,FinalMail,,0,0,0,,{\blur0.8\fax0.06\frz19.553\pos(663,491)\c&H929166&}You Have New Mail
-Dialogue: 0,0:14:57.50,0:14:57.62,FinalMail,,0,0,0,,{\blur0.8\fax0.06\\frz19.553\pos(665,487)\c&H929166&}You Have New Mail
-Dialogue: 0,0:14:57.62,0:14:57.75,FinalMail,,0,0,0,,{\blur0.8\fax0.06\\frz19.553\pos(667,482)\c&H929166&}You Have New Mail
-Dialogue: 0,0:14:57.75,0:14:57.87,FinalMail,,0,0,0,,{\blur0.8\fax0.06\\frz19.553\pos(669,478)\c&H929166&}You Have New Mail
-Dialogue: 0,0:14:57.87,0:14:59.12,FinalMail,,0,0,0,,{\blur0.8\fax0.06\\frz19.553\pos(671,473)\c&H929166&}You Have New Mail
+Dialogue: 0,0:14:57.50,0:14:57.62,FinalMail,,0,0,0,,{\blur0.8\fax0.06\frz19.553\pos(665,487)\c&H929166&}You Have New Mail
+Dialogue: 0,0:14:57.62,0:14:57.75,FinalMail,,0,0,0,,{\blur0.8\fax0.06\frz19.553\pos(667,482)\c&H929166&}You Have New Mail
+Dialogue: 0,0:14:57.75,0:14:57.87,FinalMail,,0,0,0,,{\blur0.8\fax0.06\frz19.553\pos(669,478)\c&H929166&}You Have New Mail
+Dialogue: 0,0:14:57.87,0:14:59.12,FinalMail,,0,0,0,,{\blur0.8\fax0.06\frz19.553\pos(671,473)\c&H929166&}You Have New Mail
 Dialogue: 0,0:14:59.12,0:14:59.25,Textmsgslazy,,0,0,0,,{\blur1\fs40\fax0.1\frz19.6\fnPrint Clearly\an7\c&H7E5E3F&\pos(341,542.29)}Let's have a proper conversation about\Nthis photo book, and our dreams!
 Dialogue: 0,0:14:59.25,0:14:59.37,Textmsgslazy,,0,0,0,,{\blur1\fs40\fax0.1\frz19.6\fnPrint Clearly\an7\c&H7E5E3F&\pos(342,538.29)}Let's have a proper conversation about\Nthis photo book, and our dreams!
 Dialogue: 0,0:14:59.37,0:15:03.21,Textmsgslazy,,0,0,0,,{\blur1\fs40\fax0.1\frz19.6\fnPrint Clearly\an7\c&H7E5E3F&\pos(343,534.29)}Let's have a proper conversation about\Nthis photo book, and our dreams!
@@ -388,7 +388,7 @@ Dialogue: 1,0:19:29.23,0:19:34.15,Book,,0,0,0,,{\fsp-1\blur0.8\fax0.19\bord1\frz
 Dialogue: 2,0:19:29.23,0:19:34.15,Book,,0,0,0,,{\fsp-1\blur0.8\fax0.19\frz13.818\fscx125\fscy125\pos(570,176)\c&H13231A&\3c&H40574C&}Class of 2005
 Dialogue: 1,0:19:29.23,0:19:34.15,Book,,0,0,0,,{\fsp-1\blur0.8\fax0.19\bord1\frz13.818\fscx125\fscy125\pos(570,176)\c&H4D6C5D&\3c&H4D6C5D&}Class of 2005
 Dialogue: 0,0:24:14.97,0:24:19.31,NextEpTitle,,0,0,0,,{\blur0.334\pos(79.676,519.696)}Next\NEpisode\N
-Dialogue: 0,0:24:21.27,0:24:29.99,NextEpTitle,,0,0,0,,{\an9\pos(1219.75,48)}Window\Nand Snow
+Dialogue: 0,0:24:21.27,0:24:29.99,NextEpTitle,,0,0,0,,{\blur0.334\an9\pos(1219.75,48)}Window\Nand Snow
 Dialogue: 10,0:00:03.45,0:00:04.94,Default,,0,0,0,,I'm home.
 Dialogue: 10,0:00:05.60,0:00:06.68,Default,,0,0,0,,Welcome back.
 Dialogue: 10,0:00:06.68,0:00:07.94,Default,,0,0,0,,You were out late today.
@@ -405,8 +405,8 @@ Dialogue: 10,0:00:30.94,0:00:33.01,Default-Italic,,0,0,0,,You're going to waste 
 Dialogue: 10,0:00:34.38,0:00:35.80,Default,,0,0,0,,I apologize.
 Dialogue: 10,0:00:35.80,0:00:39.84,Default,,0,0,0,,Even for popular voice actresses, opportunities for photo books don't pop up too often.
 Dialogue: 10,0:00:40.51,0:00:43.73,Default,,0,0,0,,But doing that kind of work before I become popular as a voice actress—
-Dialogue: 10,0:00:43.73,0:00:45.36,Default,,0,0,0,,You want to be more popular, don't you?
-Dialogue: 10,0:00:45.36,0:00:46.94,Default,,0,0,0,,Think of this as a stepping stone towards that.
+Dialogue: 10,0:00:43.73,0:00:45.20,Default,,0,0,0,,You want to be more popular, don't you?
+Dialogue: 10,0:00:45.20,0:00:46.94,Default,,0,0,0,,Think of this as a stepping stone towards that.
 Dialogue: 10,0:00:46.94,0:00:50.94,Default,,0,0,0,,If you really want to be a voice actress, you can do that after you get as popular as an idol!
 Dialogue: 10,0:00:51.73,0:00:55.61,Default,,0,0,0,,I don't want to do another thing like the "St. Visual's Girls Academy" ending...
 Dialogue: 10,0:00:55.61,0:00:57.74,Default,,0,0,0,,That was a huge success.
@@ -457,10 +457,10 @@ Dialogue: 10,0:05:02.07,0:05:04.40,Default,,0,0,0,,You have an adult appeal!
 Dialogue: 10,0:05:04.40,0:05:07.07,Default,,0,0,0,,You're going to start out with a personal topic like that?!
 Dialogue: 10,0:05:07.07,0:05:10.70,Default,,0,0,0,,I live with my girlfriend, and she's pregnant.
 Dialogue: 10,0:05:12.50,0:05:14.71,Default,,0,0,0,,Living together, that's...!
-Dialogue: 10,0:05:15.45,0:05:16.62,Default-Alt,,0,0,0,,Yeah. We're not getting married yet.
+Dialogue: 10,0:05:14.71,0:05:16.62,Default-Alt,,0,0,0,,Yeah. We're not getting married yet.
 Dialogue: 10,0:05:16.62,0:05:18.17,Default-Alt,,0,0,0,,Wow, so adult!
 Dialogue: 10,0:05:16.62,0:05:18.17,Default-Italic,,0,0,0,,Marriage...
-Dialogue: 10,0:05:18.17,0:05:19.53,Default-Alt,,0,0,0,,That's why you have several jobs.
+Dialogue: 10,0:05:18.17,0:05:19.54,Default-Alt,,0,0,0,,That's why you have several jobs.
 Dialogue: 10,0:05:19.54,0:05:21.13,Default,,0,0,0,,I have to pull in a decent income, you see.
 Dialogue: 10,0:05:21.13,0:05:23.21,Default,,0,0,0,,When will the baby be born?
 Dialogue: 10,0:05:23.21,0:05:24.59,Default,,0,0,0,,It's still a ways off.
@@ -477,7 +477,7 @@ Dialogue: 10,0:05:44.28,0:05:46.60,Default,,0,0,0,,I had fun drawing manga.
 Dialogue: 10,0:05:46.60,0:05:49.03,Default,,0,0,0,,I was surprised at Ogawa though.
 Dialogue: 10,0:05:49.03,0:05:52.11,Default,,0,0,0,,That's why he's assisting other authors too.
 Dialogue: 10,0:05:52.11,0:05:52.99,Default,,0,0,0,,Others?
-Dialogue: 10,0:05:52.99,0:05:57.76,Default,,0,0,0,,Yeah. Monday and Tuesday he assists the author of {\i1}Shounen 3.{\i0}
+Dialogue: 10,0:05:52.99,0:05:57.76,Default,,0,0,0,,Yeah. Monday and Tuesday he assists the author of {\i1}Shounen 3.
 Dialogue: 10,0:05:57.76,0:05:59.58,Default,,0,0,0,,He's working hard since he's gonna be a daddy.
 Dialogue: 10,0:05:59.58,0:06:01.17,Default,,0,0,0,,You're probably right.
 Dialogue: 10,0:06:02.01,0:06:03.96,Default,,0,0,0,,You can go now too, Miyoshi.
@@ -521,7 +521,7 @@ Dialogue: 10,0:07:28.05,0:07:29.38,Default,,0,0,0,,We should introduce him earli
 Dialogue: 10,0:07:29.38,0:07:31.92,Default,,0,0,0,,I'm not going to touch the chapters that Hattori approved
 Dialogue: 10,0:07:31.92,0:07:33.89,Default,,0,0,0,,and submitted to the serialization committee.
 Dialogue: 10,0:07:33.89,0:07:37.10,Default,,0,0,0,,If you're kicked out by your \N3rd chapter, it's his fault.
-Dialogue: 10,0:07:38.06,0:07:41.56,Default,,0,0,0,,But you're going to start revising your story in the fourth chapter based on reviews of the previous ones.
+Dialogue: 10,0:07:37.81,0:07:41.56,Default,,0,0,0,,But you're going to start revising your story in the fourth chapter based on reviews of the previous ones.
 Dialogue: 10,0:07:41.56,0:07:43.87,Default,,0,0,0,,So prepare two different names.
 Dialogue: 10,0:07:43.87,0:07:46.52,Default,,0,0,0,,If the first does well, go with that plotline.
 Dialogue: 10,0:07:46.52,0:07:48.82,Default,,0,0,0,,If it doesn't, then change it to option two for the next chapter.
@@ -537,9 +537,9 @@ Dialogue: 10,0:08:07.69,0:08:08.41,Default,,0,0,0,,Stiff?
 Dialogue: 10,0:08:08.41,0:08:10.35,Default,,0,0,0,,But I also think it's the best one so far.
 Dialogue: 10,0:08:10.35,0:08:11.34,Default,,0,0,0,,Which is it?
 Dialogue: 10,0:08:11.34,0:08:13.00,Default,,0,0,0,,Well, how should I put this?
-Dialogue: 10,0:08:13.00,0:08:15.61,Default,,0,0,0,,Once you have a popular manga, you can play around with it a bit,
-Dialogue: 10,0:08:15.61,0:08:17.15,Default,,0,0,0,,but at the beginning, everyone is desperate.
-Dialogue: 10,0:08:17.15,0:08:18.14,Default,,0,0,0,,They don't have any room to relax.
+Dialogue: 10,0:08:13.00,0:08:15.51,Default,,0,0,0,,Once you have a popular manga, you can play around with it a bit,
+Dialogue: 10,0:08:15.51,0:08:16.99,Default,,0,0,0,,but at the beginning, everyone is desperate.
+Dialogue: 10,0:08:16.99,0:08:18.14,Default,,0,0,0,,They don't have any room to relax.
 Dialogue: 10,0:08:18.14,0:08:20.60,Default,,0,0,0,,I like a bit more fluff.
 Dialogue: 10,0:08:20.60,0:08:24.36,Default,,0,0,0,,But since you're bringing the story to a conclusion in the first three chapters,
 Dialogue: 10,0:08:24.36,0:08:26.12,Default,,0,0,0,,you had no space to play around with it.
@@ -629,7 +629,7 @@ Dialogue: 10,0:12:26.72,0:12:28.44,Default,,0,0,0,,Tell the other two that.
 Dialogue: 10,0:12:28.44,0:12:30.46,Default,,0,0,0,,You should tell them yourself!
 Dialogue: 10,0:12:30.46,0:12:31.56,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:12:35.60,0:12:38.08,Default,,0,0,0,,What kind of manga do you like?
-Dialogue: 10,0:12:38.81,0:12:40.28,Default,,0,0,0,,I like {\i1}Ashita no Joe!{\i0}
+Dialogue: 10,0:12:38.81,0:12:40.28,Default,,0,0,0,,I like {\i1}Ashita no Joe!
 Dialogue: 10,0:12:40.28,0:12:41.44,Default,,0,0,0,,{\i1}Joe{\i0} huh?
 Dialogue: 10,0:12:41.44,0:12:42.86,Default,,0,0,0,,It's really cool.
 Dialogue: 10,0:12:42.86,0:12:44.38,Default,,0,0,0,,A real "man's manga."
@@ -679,7 +679,7 @@ Dialogue: 10,0:15:50.67,0:15:51.36,Default,,0,0,0,,Huh?
 Dialogue: 10,0:15:51.36,0:15:52.43,Default,,0,0,0,,Don't give me that!
 Dialogue: 10,0:15:52.43,0:15:54.09,Default,,0,0,0,,You called her, right?
 Dialogue: 10,0:15:54.60,0:15:55.22,Default,,0,0,0,,Miyoshi!
-Dialogue: 10,0:15:55.80,0:15:58.31,Default,,0,0,0,,She said if she doesn't do this, she might not get any work as a voice actress.
+Dialogue: 10,0:15:55.22,0:15:58.31,Default,,0,0,0,,She said if she doesn't do this, she might not get any work as a voice actress.
 Dialogue: 10,0:15:59.52,0:16:00.94,Default,,0,0,0,,She wasn't very happy.
 Dialogue: 10,0:16:01.93,0:16:03.66,Default,,0,0,0,,Dammit.
 Dialogue: 10,0:16:03.66,0:16:05.23,Default,,0,0,0,,Just what is going on?!
@@ -715,7 +715,7 @@ Dialogue: 10,0:17:12.88,0:17:14.55,Default,,0,0,0,,Oh, it's been a while.
 Dialogue: 10,0:17:15.18,0:17:16.22,Default,,0,0,0,,Yes, it has.
 Dialogue: 10,0:17:16.22,0:17:17.29,Default,,0,0,0,,Have you been well?
 Dialogue: 10,0:17:17.29,0:17:18.86,Default,,0,0,0,,Uh, yes.
-Dialogue: 10,0:17:18.86,0:17:21.81,Default,,0,0,0,,Actually, I  have a favor to ask.
+Dialogue: 10,0:17:18.86,0:17:21.81,Default,,0,0,0,,Actually, I have a favor to ask.
 Dialogue: 10,0:17:25.77,0:17:26.81,Default,,0,0,0,,Miho?
 Dialogue: 10,0:17:26.81,0:17:28.23,Default,,0,0,0,,I'm coming in.
 Dialogue: 10,0:17:36.11,0:17:38.87,Default,,0,0,0,,Miho, you've got a call from Takagi.

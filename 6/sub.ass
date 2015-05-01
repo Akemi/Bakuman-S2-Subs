@@ -21,9 +21,9 @@ Keyframes File: ep6_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 243
-Active Line: 247
-Video Position: 18039
+Scroll Position: 554
+Active Line: 518
+Video Position: 3297
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -69,7 +69,7 @@ Dialogue: 10,0:00:22.33,0:00:24.25,Default,,0,0,0,,Mashiro, snap out of it!
 Dialogue: 10,0:00:23.04,0:00:24.25,Default,,0,0,0,,{\an8}Hello.
 Dialogue: 10,0:00:24.25,0:00:25.54,Default,,0,0,0,,Mashiro!
 Dialogue: 10,0:00:26.67,0:00:27.34,Default,,0,0,0,,What?!
-Dialogue: 10,0:00:27.34,0:00:29.63,Default,,0,0,0,,A-And now..?
+Dialogue: 10,0:00:27.34,0:00:29.63,Default,,0,0,0,,A-And now?
 Dialogue: 10,0:00:30.17,0:00:32.59,Default,,0,0,0,,Okay... okay...
 Dialogue: 10,0:00:33.26,0:00:35.30,Default,,0,0,0,,All right, I'm coming now.
 Dialogue: 10,0:00:42.43,0:00:42.98,Default,,0,0,0,,Miura!
@@ -314,7 +314,7 @@ Dialogue: 10,0:12:37.23,0:12:39.11,Default,,0,0,0,,Well, yeah.
 Dialogue: 10,0:12:41.74,0:12:42.90,Default,,0,0,0,,Mashiro.
 Dialogue: 10,0:12:42.90,0:12:43.57,Default,,0,0,0,,Yes?
 Dialogue: 10,0:12:45.61,0:12:47.99,Default,,0,0,0,,You're going to wait until {\i1}after{\i0} you recover to draw, right?
-Dialogue: 10,0:12:52.37,0:12:53.71,Default-Italic,,0,0,0,,I won't let the manuscript fall behind.
+Dialogue: 10,0:12:52.33,0:12:53.71,Default-Italic,,0,0,0,,I won't let the manuscript fall behind.
 Dialogue: 10,0:12:56.13,0:12:59.17,Default-Italic,,0,0,0,,Shuujin, hurry up and bring it here!
 Dialogue: 10,0:12:59.88,0:13:01.05,Default-Italic,,0,0,0,,Could he have...
 Dialogue: 10,0:13:02.17,0:13:04.11,Default,,0,0,0,,If you don't promise
@@ -469,8 +469,8 @@ Dialogue: 10,0:20:27.28,0:20:28.95,Default,,0,0,0,,More importantly...
 Dialogue: 10,0:20:32.41,0:20:33.46,Default,,0,0,0,,Yes...?
 Dialogue: 10,0:20:33.46,0:20:35.46,Default,,0,0,0,,Miura, what the heck are you doing?!
 Dialogue: 10,0:20:35.46,0:20:37.13,Default,,0,0,0,,What do you mean?
-Dialogue: 10,0:20:37.13,0:20:38.80,Default,,0,0,0,,I'm arranging a substitute \Nmanuscript for {\i1}Trap{\i0}...
-Dialogue: 10,0:20:38.80,0:20:40.88,Default,,0,0,0,,Mashiro is drawing the \Nmanuscript in the hospital!
+Dialogue: 10,0:20:37.13,0:20:38.88,Default,,0,0,0,,I'm arranging a substitute \Nmanuscript for {\i1}Trap{\i0}...
+Dialogue: 10,0:20:38.88,0:20:40.88,Default,,0,0,0,,Mashiro is drawing the \Nmanuscript in the hospital!
 Dialogue: 10,0:20:40.88,0:20:42.09,Default,,0,0,0,,What?!
 Dialogue: 10,0:20:43.05,0:20:44.43,Default,,0,0,0,,I should get going.
 Dialogue: 10,0:20:44.43,0:20:45.84,Default,,0,0,0,,I'm in the way.
@@ -590,12 +590,12 @@ Dialogue: 0,0:08:51.88,0:08:55.68,Silence,,0,0,0,,{\an1\pos(857,414)\b0\fs55\fsp
 Dialogue: 0,0:08:51.88,0:08:55.68,Silence,,0,0,0,,{\an1\pos(858,605)\b0\fsp-1\fs55\blur0.8\bord0\shad0\c&H95989E&}Jack SQ
 Dialogue: 0,0:10:58.42,0:10:58.55,Textmsgs,,0,0,0,,{\pos(640,325)\fax-0.35\blur0.8\frz15.383\fscx50\fscy35\c&HD6CFCA&\frx8\fry354}Akito Takagi
 Dialogue: 0,0:10:58.55,0:10:58.67,Textmsgs,,0,0,0,,{\pos(601,231)\fax-0.105\blur0.8\frz15.383\fscx50\fscy42\c&HD6CFCA&\frx8\fry354}Akito Takagi
-Dialogue: 0,0:10:58.67,0:10:58.80,Textmsgs,,0,0,0,,{\pos(576,186)\fax-.05\blur0.8\frz17.056\fscx50\fscy46\c&HD6CFCA&\frx8\fry354}Akito Takagi
+Dialogue: 0,0:10:58.67,0:10:58.80,Textmsgs,,0,0,0,,{\pos(576,186)\fax-0.05\blur0.8\frz17.056\fscx50\fscy46\c&HD6CFCA&\frx8\fry354}Akito Takagi
 Dialogue: 0,0:10:58.80,0:10:58.92,Textmsgs,,0,0,0,,{\pos(563,166)\blur0.8\frz17.056\fscx50\fscy50\c&HD6CFCA&\frx8\fry354}Akito Takagi
 Dialogue: 0,0:10:58.92,0:10:59.59,Textmsgs,,0,0,0,,{\pos(550,147)\blur0.8\fscx50\fscy50\c&HD6CFCA&\frz17.056}Akito Takagi
 Dialogue: 0,0:10:58.42,0:10:58.55,Textmsgs,,0,0,0,,{\pos(628,353)\fax-0.35\blur0.8\frz15.383\fscx50\fscy35\c&HBEBEBE&\frx8\fry354}Incoming Call
 Dialogue: 0,0:10:58.55,0:10:58.67,Textmsgs,,0,0,0,,{\pos(598,286)\fax-0.105\blur0.8\frz15.383\fscx50\fscy42\c&HBEBEBE&\frx8\fry354}Incoming Call
-Dialogue: 0,0:10:58.67,0:10:58.80,Textmsgs,,0,0,0,,{\pos(580,252)\fax-.05\blur0.8\frz15.383\fscx50\fscy46\c&HBEBEBE&\frx8\fry354}Incoming Call
+Dialogue: 0,0:10:58.67,0:10:58.80,Textmsgs,,0,0,0,,{\pos(580,252)\fax-0.05\blur0.8\frz15.383\fscx50\fscy46\c&HBEBEBE&\frx8\fry354}Incoming Call
 Dialogue: 0,0:10:58.80,0:10:58.92,Textmsgs,,0,0,0,,{\pos(571,239)\blur0.8\frz15.383\fscx50\fscy50\c&HBEBEBE&\frx8\fry354}Incoming Call
 Dialogue: 0,0:10:58.92,0:10:59.59,Textmsgs,,0,0,0,,{\pos(560,222)\blur0.8\frz15.383\fscx50\fscy50\c&HBEBEBE&}Incoming Call
 Dialogue: 0,0:07:59.20,0:08:05.42,Textmsgs,,0,0,0,,{\move(571,407,607,407)\blur0.8\fax-0.47\c&H29302C&\fscx85\fscy85\frz22.782\fsp-1}Kitashita Juuichi

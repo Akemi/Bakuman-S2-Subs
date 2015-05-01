@@ -19,9 +19,9 @@ Keyframes File: ep9_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 48
-Active Line: 62
-Video Position: 8061
+Scroll Position: 865
+Active Line: 480
+Video Position: 7356
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -178,21 +178,21 @@ Dialogue: 1,0:05:46.24,0:05:48.11,Ep Titles,,0,0,0,,{\clip(668,215,673,303)\pos(
 Dialogue: 1,0:05:46.24,0:05:48.11,Ep Titles,,0,0,0,,{\clip(673,215,678,303)\pos(598,260)\fnOdense\fax0.25\fsp-2\b0\blur0.8\frz346.163\fscx80\fscy80\frx0\fry6\c&H3B4157&}Mashiro
 Dialogue: 1,0:05:46.24,0:05:48.11,Ep Titles,,0,0,0,,{\clip(678,215,683,303)\pos(598,260)\fnOdense\fax0.25\fsp-2\b0\blur0.8\frz346.163\fscx80\fscy80\frx0\fry6\c&H3C4258&}Mashiro
 Dialogue: 1,0:05:46.24,0:05:48.11,Ep Titles,,0,0,0,,{\clip(683,215,688,303)\pos(598,260)\fnOdense\fax0.25\fsp-2\b0\blur0.8\frz346.163\fscx80\fscy80\frx0\fry6\c&H3D435A&}Mashiro
-Dialogue: 6,0:05:48.11,0:05:50.07,Signs,,0,0,0,,{\blur0.8\fs44\3c&0000000&\bord0\shad0\fscx216.25\fscy231.25\fsp-2\fscx135\fscy135\move(640,187,640,253)\c&H00A5AD&}Shounen Jack
-Dialogue: 5,0:05:48.11,0:05:50.07,Signs,,0,0,0,,{\blur0.8\fs44\3c&H101416&\bord1.5\shad0\fscx216.25\fscy231.25\fsp-2\fscx135\fscy135\move(640,187,640,253)\c&H101416&}Shounen Jack
-Dialogue: 4,0:05:48.11,0:05:50.07,Signs,,0,0,0,,{\blur0.8\fs44\3c&H101416&\bord1.5\shad0\fscx216.25\fscy231.25\fsp-2\fscx135\fscy135\move(641,188,641,254)\c&H101416&}Shounen Jack
-Dialogue: 3,0:05:48.11,0:05:50.07,Signs,,0,0,0,,{\blur0.8\fs44\3c&HDEE1E4&\bord4\shad0\fscx216.25\fscy231.25\fsp-2\fscx135\fscy135\move(640,187,640,253)\c&HDEE1E4&}Shounen Jack
-Dialogue: 2,0:05:48.11,0:05:50.07,Signs,,0,0,0,,{\blur0.8\fs44\3c&H0F1213&\bord6\shad0\fscx216.25\fscy231.25\fsp-2\fscx135\fscy135\move(640,187,640,253)\c&H0F1213&}Shounen Jack
-Dialogue: 1,0:05:48.11,0:05:50.07,Signs,,0,0,0,,{\blur0.8\fs44\3c&H0F1213&\bord6\shad0\fscx216.25\fscy231.25\fsp-2\fscx135\fscy135\move(643,190,643,256)\c&H0F1213&}Shounen Jack
-Dialogue: 3,0:05:48.11,0:05:50.07,Herotoo,,0,0,0,,{\blur0.8\fs30\bord0\fsp-2\3c&0000000&\fscx90\fscy90\move(520,657,520,723)\c&H040051&}Series Resumes!!
+Dialogue: 6,0:05:48.11,0:05:50.07,Signs,,0,0,0,,{\blur0.8\fs44\3c&H000000&\bord0\shad0\fsp-2\fscx135\fscy135\move(640,187,640,253)\c&H00A5AD&}Shounen Jack
+Dialogue: 5,0:05:48.11,0:05:50.07,Signs,,0,0,0,,{\blur0.8\fs44\3c&H101416&\bord1.5\shad0\fsp-2\fscx135\fscy135\move(640,187,640,253)\c&H101416&}Shounen Jack
+Dialogue: 4,0:05:48.11,0:05:50.07,Signs,,0,0,0,,{\blur0.8\fs44\3c&H101416&\bord1.5\shad0\fsp-2\fscx135\fscy135\move(641,188,641,254)\c&H101416&}Shounen Jack
+Dialogue: 3,0:05:48.11,0:05:50.07,Signs,,0,0,0,,{\blur0.8\fs44\3c&HDEE1E4&\bord4\shad0\fsp-2\fscx135\fscy135\move(640,187,640,253)\c&HDEE1E4&}Shounen Jack
+Dialogue: 2,0:05:48.11,0:05:50.07,Signs,,0,0,0,,{\blur0.8\fs44\3c&H0F1213&\bord6\shad0\fsp-2\fscx135\fscy135\move(640,187,640,253)\c&H0F1213&}Shounen Jack
+Dialogue: 1,0:05:48.11,0:05:50.07,Signs,,0,0,0,,{\blur0.8\fs44\3c&H0F1213&\bord6\shad0\fsp-2\fscx135\fscy135\move(643,190,643,256)\c&H0F1213&}Shounen Jack
+Dialogue: 3,0:05:48.11,0:05:50.07,Herotoo,,0,0,0,,{\blur0.8\fs30\bord0\fsp-2\3c&H000000&\fscx90\fscy90\move(520,657,520,723)\c&H040051&}Series Resumes!!
 Dialogue: 2,0:05:48.11,0:05:50.07,Herotoo,,0,0,0,,{\blur0.8\fs30\bord1.5\fsp-2\3c&HD1D0DF&\fscx90\fscy90\move(520,657,520,723)\c&HD1D0DF&}Series Resumes!!
 Dialogue: 1,0:05:48.11,0:05:50.07,Herotoo,,0,0,0,,{\blur0.8\fs30\bord1.5\fsp-2\3c&H0E0D12&\fscx90\fscy90\move(523,660,523,726)\c&H0E0D12&}Series Resumes!!
-Dialogue: 1,0:05:48.11,0:05:50.07,Herotoo,,0,0,0,,{\blur0.8\bord0\fsp-2\3c&0000000&\fscx90\fscy90\move(670,517,670,583)\c&HA38434&\frz20.292}Detective
+Dialogue: 1,0:05:48.11,0:05:50.07,Herotoo,,0,0,0,,{\blur0.8\bord0\fsp-2\3c&H000000&\fscx90\fscy90\move(670,517,670,583)\c&HA38434&\frz20.292}Detective
 Dialogue: 0,0:05:48.11,0:05:50.07,Herotoo,,0,0,0,,{\blur0.8\bord3\fsp-2\3c&H090A07&\fscx90\fscy90\move(670,517,670,583)\c&H090A07&\frz20.292}Detective
-Dialogue: 3,0:05:48.11,0:05:50.07,Herotoo,,0,0,0,,{\blur0.8\fs30\bord1.25\bord0\fsp-2\fscx90\fscy90\move(820,622,820,688)\c&H2CA9B1&\3c&H000000&}Ashirogi Muto
-Dialogue: 2,0:05:48.11,0:05:50.07,Herotoo,,0,0,0,,{\blur0.8\fs30\bord1.25\bord1.5\fsp-2\fscx90\fscy90\move(820,622,820,688)\c&H16272A&\3c&H16272A&}Ashirogi Muto
-Dialogue: 1,0:05:48.11,0:05:50.07,Herotoo,,0,0,0,,{\blur0.8\fs30\bord1.25\bord3\fsp-2\fscx90\fscy90\move(820,622,820,688)\c&HCCCACC&\3c&HCCCACC&}Ashirogi Muto
-Dialogue: 6,0:07:22.63,0:07:27.30,Signs,,0,0,0,,{\an2\move(774,373,873,373)\frz351.011\fax0.2\blur0.8\3c&0000000&\bord0\fsp-2\fscx135\fscy135\c&H757678&\shad0}Shounen Jack
+Dialogue: 3,0:05:48.11,0:05:50.07,Herotoo,,0,0,0,,{\blur0.8\fs30\bord0\fsp-2\fscx90\fscy90\move(820,622,820,688)\c&H2CA9B1&\3c&H000000&}Ashirogi Muto
+Dialogue: 2,0:05:48.11,0:05:50.07,Herotoo,,0,0,0,,{\blur0.8\fs30\bord1.5\fsp-2\fscx90\fscy90\move(820,622,820,688)\c&H16272A&\3c&H16272A&}Ashirogi Muto
+Dialogue: 1,0:05:48.11,0:05:50.07,Herotoo,,0,0,0,,{\blur0.8\fs30\bord3\fsp-2\fscx90\fscy90\move(820,622,820,688)\c&HCCCACC&\3c&HCCCACC&}Ashirogi Muto
+Dialogue: 6,0:07:22.63,0:07:27.30,Signs,,0,0,0,,{\an2\move(774,373,873,373)\frz351.011\fax0.2\blur0.8\3c&H000000&\bord0\fsp-2\fscx135\fscy135\c&H757678&\shad0}Shounen Jack
 Dialogue: 5,0:07:22.63,0:07:27.30,Signs,,0,0,0,,{\an2\move(774,373,873,373)\frz351.011\fax0.2\blur0.8\3c&H303132&\bord2\fsp-2\fscx135\fscy135\c&H303132&\shad0}Shounen Jack
 Dialogue: 4,0:07:22.63,0:07:27.30,Signs,,0,0,0,,{\an2\move(776,375,875,375)\frz351.011\fax0.2\blur0.8\3c&H303132&\bord2\fsp-2\fscx135\fscy135\c&H303132&\shad0}Shounen Jack
 Dialogue: 3,0:07:22.63,0:07:27.30,Signs,,0,0,0,,{\an2\move(774,373,873,373)\frz351.011\fax0.2\blur0.8\3c&H594EB6&\bord4\fsp-2\fscx135\fscy135\c&H594EB6&\shad0}Shounen Jack
@@ -222,7 +222,7 @@ Dialogue: 1,0:14:31.89,0:14:36.56,Sings2,,0,0,0,,{\fnOdense\bord3.5\blur0.8\fsp-
 Dialogue: 1,0:14:31.89,0:14:36.56,Sings2,,0,0,0,,{\fnOdense\bord3.5\blur4\fsp-2\fscx100\fscy100\pos(1153,73)\c&H141414&\3c&H141414&\shad3\1a&HFF&\3a&HFF&\4a&H90&}Weekly Manga Magazine
 Dialogue: 2,0:14:31.89,0:14:36.56,Sings2,,0,0,0,,{\fnOdense\blur0.8\fscx150\fscy150\bord0\pos(637,90)\c&H390A9E&}Shounen
 Dialogue: 1,0:14:31.89,0:14:36.56,Sings2,,0,0,0,,{\fnOdense\blur0.8\fscx150\fscy150\bord5\pos(637,90)\c&HF4F6FB&\3c&HF4F6FB&}Shounen
-Dialogue: 0,0:14:31.89,0:14:36.56,Sings2,,0,0,0,,{\fnOdense\blur0.8\fscx150\fscy150\bord11\pos(637,90)\c&H3A1997&\3c&H161721&\c&H161721&}Shounen
+Dialogue: 0,0:14:31.89,0:14:36.56,Sings2,,0,0,0,,{\fnOdense\blur0.8\fscx150\fscy150\bord11\pos(637,90)\3c&H161721&\c&H161721&}Shounen
 Dialogue: 0,0:14:41.48,0:14:41.56,Silence,,0,0,0,,{\fs60\bord0\shad0\fsp-2\blur0.8\fscx50\fscy45\pos(766,374)\c&H121211&}Series Meeting
 Dialogue: 0,0:14:41.56,0:14:41.61,Silence,,0,0,0,,{\fs60\bord0\shad0\fsp-2\blur0.8\fscx50\fscy45\pos(766,375)\c&H121211&}Series Meeting
 Dialogue: 0,0:14:41.61,0:14:41.65,Silence,,0,0,0,,{\fs60\bord0\shad0\fsp-2\blur0.8\fscx50\fscy45\pos(766,376)\c&H121211&}Series Meeting
@@ -279,7 +279,7 @@ Dialogue: 0,0:16:27.50,0:16:29.96,Textmsgslazy,,0,0,0,,{\fax-0.24\fs60\bord0\blu
 Dialogue: 0,0:16:27.50,0:16:29.96,Textmsgslazy,,0,0,0,,{\fs55\fax-0.2\bord0\blur1\frz-18.4\c&H8D756C&\pos(416,651)\1a&H00&}Happy birthday Miho!
 Dialogue: 0,0:16:37.30,0:16:37.55,Textmsgslazy,,0,0,0,,{\fax-0.22\fs50\bord0\blur1.2\frz344.015\c&HFAF2F4&\pos(845,313)}Sent Mail
 Dialogue: 1,0:16:37.30,0:16:37.55,Textmsgslazy,,0,0,0,,{\fax-0.2\bord0\blur1\frz344.015\c&HF9F0EF&\pos(647,442)}You Have New Mail
-Dialogue: 0,0:16:37.30,0:16:37.55,Textmsgs,,0,0,0,,{\fax-0.2\bord0\blur1\frz344.015\pos(647,442)\bord1.25\c&H554644&\3c&H554644&}You Have New Mail
+Dialogue: 0,0:16:37.30,0:16:37.55,Textmsgs,,0,0,0,,{\fax-0.2\blur1\frz344.015\pos(647,442)\bord1.25\c&H554644&\3c&H554644&}You Have New Mail
 Dialogue: 0,0:16:37.30,0:16:37.55,Textmsgslazy,,0,0,0,,{\fax-0.24\fs60\bord0\blur1\c&H7B5C50&\frz344.015\pos(798,456)}Azuki Miho
 Dialogue: 0,0:16:37.55,0:16:38.10,Textmsgslazy,,0,0,0,,{\an7\frz-17.5\fax-0.17\fs27\blur1\c&H6D5144&\pos(556,474.5)}I got the voice-over role for the daughter\N in US TV drama "Doctor Family" on BS!\NIt's a side character, but I'll do my best.
 Dialogue: 0,0:16:38.10,0:16:38.14,Textmsgslazy,,0,0,0,,{\an7\frz-17.5\fax-0.17\fs27\blur1\c&H6D5144&\pos(556,474.5)}I got the voice-over role for the daughter\N in US TV drama "Doctor Family" on BS!\NIt's a side character, but I'll do my best.
@@ -471,8 +471,8 @@ Dialogue: 10,0:00:12.24,0:00:15.45,Default,,0,0,0,,I baked some cookies, so if y
 Dialogue: 10,0:00:15.45,0:00:17.99,Default,,0,0,0,,Thank you.
 Dialogue: 10,0:02:00.26,0:02:01.30,Default,,0,0,0,,This is my share for today.
 Dialogue: 10,0:02:01.30,0:02:02.85,Default,,0,0,0,,Oh, thanks.
-Dialogue: 10,0:02:04.18,0:02:05.80,Default,,0,0,0,,{\i1}Trap{\i0} chapter 20 will continue
-Dialogue: 10,0:02:05.80,0:02:07.85,Default,,0,0,0,,from where it left off with the front page color spread, right?
+Dialogue: 10,0:02:04.18,0:02:05.64,Default,,0,0,0,,{\i1}Trap{\i0} chapter 20 will continue
+Dialogue: 10,0:02:05.64,0:02:07.85,Default,,0,0,0,,from where it left off with the front page color spread, right?
 Dialogue: 10,0:02:07.85,0:02:10.31,Default,,0,0,0,,Yes, starting from issue 45.
 Dialogue: 10,0:02:10.31,0:02:13.23,Default,,0,0,0,,It means they have high \Nexpectations of you!
 Dialogue: 10,0:02:13.23,0:02:14.73,Default,,0,0,0,,I sure hope so.
@@ -512,7 +512,7 @@ Dialogue: 10,0:03:24.89,0:03:26.68,Default,,0,0,0,,Two?! Impossible!
 Dialogue: 10,0:03:26.68,0:03:28.60,Default,,0,0,0,,Now {\i1}that's{\i0} a surprise!
 Dialogue: 10,0:03:29.02,0:03:30.85,Default,,0,0,0,,So I decided that I'm \Nnot going to high school.
 Dialogue: 10,0:03:30.85,0:03:31.69,Default,,0,0,0,,You serious?
-Dialogue: 10,0:03:31.69,0:03:33.35,Default,,0,0,0,,Are you gonna play around with that cash for the rest of your life?
+Dialogue: 10,0:03:31.69,0:03:33.35,Default,,0,0,0, [unreadable!],Are you gonna play around with that cash for the rest of your life?
 Dialogue: 10,0:03:33.35,0:03:34.86,Default,,0,0,0,,{isshou}I don't think it'll last a lifetime.
 Dialogue: 10,0:03:34.86,0:03:37.19,Default,,0,0,0,,Playing around all day \Nwould make me a failure.
 Dialogue: 10,0:03:37.65,0:03:38.78,Default,,0,0,0,,I'm starting a business!
@@ -549,7 +549,7 @@ Dialogue: 10,0:04:56.35,0:04:59.15,Default,,0,0,0,,Yeah, and the serialization i
 Dialogue: 10,0:04:59.15,0:05:01.57,Default,,0,0,0,,The second volume is set \Nto be published in November.
 Dialogue: 10,0:05:02.94,0:05:04.61,Default,,0,0,0,,Also, these are for you.
 Dialogue: 10,0:05:04.61,0:05:06.78,Default,,0,0,0,,During your hospital stay,
-Dialogue: 10,0:05:06.78,0:05:09.03,Default,,0,0,0,,we received these fan letters from people waiting for you to resume {\i1}Trap{\i0}.
+Dialogue: 10,0:05:06.78,0:05:09.03,Default,,0,0,0, [unreadable],we received these fan letters from people waiting for you to resume {\i1}Trap{\i0}.
 Dialogue: 10,0:05:09.03,0:05:10.33,Default,,0,0,0,,Whoa...
 Dialogue: 10,0:05:10.33,0:05:12.45,Default,,0,0,0,,More proof of {\i1}Trap's{\i0} popularity.
 Dialogue: 10,0:05:12.45,0:05:15.50,Default,,0,0,0,,For now, let's publish the \Ncompleted manuscripts.
@@ -560,7 +560,7 @@ Dialogue: 10,0:05:21.75,0:05:24.38,Default,,0,0,0,,Oh, and I convinced \Nthem to
 Dialogue: 10,0:05:24.38,0:05:26.59,Default,,0,0,0,,for the returning chapter \Nfrom one to three pages.
 Dialogue: 10,0:05:26.59,0:05:28.22,Default,,0,0,0,,Thank goodness.
 Dialogue: 10,0:05:28.22,0:05:31.31,Default,,0,0,0,,I was worried about our \Nreaders forgetting the story.
-Dialogue: 10,0:05:31.68,0:05:33.77,Default,,0,0,0,,It just shows that the Editorial Department has high hopes for you.
+Dialogue: 10,0:05:31.31,0:05:33.77,Default,,0,0,0,,It just shows that the Editorial Department has high hopes for you.
 Dialogue: 10,0:05:33.77,0:05:35.31,Default,,0,0,0,,Let's do our best.
 Dialogue: 10,0:05:35.31,0:05:36.19,Default,,0,0,0,,Yeah!
 Dialogue: 10,0:05:37.52,0:05:38.19,Default,,0,0,0,,How is it?
@@ -601,8 +601,8 @@ Dialogue: 10,0:07:48.07,0:07:49.32,Default-Italic,,0,0,0,,It is...
 Dialogue: 10,0:07:49.32,0:07:52.11,Default,,0,0,0,,The serialization meeting is at the end of the month, right?
 Dialogue: 10,0:07:52.11,0:07:55.20,Default,,0,0,0,,Yeah. October 28th.
 Dialogue: 10,0:07:55.20,0:07:57.66,Default,,0,0,0,,Hey now, don't worry so much!
-Dialogue: 10,0:07:58.08,0:08:00.87,Default,,0,0,0,,But depending on the results from the next two chapters before the meeting...
-Dialogue: 10,0:08:00.87,0:08:04.17,Default,,0,0,0,,The case-concluding chapter will be published right before the meeting!
+Dialogue: 10,0:07:58.04,0:08:00.91,Default,,0,0,0,,But depending on the results from the next two chapters before the meeting...
+Dialogue: 10,0:08:00.91,0:08:04.17,Default,,0,0,0,,The case-concluding chapter will be published right before the meeting!
 Dialogue: 10,0:08:04.17,0:08:05.21,Default,,0,0,0,,No worries!
 Dialogue: 10,0:08:05.21,0:08:08.30,Default,,0,0,0,,Let's just do what we've\N been doing, all right?
 Dialogue: 10,0:08:09.59,0:08:11.80,Default,,0,0,0,,Do you really think we \Nshould keep drawing?
@@ -653,7 +653,7 @@ Dialogue: 10,0:10:05.20,0:10:07.00,Default,,0,0,0,,Manga...
 Dialogue: 10,0:10:07.67,0:10:09.88,Default,,0,0,0,,just needs to be interesting to be popular!
 Dialogue: 10,0:10:09.88,0:10:13.00,Default,,0,0,0,,Don't try to blame everything on {\i1}Trap{\i0} and do nothing to try and improve your own work!!
 Dialogue: 10,0:10:13.00,0:10:13.80,Default,,0,0,0,,Why you...
-Dialogue: 10,0:10:13.80,0:10:16.26,Default,,0,0,0,,Think of ways to make your  \Nown work more interesting!
+Dialogue: 10,0:10:13.80,0:10:16.26,Default,,0,0,0,,Think of ways to make your \Nown work more interesting!
 Dialogue: 10,0:10:16.26,0:10:18.09,Default,,0,0,0,,What's with this fight? It's over!
 Dialogue: 10,0:10:18.09,0:10:19.63,Default,,0,0,0,,On the contrary!
 Dialogue: 10,0:10:19.63,0:10:21.47,Default,,0,0,0,,This is just the beginning!
@@ -883,7 +883,7 @@ Dialogue: 10,0:20:12.73,0:20:16.65,Default,,0,0,0,,Okay, let's do our best for \
 Dialogue: 10,0:20:16.65,0:20:17.48,Default,,0,0,0,,Yes!
 Dialogue: 10,0:20:18.28,0:20:21.74,Default,,0,0,0,,Regarding what to do with\N the last three chapters...
 Dialogue: 10,0:20:21.74,0:20:23.24,Default,,0,0,0,,We can do it in two ways.
-Dialogue: 10,0:20:23.86,0:20:27.03,Default,,0,0,0,,Either continue with the best mystery story you can think of for {\i1}Trap{\i0}
+Dialogue: 10,0:20:23.86,0:20:27.03,Default,,0,0,0,,Either continue with the best mystery story you can think of for {\i1}Trap
 Dialogue: 10,0:20:27.03,0:20:29.33,Default,,0,0,0,,and keep it in a similar vein...
 Dialogue: 10,0:20:29.33,0:20:33.12,Default,,0,0,0,,or try something new completely.
 Dialogue: 10,0:20:33.50,0:20:34.88,Default,,0,0,0,,Those are your choices...oh
@@ -916,7 +916,7 @@ Dialogue: 10,0:21:35.44,0:21:38.19,Default,,0,0,0,,But the strongest feeling is 
 Dialogue: 10,0:21:39.11,0:21:42.15,Default,,0,0,0,,Frustration is still number one for me.
 Dialogue: 10,0:21:43.65,0:21:46.86,Default,,0,0,0,,Now that I think of it, \Nwe're pretty amazing.
 Dialogue: 10,0:21:46.86,0:21:48.37,Default,,0,0,0,,What do you mean?
-Dialogue: 10,0:21:48.37,0:21:52.57,Default,,0,0,0,,We're just high school students, but we were serialized in {\i1}Jack.{\i0}
+Dialogue: 10,0:21:48.37,0:21:52.57,Default,,0,0,0,,We're just high school students, but we were serialized in {\i1}Jack.
 Dialogue: 10,0:21:52.57,0:21:54.75,Default,,0,0,0,,Yeah, that is amazing.
 Dialogue: 10,0:21:55.46,0:21:57.33,Default,,0,0,0,,Eiji is even more amazing, though.
 Dialogue: 10,0:21:57.33,0:21:58.58,Default,,0,0,0,,Don't mention that right now...

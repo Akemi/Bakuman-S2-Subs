@@ -21,9 +21,9 @@ Keyframes File: ep5_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 1296
-Active Line: 1310
-Video Position: 9242
+Scroll Position: 581
+Active Line: 592
+Video Position: 33447
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -127,10 +127,10 @@ Dialogue: 10,0:03:58.76,0:04:02.51,Default,,0,0,0,,Um, but isn't good sense \Nso
 Dialogue: 10,0:04:02.51,0:04:04.18,Default,,0,0,0,,Huh? Where are you going?
 Dialogue: 10,0:04:04.18,0:04:05.89,Default,,0,0,0,,For a smoke.
 Dialogue: 10,0:04:08.06,0:04:09.93,Default,,0,0,0,,Good sense, huh.
-Dialogue: 10,0:04:12.44,0:04:13.08,Default,,0,0,0,,In other words,
-Dialogue: 10,0:04:13.08,0:04:15.73,Default,,0,0,0,,there's only a paper-thin difference between a romanticist and a humanist.
-Dialogue: 10,0:04:15.73,0:04:17.44,Default,,0,0,0,,I don't get it.
-Dialogue: 10,0:04:17.44,0:04:18.75,Default,,0,0,0,,What's with the "humanist" thing, anyway?
+Dialogue: 10,0:04:12.39,0:04:12.98,Default,,0,0,0,,In other words,
+Dialogue: 10,0:04:12.98,0:04:15.73,Default,,0,0,0,,there's only a paper-thin difference between a romanticist and a humanist.
+Dialogue: 10,0:04:15.73,0:04:17.36,Default,,0,0,0,,I don't get it.
+Dialogue: 10,0:04:17.36,0:04:18.75,Default,,0,0,0,,What's with the "humanist" thing, anyway?
 Dialogue: 10,0:04:18.75,0:04:19.94,Default,,0,0,0,,You're an otter.
 Dialogue: 10,0:04:19.94,0:04:21.53,Default,,0,0,0,,Yes, I'm an otter.
 Dialogue: 10,0:04:21.53,0:04:23.86,Default,,0,0,0,,I could forgive you as a human, \Nbut as an otter, I cannot!
@@ -193,15 +193,15 @@ Dialogue: 10,0:06:40.12,0:06:42.96,Default,,0,0,0,,Let's make your next story wi
 Dialogue: 10,0:06:42.96,0:06:43.71,Default,,0,0,0,,Yes!
 Dialogue: 10,0:06:43.71,0:06:45.25,Default,,0,0,0,,All right, let's have our meeting.
 Dialogue: 10,0:06:45.25,0:06:46.05,Default,,0,0,0,,Please go ahead.
-Dialogue: 10,0:06:46.55,0:06:47.80,Default-Alt,,0,0,0,,You can't just plagiarize them, though.
+Dialogue: 10,0:06:46.46,0:06:47.80,Default-Alt,,0,0,0,,You can't just plagiarize them, though.
 Dialogue: 10,0:06:47.80,0:06:49.76,Default-Alt,,0,0,0,,You have to study them hard and make your own style.
 Dialogue: 10,0:06:49.76,0:06:50.55,Default-Alt,,0,0,0,,I understand.
 Dialogue: 10,0:06:47.26,0:06:50.13,Default-Italic,,0,0,0,,Those two are getting so serious just to raise the ranking slightly...
 Dialogue: 10,0:06:51.39,0:06:52.93,Default-Italic,,0,0,0,,I have to improve my art too!
 Dialogue: 10,0:06:50.76,0:06:52.22,Default-Alt,,0,0,0,,Then let's start with this page.
 Dialogue: 10,0:06:52.64,0:06:52.93,Default-Alt,,0,0,0,,Yes.
-Dialogue: 10,0:06:54.26,0:06:55.56,Default,,0,0,0,,All right!
-Dialogue: 10,0:06:55.56,0:06:57.52,Default-Italic,,0,0,0,,{\i0}Kiyoshi Knight{\i1} took the top \Nranking in the early results!
+Dialogue: 10,0:06:54.26,0:06:55.39,Default-Italic,,0,0,0,,All right!
+Dialogue: 10,0:06:55.39,0:06:57.52,Default-Italic,,0,0,0,,{\i0}Kiyoshi Knight{\i1} took the top \Nranking in the early results!
 Dialogue: 10,0:06:57.52,0:06:59.56,Default-Italic,,0,0,0,,If this keeps up, the \Nnext team leader will be...
 Dialogue: 10,0:06:59.56,0:07:00.48,Default,,0,0,0,,Yuujirou.
 Dialogue: 10,0:07:00.48,0:07:03.36,Default,,0,0,0,,Don't get cocky just because \N{\i1}Kiyoshi{\i0} got the top spot.
@@ -250,8 +250,8 @@ Dialogue: 10,0:08:38.49,0:08:39.49,Default,,0,0,0,,We did it!
 Dialogue: 10,0:08:39.49,0:08:40.62,Default,,0,0,0,,It went up again!
 Dialogue: 10,0:08:40.62,0:08:44.37,Default,,0,0,0,,So I guess that means for the next story, there was no need to polish the dialogue.
 Dialogue: 10,0:08:44.37,0:08:45.50,Default,,0,0,0,,What are you talking about?
-Dialogue: 10,0:08:45.50,0:08:47.46,Default,,0,0,0,,We have to aim even higher!
-Dialogue: 10,0:08:47.54,0:08:48.71,Default-Alt,,0,0,0,,You're right!
+Dialogue: 10,0:08:45.50,0:08:47.46,Default-Alt,,0,0,0,,We have to aim even higher!
+Dialogue: 10,0:08:47.46,0:08:48.71,Default-Alt,,0,0,0,,You're right!
 Dialogue: 10,0:08:47.46,0:08:51.21,Default-Italic,,0,0,0,,We were right to trust in Shuujin's stories after all!
 Dialogue: 10,0:08:51.84,0:08:53.47,Default,,0,0,0,,Damn you, Ashirogi!
 Dialogue: 10,0:08:53.47,0:08:56.68,Default,,0,0,0,,How dare your 10th chapter \Nsurpass my 3rd chapter!
@@ -286,8 +286,8 @@ Dialogue: 10,0:10:04.52,0:10:06.79,Default,,0,0,0,,so it's taken some time but..
 Dialogue: 10,0:10:08.46,0:10:09.63,Default,,0,0,0,,T-These are...
 Dialogue: 10,0:10:09.63,0:10:12.29,Default,,0,0,0,,Yes, they're all fan letters \Naddressed to Ashirogi Mutou.
 Dialogue: 10,0:10:12.71,0:10:14.38,Default,,0,0,0,,You'll notice if you check the postmarks,
-Dialogue: 10,0:10:14.38,0:10:15.82,Default,,0,0,0,,but there are a lot more recent ones
-Dialogue: 10,0:10:15.82,0:10:17.79,Default,,0,0,0,,than ones dating from the beginning of your serialization.
+Dialogue: 10,0:10:14.38,0:10:15.71,Default,,0,0,0,,but there are a lot more recent ones
+Dialogue: 10,0:10:15.71,0:10:17.79,Default,,0,0,0,,than ones dating from the beginning of your serialization.
 Dialogue: 10,0:10:17.79,0:10:19.21,Default,,0,0,0,,This may support what Mashiro said
 Dialogue: 10,0:10:19.21,0:10:21.68,Default,,0,0,0,,about {\i1}Trap{\i0} being established \Nas a proper mystery.
 Dialogue: 10,0:10:21.68,0:10:23.14,Default,,0,0,0,,Awesome!
@@ -301,8 +301,8 @@ Dialogue: 10,0:10:35.03,0:10:35.94,Default,,0,0,0,,Really?
 Dialogue: 10,0:10:35.94,0:10:38.24,Default,,0,0,0,,The way he brilliantly solves \Nthe mysteries is really cool.
 Dialogue: 10,0:10:38.24,0:10:42.20,Default,,0,0,0,,On top of that, there's definitely much more wit in the dialogue.
 Dialogue: 10,0:10:42.99,0:10:45.37,Default,,0,0,0,,Takagi-sensei, since chapter 14 seems fine,
-Dialogue: 10,0:10:45.37,0:10:47.24,Default,,0,0,0,,please look over the summary of the short novels I read this week.
-Dialogue: 10,0:10:47.24,0:10:48.58,Default,,0,0,0,,Oh, thank you.
+Dialogue: 10,0:10:45.37,0:10:47.25,Default,,0,0,0, [unreadable],please look over the summary of the short novels I read this week.
+Dialogue: 10,0:10:47.25,0:10:48.58,Default,,0,0,0,,Oh, thank you.
 Dialogue: 10,0:10:48.58,0:10:50.37,Default,,0,0,0,,I worked hard and read five!
 Dialogue: 10,0:10:50.37,0:10:52.29,Default,,0,0,0,,Five? That's great!
 Dialogue: 10,0:10:53.00,0:10:54.21,Default,,0,0,0,,Shuujin, come here a minute.
@@ -406,14 +406,14 @@ Dialogue: 10,0:14:38.02,0:14:40.31,Default-Italic,,0,0,0,,We'll aim higher as we
 Dialogue: 10,0:14:48.57,0:14:50.45,Default,,0,0,0,,Sorry, I fell asleep!
 Dialogue: 10,0:14:50.45,0:14:53.53,Default,,0,0,0,,I thought so, since you \Nweren't back when I woke up.
 Dialogue: 10,0:14:53.53,0:14:55.49,Default,,0,0,0,,Don't make me worry.
-Dialogue: 10,0:14:55.49,0:14:57.66,Default,,0,0,0,,Crap, it's already 7!
-Dialogue: 10,0:14:57.66,0:15:00.37,Default,,0,0,0,,I haven't penned this in! I still have three pages that are only rough sketches!
+Dialogue: 10,0:14:55.49,0:14:57.58,Default,,0,0,0,,Crap, it's already 7!
+Dialogue: 10,0:14:57.58,0:15:00.37,Default,,0,0,0,,I haven't penned this in! I still have three pages that are only rough sketches!
 Dialogue: 10,0:15:00.37,0:15:02.38,Default,,0,0,0,,And the assistants will be here at 4!
 Dialogue: 10,0:15:02.38,0:15:05.34,Default,,0,0,0,,Sorry, Mom, but please call the school and tell them I'll be absent!
 Dialogue: 10,0:15:05.34,0:15:06.46,Default,,0,0,0,,What are you saying?
 Dialogue: 10,0:15:06.46,0:15:07.77,Default,,0,0,0,,Go to school like you're supposed to!
-Dialogue: 10,0:15:07.77,0:15:09.30,Default,,0,0,0,,P-Please! I'm really in trouble!
-Dialogue: 10,0:15:09.30,0:15:11.34,Default,,0,0,0,,I haven't skipped school even once since becoming a senior.
+Dialogue: 10,0:15:07.77,0:15:09.22,Default,,0,0,0,,P-Please! I'm really in trouble!
+Dialogue: 10,0:15:09.22,0:15:11.34,Default,,0,0,0,,I haven't skipped school even once since becoming a senior.
 Dialogue: 10,0:15:11.34,0:15:12.47,Default,,0,0,0,,So please!
 Dialogue: 10,0:15:15.35,0:15:18.02,Default,,0,0,0,,Hey, Mashiro didn't come to school today...
 Dialogue: 10,0:15:18.02,0:15:20.73,Default,,0,0,0,,He said he fell asleep after we left.
@@ -425,7 +425,7 @@ Dialogue: 10,0:15:26.48,0:15:31.20,Default,,0,0,0,,Well, something like this hap
 Dialogue: 10,0:15:33.32,0:15:35.99,Default,,0,0,0,,I'm sorry for missing the deadline.
 Dialogue: 10,0:15:35.99,0:15:37.12,Default,,0,0,0,,Sorry.
 Dialogue: 10,0:15:37.12,0:15:37.69,Default,,0,0,0,,It's fine.
-Dialogue: 10,0:15:37.69,0:15:40.08,Default,,0,0,0,,With this level of quality, there will be times when you're late by a day or two.
+Dialogue: 10,0:15:37.69,0:15:40.08,Default,,0,0,0, [hard to read?],With this level of quality, there will be times when you're late by a day or two.
 Dialogue: 10,0:15:40.08,0:15:42.08,Default,,0,0,0,,Maybe your ranking will rise even more!
 Dialogue: 10,0:15:42.08,0:15:42.92,Default,,0,0,0,,You think so?!
 Dialogue: 10,0:15:42.92,0:15:45.13,Default,,0,0,0,,I'll definitely give you \Nthe next one on Friday.
@@ -441,7 +441,7 @@ Dialogue: 10,0:16:05.19,0:16:07.73,Default-Alt,,0,0,0,,Is this... a surprise cha
 Dialogue: 10,0:16:07.73,0:16:10.74,Default,,0,0,0,,Isn't that Sugita's voice? He's so cool!
 Dialogue: 10,0:16:10.74,0:16:12.15,Default,,0,0,0,,I don't know that guy.
 Dialogue: 10,0:16:12.15,0:16:16.83,Default-Alt,,0,0,0,,Um, could you possibly be Takemitsu Shinzou?
-Dialogue: 10,0:16:18.08,0:16:21.08,Default,,0,0,0,,{\an8\i1}I thought so! Actually, I was waiting here...{\i0}
+Dialogue: 10,0:16:18.08,0:16:21.08,Default,,0,0,0,,{\an8\i1}I thought so! Actually, I was waiting here...
 Dialogue: 10,0:16:16.83,0:16:19.83,Default-Italic,,0,0,0,,We're also heading towards an anime adaptation, bit by bit!
 Dialogue: 10,0:16:25.21,0:16:26.75,Default,,0,0,0,,They're head to head! It's a tie!
 Dialogue: 10,0:16:27.67,0:16:31.05,Default,,0,0,0,,Your 14th chapter and \N{\i1}Crow{\i0} are tied for 3rd place!
@@ -496,9 +496,9 @@ Dialogue: 10,0:18:20.20,0:18:22.16,Default,,0,0,0,,No, while we're at it, \Nlet'
 Dialogue: 10,0:18:22.16,0:18:23.29,Default,,0,0,0,,And then an anime adaptation!
 Dialogue: 10,0:18:23.29,0:18:26.12,Default,,0,0,0,,A million prints would normally happen {\i1}after{\i0} it gets an anime.
 Dialogue: 10,0:18:26.12,0:18:27.21,Default,,0,0,0,,Oh, really?
-Dialogue: 10,0:18:27.21,0:18:28.21,Default,,0,0,0,,Of course!
-Dialogue: 10,0:18:28.21,0:18:30.13,Default,,0,0,0,,If it's made into an anime, it'll become more well known, right?
-Dialogue: 10,0:18:30.13,0:18:31.54,Default,,0,0,0,,I see.
+Dialogue: 10,0:18:27.21,0:18:28.12,Default,,0,0,0,,Of course!
+Dialogue: 10,0:18:28.12,0:18:30.17,Default,,0,0,0,,If it's made into an anime, it'll become more well known, right?
+Dialogue: 10,0:18:30.17,0:18:31.54,Default,,0,0,0,,I see.
 Dialogue: 10,0:18:32.25,0:18:33.00,Default,,0,0,0,,Come on!
 Dialogue: 10,0:18:33.00,0:18:35.01,Default,,0,0,0,,Let's get to inking!
 Dialogue: 10,0:18:35.01,0:18:36.47,Default,,0,0,0,,Is inking fun for you?
@@ -543,8 +543,8 @@ Dialogue: 10,0:19:48.70,0:19:50.79,Default,,0,0,0,,Well then, see you later.
 Dialogue: 10,0:19:50.79,0:19:52.17,Default,,0,0,0,,"See you later?"
 Dialogue: 10,0:19:52.17,0:19:53.71,Default,,0,0,0,,He seems rather used to it.
 Dialogue: 10,0:19:54.13,0:19:55.71,Default,,0,0,0,,Well then, we'll get going.
-Dialogue: 10,0:19:55.71,0:19:57.55,Default,,0,0,0,,We're counting on you tomorrow too.
-Dialogue: 10,0:19:57.55,0:20:00.30,Default,,0,0,0,,Mashiro, you've been redrawing your art for the past few chapters, haven't you?
+Dialogue: 10,0:19:55.71,0:19:57.42,Default,,0,0,0,,We're counting on you tomorrow too.
+Dialogue: 10,0:19:57.42,0:20:00.30,Default,,0,0,0,,Mashiro, you've been redrawing your art for the past few chapters, haven't you?
 Dialogue: 10,0:20:00.72,0:20:02.38,Default,,0,0,0,,The art has greatly improved.
 Dialogue: 10,0:20:02.38,0:20:03.64,Default,,0,0,0,,Really?
 Dialogue: 10,0:20:03.64,0:20:04.18,Default,,0,0,0,,Yes.

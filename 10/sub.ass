@@ -19,9 +19,9 @@ Keyframes File: ep10_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 2096
-Active Line: 2114
-Video Position: 25714
+Scroll Position: 2231
+Active Line: 2151
+Video Position: 27664
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -123,72 +123,72 @@ Dialogue: 0,0:02:25.50,0:02:29.00,Ep Titles,,0,0,0,,{\pos(640,464.62)\blur0.334}
 Dialogue: 0,0:24:15.97,0:24:19.27,NextEpTitle,,0,0,0,,{\blur0.334\pos(79.676,519.696)}Next\NEpisode
 Dialogue: 0,0:24:24.40,0:24:30.99,NextEpTitle,,0,0,0,,{\blur0.334\an9\pos(1214,56)}Manga and \NYouth
 Dialogue: 1,0:14:49.36,0:14:51.74,signs,,0,0,0,,{\blur1\an8\fs101\c&H7A7A7A&\frz3.752\pos(650,70)}...are you \Nme?
-Dialogue: 0,0:14:49.36,0:14:51.74,signs,,0,0,0,,{\an8\fs450\fnFansub Block\c&HEAE8ED&\pos(672,-32)\clip(m 554 15 l 512 46 522 149 488 217 516 262 536 319 596 374 652 362 708 344 730 368 776 286 789 243 788 209 830 150 806 104 820 66 798 24 752 -4 662 -9 618 0)}A
-Dialogue: 0,0:14:51.74,0:14:54.24,signs,,0,0,0,,{\an8\fs450\fnFansub Block\c&HEAE8ED&\pos(672,-32)\clip(m 554 15 l 506 18 434 73 488 217 516 262 536 319 594 332 652 362 708 344 722 338 770 310 807 315 832 285 872 252 906 182 898 80 834 -8 752 -4 662 -9 618 0)}A
-Dialogue: 0,0:14:59.67,0:15:03.67,signs,,0,0,0,,{\an8\fs500\fnFansub Block\c&HEAE8ED&\pos(672,-32)\clip(m 554 15 l 518 -30 352 -13 303 141 484 330 532 327 603 339 657 348 708 344 722 338 770 310 807 315 856 309 872 252 906 182 917 36 834 -8 752 -4 662 -9 618 0)}A
+Dialogue: 0,0:14:49.36,0:14:51.74,signs,,0,0,0,,{\blur0.6\an8\fs450\fnFansub Block\c&HEAE8ED&\pos(672,-32)\clip(m 554 15 l 512 46 522 149 488 217 516 262 536 319 596 374 652 362 708 344 730 368 776 286 789 243 788 209 830 150 806 104 820 66 798 24 752 -4 662 -9 618 0)}A
+Dialogue: 0,0:14:51.74,0:14:54.24,signs,,0,0,0,,{\blur0.6\an8\fs450\fnFansub Block\c&HEAE8ED&\pos(672,-32)\clip(m 554 15 l 506 18 434 73 488 217 516 262 536 319 594 332 652 362 708 344 722 338 770 310 807 315 832 285 872 252 906 182 898 80 834 -8 752 -4 662 -9 618 0)}A
+Dialogue: 0,0:14:59.67,0:15:03.67,signs,,0,0,0,,{\blur0.6\an8\fs500\fnFansub Block\c&HEAE8ED&\pos(672,-32)\clip(m 554 15 l 518 -30 352 -13 303 141 484 330 532 327 603 339 657 348 708 344 722 338 770 310 807 315 856 309 872 252 906 182 917 36 834 -8 752 -4 662 -9 618 0)}A
 Dialogue: 0,0:14:59.67,0:15:03.67,signs,,0,0,0,,{\blur1\an8\fs101\c&H7A7A7A&\frz3.752\pos(616,8)}We should make use\N of this situation\N effectively!
 Dialogue: 1,0:14:51.74,0:14:54.24,signs,,0,0,0,,{\blur1\an8\fs101\c&H7A7A7A&\frz3.752\pos(680,46)}Did I split\N into two?
 Dialogue: 1,0:14:44.40,0:14:45.82,signs,,0,0,0,,{\fax-0.1\blur1\an8\fs101\c&H7A7A7A&\pos(671,126)}Whaaa?!
-Dialogue: 0,0:14:44.40,0:14:45.82,signs,,0,0,0,,{\an8\fs390\fnFansub Block\pos(670,8)\c&HEAE8ED&\clip(m 562 37 l 554 88 522 149 562 221 568 272 602 325 608 368 658 402 712 400 730 368 746 306 749 229 768 165 762 98 762 66 762 48 762 26 690 10 646 13 616 16)}A
-Dialogue: 0,0:14:45.82,0:14:47.15,signs,,0,0,0,,{\an8\fs390\fnFansub Block\pos(670,8)\c&HEAE8ED&\clip(m 562 37 l 554 88 522 149 562 221 568 272 596 293 610 310 644 312 678 322 718 324 742 274 749 229 768 165 762 98 762 66 762 48 762 26 690 10 646 13 616 16)}A
+Dialogue: 0,0:14:44.40,0:14:45.82,signs,,0,0,0,,{\blur0.6\an8\fs390\fnFansub Block\pos(670,8)\c&HEAE8ED&\clip(m 562 37 l 554 88 522 149 562 221 568 272 602 325 608 368 658 402 712 400 730 368 746 306 749 229 768 165 762 98 762 66 762 48 762 26 690 10 646 13 616 16)}A
+Dialogue: 0,0:14:45.82,0:14:47.15,signs,,0,0,0,,{\blur0.6\an8\fs390\fnFansub Block\pos(670,8)\c&HEAE8ED&\clip(m 562 37 l 554 88 522 149 562 221 568 272 596 293 610 310 644 312 678 322 718 324 742 274 749 229 768 165 762 98 762 66 762 48 762 26 690 10 646 13 616 16)}A
 Dialogue: 1,0:14:45.82,0:14:47.15,signs,,0,0,0,,{\fax-0.1\blur1\an8\fs151\c&H7A7A7A&\pos(667,64)}Me?
-Dialogue: 1,0:14:47.15,0:14:47.95,signs,,0,0,0,,{\an2\fs490\fnFansub Block\c&HEAE8ED&\fscx83.75\fscy137.5\frz94.35\pos(422,164)}A
-Dialogue: 1,0:14:47.15,0:14:47.90,signs,,0,0,0,,{\an2\fs290\fnFansub Block\c&HEAE8ED&\frz177.264\fscx118.75\fscy131.25\pos(104,464)}A
+Dialogue: 1,0:14:47.15,0:14:47.95,signs,,0,0,0,,{\blur0.6\an2\fs490\fnFansub Block\c&HEAE8ED&\fscx83.75\fscy137.5\frz94.35\pos(422,164)}A
+Dialogue: 1,0:14:47.15,0:14:47.90,signs,,0,0,0,,{\blur0.6\an2\fs290\fnFansub Block\c&HEAE8ED&\frz177.264\fscx118.75\fscy131.25\pos(104,464)}A
 Dialogue: 1,0:14:47.15,0:14:47.90,signs,,0,0,0,,{\blur1\an8\fs121\c&H7A7A7A&\frz3.752\pos(256,62)}Who \Nare you?
 Dialogue: 1,0:14:47.15,0:14:47.90,signs,,0,0,0,,{\blur1\an8\fs121\c&H7A7A7A&\frz3.752\pos(-87,62)}Who \Nare {\i1}you{\i0}?
 Dialogue: 2,0:14:47.15,0:14:47.90,signs,,0,0,0,,{\blur1\an8\fs81\c&H7A7A7A&\frz3.752\pos(72,472)}Face and pose \Nare the same
-Dialogue: 1,0:14:47.90,0:14:47.99,signs,,0,0,0,,{\an2\fs290\fnFansub Block\c&HEAE8ED&\frz177.264\fscx118.75\fscy131.25\pos(159,467)}A
+Dialogue: 1,0:14:47.90,0:14:47.99,signs,,0,0,0,,{\blur0.6\an2\fs290\fnFansub Block\c&HEAE8ED&\frz177.264\fscx118.75\fscy131.25\pos(159,467)}A
 Dialogue: 1,0:14:47.90,0:14:47.99,signs,,0,0,0,,{\blur1\an8\fs121\c&H7A7A7A&\frz3.752\pos(286,62)}Who \Nare you?
 Dialogue: 1,0:14:47.90,0:14:47.99,signs,,0,0,0,,{\blur1\an8\fs121\c&H7A7A7A&\frz3.752\pos(-62,62)}Who \Nare {\i1}you{\i0}?
 Dialogue: 2,0:14:47.90,0:14:47.95,signs,,0,0,0,,{\blur1\an8\fs81\c&H7A7A7A&\frz3.752\pos(100,472)}Face and pose \Nare the same
 Dialogue: 1,0:14:47.95,0:14:47.99,signs,,0,0,0,,{\blur1\an8\fs121\c&H7A7A7A&\frz3.752\pos(286,62)}Who \Nare you?
-Dialogue: 1,0:14:47.95,0:14:47.99,signs,,0,0,0,,{\an2\fs490\fnFansub Block\c&HEAE8ED&\fscx83.75\fscy137.5\frz94.35\pos(538,162)}A
+Dialogue: 1,0:14:47.95,0:14:47.99,signs,,0,0,0,,{\blur0.6\an2\fs490\fnFansub Block\c&HEAE8ED&\fscx83.75\fscy137.5\frz94.35\pos(538,162)}A
 Dialogue: 1,0:14:47.95,0:14:47.99,signs,,0,0,0,,{\blur1\an8\fs121\c&H7A7A7A&\frz3.752\pos(356,62)}Who \Nare you?
 Dialogue: 1,0:14:47.95,0:14:47.99,signs,,0,0,0,,{\blur1\an8\fs121\c&H7A7A7A&\frz3.752\pos(12,62)}Who \Nare {\i1}you{\i0}?
 Dialogue: 2,0:14:47.95,0:14:47.99,signs,,0,0,0,,{\blur1\an8\fs81\c&H7A7A7A&\frz3.752\pos(175,472)}Face and pose \Nare the same
-Dialogue: 1,0:14:47.99,0:14:48.03,signs,,0,0,0,,{\an2\fs490\fnFansub Block\c&HEAE8ED&\fscx83.75\fscy137.5\frz94.35\pos(636,164)}A
-Dialogue: 1,0:14:47.99,0:14:48.03,signs,,0,0,0,,{\an2\fs290\fnFansub Block\c&HEAE8ED&\frz177.264\fscx118.75\fscy131.25\pos(298,464)}A
+Dialogue: 1,0:14:47.99,0:14:48.03,signs,,0,0,0,,{\blur0.6\an2\fs490\fnFansub Block\c&HEAE8ED&\fscx83.75\fscy137.5\frz94.35\pos(636,164)}A
+Dialogue: 1,0:14:47.99,0:14:48.03,signs,,0,0,0,,{\blur0.6\an2\fs290\fnFansub Block\c&HEAE8ED&\frz177.264\fscx118.75\fscy131.25\pos(298,464)}A
 Dialogue: 1,0:14:47.99,0:14:48.03,signs,,0,0,0,,{\blur1\an8\fs121\c&H7A7A7A&\frz3.752\pos(470,62)}Who \Nare you?
 Dialogue: 1,0:14:47.99,0:14:48.03,signs,,0,0,0,,{\blur1\an8\fs121\c&H7A7A7A&\frz3.752\pos(125,62)}Who \Nare {\i1}you{\i0}?
 Dialogue: 2,0:14:47.99,0:14:48.03,signs,,0,0,0,,{\blur1\an8\fs81\c&H7A7A7A&\frz3.752\pos(285,472)}Face and pose \Nare the same
-Dialogue: 1,0:14:48.03,0:14:48.07,signs,,0,0,0,,{\an2\fs490\fnFansub Block\c&HEAE8ED&\fscx83.75\fscy137.5\frz94.\pos(805,168)\clip(m 113 23 l 118 382 359 408 787 352 802 163 746 18 349 8)}A
-Dialogue: 1,0:14:48.03,0:14:48.07,signs,,0,0,0,,{\an2\fs290\fnFansub Block\c&HEAE8ED&\frz177.264\fscx118.75\fscy131.25\pos(432,478)}A
-Dialogue: 1,0:14:48.03,0:14:48.07,signs,,0,0,0,,{\an2\fs290\fnFansub Block\c&HEAE8ED&\frz177.264\fscx118.75\fscy131.25\pos(442,468)}A
+Dialogue: 1,0:14:48.03,0:14:48.07,signs,,0,0,0,,{\blur0.6\an2\fs490\fnFansub Block\c&HEAE8ED&\fscx83.75\fscy137.5\frz94.\pos(805,168)\clip(m 113 23 l 118 382 359 408 787 352 802 163 746 18 349 8)}A
+Dialogue: 1,0:14:48.03,0:14:48.07,signs,,0,0,0,,{\blur0.6\an2\fs290\fnFansub Block\c&HEAE8ED&\frz177.264\fscx118.75\fscy131.25\pos(432,478)}A
+Dialogue: 1,0:14:48.03,0:14:48.07,signs,,0,0,0,,{\blur0.6\an2\fs290\fnFansub Block\c&HEAE8ED&\frz177.264\fscx118.75\fscy131.25\pos(442,468)}A
 Dialogue: 1,0:14:48.03,0:14:48.07,signs,,0,0,0,,{\blur1\an8\fs121\c&H7A7A7A&\frz3.752\pos(606,62)}Who \Nare you?
 Dialogue: 1,0:14:48.03,0:14:48.07,signs,,0,0,0,,{\blur1\an8\fs121\c&H7A7A7A&\frz3.752\pos(255,62)}Who \Nare {\i1}you{\i0}?
 Dialogue: 2,0:14:48.03,0:14:48.07,signs,,0,0,0,,{\blur1\an8\fs81\c&H7A7A7A&\frz3.752\pos(422,472)}Face and pose \Nare the same
-Dialogue: 1,0:14:48.07,0:14:48.11,signs,,0,0,0,,{\an2\fs490\fnFansub Block\c&HEAE8ED&\fscx83.75\fscy137.5\frz94.35\pos(944,166)\clip(m 242 182 l 276 356 394 400 566 430 696 404 788 386 942 318 926 186 892 74 884 36 668 4 344 12 284 20)}A
-Dialogue: 1,0:14:48.07,0:14:48.11,signs,,0,0,0,,{\an2\fs290\fnFansub Block\c&HEAE8ED&\frz177.264\fscx118.75\fscy131.25\pos(614,462)}A
+Dialogue: 1,0:14:48.07,0:14:48.11,signs,,0,0,0,,{\blur0.6\an2\fs490\fnFansub Block\c&HEAE8ED&\fscx83.75\fscy137.5\frz94.35\pos(944,166)\clip(m 242 182 l 276 356 394 400 566 430 696 404 788 386 942 318 926 186 892 74 884 36 668 4 344 12 284 20)}A
+Dialogue: 1,0:14:48.07,0:14:48.11,signs,,0,0,0,,{\blur0.6\an2\fs290\fnFansub Block\c&HEAE8ED&\frz177.264\fscx118.75\fscy131.25\pos(614,462)}A
 Dialogue: 1,0:14:48.07,0:14:48.11,signs,,0,0,0,,{\blur1\an8\fs121\c&H7A7A7A&\frz3.752\pos(756,62)}Who \Nare you?
 Dialogue: 1,0:14:48.07,0:14:48.11,signs,,0,0,0,,{\blur1\an8\fs121\c&H7A7A7A&\frz3.752\pos(402,62)}Who \Nare {\i1}you{\i0}?
 Dialogue: 2,0:14:48.07,0:14:48.11,signs,,0,0,0,,{\blur1\an8\fs81\c&H7A7A7A&\frz3.752\pos(570,472)}Face and pose \Nare the same
-Dialogue: 1,0:14:48.11,0:14:48.15,signs,,0,0,0,,{\an2\fs490\fnFansub Block\c&HEAE8ED&\fscx83.75\fscy137.5\frz94.35\pos(1092,170)\clip(m 392 22 l 416 384 700 414 846 374 988 360 1106 302 1082 90 1030 24)}A
-Dialogue: 1,0:14:48.11,0:14:48.15,signs,,0,0,0,,{\an2\fs290\fnFansub Block\c&HEAE8ED&\frz177.264\fscx118.75\fscy131.25\pos(730,468)}A
+Dialogue: 1,0:14:48.11,0:14:48.15,signs,,0,0,0,,{\blur0.6\an2\fs490\fnFansub Block\c&HEAE8ED&\fscx83.75\fscy137.5\frz94.35\pos(1092,170)\clip(m 392 22 l 416 384 700 414 846 374 988 360 1106 302 1082 90 1030 24)}A
+Dialogue: 1,0:14:48.11,0:14:48.15,signs,,0,0,0,,{\blur0.6\an2\fs290\fnFansub Block\c&HEAE8ED&\frz177.264\fscx118.75\fscy131.25\pos(730,468)}A
 Dialogue: 1,0:14:48.11,0:14:48.15,signs,,0,0,0,,{\blur1\an8\fs121\c&H7A7A7A&\frz3.752\pos(902,62)}Who \Nare you?
 Dialogue: 1,0:14:48.11,0:14:48.15,signs,,0,0,0,,{\blur1\an8\fs121\c&H7A7A7A&\frz3.752\pos(548,62)}Who \Nare {\i1}you{\i0}?
 Dialogue: 2,0:14:48.11,0:14:48.15,signs,,0,0,0,,{\blur1\an8\fs81\c&H7A7A7A&\frz3.752\pos(715,472)}Face and pose \Nare the same
-Dialogue: 1,0:14:48.15,0:14:48.20,signs,,0,0,0,,{\an2\fs490\fnFansub Block\c&HEAE8ED&\fscx83.75\fscy137.5\frz94.35\pos(1202,164)\clip(m 564 20 l 528 196 572 338 602 400 744 416 910 408 1062 388 1176 338 1234 252 1238 84 1200 48 1198 26)}A
-Dialogue: 1,0:14:48.15,0:14:48.20,signs,,0,0,0,,{\an2\fs290\fnFansub Block\c&HEAE8ED&\frz177.264\fscx118.75\fscy131.25\pos(884,466)}A
+Dialogue: 1,0:14:48.15,0:14:48.20,signs,,0,0,0,,{\blur0.6\an2\fs490\fnFansub Block\c&HEAE8ED&\fscx83.75\fscy137.5\frz94.35\pos(1202,164)\clip(m 564 20 l 528 196 572 338 602 400 744 416 910 408 1062 388 1176 338 1234 252 1238 84 1200 48 1198 26)}A
+Dialogue: 1,0:14:48.15,0:14:48.20,signs,,0,0,0,,{\blur0.6\an2\fs290\fnFansub Block\c&HEAE8ED&\frz177.264\fscx118.75\fscy131.25\pos(884,466)}A
 Dialogue: 1,0:14:48.15,0:14:48.20,signs,,0,0,0,,{\blur1\an8\fs121\c&H7A7A7A&\frz3.752\pos(1032,62)}Who \Nare you?
 Dialogue: 1,0:14:48.15,0:14:48.20,signs,,0,0,0,,{\blur1\an8\fs121\c&H7A7A7A&\frz3.752\pos(688,62)}Who \Nare {\i1}you{\i0}?
 Dialogue: 2,0:14:48.15,0:14:48.20,signs,,0,0,0,,{\blur1\an8\fs81\c&H7A7A7A&\frz3.752\pos(850,472)}Face and pose \Nare the same
-Dialogue: 1,0:14:48.20,0:14:48.24,signs,,0,0,0,,{\an2\fs490\fnFansub Block\c&HEAE8ED&\fscx83.75\fscy137.5\frz94.35\pos(1290,170)\clip(m 692 26 l 648 74 676 384 966 416 1108 386 1254 346 1274 220 1272 18)}A
-Dialogue: 1,0:14:48.20,0:14:48.24,signs,,0,0,0,,{\an2\fs290\fnFansub Block\c&HEAE8ED&\frz177.264\fscx118.75\fscy131.25\pos(980,464)}A
+Dialogue: 1,0:14:48.20,0:14:48.24,signs,,0,0,0,,{\blur0.6\an2\fs490\fnFansub Block\c&HEAE8ED&\fscx83.75\fscy137.5\frz94.35\pos(1290,170)\clip(m 692 26 l 648 74 676 384 966 416 1108 386 1254 346 1274 220 1272 18)}A
+Dialogue: 1,0:14:48.20,0:14:48.24,signs,,0,0,0,,{\blur0.6\an2\fs290\fnFansub Block\c&HEAE8ED&\frz177.264\fscx118.75\fscy131.25\pos(980,464)}A
 Dialogue: 1,0:14:48.20,0:14:48.24,signs,,0,0,0,,{\blur1\an8\fs121\c&H7A7A7A&\frz3.752\pos(1148,62)}Who \Nare you?
 Dialogue: 1,0:14:48.20,0:14:48.24,signs,,0,0,0,,{\blur1\an8\fs121\c&H7A7A7A&\frz3.752\pos(794,62)}Who \Nare {\i1}you{\i0}?
 Dialogue: 2,0:14:48.20,0:14:48.24,signs,,0,0,0,,{\blur1\an8\fs81\c&H7A7A7A&\frz3.752\pos(965,472)}Face and pose \Nare the same
-Dialogue: 1,0:14:48.24,0:14:48.28,signs,,0,0,0,,{\an4\fs490\fnFansub Block\c&HEAE8ED&\fscx83.75\fscy137.5\frz94.35\pos(1096,388)\clip(m 732 12 l 726 278 750 394 1046 414 1254 384 1278 322 1358 30 1262 2)}A
-Dialogue: 1,0:14:48.24,0:14:48.28,signs,,0,0,0,,{\an2\fs290\fnFansub Block\c&HEAE8ED&\frz177.264\fscx118.75\fscy131.25\pos(1048,470)}A
+Dialogue: 1,0:14:48.24,0:14:48.28,signs,,0,0,0,,{\blur0.6\an4\fs490\fnFansub Block\c&HEAE8ED&\fscx83.75\fscy137.5\frz94.35\pos(1096,388)\clip(m 732 12 l 726 278 750 394 1046 414 1254 384 1278 322 1358 30 1262 2)}A
+Dialogue: 1,0:14:48.24,0:14:48.28,signs,,0,0,0,,{\blur0.6\an2\fs290\fnFansub Block\c&HEAE8ED&\frz177.264\fscx118.75\fscy131.25\pos(1048,470)}A
 Dialogue: 1,0:14:48.24,0:14:48.28,signs,,0,0,0,,{\blur1\an8\fs121\c&H7A7A7A&\frz3.752\pos(1218,62)}Who \Nare you?
 Dialogue: 1,0:14:48.24,0:14:48.28,signs,,0,0,0,,{\blur1\an8\fs121\c&H7A7A7A&\frz3.752\pos(877,62)}Who \Nare {\i1}you{\i0}?
 Dialogue: 2,0:14:48.24,0:14:48.28,signs,,0,0,0,,{\blur1\an8\fs81\c&H7A7A7A&\frz3.752\pos(1040,472)}Face and pose \Nare the same
-Dialogue: 1,0:14:48.28,0:14:48.32,signs,,0,0,0,,{\an4\fs490\fnFansub Block\c&HEAE8ED&\fscx83.75\fscy137.5\frz94.35\clip(m 732 12 l 726 278 750 394 1046 414 1254 384 1278 322 1358 30 1262 2)\pos(1114,388)}A
-Dialogue: 1,0:14:48.28,0:14:48.32,signs,,0,0,0,,{\an2\fs290\fnFansub Block\c&HEAE8ED&\frz177.264\fscx118.75\fscy131.25\pos(1084,470)}A
+Dialogue: 1,0:14:48.28,0:14:48.32,signs,,0,0,0,,{\blur0.6\an4\fs490\fnFansub Block\c&HEAE8ED&\fscx83.75\fscy137.5\frz94.35\clip(m 732 12 l 726 278 750 394 1046 414 1254 384 1278 322 1358 30 1262 2)\pos(1114,388)}A
+Dialogue: 1,0:14:48.28,0:14:48.32,signs,,0,0,0,,{\blur0.6\an2\fs290\fnFansub Block\c&HEAE8ED&\frz177.264\fscx118.75\fscy131.25\pos(1084,470)}A
 Dialogue: 1,0:14:48.28,0:14:48.32,signs,,0,0,0,,{\blur1\an8\fs121\c&H7A7A7A&\frz3.752\pos(1248,62)}Who \Nare you?
 Dialogue: 1,0:14:48.28,0:14:48.32,signs,,0,0,0,,{\blur1\an8\fs121\c&H7A7A7A&\frz3.752\pos(898,62)}Who \Nare {\i1}you{\i0}?
 Dialogue: 2,0:14:48.28,0:14:48.32,signs,,0,0,0,,{\blur1\an8\fs81\c&H7A7A7A&\frz3.752\pos(1066,472)}Face and pose \Nare the same
-Dialogue: 1,0:14:48.32,0:14:49.36,signs,,0,0,0,,{\an4\fs490\fnFansub Block\c&HEAE8ED&\fscx83.75\fscy137.5\frz94.35\clip(m 732 12 l 726 278 750 394 1046 414 1254 384 1278 322 1358 30 1262 2)\pos(1114,387)}A
-Dialogue: 1,0:14:48.32,0:14:49.36,signs,,0,0,0,,{\an2\fs290\fnFansub Block\c&HEAE8ED&\frz177.264\fscx118.75\fscy131.25\pos(1084,470)}A
+Dialogue: 1,0:14:48.32,0:14:49.36,signs,,0,0,0,,{\blur0.6\an4\fs490\fnFansub Block\c&HEAE8ED&\fscx83.75\fscy137.5\frz94.35\clip(m 732 12 l 726 278 750 394 1046 414 1254 384 1278 322 1358 30 1262 2)\pos(1114,387)}A
+Dialogue: 1,0:14:48.32,0:14:49.36,signs,,0,0,0,,{\blur0.6\an2\fs290\fnFansub Block\c&HEAE8ED&\frz177.264\fscx118.75\fscy131.25\pos(1084,470)}A
 Dialogue: 1,0:14:48.32,0:14:49.36,signs,,0,0,0,,{\blur1\an8\fs121\c&H7A7A7A&\frz3.752\pos(1248,62)}Who \Nare you?
 Dialogue: 1,0:14:48.32,0:14:49.36,signs,,0,0,0,,{\blur1\an8\fs121\c&H7A7A7A&\frz3.752\pos(898,62)}Who \Nare {\i1}you{\i0}?
 Dialogue: 2,0:14:48.32,0:14:49.36,signs,,0,0,0,,{\blur1\an8\fs81\c&H7A7A7A&\frz3.752\pos(1066,472)}Face and pose \Nare the same
@@ -347,12 +347,12 @@ Dialogue: 0,0:15:03.67,0:15:06.88,signs,,0,0,0,,{\clip(706,716,1012,717)\pos(146
 Dialogue: 0,0:15:03.67,0:15:06.88,signs,,0,0,0,,{\clip(706,717,1012,718)\pos(146,220)\blur1\fs290\fnFansub Block\p1\c&HDDDBE0&}m 786 569 l 716 708 953 788 1008 681
 Dialogue: 0,0:15:03.67,0:15:06.88,signs,,0,0,0,,{\clip(706,718,1012,719)\pos(146,220)\blur1\fs290\fnFansub Block\p1\c&HDDDBE0&}m 786 569 l 716 708 953 788 1008 681
 Dialogue: 0,0:15:03.67,0:15:06.88,signs,,0,0,0,,{\clip(706,719,1012,720)\pos(146,220)\blur1\fs290\fnFansub Block\p1\c&HDDDBE0&}m 786 569 l 716 708 953 788 1008 681
-Dialogue: 0,0:15:03.67,0:15:06.88,signs,,0,0,0,,{\an8\fs290\fnFansub Block\frz333.848\c&HE4E2E7&\pos(1097,720)\clip(m 998 726 l 1022 689 1093 718 1039 748)}A
+Dialogue: 0,0:15:03.67,0:15:06.88,signs,,0,0,0,,{\blur0.6\an8\fs290\fnFansub Block\frz333.848\c&HE4E2E7&\pos(1097,720)\clip(m 998 726 l 1022 689 1093 718 1039 748)}A
 Dialogue: 0,0:15:03.67,0:15:06.88,signs,,0,0,0,,{\fs290\blur2\fnFansub Block\c&HE9E8EC&\frz333.848\clip(m 1152 520 l 1121 588 1128 632 1171 672 1228 694 1294 707 1308 571 1264 553)\pos(1221,696)}A
 Dialogue: 0,0:15:03.67,0:15:06.88,signs,,0,0,0,,{\fs290\blur2\fnFansub Block\frz331\c&HECECF1&\clip(m 493 12 l 534 56 650 116 734 162 756 161 770 146 793 110 828 53 727 -3 502 -4)\pos(626,97)}A
-Dialogue: 0,0:15:03.67,0:15:06.88,signs,,0,0,0,,{\fs290\fnFansub Block\frz331\c&HECEBEF&\pos(960,574)\clip(m 940 505 l 929 521 956 537 953 547 993 561 1011 566 1019 558 1033 536 1049 502 1060 476 971 440 964 433 950 483)}A
-Dialogue: 0,0:15:03.67,0:15:06.88,signs,,0,0,0,,{\fs290\fnFansub Block\frz331\c&HEDECF2&\pos(1064,348)\clip(m 1000 260 l 1004 305 1110 363 1156 350 1193 324 1222 297 1257 236 1080 171 1049 180)}A
-Dialogue: 0,0:15:03.67,0:15:06.88,signs,,0,0,0,,{\fs290\fnFansub Block\frz331\c&HEDECF1&\pos(852,209)\clip(m 798 163 l 825 186 851 201 883 211 915 217 929 227 950 227 1003 138 861 71 838 58 799 125)}A
+Dialogue: 0,0:15:03.67,0:15:06.88,signs,,0,0,0,,{\blur0.6\fs290\fnFansub Block\frz331\c&HECEBEF&\pos(960,574)\clip(m 940 505 l 929 521 956 537 953 547 993 561 1011 566 1019 558 1033 536 1049 502 1060 476 971 440 964 433 950 483)}A
+Dialogue: 0,0:15:03.67,0:15:06.88,signs,,0,0,0,,{\blur0.6\fs290\fnFansub Block\frz331\c&HEDECF2&\pos(1064,348)\clip(m 1000 260 l 1004 305 1110 363 1156 350 1193 324 1222 297 1257 236 1080 171 1049 180)}A
+Dialogue: 0,0:15:03.67,0:15:06.88,signs,,0,0,0,,{\blur0.6\fs290\fnFansub Block\frz331\c&HEDECF1&\pos(852,209)\clip(m 798 163 l 825 186 851 201 883 211 915 217 929 227 950 227 1003 138 861 71 838 58 799 125)}A
 Comment: 1,0:15:03.67,0:15:06.88,signs,,0,0,0,,{\blur\fnFansub Block\c&HECEBF0&\p1\pos(164,319)\clip(213,253,567,584)}m 235 410 l 245 467 292 505 331 521 360 542 395 579 437 576 463 571 563 395 320 259
 Comment: 0,0:15:03.67,0:15:06.88,signs,,0,0,0,,{\blur\fnFansub Block\c&HE1DFE3&\p1\pos(164,319)\clip(213,253,567,584)}m 235 410 l 245 467 292 505 331 521 360 542 395 579 437 576 463 571 563 395 320 259
 Dialogue: 1,0:15:03.67,0:15:06.88,signs,,0,0,0,,{\clip(213,253,567,254)\pos(164,319)\blur\fnFansub Block\p1\c&HECEBF0&}m 235 410 l 245 467 292 505 331 521 360 542 395 579 437 576 463 571 563 395 320 259
@@ -686,7 +686,7 @@ Dialogue: 1,0:15:03.67,0:15:06.88,signs,,0,0,0,,{\clip(213,580,567,581)\pos(164,
 Dialogue: 1,0:15:03.67,0:15:06.88,signs,,0,0,0,,{\clip(213,581,567,582)\pos(164,319)\blur\fnFansub Block\p1\c&HE1DFE3&}m 235 410 l 245 467 292 505 331 521 360 542 395 579 437 576 463 571 563 395 320 259
 Dialogue: 1,0:15:03.67,0:15:06.88,signs,,0,0,0,,{\clip(213,582,567,583)\pos(164,319)\blur\fnFansub Block\p1\c&HE1DFE3&}m 235 410 l 245 467 292 505 331 521 360 542 395 579 437 576 463 571 563 395 320 259
 Dialogue: 1,0:15:03.67,0:15:06.88,signs,,0,0,0,,{\clip(213,583,567,584)\pos(164,319)\blur\fnFansub Block\p1\c&HE1DFE3&}m 235 410 l 245 467 292 505 331 521 360 542 395 579 437 576 463 571 563 395 320 259
-Dialogue: 0,0:15:03.67,0:15:06.88,signs,,0,0,0,,{\fs280\fnFansub Block\frz331\pos(598,334)\c&HECEBEF&\clip(m 546 252 l 588 296 639 332 687 347 710 348 724 345 733 332 744 315 753 305 763 281 765 257 758 245 611 163 576 189)}A
+Dialogue: 0,0:15:03.67,0:15:06.88,signs,,0,0,0,,{\blur0.6\fs280\fnFansub Block\frz331\pos(598,334)\c&HECEBEF&\clip(m 546 252 l 588 296 639 332 687 347 710 348 724 345 733 332 744 315 753 305 763 281 765 257 758 245 611 163 576 189)}A
 Comment: 0,0:15:03.67,0:15:06.88,signs,,0,0,0,,{\blur1\fs280\fnFansub Block\c&HECEAEF&\frz331\pos(578,630)\clip(m 504 574 l 513 603 632 664 675 680 723 665 798 520 572 396 487 549)}A
 Comment: 0,0:15:03.67,0:15:06.88,signs,,0,0,0,,{\blur1\fnFansub Block\c&HECEAEF&\p1\pos(155,284)\clip(475,392,802,685)}m 504 574 l 513 603 632 664 675 680 723 665 798 520 572 396 487 549
 Comment: 0,0:15:03.67,0:15:06.88,signs,,0,0,0,,{\blur1\fnFansub Block\c&HE0DEE3&\p1\pos(155,284)}m 504 574 l 513 603 632 664 675 680 723 665 798 520 572 396 487 549
@@ -1003,7 +1003,7 @@ Dialogue: 0,0:11:46.14,0:11:49.02,Silence,,0,0,0,,{\an1\pos(858,605)\b0\fsp-1\fs
 Dialogue: 0,0:08:29.36,0:08:32.49,lul,,0,0,0,,{\fax0.1\bord0\blur1\c&H1E4C7A&\frz352.364\fscx66.25\fscy71.25\move(620,544,649,544)}Nakai
 Dialogue: 0,0:07:51.36,0:07:57.12,Huge,,0,0,0,,{\b0\blur0.8\frz16\fax0.1\move(441,643,441,9)\c&H070707&\t(0,418,(\c&HB3B8BA&))}I've received it.
 Dialogue: 0,0:04:56.90,0:05:01.98,Textmsgs,,0,0,0,,{\fax0.2\blur1\c&H636160&\fscx65\fscy65\frz26.183\move(374,-98,526,180)}Survey Rankings        Shady Detective Trap
-Dialogue: 0,0:16:06.77,0:16:09.03,Huge,,0,0,0,,{\fax-0.2\b0\bord0\blur1\c&H838186&\fscx88\fscy96\frz-8\fax-0.3\pos(690,216)}Ashirogi Muto
+Dialogue: 0,0:16:06.77,0:16:09.03,Huge,,0,0,0,,{\b0\bord0\blur1\c&H838186&\fscx88\fscy96\frz-8\fax-0.3\pos(690,216)}Ashirogi Muto
 Dialogue: 0,0:17:30.57,0:17:34.36,Huge,,0,0,0,,{\fax-0.35\b0\bord0\blur1\frz152\fscx110\fscy110\c&H9C9C9C&\move(302,-84,628,352)}Two of Me \NAshirogi Muto
 Dialogue: 0,0:17:52.46,0:17:52.55,Huge,,0,0,0,,{\b0\bord0\blur1\c&H838383&\fscx88\fscy96\pos(872,60)}Ashirogi Muto
 Dialogue: 0,0:17:52.55,0:17:52.67,Huge,,0,0,0,,{\b0\bord0\blur1\c&H838383&\fscx88\fscy96\pos(865,295)}Ashirogi Muto
@@ -1634,13 +1634,13 @@ Dialogue: 0,0:21:46.40,0:21:46.45,Sings2,,0,0,0,,{\pos(279.33,266.04)\blur1\fax0
 Dialogue: 0,0:21:46.45,0:21:46.49,Sings2,,0,0,0,,{\pos(279.1,265.81)\blur1\fax0.8\frz16.006\fscx45\fscy45\c&H706096&\clip(m 346 444 l 160 259 230 237 313 319 448 184)}Serialization Name
 Dialogue: 0,0:21:46.49,0:21:46.53,Sings2,,0,0,0,,{\pos(279.04,265.65)\blur1\fax0.8\frz16.006\fscx45\fscy45\c&H715DAC&\clip(m 346 444 l 160 259 230 237 313 319 448 184)}Serialization Name
 Dialogue: 0,0:21:46.53,0:21:47.03,Sings2,,0,0,0,,{\pos(279.04,265.65)\blur1\fax0.8\frz16.006\fscx45\fscy45\c&H6F5ABE&\clip(m 346 444 l 160 259 230 237 313 319 448 184)\1a&HFF&}Serialization Name
-Dialogue: 0,0:21:47.03,0:21:47.95,Sings2,,0,0,0,,{\blur1\fax0.8\frz16.006\fscx45\fscy45\c&H6F5ABA&\pos(279.14,265.62)\fad(0,900)\t(0,900,\c&000000&)\clip(m 346 444 l 160 259 230 237 313 319 448 184)}Serialization Name
+Dialogue: 0,0:21:47.03,0:21:47.95,Sings2,,0,0,0,,{\blur1\fax0.8\frz16.006\fscx45\fscy45\c&H6F5ABA&\pos(279.14,265.62)\fad(0,900)\t(0,900,\c&H000000&)\clip(m 346 444 l 160 259 230 237 313 319 448 184)}Serialization Name
 Dialogue: 0,0:21:46.36,0:21:46.40,Sings2,,0,0,0,,{\pos(279.38,266.32)\blur1\fax0.8\frz16.006\fscx45\fscy45\c&H8C817B&\iclip(m 346 444 l 160 259 230 237 313 319 448 184)}Serialization Name
 Dialogue: 0,0:21:46.40,0:21:46.45,Sings2,,0,0,0,,{\pos(279.33,266.04)\blur1\fax0.8\frz16.006\fscx45\fscy45\c&H8C817B&\iclip(m 346 444 l 160 259 230 237 313 319 448 184)}Serialization Name
 Dialogue: 0,0:21:46.45,0:21:46.49,Sings2,,0,0,0,,{\pos(279.1,265.81)\blur1\fax0.8\frz16.006\fscx45\fscy45\c&H8C817B&\iclip(m 346 444 l 160 259 230 237 313 319 448 184)}Serialization Name
 Dialogue: 0,0:21:46.49,0:21:46.53,Sings2,,0,0,0,,{\pos(279.04,265.65)\blur1\fax0.8\frz16.006\fscx45\fscy45\c&H8C817B&\iclip(m 346 444 l 160 259 230 237 313 319 448 184)}Serialization Name
 Dialogue: 0,0:21:46.53,0:21:47.03,Sings2,,0,0,0,,{\pos(279.04,265.65)\blur1\fax0.8\frz16.006\fscx45\fscy45\c&H8C817B&\iclip(m 346 444 l 160 259 230 237 313 319 448 184)}Serialization Name
-Dialogue: 0,0:21:47.03,0:21:47.95,Sings2,,0,0,0,,{\blur1\fax0.8\frz16.006\fscx45\fscy45\c&H8C817B&\pos(279.14,265.62)\fad(0,900)\t(0,900,\c&000000&)\iclip(m 346 444 l 160 259 230 237 313 319 448 184)}Serialization Name
+Dialogue: 0,0:21:47.03,0:21:47.95,Sings2,,0,0,0,,{\blur1\fax0.8\frz16.006\fscx45\fscy45\c&H8C817B&\pos(279.14,265.62)\fad(0,900)\t(0,900,\c&H000000&)\iclip(m 346 444 l 160 259 230 237 313 319 448 184)}Serialization Name
 Dialogue: 0,0:21:48.32,0:21:48.37,Sings2,,0,0,0,,{\alpha&H55&\blur0.8\fscx45\fscy45\frz352.746\pos(910,473)\c&H402A22&}One-shot
 Dialogue: 0,0:21:48.37,0:21:48.41,Sings2,,0,0,0,,{\alpha&H35&\blur0.8\fscx45\fscy45\frz352.746\pos(910,465)\c&H402C24&}One-shot
 Dialogue: 0,0:21:48.41,0:21:48.45,Sings2,,0,0,0,,{\alpha&H25&\blur0.8\fscx45\fscy45\frz352.746\c&H402C24&\pos(910,457)}One-shot
@@ -1700,7 +1700,7 @@ Dialogue: 0,0:21:50.62,0:21:50.66,Sings2,,0,0,0,,{\pos(911.29,318.88)\clip(m 960
 Dialogue: 0,0:21:50.66,0:21:50.70,Sings2,,0,0,0,,{\pos(911.29,318.88)\clip(m 960 276 l 909 327 962 366 1026 303)\blur0.8\fscx45\fscy45\frz352.746\c&H696289&}One-shot
 Dialogue: 0,0:21:50.70,0:21:50.74,Sings2,,0,0,0,,{\pos(911.29,318.88)\clip(m 960 276 l 909 327 962 366 1026 303)\blur0.8\fscx45\fscy45\frz352.746\c&H675B98&}One-shot
 Dialogue: 0,0:21:50.74,0:21:50.78,Sings2,,0,0,0,,{\pos(911.29,318.88)\clip(m 960 276 l 909 327 962 366 1026 303)\blur0.8\fscx45\fscy45\frz352.746\c&H6758AB&}One-shot
-Dialogue: 1,0:21:51.24,0:21:51.74,Sings2,,0,0,0,,{\pos(911.29,318.88)\iclip(m 960 276 l 909 327 962 366 1026 303)\blur0.8\fscx45\fscy45\frz352.746\c&H7F7D76&\t(\alpha&HF0&\c&00000&)}One-shot
+Dialogue: 1,0:21:51.24,0:21:51.74,Sings2,,0,0,0,,{\pos(911.29,318.88)\iclip(m 960 276 l 909 327 962 366 1026 303)\blur0.8\fscx45\fscy45\frz352.746\c&H7F7D76&\t(\alpha&HF0&\c&H000000&)}One-shot
 Dialogue: 0,0:21:51.28,0:21:51.79,Sings2,,0,0,0,,{\pos(911.29,318.88)\clip(m 960 276 l 909 327 962 366 1026 303)\blur0.8\fscx45\fscy45\frz352.746\c&H6F5CBA&\fad(0,200)\t(\alpha&HF0&\c&H000000&)}One-shot
 Dialogue: 0,0:21:52.04,0:21:52.08,Sings2,,0,0,0,,{\alpha&HB5&\blur1\fax-0.8\frz343.134\fscx31.25\fscy32.5\c&H3D2A23&\pos(389,451)}Serialization Name
 Dialogue: 0,0:21:52.08,0:21:52.12,Sings2,,0,0,0,,{\alpha&H65&\blur1\fax-0.8\frz343.134\fscx31.25\fscy32.5\c&H3D2A23&\pos(392,437)}Serialization Name
@@ -1831,8 +1831,8 @@ Dialogue: 10,0:00:13.20,0:00:14.32,Default,,0,0,0,,Even Miyoshi was...
 Dialogue: 10,0:00:14.41,0:00:16.74,Default-Italic,,0,0,0,,{\fad(146,0)}Cheer up! On to the next one!
 Dialogue: 10,0:00:16.74,0:00:18.08,Default,,0,0,0,,...like that.
 Dialogue: 10,0:00:18.08,0:00:21.37,Default,,0,0,0,,She doesn't get that the more pressure I'm under, the less I want to work.
-Dialogue: 10,0:00:21.37,0:00:23.31,Default,,0,0,0,,She's not wrong.
-Dialogue: 10,0:00:23.31,0:00:25.71,Default,,0,0,0,,You're already feeling better and thinking about the next one, right?
+Dialogue: 10,0:00:21.37,0:00:23.25,Default,,0,0,0,,She's not wrong.
+Dialogue: 10,0:00:23.25,0:00:25.71,Default,,0,0,0,,You're already feeling better and thinking about the next one, right?
 Dialogue: 10,0:00:26.75,0:00:28.84,Default,,0,0,0,,Our next one, huh.
 Dialogue: 10,0:00:28.84,0:00:33.17,Default,,0,0,0,,The next work after a serialization is both important and difficult.
 Dialogue: 10,0:00:33.17,0:00:33.80,Default,,0,0,0,,Yeah.
@@ -1857,8 +1857,8 @@ Dialogue: 10,0:02:56.36,0:02:59.20,Default,,0,0,0,,First, we need to put out a d
 Dialogue: 10,0:02:59.20,0:03:01.86,Default,,0,0,0,,We don't have school, so let's sleep on it.
 Dialogue: 10,0:03:02.70,0:03:05.62,Default,,0,0,0,,For college, I'm thinking of Yana College's business school.
 Dialogue: 10,0:03:05.62,0:03:07.61,Default,,0,0,0,,Business school?
-Dialogue: 10,0:03:07.61,0:03:09.75,Default,,0,0,0,,That's got nothing to do with us.
-Dialogue: 10,0:03:09.75,0:03:11.08,Default,,0,0,0,,I wouldn't even pass the entrance exam.
+Dialogue: 10,0:03:07.61,0:03:09.66,Default,,0,0,0,,That's got nothing to do with us.
+Dialogue: 10,0:03:09.66,0:03:11.08,Default,,0,0,0,,I wouldn't even pass the entrance exam.
 Dialogue: 10,0:03:11.50,0:03:13.54,Default,,0,0,0,,It's only two subjects, \NEnglish and Japanese,
 Dialogue: 10,0:03:13.54,0:03:15.50,Default,,0,0,0,,and I could help you, so \Nthere wouldn't be a problem.
 Dialogue: 10,0:03:15.92,0:03:16.92,Default,,0,0,0,,I see.
@@ -1866,7 +1866,7 @@ Dialogue: 10,0:03:17.88,0:03:19.63,Default,,0,0,0,,Have you told Miyoshi about t
 Dialogue: 10,0:03:20.47,0:03:22.09,Default,,0,0,0,,Oh, sure, I'll go.
 Dialogue: 10,0:03:22.09,0:03:23.34,Default,,0,0,0,,Tutor me!
 Dialogue: 10,0:03:23.34,0:03:25.68,Default,,0,0,0,,O-Okay, starting tomorrow.
-Dialogue: 10,0:03:28.02,0:03:32.48,Default,,0,0,0,,Miura, don't you have any names  for the next serialization meeting?
+Dialogue: 10,0:03:28.02,0:03:32.48,Default,,0,0,0,,Miura, don't you have any names for the next serialization meeting?
 Dialogue: 10,0:03:32.48,0:03:33.48,Default,,0,0,0,,Uh, no.
 Dialogue: 10,0:03:34.16,0:03:35.11,Default,,0,0,0,,Sorry.
 Dialogue: 10,0:03:35.11,0:03:37.53,Default,,0,0,0,,Takahama's can't make \Nthe February meeting...
@@ -1921,8 +1921,8 @@ Dialogue: 10,0:05:38.40,0:05:40.77,Default-Italic,,0,0,0,,This isn't something g
 Dialogue: 10,0:05:41.40,0:05:43.28,Default-Italic,,0,0,0,,We're not seeing eye-to-eye anymore!
 Dialogue: 10,0:05:44.99,0:05:46.40,Default,,0,0,0,,Miura's no good.
 Dialogue: 10,0:05:46.40,0:05:47.45,Default,,0,0,0,,He isn't?
-Dialogue: 10,0:05:47.45,0:05:48.36,Default,,0,0,0,,Why not?
-Dialogue: 10,0:05:48.36,0:05:50.46,Default,,0,0,0,,We should definitely make a one-shot that could potentially
+Dialogue: 10,0:05:47.45,0:05:48.32,Default,,0,0,0,,Why not?
+Dialogue: 10,0:05:48.32,0:05:50.46,Default,,0,0,0,,We should definitely make a one-shot that could potentially
 Dialogue: 10,0:05:50.46,0:05:52.41,Default,,0,0,0,,get serialized instead of \Na serialization name!
 Dialogue: 10,0:05:52.41,0:05:54.33,Default,,0,0,0,,Aren't they basically the same thing?
 Dialogue: 10,0:05:55.41,0:05:56.66,Default,,0,0,0,,Hattori!
@@ -1965,7 +1965,7 @@ Dialogue: 10,0:07:41.02,0:07:42.40,Default,,0,0,0,,Thank you.
 Dialogue: 10,0:07:43.06,0:07:44.52,Default,,0,0,0,,He said a "harsh" story.
 Dialogue: 10,0:07:44.52,0:07:45.86,Default,,0,0,0,,"Harsh?"
 Dialogue: 10,0:07:45.86,0:07:47.94,Default,,0,0,0,,What does that even mean?
-Dialogue: 10,0:07:49.19,0:07:51.24,Default,,0,0,0,,{\i1}Money and Intelligence.{\i0}
+Dialogue: 10,0:07:49.19,0:07:51.24,Default,,0,0,0,,{\i1}Money and Intelligence.
 Dialogue: 10,0:07:51.78,0:07:52.91,Default,,0,0,0,,That, huh?
 Dialogue: 10,0:07:52.91,0:07:55.56,Default,,0,0,0,,It was harsh and it {\i1}did{\i0} \Nrank higher than Eiji's,
 Dialogue: 10,0:07:55.56,0:07:57.12,Default,,0,0,0,,even if it was only in the early results.
@@ -2030,8 +2030,8 @@ Dialogue: 10,0:11:08.14,0:11:09.56,Default,,0,0,0,,Miura!
 Dialogue: 10,0:11:09.56,0:11:11.06,Default,,0,0,0,,Were you paying attention to that?
 Dialogue: 10,0:11:11.06,0:11:13.48,Default,,0,0,0,,If you keep fooling around, \Nyou'll be overtaken soon!
 Dialogue: 10,0:11:13.94,0:11:16.82,Default,,0,0,0,,Hurry up and submit \NAshirogi Muto's contract!
-Dialogue: 10,0:11:16.82,0:11:19.07,Default,,0,0,0,,Even {\i1}I'm{\i0} starting to feel pressure from the higher-ups about it!
-Dialogue: 10,0:11:19.07,0:11:20.65,Default,,0,0,0,,Oh, sorry.
+Dialogue: 10,0:11:16.82,0:11:19.11,Default,,0,0,0,,Even {\i1}I'm{\i0} starting to feel pressure from the higher-ups about it!
+Dialogue: 10,0:11:19.11,0:11:20.65,Default,,0,0,0,,Oh, sorry.
 Dialogue: 10,0:11:20.65,0:11:21.70,Default,,0,0,0,,I just forgot...
 Dialogue: 10,0:11:21.70,0:11:23.32,Default,,0,0,0,,"Just forgot?"
 Dialogue: 10,0:11:23.32,0:11:24.53,Default,,0,0,0,,Come on!
@@ -2175,7 +2175,7 @@ Dialogue: 10,0:17:31.32,0:17:33.61,Default-Italic,,0,0,0,,What really shows \NSh
 Dialogue: 10,0:17:34.36,0:17:36.24,Default,,0,0,0,,Wonderful.
 Dialogue: 10,0:17:36.24,0:17:37.95,Default,,0,0,0,,Both of them are great.
 Dialogue: 10,0:17:37.95,0:17:39.23,Default,,0,0,0,,If we fix them up a bit,
-Dialogue: 10,0:17:39.23,0:17:41.33,Default,,0,0,0,,I can confidently present either one to the serialization committee.
+Dialogue: 10,0:17:39.23,0:17:41.33,Default,,0,0,0, [unreadable],I can confidently present either one to the serialization committee.
 Dialogue: 10,0:17:41.33,0:17:42.54,Default-Italic,,0,0,0,,Either one?
 Dialogue: 10,0:17:42.54,0:17:44.91,Default-Italic,,0,0,0,,No matter how you \Nlook at it, {\i1}Two of Me{\i0} is...
 Dialogue: 10,0:17:44.91,0:17:46.24,Default-Italic,,0,0,0,,Which one?
@@ -2216,8 +2216,8 @@ Dialogue: 10,0:19:05.04,0:19:06.37,Default,,0,0,0,,{\fad(0,390)}Yeah!
 Dialogue: 10,0:19:06.62,0:19:08.12,Default,,0,0,0,,I didn't hear about this!
 Dialogue: 10,0:19:08.12,0:19:09.79,Default,,0,0,0,,What were you thinking \Nby going over my head?!
 Dialogue: 10,0:19:09.79,0:19:12.21,Default,,0,0,0,,We want to try things \Nout with a one-shot!
-Dialogue: 10,0:19:12.21,0:19:13.84,Default,,0,0,0,,Use your common sense!
-Dialogue: 10,0:19:13.84,0:19:16.73,Default,,0,0,0,,It's not fair to the other applicants if authors that have already been serialized
+Dialogue: 10,0:19:12.21,0:19:13.79,Default,,0,0,0,,Use your common sense!
+Dialogue: 10,0:19:13.79,0:19:16.73,Default,,0,0,0,,It's not fair to the other applicants if authors that have already been serialized
 Dialogue: 10,0:19:16.73,0:19:18.34,Default,,0,0,0,,enter the monthly competition!
 Dialogue: 10,0:19:18.34,0:19:19.68,Default,,0,0,0,,We don't need the prize!
 Dialogue: 10,0:19:19.68,0:19:20.80,Default,,0,0,0,,We just want it to be judged!
@@ -2296,8 +2296,8 @@ Dialogue: 10,0:22:33.29,0:22:34.70,Default-Italic,,0,0,0,,They haven't changed.
 Dialogue: 10,0:22:35.37,0:22:38.62,Default-Italic,,0,0,0,,Those two may just be fine as they are.
 Dialogue: 10,0:24:15.97,0:24:17.51,Default,,0,0,0,,{\i1}Future Watch{\i0} or {\i1}Hitman 10{\i0}...
 Dialogue: 10,0:24:17.51,0:24:19.27,Default,,0,0,0,,Which will be more popular?
-Dialogue: 10,0:24:19.27,0:24:21.39,Default,,0,0,0,,If you worry too much, your jokes will become old geezer jokes.
-Dialogue: 10,0:24:21.39,0:24:22.02,Default,,0,0,0,,I know, right?
+Dialogue: 10,0:24:19.27,0:24:21.48,Default,,0,0,0,,If you worry too much, your jokes will become old geezer jokes.
+Dialogue: 10,0:24:21.48,0:24:22.02,Default,,0,0,0,,I know, right?
 Dialogue: 10,0:24:22.02,0:24:23.19,Default,,0,0,0,,We're still young.
 Dialogue: 10,0:24:23.19,0:24:24.02,Default,,0,0,0,,You old fart.
 Dialogue: 10,0:24:24.02,0:24:24.81,Default,,0,0,0,,Next time on Bakuman:
