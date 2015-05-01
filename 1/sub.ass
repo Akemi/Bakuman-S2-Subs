@@ -438,7 +438,7 @@ Dialogue: 10,0:14:19.05,0:14:21.42,Default,,0,0,0,,which will begin serializatio
 Dialogue: 10,0:14:21.42,0:14:23.25,Default,,0,0,0,,It's a pleasure to meet you.
 Dialogue: 10,0:14:24.05,0:14:25.01,Default,,0,0,0,,Isn't it kind of long?
 Dialogue: 10,0:14:25.01,0:14:25.96,Default,,0,0,0,,It's fine.
-Dialogue: 10,0:14:25.96,0:14:27.84,Default,,0,0,0,,I can just finish with "I'm Mashiro".
+Dialogue: 10,0:14:25.96,0:14:27.84,Default,,0,0,0,,I can just finish with "I'm Mashiro."
 Dialogue: 10,0:14:27.84,0:14:29.13,Default,,0,0,0,,No fair!
 Dialogue: 10,0:14:29.13,0:14:30.59,Default,,0,0,0,,You should talk too!
 Dialogue: 10,0:14:30.59,0:14:32.14,Default,,0,0,0,,No way, it's not my thing.
@@ -491,7 +491,7 @@ Dialogue: 10,0:16:11.49,0:16:13.36,Default,,0,0,0,,There's a lot of delicious fo
 Dialogue: 10,0:16:13.36,0:16:15.13,Default,,0,0,0,,It's like I took a wrong turn.
 Dialogue: 10,0:16:15.13,0:16:16.83,Default,,0,0,0,,Not on the highway, but in life.
 Dialogue: 10,0:16:17.87,0:16:20.25,Default,,0,0,0,,There's no way I can be a mangaka.
-Dialogue: 10,0:16:20.70,0:16:21.68,Default,,0,0,0,,"No way"?
+Dialogue: 10,0:16:20.70,0:16:21.68,Default,,0,0,0,,"No way?"
 Dialogue: 10,0:16:21.68,0:16:23.87,Default,,0,0,0,,Didn't you want to become a mangaka?
 Dialogue: 10,0:16:23.87,0:16:24.70,Default,,0,0,0,,Did I want to?
 Dialogue: 10,0:16:25.29,0:16:27.13,Default,,0,0,0,,For a moment I did think that.
@@ -643,7 +643,7 @@ Dialogue: 10,0:21:59.13,0:22:00.75,Default,,0,0,0,,No matter how long it takes.
 Dialogue: 10,0:22:03.38,0:22:05.59,Default,,0,0,0,,The possibility isn't zero.
 Dialogue: 10,0:22:05.59,0:22:09.59,Default,,0,0,0,,Rather than thinking that, you think the possibilities are infinite.
 Dialogue: 10,0:22:09.59,0:22:12.59,Default,,0,0,0,,Instead of thinking \N"I'd like to make that a reality",
-Dialogue: 10,0:22:12.59,0:22:15.43,Default,,0,0,0,,you think "By my actions, I'll make it a reality".
+Dialogue: 10,0:22:12.59,0:22:15.43,Default,,0,0,0,,you think "By my actions, I'll make it a reality."
 Dialogue: 10,0:22:15.43,0:22:17.52,Default,,0,0,0,,I heard that from some movie.
 Dialogue: 10,0:22:18.27,0:22:18.81,Default,,0,0,0,,Yes!
 Dialogue: 10,0:22:18.81,0:22:20.73,Default,,0,0,0,,Though the party is in full swing,

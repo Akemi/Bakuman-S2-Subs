@@ -368,7 +368,7 @@ Dialogue: 10,0:16:00.77,0:16:02.27,Default,,0,0,0,,That's Aoki Ko.
 Dialogue: 10,0:16:02.27,0:16:03.81,Default,,0,0,0,,Should we try asking her?
 Dialogue: 10,0:16:03.81,0:16:06.82,Default,,0,0,0,,Aoki Ko is just her \NJack pen name, right?
 Dialogue: 10,0:16:06.82,0:16:09.99,Default,,0,0,0,,Besides, she's refused \N since freshman year.
-Dialogue: 10,0:16:09.99,0:16:13.53,Default,,0,0,0,,Should I say something\N like "I always read Jack!"?
+Dialogue: 10,0:16:09.99,0:16:13.53,Default,,0,0,0,,Should I say something\N like "I always read Jack!?"
 Dialogue: 10,0:16:13.53,0:16:15.74,Default,,0,0,0,,I don't think she's being \Nserialized right now...
 Dialogue: 10,0:16:17.20,0:16:18.45,Default,,0,0,0,,Jack?
 Dialogue: 10,0:16:21.00,0:16:24.37,Default,,0,0,0,,Will you tell me more about that?
@@ -434,8 +434,8 @@ Dialogue: 10,0:19:47.37,0:19:48.87,Default,,0,0,0,,It's all gag manga!
 Dialogue: 10,0:19:48.87,0:19:53.00,Default,,0,0,0,,{\i1}Tensai Bakabon{\i0}, {\i1}Harenchi Gakuen{\i0}, {\i1}Dokonjou Gaeru{\i0}, {\i1}Gakideka{\i0}...
 Dialogue: 10,0:19:53.00,0:19:57.88,Default,,0,0,0,,{\i1}Sexy Commando Gaiden: Sugoi yo! Masaru!{\i0} and {\i1}Bobobo-bobo-bobo{\i0} too!
 Dialogue: 10,0:19:58.34,0:20:00.42,Default,,0,0,0,,Even {\i1}Inumaru Dashi {\i0}!
-Dialogue: 10,0:20:00.42,0:20:03.43,Default,,0,0,0,,These ones say "Rules of Jokes" and "How to Make Gag Manga".
-Dialogue: 10,0:20:03.43,0:20:05.35,Default,,0,0,0,,"Laughter as a System of Equations".
+Dialogue: 10,0:20:00.42,0:20:03.43,Default,,0,0,0,,These ones say "Rules of Jokes" and "How to Make Gag Manga."
+Dialogue: 10,0:20:03.43,0:20:05.35,Default,,0,0,0,,"Laughter as a System of Equations."
 Dialogue: 10,0:20:05.35,0:20:06.97,Default,,0,0,0,,They sell stuff like this?
 Dialogue: 10,0:20:07.39,0:20:11.18,Default,,0,0,0,,He must have sent these \Nbefore our meeting yesterday.
 Dialogue: 10,0:20:11.18,0:20:12.48,Default,,0,0,0,,Well, yeah.

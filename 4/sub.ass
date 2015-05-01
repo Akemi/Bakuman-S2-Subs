@@ -209,7 +209,7 @@ Dialogue: 10,0:08:13.44,0:08:14.39,Default,,0,0,0,,Yes.
 Dialogue: 10,0:08:14.39,0:08:18.47,Default,,0,0,0,,Both {\i1}Kiyoshi Knight{\i0} and \N{\i1}Hideout Door{\i0} at once, huh?
 Dialogue: 10,0:08:18.47,0:08:19.97,Default,,0,0,0,,Awesome.
 Dialogue: 10,0:08:20.56,0:08:21.37,Default,,0,0,0,,This is bad.
-Dialogue: 10,0:08:22.39,0:08:23.64,Default,,0,0,0,,The "Golden Future Cup".
+Dialogue: 10,0:08:22.39,0:08:23.64,Default,,0,0,0,,The "Golden Future Cup."
 Dialogue: 10,0:08:23.64,0:08:25.32,Default,,0,0,0,,In the last serialization meeting,
 Dialogue: 10,0:08:25.32,0:08:27.40,Default,,0,0,0,,those were the works we\N were competing against.
 Dialogue: 10,0:08:27.86,0:08:30.61,Default,,0,0,0,,I'm sure they reworked them and brought them back to the table.
@@ -269,7 +269,7 @@ Dialogue: 10,0:10:47.29,0:10:48.12,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:10:48.12,0:10:50.71,Default,,0,0,0,,I think the classic mystery approach is good.
 Dialogue: 10,0:10:50.71,0:10:51.92,Default,,0,0,0,,I know, right?!
 Dialogue: 10,0:10:51.92,0:10:53.84,Default,,0,0,0,,If that doesn't work out, oh well.
-Dialogue: 10,0:10:53.84,0:10:55.67,Default-Italic,,0,0,0,,"Oh well"...?
+Dialogue: 10,0:10:53.84,0:10:55.67,Default-Italic,,0,0,0,,Oh well?
 Dialogue: 10,0:10:55.67,0:10:57.97,Default,,0,0,0,,Oops, I have to call them.
 Dialogue: 10,0:10:59.97,0:11:01.64,Default,,0,0,0,,Sorry I kept you waiting.
 Dialogue: 10,0:11:01.64,0:11:02.26,Default,,0,0,0,,It's fine.
@@ -460,7 +460,7 @@ Dialogue: 10,0:19:41.91,0:19:44.78,Default,,0,0,0,,It's better to fail doing tha
 Dialogue: 10,0:19:44.78,0:19:46.24,Default,,0,0,0,,No, that's wrong.
 Dialogue: 10,0:19:46.24,0:19:47.74,Default,,0,0,0,,We need to go forward like this.
 Dialogue: 10,0:19:47.74,0:19:49.00,Default,,0,0,0,,Even if it ends like this!
-Dialogue: 10,0:19:49.91,0:19:51.33,Default,,0,0,0,,"If it ends"?
+Dialogue: 10,0:19:49.91,0:19:51.33,Default,,0,0,0,,"If it ends?"
 Dialogue: 10,0:19:52.00,0:19:54.13,Default,,0,0,0,,What are you saying?!
 Dialogue: 10,0:19:54.13,0:19:56.29,Default,,0,0,0,,Saiko, you say something too!
 Dialogue: 10,0:19:56.29,0:19:57.71,Default-Italic,,0,0,0,,Manga is a gamble.

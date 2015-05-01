@@ -114,7 +114,7 @@ Dialogue: 10,0:03:22.67,0:03:24.30,Default,,0,0,0,,Aren't you worried about them
 Dialogue: 10,0:03:24.30,0:03:25.85,Default,,0,0,0,,I do worry.
 Dialogue: 10,0:03:27.56,0:03:30.81,Default,,0,0,0,,It's okay to continue to \Npush it as a mystery, right?
 Dialogue: 10,0:03:30.81,0:03:31.64,Default,,0,0,0,,Probably, yeah.
-Dialogue: 10,0:03:31.64,0:03:35.11,Default,,0,0,0,,What do you mean, "probably"?
+Dialogue: 10,0:03:31.64,0:03:35.11,Default,,0,0,0,,What do you mean, "probably?"
 Dialogue: 10,0:03:37.11,0:03:38.75,Default,,0,0,0,,I-I'm sorry.
 Dialogue: 10,0:03:38.75,0:03:42.07,Default,,0,0,0,,I'd feel more at ease if \Nthey had a better ranking.
 Dialogue: 10,0:03:43.11,0:03:46.41,Default,,0,0,0,,I don't want them to be overlooked just because they have less experience.
@@ -540,7 +540,7 @@ Dialogue: 10,0:19:41.61,0:19:42.91,Default,,0,0,0,,I see.
 Dialogue: 10,0:19:44.53,0:19:46.33,Default,,0,0,0,,This is Yoshida from Shounen Jack.
 Dialogue: 10,0:19:47.24,0:19:48.70,Default,,0,0,0,,They've come to pick me up.
 Dialogue: 10,0:19:48.70,0:19:50.79,Default,,0,0,0,,Well then, see you later.
-Dialogue: 10,0:19:50.79,0:19:52.17,Default,,0,0,0,,"See you later"?
+Dialogue: 10,0:19:50.79,0:19:52.17,Default,,0,0,0,,"See you later?"
 Dialogue: 10,0:19:52.17,0:19:53.71,Default,,0,0,0,,He seems rather used to it.
 Dialogue: 10,0:19:54.13,0:19:55.71,Default,,0,0,0,,Well then, we'll get going.
 Dialogue: 10,0:19:55.71,0:19:57.55,Default,,0,0,0,,We're counting on you tomorrow too.
@@ -1395,7 +1395,7 @@ Dialogue: 0,0:12:34.69,0:12:36.69,Silence,,0,0,0,,{\b0\fsp-1\blur0.8\bord0\shad0
 Dialogue: 0,0:12:34.69,0:12:36.69,Silence,,0,0,0,,{\b0\fsp-1\blur0.8\bord0\shad0\pos(351,522)\fscx102\fscy102\c&H5A5B5C&\frz352.602}Manga
 Dialogue: 0,0:12:34.69,0:12:36.69,Silence,,0,0,0,,{\b0\fsp-1\blur0.8\bord0\shad0\fscx115\fscy99\c&H6D6D6D&\frz355.38\pos(950,109)}Kiyoshi Knight
 Dialogue: 0,0:12:34.69,0:12:36.69,Silence,,0,0,0,,{\b0\fsp-1\blur0.8\bord0\shad0\fscx115\fscy99\pos(912,353)\frz353.908\c&H5F6060&}Shady Detective Trap
-Dialogue: 0,0:13:56.19,0:13:59.69,Textmsgslazy,,0,0,0,,{\an8\fs45\blur1\frz-10.3\fax-0.09\c&H91756D&\an4\frx2\fry358\move(631,622,631,547)}I have some unpaid work in the anime "Tomboy Ninja Squad". From about ten minutes in, I voice characters like the dango shop owner.
+Dialogue: 0,0:13:56.19,0:13:59.69,Textmsgslazy,,0,0,0,,{\an8\fs45\blur1\frz-10.3\fax-0.09\c&H91756D&\an4\frx2\fry358\move(631,622,631,547)}I have some unpaid work in the anime "Tomboy Ninja Squad." From about ten minutes in, I voice characters like the dango shop owner.
 Dialogue: 0,0:15:32.28,0:15:34.20,Huge,,0,0,0,,{\blur1\b1\fscx95\fscy95\3c&H585D5B&\c&H585D5B&\frz90\bord0\pos(612,473)}Chapter 15
 Dialogue: 0,0:15:32.28,0:15:34.20,Huge,,0,0,0,,{\blur1\b1\fscx95\fscy95\3c&H585D5B&\c&H585D5B&\frz90\bord0\pos(612,473)}Chapter 15
 Dialogue: 0,0:15:32.28,0:15:34.20,Huge,,0,0,0,,{\blur1.2\fscx68\fscy68\c&H484C4C&\frz93\pos(179,402)}Monday
