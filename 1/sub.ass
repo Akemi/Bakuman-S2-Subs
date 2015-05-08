@@ -19,8 +19,9 @@ Keyframes File: ep1_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Active Line: 469
-Video Position: 24864
+Scroll Position: 50
+Active Line: 53
+Video Position: 550
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -41,8 +42,8 @@ Style: Derpy,Tempus Sans ITC,70,&H00F9F3EA,&H000000FF,&H00F9F3EA,&H00000000,-1,0
 Style: Lyrics-Jap,ITC Avant Garde Std Cn,46,&H00E1E1DD,&H000000FF,&H001D1E1F,&H00000000,0,0,0,0,100,100,0,0,1,2.47352,0,2,15,15,27,1
 Style: Lyrics-Eng,ITC Avant Garde Std Cn,46,&H00E1E1DD,&H000000FF,&H001D1E1F,&H00000000,0,0,0,0,100,100,0,0,1,2.47352,0,8,15,15,27,1
 Style: Lyrics-Jap-ED,ITC Avant Garde Std Cn,46,&H00E1E1DD,&H000000FF,&H001D1E1F,&H00000000,0,0,0,0,100,100,0,0,1,2.47352,0,2,15,15,15,1
-Style: Lyrics-Jap-DT,LilyUPC,48,&H00B8D9D5,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,110,0,0,1,3,0,8,40,40,33,1
-Style: Lyrics-Eng-DT,LilyUPC,48,&H00B8D9D5,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,110,0,0,1,3,0,2,40,40,33,1
+Style: Lyrics-Jap-DT,LilyUPC,48,&H00E5CBE1,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,110,0,0,1,3,0,8,40,40,20,1
+Style: Lyrics-Eng-DT,LilyUPC,48,&H00B8D9D5,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,110,0,0,1,3,0,8,40,40,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -99,8 +100,8 @@ Dialogue: 0,0:23:46.65,0:23:51.95,Lyrics-Eng,,0,0,0,,I can envision an everlasti
 Dialogue: 0,0:23:51.95,0:23:59.91,Lyrics-Eng,,0,0,0,,And even remember the moonlight of night we met
 Dialogue: 0,0:24:00.75,0:24:06.88,Lyrics-Eng,,0,0,0,,I can picture them... countless times
 Dialogue: 0,0:24:07.88,0:24:11.30,Lyrics-Eng,,0,0,0,,{\fad(0,950)}over and over again
-Dialogue: 0,0:00:03.39,0:00:09.86,Lyrics-Jap-DT,,0,0,0,,{\fad(200,200)\c&H90A2D5&}juurai karametorareteku wana ni
-Dialogue: 0,0:00:09.86,0:00:17.91,Lyrics-Jap-DT,,0,0,0,,{\fad(200,200)\c&HE5CBE1&}shikakerareta omoi wo sagashite
+Dialogue: 0,0:00:03.39,0:00:09.86,Lyrics-Jap-DT,,0,0,0,,{\fad(200,200)}juurai karametorareteku wana ni
+Dialogue: 0,0:00:09.86,0:00:17.91,Lyrics-Jap-DT,,0,0,0,,{\fad(200,200)}shikakerareta omoi wo sagashite
 Dialogue: 0,0:00:03.39,0:00:09.86,Lyrics-Eng-DT,,0,0,0,,{\fad(200,200)}Before, caught in a trap,
 Dialogue: 0,0:00:09.86,0:00:17.91,Lyrics-Eng-DT,,0,0,0,,{\fad(200,200)}I search for the tricked feelings
 Dialogue: 1,0:02:27.50,0:02:31.00,Ep Titles,,0,0,0,,{\pos(640,464.62)\blur0.334}Silence and The Party
@@ -162,7 +163,7 @@ Dialogue: 10,0:02:39.18,0:02:42.26,Default,,0,0,0,,Really? How's the rent?
 Dialogue: 10,0:02:40.72,0:02:42.93,Default-Alt,,0,0,0,,{\i1}Kawaguchi Tarou's workplace, huh.
 Dialogue: 10,0:02:42.26,0:02:44.88,Default,,0,0,0,,It's really cheap; about as much as the utility bills—
 Dialogue: 10,0:02:44.88,0:02:46.31,Default,,0,0,0,,That's great!
-Dialogue: 10,0:02:46.31,0:02:49.81,Default,,0,0,0, [hard to read?],You could have rented a room with your sign-on bonus, but you've saved yourselves the trouble.
+Dialogue: 10,0:02:46.31,0:02:49.81,Default,,0,0,0,[hard to read?],You could have rented a room with your sign-on bonus, but you've saved yourselves the trouble.
 Dialogue: 10,0:02:49.81,0:02:51.90,Default,,0,0,0,,Great, great!
 Dialogue: 10,0:02:51.35,0:02:51.90,Default-Alt,,0,0,0,,Miura!
 Dialogue: 10,0:02:51.90,0:02:53.40,Default,,0,0,0,,Don't be in such a rush.
@@ -217,7 +218,7 @@ Dialogue: 10,0:05:30.64,0:05:32.10,Default,,0,0,0,,That much?!
 Dialogue: 10,0:05:32.64,0:05:35.23,Default,,0,0,0,,Our contractual salary is that high?
 Dialogue: 10,0:05:35.23,0:05:37.77,Default,,0,0,0,,It's too much for you high schoolers.
 Dialogue: 10,0:05:37.77,0:05:43.32,Default,,0,0,0,,If you needed a place to work, we'd give you more money, but you guys already have one.
-Dialogue: 10,0:05:43.32,0:05:44.03,Default,,0,0,0, [UNREADABLE!!],So you're not actually getting that amount.
+Dialogue: 10,0:05:43.32,0:05:44.03,Default,,0,0,0,[UNREADABLE!!],So you're not actually getting that amount.
 Dialogue: 10,0:05:44.49,0:05:49.16,Default,,0,0,0,,Well then, your script payment is ¥12,000 per page, with a 50% color page bonus.
 Dialogue: 10,0:05:49.16,0:05:52.03,Default,,0,0,0,,Huh? But I heard it was ¥9,000 for new authors.
 Dialogue: 10,0:05:52.03,0:05:55.00,Default,,0,0,0,,That's for non-serialized work. For serializations, it's ¥12,000.
@@ -284,7 +285,7 @@ Dialogue: 10,0:08:26.31,0:08:29.32,Default,,0,0,0,,It really only has to be 25, 
 Dialogue: 10,0:08:29.32,0:08:30.40,Default,,0,0,0,,Yes, we'll take care of it.
 Dialogue: 10,0:08:30.40,0:08:32.61,Default,,0,0,0,,I'd like you to turn that in as soon as possible.
 Dialogue: 10,0:08:32.61,0:08:35.87,Default,,0,0,0,,I want to wait for the survey results for chapter 4 onward, so we won't get into those yet.
-Dialogue: 10,0:08:36.86,0:08:38.49,Default,,0,0,0, [UNREADABLE!!],Are you fine with the assistants starting at the beginning of the year?
+Dialogue: 10,0:08:36.86,0:08:38.49,Default,,0,0,0,[UNREADABLE!!],Are you fine with the assistants starting at the beginning of the year?
 Dialogue: 10,0:08:38.49,0:08:40.08,Default,,0,0,0,,Ah, yes.
 Dialogue: 10,0:08:40.91,0:08:43.00,Default-Italic,,0,0,0,,He's going through this so fast.
 Dialogue: 10,0:08:43.00,0:08:44.58,Default-Italic,,0,0,0,,Is this guy a winner?
@@ -293,7 +294,7 @@ Dialogue: 10,0:08:46.46,0:08:47.36,Default,,0,0,0,,Um...
 Dialogue: 10,0:08:47.36,0:08:52.47,Default,,0,0,0,,Hiramaru Kazuya of {\i1}Otters 11{\i0} \Nis new, like us, right?
 Dialogue: 10,0:08:52.47,0:08:54.43,Default,,0,0,0,,What kind of person is he?
 Dialogue: 10,0:08:54.43,0:08:56.47,Default,,0,0,0,,I haven't met him yet,
-Dialogue: 10,0:08:56.47,0:08:59.43,Default,,0,0,0, [hard to read?],but according to the editorial department, he quit his job as a salary man to do manga.
+Dialogue: 10,0:08:56.47,0:08:59.43,Default,,0,0,0,[hard to read?],but according to the editorial department, he quit his job as a salary man to do manga.
 Dialogue: 10,0:08:59.43,0:09:00.51,Default,,0,0,0,,Quitting an office job?
 Dialogue: 10,0:09:00.51,0:09:04.14,Default,,0,0,0,,It seems that at the age of 26, he suddenly quit his job and started drawing manga.
 Dialogue: 10,0:09:04.14,0:09:06.72,Default,,0,0,0,,Without having read much manga before then,
@@ -418,7 +419,7 @@ Dialogue: 10,0:13:31.58,0:13:34.08,Default,,0,0,0,,I'm Tanaka from Metropolitan 
 Dialogue: 10,0:13:34.08,0:13:35.41,Default,,0,0,0,,Oh, okay!
 Dialogue: 10,0:13:36.67,0:13:38.96,Default,,0,0,0,,He's already been waiting for 15 minutes?
 Dialogue: 10,0:13:38.96,0:13:40.67,Default,,0,0,0,,He said he got here early to avoid being late!
-Dialogue: 10,0:13:40.67,0:13:42.05,Default,,0,0,0, [unreadable],I feel bad for making him wait, so let's hurry up!
+Dialogue: 10,0:13:40.67,0:13:42.05,Default,,0,0,0,[unreadable],I feel bad for making him wait, so let's hurry up!
 Dialogue: 10,0:13:42.05,0:13:42.84,Default,,0,0,0,,Hey, wait up!
 Dialogue: 10,0:13:44.59,0:13:46.01,Default,,0,0,0,,You are Ashirogi, correct?
 Dialogue: 10,0:13:46.01,0:13:46.72,Default,,0,0,0,,Please step inside.
