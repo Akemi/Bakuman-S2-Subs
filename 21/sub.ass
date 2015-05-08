@@ -20,9 +20,9 @@ Keyframes File: ep21_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 1101
-Active Line: 1112
-Video Position: 31546
+Scroll Position: 1107
+Active Line: 1020
+Video Position: 26044
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -157,534 +157,534 @@ Dialogue: 0,0:07:59.41,0:07:59.45,marker,,0,0,0,,{\fsp-1\b1\blur1\fs48\fscx44\fs
 Dialogue: 0,0:07:59.45,0:07:59.50,marker,,0,0,0,,{\fsp-1\b1\blur1\fscx43\fscy43\frz7.37\c&H2E5AC7&\pos(537,626)}Money
 Dialogue: 0,0:07:59.45,0:07:59.50,marker,,0,0,0,,{\fsp-1\b1\blur1\fscx43\fscy43\c&HB8747A&\pos(635,618)}Intelligence
 Dialogue: 0,0:07:59.45,0:07:59.50,marker,,0,0,0,,{\fsp-1\b1\blur1\fs48\fscx43\fscy43\frz355.94\c&H539A77&\pos(759,622)}Appearance
-Dialogue: 0,0:07:59.50,0:07:59.54,marker,,0,0,0,,{\fsp-.9\b1\blur1\fscx42\fscy42\frz7.37\c&H305CCA&\pos(538,627)}Money
-Dialogue: 0,0:07:59.50,0:07:59.54,marker,,0,0,0,,{\fsp-.9\b1\blur1\fscx42\fscy42\c&HB5757B&\pos(635.25,620)}Intelligence
-Dialogue: 0,0:07:59.50,0:07:59.54,marker,,0,0,0,,{\fsp-.9\b1\blur1\fs48\fscx42\fscy42\frz355.94\c&H47926C&\pos(757,625)}Appearance
-Dialogue: 0,0:07:59.54,0:08:01.08,marker,,0,0,0,,{\fsp-.9\b1\blur1\fscx42\fscy42\frz7.37\c&H2F5DC9&\pos(538.5,627.5)}Money
-Dialogue: 0,0:07:59.54,0:08:01.08,marker,,0,0,0,,{\fsp-.9\b1\blur1\fscx42\fscy42\c&HB7767B&\pos(635.5,620.5)}Intelligence
+Dialogue: 0,0:07:59.50,0:07:59.54,marker,,0,0,0,,{\fsp-0.9\b1\blur1\fscx42\fscy42\frz7.37\c&H305CCA&\pos(538,627)}Money
+Dialogue: 0,0:07:59.50,0:07:59.54,marker,,0,0,0,,{\fsp-0.9\b1\blur1\fscx42\fscy42\c&HB5757B&\pos(635.25,620)}Intelligence
+Dialogue: 0,0:07:59.50,0:07:59.54,marker,,0,0,0,,{\fsp-0.9\b1\blur1\fs48\fscx42\fscy42\frz355.94\c&H47926C&\pos(757,625)}Appearance
+Dialogue: 0,0:07:59.54,0:08:01.08,marker,,0,0,0,,{\fsp-0.9\b1\blur1\fscx42\fscy42\frz7.37\c&H2F5DC9&\pos(538.5,627.5)}Money
+Dialogue: 0,0:07:59.54,0:08:01.08,marker,,0,0,0,,{\fsp-0.9\b1\blur1\fscx42\fscy42\c&HB7767B&\pos(635.5,620.5)}Intelligence
 Dialogue: 0,0:07:59.54,0:08:01.08,marker,,0,0,0,,{\fsp-1\b1\blur1\fs48\fscx42\fscy42\frz355.94\c&H46926C&\pos(757,625.5)}Appearance
-Dialogue: 0,0:00:03.39,0:00:07.02,Huge,,0,0,0,,{\b0\blur1\i0\bord0\frz7.127\pos(247.542,367.857)\frx14\fry358\c&H8A8A90&}Niwachipi, \Nthis way!{\i1\b0}
-Dialogue: 0,0:03:35.36,0:03:35.40,Book,,0,0,0,,{\pos(639.44,28.11)\fscx2471.89\fscy2531.55\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:35.36,0:03:35.40,Book,,0,0,0,,{\pos(604.59,360.28)\fscx2396.24\fscy2281.17\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:00:03.39,0:00:07.02,Huge,,0,0,0,,{\b0\blur1\i0\bord0\frz7.127\pos(247.542,367.857)\frx14\fry358\c&H8A8A90&}Niwachipi, \Nthis way!
+Dialogue: 0,0:03:35.36,0:03:35.40,Book,,0,0,0,,{\pos(639.44,28.11)\fscx2471.89\fscy2531.55\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:35.36,0:03:35.40,Book,,0,0,0,,{\pos(604.59,360.28)\fscx2396.24\fscy2281.17\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:35.36,0:03:35.40,Book,,0,0,0,,{\pos(544.64,518.82)\fscx2396.24\fscy2281.17\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:35.36,0:03:35.40,Book,,0,0,0,,{\pos(571.92,679.07)\fscx2396.24\fscy2281.17\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:35.40,0:03:35.44,Book,,0,0,0,,{\pos(639.44,28.27)\fscx2470.68\fscy2530.32\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:35.40,0:03:35.44,Book,,0,0,0,,{\pos(604.61,360.28)\fscx2395.07\fscy2280.05\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:35.40,0:03:35.44,Book,,0,0,0,,{\pos(639.44,28.27)\fscx2470.68\fscy2530.32\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:35.40,0:03:35.44,Book,,0,0,0,,{\pos(604.61,360.28)\fscx2395.07\fscy2280.05\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:35.40,0:03:35.44,Book,,0,0,0,,{\pos(544.68,518.74)\fscx2395.07\fscy2280.05\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:35.40,0:03:35.44,Book,,0,0,0,,{\pos(571.95,678.91)\fscx2395.07\fscy2280.05\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:35.44,0:03:35.48,Book,,0,0,0,,{\pos(639.45,28.43)\fscx2469.47\fscy2529.08\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:35.44,0:03:35.48,Book,,0,0,0,,{\pos(604.63,360.28)\fscx2393.9\fscy2278.94\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:35.44,0:03:35.48,Book,,0,0,0,,{\pos(639.45,28.43)\fscx2469.47\fscy2529.08\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:35.44,0:03:35.48,Book,,0,0,0,,{\pos(604.63,360.28)\fscx2393.9\fscy2278.94\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:35.44,0:03:35.48,Book,,0,0,0,,{\pos(544.74,518.66)\fscx2393.9\fscy2278.94\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:35.44,0:03:35.48,Book,,0,0,0,,{\pos(571.99,678.75)\fscx2393.9\fscy2278.94\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:35.48,0:03:35.52,Book,,0,0,0,,{\pos(639.46,28.60)\fscx2468.25\fscy2527.82\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:35.48,0:03:35.52,Book,,0,0,0,,{\pos(604.66,360.28)\fscx2392.71\fscy2277.81\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:35.48,0:03:35.52,Book,,0,0,0,,{\pos(639.46,28.60)\fscx2468.25\fscy2527.82\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:35.48,0:03:35.52,Book,,0,0,0,,{\pos(604.66,360.28)\fscx2392.71\fscy2277.81\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:35.48,0:03:35.52,Book,,0,0,0,,{\pos(544.80,518.59)\fscx2392.71\fscy2277.81\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:35.48,0:03:35.52,Book,,0,0,0,,{\pos(572.03,678.60)\fscx2392.71\fscy2277.81\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:35.52,0:03:35.57,Book,,0,0,0,,{\pos(639.45,28.77)\fscx2466.94\fscy2526.48\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:35.52,0:03:35.57,Book,,0,0,0,,{\pos(604.67,360.27)\fscx2391.44\fscy2276.6\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:35.52,0:03:35.57,Book,,0,0,0,,{\pos(639.45,28.77)\fscx2466.94\fscy2526.48\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:35.52,0:03:35.57,Book,,0,0,0,,{\pos(604.67,360.27)\fscx2391.44\fscy2276.6\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:35.52,0:03:35.57,Book,,0,0,0,,{\pos(544.84,518.50)\fscx2391.44\fscy2276.6\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:35.52,0:03:35.57,Book,,0,0,0,,{\pos(572.06,678.42)\fscx2391.44\fscy2276.6\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:35.57,0:03:35.61,Book,,0,0,0,,{\pos(639.46,28.92)\fscx2465.85\fscy2525.37\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:35.57,0:03:35.61,Book,,0,0,0,,{\pos(604.70,360.28)\fscx2390.39\fscy2275.6\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:35.57,0:03:35.61,Book,,0,0,0,,{\pos(639.46,28.92)\fscx2465.85\fscy2525.37\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:35.57,0:03:35.61,Book,,0,0,0,,{\pos(604.70,360.28)\fscx2390.39\fscy2275.6\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:35.57,0:03:35.61,Book,,0,0,0,,{\pos(544.89,518.43)\fscx2390.39\fscy2275.6\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:35.57,0:03:35.61,Book,,0,0,0,,{\pos(572.10,678.29)\fscx2390.39\fscy2275.6\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:35.61,0:03:35.65,Book,,0,0,0,,{\pos(639.47,29.08)\fscx2464.61\fscy2524.1\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:35.61,0:03:35.65,Book,,0,0,0,,{\pos(604.72,360.28)\fscx2389.19\fscy2274.46\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:35.61,0:03:35.65,Book,,0,0,0,,{\pos(639.47,29.08)\fscx2464.61\fscy2524.1\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:35.61,0:03:35.65,Book,,0,0,0,,{\pos(604.72,360.28)\fscx2389.19\fscy2274.46\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:35.61,0:03:35.65,Book,,0,0,0,,{\pos(544.94,518.35)\fscx2389.19\fscy2274.46\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:35.61,0:03:35.65,Book,,0,0,0,,{\pos(572.14,678.13)\fscx2389.19\fscy2274.46\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:35.65,0:03:35.69,Book,,0,0,0,,{\pos(639.47,29.25)\fscx2463.39\fscy2522.85\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:35.65,0:03:35.69,Book,,0,0,0,,{\pos(604.74,360.27)\fscx2388\fscy2273.32\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:35.65,0:03:35.69,Book,,0,0,0,,{\pos(639.47,29.25)\fscx2463.39\fscy2522.85\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:35.65,0:03:35.69,Book,,0,0,0,,{\pos(604.74,360.27)\fscx2388\fscy2273.32\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:35.65,0:03:35.69,Book,,0,0,0,,{\pos(545.00,518.27)\fscx2388\fscy2273.32\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:35.65,0:03:35.69,Book,,0,0,0,,{\pos(572.18,677.97)\fscx2388\fscy2273.32\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:35.69,0:03:35.73,Book,,0,0,0,,{\pos(639.48,29.42)\fscx2462.19\fscy2521.62\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:35.69,0:03:35.73,Book,,0,0,0,,{\pos(604.77,360.29)\fscx2386.83\fscy2272.22\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:35.69,0:03:35.73,Book,,0,0,0,,{\pos(639.48,29.42)\fscx2462.19\fscy2521.62\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:35.69,0:03:35.73,Book,,0,0,0,,{\pos(604.77,360.29)\fscx2386.83\fscy2272.22\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:35.69,0:03:35.73,Book,,0,0,0,,{\pos(545.05,518.20)\fscx2386.83\fscy2272.22\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:35.69,0:03:35.73,Book,,0,0,0,,{\pos(572.22,677.82)\fscx2386.83\fscy2272.22\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:35.73,0:03:35.77,Book,,0,0,0,,{\pos(639.48,29.58)\fscx2460.94\fscy2520.34\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:35.73,0:03:35.77,Book,,0,0,0,,{\pos(604.78,360.28)\fscx2385.63\fscy2271.07\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:35.73,0:03:35.77,Book,,0,0,0,,{\pos(639.48,29.58)\fscx2460.94\fscy2520.34\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:35.73,0:03:35.77,Book,,0,0,0,,{\pos(604.78,360.28)\fscx2385.63\fscy2271.07\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:35.73,0:03:35.77,Book,,0,0,0,,{\pos(545.10,518.12)\fscx2385.63\fscy2271.07\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:35.73,0:03:35.77,Book,,0,0,0,,{\pos(572.25,677.66)\fscx2385.63\fscy2271.07\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:35.77,0:03:35.82,Book,,0,0,0,,{\pos(639.48,29.75)\fscx2459.65\fscy2519.03\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:35.77,0:03:35.82,Book,,0,0,0,,{\pos(604.80,360.28)\fscx2384.38\fscy2269.88\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:35.77,0:03:35.82,Book,,0,0,0,,{\pos(639.48,29.75)\fscx2459.65\fscy2519.03\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:35.77,0:03:35.82,Book,,0,0,0,,{\pos(604.80,360.28)\fscx2384.38\fscy2269.88\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:35.77,0:03:35.82,Book,,0,0,0,,{\pos(545.15,518.04)\fscx2384.38\fscy2269.88\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:35.77,0:03:35.82,Book,,0,0,0,,{\pos(572.29,677.49)\fscx2384.38\fscy2269.88\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:35.82,0:03:35.86,Book,,0,0,0,,{\pos(639.49,29.92)\fscx2458.42\fscy2517.76\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:35.82,0:03:35.86,Book,,0,0,0,,{\pos(604.83,360.28)\fscx2383.19\fscy2268.74\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:35.82,0:03:35.86,Book,,0,0,0,,{\pos(639.49,29.92)\fscx2458.42\fscy2517.76\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:35.82,0:03:35.86,Book,,0,0,0,,{\pos(604.83,360.28)\fscx2383.19\fscy2268.74\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:35.82,0:03:35.86,Book,,0,0,0,,{\pos(545.21,517.96)\fscx2383.19\fscy2268.74\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:35.82,0:03:35.86,Book,,0,0,0,,{\pos(572.33,677.33)\fscx2383.19\fscy2268.74\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:35.86,0:03:35.90,Book,,0,0,0,,{\pos(639.51,30.08)\fscx2457.22\fscy2516.53\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:35.86,0:03:35.90,Book,,0,0,0,,{\pos(604.86,360.28)\fscx2382.02\fscy2267.63\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:35.86,0:03:35.90,Book,,0,0,0,,{\pos(639.51,30.08)\fscx2457.22\fscy2516.53\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:35.86,0:03:35.90,Book,,0,0,0,,{\pos(604.86,360.28)\fscx2382.02\fscy2267.63\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:35.86,0:03:35.90,Book,,0,0,0,,{\pos(545.26,517.88)\fscx2382.02\fscy2267.63\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:35.86,0:03:35.90,Book,,0,0,0,,{\pos(572.38,677.18)\fscx2382.02\fscy2267.63\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:35.90,0:03:35.94,Book,,0,0,0,,{\pos(639.51,30.23)\fscx2456.07\fscy2515.35\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:35.90,0:03:35.94,Book,,0,0,0,,{\pos(604.88,360.28)\fscx2380.9\fscy2266.57\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:35.90,0:03:35.94,Book,,0,0,0,,{\pos(639.51,30.23)\fscx2456.07\fscy2515.35\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:35.90,0:03:35.94,Book,,0,0,0,,{\pos(604.88,360.28)\fscx2380.9\fscy2266.57\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:35.90,0:03:35.94,Book,,0,0,0,,{\pos(545.32,517.80)\fscx2380.9\fscy2266.57\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:35.90,0:03:35.94,Book,,0,0,0,,{\pos(572.42,677.02)\fscx2380.9\fscy2266.57\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:35.94,0:03:35.98,Book,,0,0,0,,{\pos(639.51,30.39)\fscx2454.81\fscy2514.07\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:35.94,0:03:35.98,Book,,0,0,0,,{\pos(604.90,360.27)\fscx2379.69\fscy2265.41\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:35.94,0:03:35.98,Book,,0,0,0,,{\pos(639.51,30.39)\fscx2454.81\fscy2514.07\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:35.94,0:03:35.98,Book,,0,0,0,,{\pos(604.90,360.27)\fscx2379.69\fscy2265.41\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:35.94,0:03:35.98,Book,,0,0,0,,{\pos(545.36,517.72)\fscx2379.69\fscy2265.41\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:35.94,0:03:35.98,Book,,0,0,0,,{\pos(572.45,676.86)\fscx2379.69\fscy2265.41\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:35.98,0:03:36.02,Book,,0,0,0,,{\pos(639.51,30.56)\fscx2453.48\fscy2512.7\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:35.98,0:03:36.02,Book,,0,0,0,,{\pos(604.91,360.26)\fscx2378.39\fscy2264.18\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:35.98,0:03:36.02,Book,,0,0,0,,{\pos(639.51,30.56)\fscx2453.48\fscy2512.7\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:35.98,0:03:36.02,Book,,0,0,0,,{\pos(604.91,360.26)\fscx2378.39\fscy2264.18\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:35.98,0:03:36.02,Book,,0,0,0,,{\pos(545.41,517.62)\fscx2378.39\fscy2264.18\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:35.98,0:03:36.02,Book,,0,0,0,,{\pos(572.48,676.67)\fscx2378.39\fscy2264.18\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:36.02,0:03:36.07,Book,,0,0,0,,{\pos(639.51,30.72)\fscx2452.24\fscy2511.44\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:36.02,0:03:36.07,Book,,0,0,0,,{\pos(604.94,360.25)\fscx2377.2\fscy2263.04\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:36.02,0:03:36.07,Book,,0,0,0,,{\pos(639.51,30.72)\fscx2452.24\fscy2511.44\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:36.02,0:03:36.07,Book,,0,0,0,,{\pos(604.94,360.25)\fscx2377.2\fscy2263.04\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:36.02,0:03:36.07,Book,,0,0,0,,{\pos(545.46,517.53)\fscx2377.2\fscy2263.04\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:36.02,0:03:36.07,Book,,0,0,0,,{\pos(572.52,676.51)\fscx2377.2\fscy2263.04\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:36.07,0:03:36.11,Book,,0,0,0,,{\pos(639.50,30.85)\fscx2451.23\fscy2510.4\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:36.07,0:03:36.11,Book,,0,0,0,,{\pos(604.94,360.25)\fscx2376.21\fscy2262.1\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:36.07,0:03:36.11,Book,,0,0,0,,{\pos(639.50,30.85)\fscx2451.23\fscy2510.4\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:36.07,0:03:36.11,Book,,0,0,0,,{\pos(604.94,360.25)\fscx2376.21\fscy2262.1\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:36.07,0:03:36.11,Book,,0,0,0,,{\pos(545.49,517.46)\fscx2376.21\fscy2262.1\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:36.07,0:03:36.11,Book,,0,0,0,,{\pos(572.54,676.37)\fscx2376.21\fscy2262.1\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:36.11,0:03:36.15,Book,,0,0,0,,{\pos(639.50,30.99)\fscx2450.17\fscy2509.32\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:36.11,0:03:36.15,Book,,0,0,0,,{\pos(604.95,360.24)\fscx2375.19\fscy2261.13\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:36.11,0:03:36.15,Book,,0,0,0,,{\pos(639.50,30.99)\fscx2450.17\fscy2509.32\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:36.11,0:03:36.15,Book,,0,0,0,,{\pos(604.95,360.24)\fscx2375.19\fscy2261.13\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:36.11,0:03:36.15,Book,,0,0,0,,{\pos(545.52,517.39)\fscx2375.19\fscy2261.13\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:36.11,0:03:36.15,Book,,0,0,0,,{\pos(572.56,676.23)\fscx2375.19\fscy2261.13\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:36.15,0:03:36.19,Book,,0,0,0,,{\pos(639.50,31.20)\fscx2448.54\fscy2507.65\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:36.15,0:03:36.19,Book,,0,0,0,,{\pos(604.98,360.24)\fscx2373.61\fscy2259.63\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:36.15,0:03:36.19,Book,,0,0,0,,{\pos(639.50,31.20)\fscx2448.54\fscy2507.65\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:36.15,0:03:36.19,Book,,0,0,0,,{\pos(604.98,360.24)\fscx2373.61\fscy2259.63\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:36.15,0:03:36.19,Book,,0,0,0,,{\pos(545.59,517.28)\fscx2373.61\fscy2259.63\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:36.15,0:03:36.19,Book,,0,0,0,,{\pos(572.61,676.01)\fscx2373.61\fscy2259.63\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:36.19,0:03:36.23,Book,,0,0,0,,{\pos(639.50,31.38)\fscx2447.19\fscy2506.26\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:36.19,0:03:36.23,Book,,0,0,0,,{\pos(604.99,360.23)\fscx2372.29\fscy2258.37\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:36.19,0:03:36.23,Book,,0,0,0,,{\pos(639.50,31.38)\fscx2447.19\fscy2506.26\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:36.19,0:03:36.23,Book,,0,0,0,,{\pos(604.99,360.23)\fscx2372.29\fscy2258.37\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:36.19,0:03:36.23,Book,,0,0,0,,{\pos(545.64,517.19)\fscx2372.29\fscy2258.37\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:36.19,0:03:36.23,Book,,0,0,0,,{\pos(572.64,675.83)\fscx2372.29\fscy2258.37\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:36.23,0:03:36.27,Book,,0,0,0,,{\pos(639.51,31.53)\fscx2446.11\fscy2505.15\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:36.23,0:03:36.27,Book,,0,0,0,,{\pos(605.02,360.24)\fscx2371.25\fscy2257.38\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:36.23,0:03:36.27,Book,,0,0,0,,{\pos(639.51,31.53)\fscx2446.11\fscy2505.15\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:36.23,0:03:36.27,Book,,0,0,0,,{\pos(605.02,360.24)\fscx2371.25\fscy2257.38\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:36.23,0:03:36.27,Book,,0,0,0,,{\pos(545.69,517.13)\fscx2371.25\fscy2257.38\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:36.23,0:03:36.27,Book,,0,0,0,,{\pos(572.68,675.70)\fscx2371.25\fscy2257.38\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:36.27,0:03:36.32,Book,,0,0,0,,{\pos(639.50,31.70)\fscx2444.89\fscy2503.9\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:36.27,0:03:36.32,Book,,0,0,0,,{\pos(605.03,360.24)\fscx2370.07\fscy2256.25\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:36.27,0:03:36.32,Book,,0,0,0,,{\pos(639.50,31.70)\fscx2444.89\fscy2503.9\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:36.27,0:03:36.32,Book,,0,0,0,,{\pos(605.03,360.24)\fscx2370.07\fscy2256.25\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:36.27,0:03:36.32,Book,,0,0,0,,{\pos(545.74,517.05)\fscx2370.07\fscy2256.25\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:36.27,0:03:36.32,Book,,0,0,0,,{\pos(572.71,675.55)\fscx2370.07\fscy2256.25\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:36.32,0:03:36.36,Book,,0,0,0,,{\pos(639.51,31.86)\fscx2443.75\fscy2502.73\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:36.32,0:03:36.36,Book,,0,0,0,,{\pos(605.06,360.25)\fscx2368.96\fscy2255.2\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:36.32,0:03:36.36,Book,,0,0,0,,{\pos(639.51,31.86)\fscx2443.75\fscy2502.73\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:36.32,0:03:36.36,Book,,0,0,0,,{\pos(605.06,360.25)\fscx2368.96\fscy2255.2\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:36.32,0:03:36.36,Book,,0,0,0,,{\pos(545.79,516.99)\fscx2368.96\fscy2255.2\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:36.32,0:03:36.36,Book,,0,0,0,,{\pos(572.75,675.41)\fscx2368.96\fscy2255.2\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:36.36,0:03:36.40,Book,,0,0,0,,{\pos(639.52,32.02)\fscx2442.62\fscy2501.58\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:36.36,0:03:36.40,Book,,0,0,0,,{\pos(605.08,360.26)\fscx2367.87\fscy2254.16\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:36.36,0:03:36.40,Book,,0,0,0,,{\pos(639.52,32.02)\fscx2442.62\fscy2501.58\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:36.36,0:03:36.40,Book,,0,0,0,,{\pos(605.08,360.26)\fscx2367.87\fscy2254.16\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:36.36,0:03:36.40,Book,,0,0,0,,{\pos(545.84,516.93)\fscx2367.87\fscy2254.16\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:36.36,0:03:36.40,Book,,0,0,0,,{\pos(572.79,675.28)\fscx2367.87\fscy2254.16\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:36.40,0:03:36.44,Book,,0,0,0,,{\pos(639.52,32.18)\fscx2441.39\fscy2500.32\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:36.40,0:03:36.44,Book,,0,0,0,,{\pos(605.09,360.25)\fscx2366.67\fscy2253.02\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:36.40,0:03:36.44,Book,,0,0,0,,{\pos(639.52,32.18)\fscx2441.39\fscy2500.32\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:36.40,0:03:36.44,Book,,0,0,0,,{\pos(605.09,360.25)\fscx2366.67\fscy2253.02\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:36.40,0:03:36.44,Book,,0,0,0,,{\pos(545.88,516.84)\fscx2366.67\fscy2253.02\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:36.40,0:03:36.44,Book,,0,0,0,,{\pos(572.82,675.11)\fscx2366.67\fscy2253.02\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:36.44,0:03:36.48,Book,,0,0,0,,{\pos(639.51,32.34)\fscx2440.13\fscy2499.03\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:36.44,0:03:36.48,Book,,0,0,0,,{\pos(605.11,360.25)\fscx2365.45\fscy2251.86\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:36.44,0:03:36.48,Book,,0,0,0,,{\pos(639.51,32.34)\fscx2440.13\fscy2499.03\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:36.44,0:03:36.48,Book,,0,0,0,,{\pos(605.11,360.25)\fscx2365.45\fscy2251.86\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:36.44,0:03:36.48,Book,,0,0,0,,{\pos(545.93,516.75)\fscx2365.45\fscy2251.86\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:36.44,0:03:36.48,Book,,0,0,0,,{\pos(572.85,674.94)\fscx2365.45\fscy2251.86\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:36.48,0:03:36.52,Book,,0,0,0,,{\pos(639.52,32.50)\fscx2439\fscy2497.87\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:36.48,0:03:36.52,Book,,0,0,0,,{\pos(605.13,360.25)\fscx2364.36\fscy2250.82\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:36.48,0:03:36.52,Book,,0,0,0,,{\pos(639.52,32.50)\fscx2439\fscy2497.87\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:36.48,0:03:36.52,Book,,0,0,0,,{\pos(605.13,360.25)\fscx2364.36\fscy2250.82\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:36.48,0:03:36.52,Book,,0,0,0,,{\pos(545.98,516.69)\fscx2364.36\fscy2250.82\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:36.48,0:03:36.52,Book,,0,0,0,,{\pos(572.89,674.80)\fscx2364.36\fscy2250.82\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:36.52,0:03:36.57,Book,,0,0,0,,{\pos(639.54,32.66)\fscx2437.85\fscy2496.7\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:36.52,0:03:36.57,Book,,0,0,0,,{\pos(605.17,360.26)\fscx2363.25\fscy2249.76\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:36.52,0:03:36.57,Book,,0,0,0,,{\pos(639.54,32.66)\fscx2437.85\fscy2496.7\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:36.52,0:03:36.57,Book,,0,0,0,,{\pos(605.17,360.26)\fscx2363.25\fscy2249.76\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:36.52,0:03:36.57,Book,,0,0,0,,{\pos(546.04,516.62)\fscx2363.25\fscy2249.76\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:36.52,0:03:36.57,Book,,0,0,0,,{\pos(572.94,674.66)\fscx2363.25\fscy2249.76\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:36.57,0:03:36.61,Book,,0,0,0,,{\pos(639.55,32.82)\fscx2436.7\fscy2495.51\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:36.57,0:03:36.61,Book,,0,0,0,,{\pos(605.19,360.26)\fscx2362.13\fscy2248.69\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:36.57,0:03:36.61,Book,,0,0,0,,{\pos(639.55,32.82)\fscx2436.7\fscy2495.51\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:36.57,0:03:36.61,Book,,0,0,0,,{\pos(605.19,360.26)\fscx2362.13\fscy2248.69\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:36.57,0:03:36.61,Book,,0,0,0,,{\pos(546.10,516.54)\fscx2362.13\fscy2248.69\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:36.57,0:03:36.61,Book,,0,0,0,,{\pos(572.98,674.51)\fscx2362.13\fscy2248.69\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:36.61,0:03:36.65,Book,,0,0,0,,{\pos(639.55,32.98)\fscx2435.41\fscy2494.2\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:36.61,0:03:36.65,Book,,0,0,0,,{\pos(605.21,360.25)\fscx2360.88\fscy2247.51\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:36.61,0:03:36.65,Book,,0,0,0,,{\pos(639.55,32.98)\fscx2435.41\fscy2494.2\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:36.61,0:03:36.65,Book,,0,0,0,,{\pos(605.21,360.25)\fscx2360.88\fscy2247.51\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:36.61,0:03:36.65,Book,,0,0,0,,{\pos(546.14,516.45)\fscx2360.88\fscy2247.51\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:36.61,0:03:36.65,Book,,0,0,0,,{\pos(573.02,674.33)\fscx2360.88\fscy2247.51\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:36.65,0:03:36.69,Book,,0,0,0,,{\pos(639.55,33.15)\fscx2434.21\fscy2492.96\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:36.65,0:03:36.69,Book,,0,0,0,,{\pos(605.23,360.26)\fscx2359.71\fscy2246.39\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:36.65,0:03:36.69,Book,,0,0,0,,{\pos(639.55,33.15)\fscx2434.21\fscy2492.96\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:36.65,0:03:36.69,Book,,0,0,0,,{\pos(605.23,360.26)\fscx2359.71\fscy2246.39\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:36.65,0:03:36.69,Book,,0,0,0,,{\pos(546.19,516.38)\fscx2359.71\fscy2246.39\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:36.65,0:03:36.69,Book,,0,0,0,,{\pos(573.05,674.18)\fscx2359.71\fscy2246.39\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:36.69,0:03:36.73,Book,,0,0,0,,{\pos(639.55,33.31)\fscx2433.04\fscy2491.77\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:36.69,0:03:36.73,Book,,0,0,0,,{\pos(605.25,360.26)\fscx2358.58\fscy2245.32\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:36.69,0:03:36.73,Book,,0,0,0,,{\pos(639.55,33.31)\fscx2433.04\fscy2491.77\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:36.69,0:03:36.73,Book,,0,0,0,,{\pos(605.25,360.26)\fscx2358.58\fscy2245.32\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:36.69,0:03:36.73,Book,,0,0,0,,{\pos(546.24,516.31)\fscx2358.58\fscy2245.32\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:36.69,0:03:36.73,Book,,0,0,0,,{\pos(573.09,674.04)\fscx2358.58\fscy2245.32\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:36.73,0:03:36.77,Book,,0,0,0,,{\pos(639.55,33.47)\fscx2431.8\fscy2490.5\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:36.73,0:03:36.77,Book,,0,0,0,,{\pos(605.26,360.26)\fscx2357.38\fscy2244.17\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:36.73,0:03:36.77,Book,,0,0,0,,{\pos(639.55,33.47)\fscx2431.8\fscy2490.5\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:36.73,0:03:36.77,Book,,0,0,0,,{\pos(605.26,360.26)\fscx2357.38\fscy2244.17\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:36.73,0:03:36.77,Book,,0,0,0,,{\pos(546.29,516.23)\fscx2357.38\fscy2244.17\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:36.73,0:03:36.77,Book,,0,0,0,,{\pos(573.12,673.87)\fscx2357.38\fscy2244.17\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:36.77,0:03:36.82,Book,,0,0,0,,{\pos(639.55,33.64)\fscx2430.52\fscy2489.19\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:36.77,0:03:36.82,Book,,0,0,0,,{\pos(605.28,360.25)\fscx2356.14\fscy2242.99\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:36.77,0:03:36.82,Book,,0,0,0,,{\pos(639.55,33.64)\fscx2430.52\fscy2489.19\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:36.77,0:03:36.82,Book,,0,0,0,,{\pos(605.28,360.25)\fscx2356.14\fscy2242.99\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:36.77,0:03:36.82,Book,,0,0,0,,{\pos(546.34,516.14)\fscx2356.14\fscy2242.99\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:36.77,0:03:36.82,Book,,0,0,0,,{\pos(573.16,673.70)\fscx2356.14\fscy2242.99\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:36.82,0:03:36.86,Book,,0,0,0,,{\pos(639.56,33.80)\fscx2429.29\fscy2487.93\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:36.82,0:03:36.86,Book,,0,0,0,,{\pos(605.30,360.25)\fscx2354.94\fscy2241.86\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:36.82,0:03:36.86,Book,,0,0,0,,{\pos(639.56,33.80)\fscx2429.29\fscy2487.93\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:36.82,0:03:36.86,Book,,0,0,0,,{\pos(605.30,360.25)\fscx2354.94\fscy2241.86\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:36.82,0:03:36.86,Book,,0,0,0,,{\pos(546.39,516.06)\fscx2354.94\fscy2241.86\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:36.82,0:03:36.86,Book,,0,0,0,,{\pos(573.19,673.54)\fscx2354.94\fscy2241.86\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:36.86,0:03:36.90,Book,,0,0,0,,{\pos(639.56,33.97)\fscx2428.03\fscy2486.64\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:36.86,0:03:36.90,Book,,0,0,0,,{\pos(605.32,360.24)\fscx2353.73\fscy2240.7\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:36.86,0:03:36.90,Book,,0,0,0,,{\pos(639.56,33.97)\fscx2428.03\fscy2486.64\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:36.86,0:03:36.90,Book,,0,0,0,,{\pos(605.32,360.24)\fscx2353.73\fscy2240.7\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:36.86,0:03:36.90,Book,,0,0,0,,{\pos(546.44,515.97)\fscx2353.73\fscy2240.7\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:36.86,0:03:36.90,Book,,0,0,0,,{\pos(573.23,673.38)\fscx2353.73\fscy2240.7\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:36.90,0:03:36.94,Book,,0,0,0,,{\pos(639.56,34.12)\fscx2426.81\fscy2485.39\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:36.90,0:03:36.94,Book,,0,0,0,,{\pos(605.34,360.24)\fscx2352.54\fscy2239.57\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:36.90,0:03:36.94,Book,,0,0,0,,{\pos(639.56,34.12)\fscx2426.81\fscy2485.39\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:36.90,0:03:36.94,Book,,0,0,0,,{\pos(605.34,360.24)\fscx2352.54\fscy2239.57\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:36.90,0:03:36.94,Book,,0,0,0,,{\pos(546.48,515.89)\fscx2352.54\fscy2239.57\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:36.90,0:03:36.94,Book,,0,0,0,,{\pos(573.26,673.21)\fscx2352.54\fscy2239.57\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:36.94,0:03:36.98,Book,,0,0,0,,{\pos(639.56,34.28)\fscx2425.59\fscy2484.14\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:36.94,0:03:36.98,Book,,0,0,0,,{\pos(605.36,360.23)\fscx2351.36\fscy2238.44\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:36.94,0:03:36.98,Book,,0,0,0,,{\pos(639.56,34.28)\fscx2425.59\fscy2484.14\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:36.94,0:03:36.98,Book,,0,0,0,,{\pos(605.36,360.23)\fscx2351.36\fscy2238.44\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:36.94,0:03:36.98,Book,,0,0,0,,{\pos(546.53,515.80)\fscx2351.36\fscy2238.44\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:36.94,0:03:36.98,Book,,0,0,0,,{\pos(573.30,673.05)\fscx2351.36\fscy2238.44\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:36.98,0:03:37.02,Book,,0,0,0,,{\pos(639.55,34.45)\fscx2424.31\fscy2482.83\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:36.98,0:03:37.02,Book,,0,0,0,,{\pos(605.37,360.22)\fscx2350.12\fscy2237.26\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:36.98,0:03:37.02,Book,,0,0,0,,{\pos(639.55,34.45)\fscx2424.31\fscy2482.83\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:36.98,0:03:37.02,Book,,0,0,0,,{\pos(605.37,360.22)\fscx2350.12\fscy2237.26\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:36.98,0:03:37.02,Book,,0,0,0,,{\pos(546.57,515.71)\fscx2350.12\fscy2237.26\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:36.98,0:03:37.02,Book,,0,0,0,,{\pos(573.33,672.87)\fscx2350.12\fscy2237.26\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:37.02,0:03:37.07,Book,,0,0,0,,{\pos(639.56,34.61)\fscx2423.06\fscy2481.55\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:37.02,0:03:37.07,Book,,0,0,0,,{\pos(605.40,360.22)\fscx2348.91\fscy2236.11\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:37.02,0:03:37.07,Book,,0,0,0,,{\pos(639.56,34.61)\fscx2423.06\fscy2481.55\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:37.02,0:03:37.07,Book,,0,0,0,,{\pos(605.40,360.22)\fscx2348.91\fscy2236.11\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:37.02,0:03:37.07,Book,,0,0,0,,{\pos(546.63,515.63)\fscx2348.91\fscy2236.11\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:37.02,0:03:37.07,Book,,0,0,0,,{\pos(573.37,672.71)\fscx2348.91\fscy2236.11\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:37.07,0:03:37.11,Book,,0,0,0,,{\pos(639.56,34.78)\fscx2421.75\fscy2480.21\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:37.07,0:03:37.11,Book,,0,0,0,,{\pos(605.42,360.21)\fscx2347.64\fscy2234.9\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:37.07,0:03:37.11,Book,,0,0,0,,{\pos(639.56,34.78)\fscx2421.75\fscy2480.21\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:37.07,0:03:37.11,Book,,0,0,0,,{\pos(605.42,360.21)\fscx2347.64\fscy2234.9\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:37.07,0:03:37.11,Book,,0,0,0,,{\pos(546.68,515.54)\fscx2347.64\fscy2234.9\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:37.07,0:03:37.11,Book,,0,0,0,,{\pos(573.41,672.53)\fscx2347.64\fscy2234.9\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:37.11,0:03:37.15,Book,,0,0,0,,{\pos(639.57,34.95)\fscx2420.4\fscy2478.82\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:37.11,0:03:37.15,Book,,0,0,0,,{\pos(605.44,360.20)\fscx2346.32\fscy2233.65\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:37.11,0:03:37.15,Book,,0,0,0,,{\pos(639.57,34.95)\fscx2420.4\fscy2478.82\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:37.11,0:03:37.15,Book,,0,0,0,,{\pos(605.44,360.20)\fscx2346.32\fscy2233.65\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:37.11,0:03:37.15,Book,,0,0,0,,{\pos(546.74,515.44)\fscx2346.32\fscy2233.65\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:37.11,0:03:37.15,Book,,0,0,0,,{\pos(573.45,672.35)\fscx2346.32\fscy2233.65\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:37.15,0:03:37.19,Book,,0,0,0,,{\pos(639.58,35.12)\fscx2419.11\fscy2477.5\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:37.15,0:03:37.19,Book,,0,0,0,,{\pos(605.47,360.20)\fscx2345.07\fscy2232.46\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:37.15,0:03:37.19,Book,,0,0,0,,{\pos(639.58,35.12)\fscx2419.11\fscy2477.5\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:37.15,0:03:37.19,Book,,0,0,0,,{\pos(605.47,360.20)\fscx2345.07\fscy2232.46\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:37.15,0:03:37.19,Book,,0,0,0,,{\pos(546.80,515.36)\fscx2345.07\fscy2232.46\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:37.15,0:03:37.19,Book,,0,0,0,,{\pos(573.49,672.18)\fscx2345.07\fscy2232.46\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:37.19,0:03:37.23,Book,,0,0,0,,{\pos(639.57,35.30)\fscx2417.77\fscy2476.13\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:37.19,0:03:37.23,Book,,0,0,0,,{\pos(605.48,360.19)\fscx2343.77\fscy2231.22\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:37.19,0:03:37.23,Book,,0,0,0,,{\pos(639.57,35.30)\fscx2417.77\fscy2476.13\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:37.19,0:03:37.23,Book,,0,0,0,,{\pos(605.48,360.19)\fscx2343.77\fscy2231.22\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:37.19,0:03:37.23,Book,,0,0,0,,{\pos(546.84,515.26)\fscx2343.77\fscy2231.22\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:37.19,0:03:37.23,Book,,0,0,0,,{\pos(573.52,672.00)\fscx2343.77\fscy2231.22\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:37.23,0:03:37.28,Book,,0,0,0,,{\pos(639.56,35.46)\fscx2416.48\fscy2474.81\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:37.23,0:03:37.28,Book,,0,0,0,,{\pos(605.49,360.19)\fscx2342.53\fscy2230.04\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:37.23,0:03:37.28,Book,,0,0,0,,{\pos(639.56,35.46)\fscx2416.48\fscy2474.81\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:37.23,0:03:37.28,Book,,0,0,0,,{\pos(605.49,360.19)\fscx2342.53\fscy2230.04\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:37.23,0:03:37.28,Book,,0,0,0,,{\pos(546.88,515.18)\fscx2342.53\fscy2230.04\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:37.23,0:03:37.28,Book,,0,0,0,,{\pos(573.55,671.83)\fscx2342.53\fscy2230.04\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:37.28,0:03:37.32,Book,,0,0,0,,{\pos(639.56,35.62)\fscx2415.27\fscy2473.57\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:37.28,0:03:37.32,Book,,0,0,0,,{\pos(605.51,360.18)\fscx2341.35\fscy2228.92\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:37.28,0:03:37.32,Book,,0,0,0,,{\pos(639.56,35.62)\fscx2415.27\fscy2473.57\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:37.28,0:03:37.32,Book,,0,0,0,,{\pos(605.51,360.18)\fscx2341.35\fscy2228.92\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:37.28,0:03:37.32,Book,,0,0,0,,{\pos(546.93,515.09)\fscx2341.35\fscy2228.92\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:37.28,0:03:37.32,Book,,0,0,0,,{\pos(573.58,671.67)\fscx2341.35\fscy2228.92\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:37.32,0:03:37.36,Book,,0,0,0,,{\pos(639.55,35.79)\fscx2414.04\fscy2472.31\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:37.32,0:03:37.36,Book,,0,0,0,,{\pos(605.52,360.19)\fscx2340.16\fscy2227.78\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:37.32,0:03:37.36,Book,,0,0,0,,{\pos(639.55,35.79)\fscx2414.04\fscy2472.31\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:37.32,0:03:37.36,Book,,0,0,0,,{\pos(605.52,360.19)\fscx2340.16\fscy2227.78\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:37.32,0:03:37.36,Book,,0,0,0,,{\pos(546.97,515.02)\fscx2340.16\fscy2227.78\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:37.32,0:03:37.36,Book,,0,0,0,,{\pos(573.61,671.52)\fscx2340.16\fscy2227.78\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:37.36,0:03:37.40,Book,,0,0,0,,{\pos(639.56,35.95)\fscx2412.88\fscy2471.12\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:37.36,0:03:37.40,Book,,0,0,0,,{\pos(605.54,360.19)\fscx2339.04\fscy2226.71\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:37.36,0:03:37.40,Book,,0,0,0,,{\pos(639.56,35.95)\fscx2412.88\fscy2471.12\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:37.36,0:03:37.40,Book,,0,0,0,,{\pos(605.54,360.19)\fscx2339.04\fscy2226.71\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:37.36,0:03:37.40,Book,,0,0,0,,{\pos(547.02,514.95)\fscx2339.04\fscy2226.71\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:37.36,0:03:37.40,Book,,0,0,0,,{\pos(573.64,671.37)\fscx2339.04\fscy2226.71\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:37.40,0:03:37.44,Book,,0,0,0,,{\pos(639.57,36.11)\fscx2411.72\fscy2469.93\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:37.40,0:03:37.44,Book,,0,0,0,,{\pos(605.56,360.19)\fscx2337.91\fscy2225.64\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:37.40,0:03:37.44,Book,,0,0,0,,{\pos(639.57,36.11)\fscx2411.72\fscy2469.93\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:37.40,0:03:37.44,Book,,0,0,0,,{\pos(605.56,360.19)\fscx2337.91\fscy2225.64\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:37.40,0:03:37.44,Book,,0,0,0,,{\pos(547.07,514.88)\fscx2337.91\fscy2225.64\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:37.40,0:03:37.44,Book,,0,0,0,,{\pos(573.68,671.22)\fscx2337.91\fscy2225.64\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:37.44,0:03:37.48,Book,,0,0,0,,{\pos(639.58,36.27)\fscx2410.55\fscy2468.73\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:37.44,0:03:37.48,Book,,0,0,0,,{\pos(605.59,360.20)\fscx2336.78\fscy2224.56\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:37.44,0:03:37.48,Book,,0,0,0,,{\pos(639.58,36.27)\fscx2410.55\fscy2468.73\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:37.44,0:03:37.48,Book,,0,0,0,,{\pos(605.59,360.20)\fscx2336.78\fscy2224.56\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:37.44,0:03:37.48,Book,,0,0,0,,{\pos(547.13,514.80)\fscx2336.78\fscy2224.56\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:37.44,0:03:37.48,Book,,0,0,0,,{\pos(573.73,671.07)\fscx2336.78\fscy2224.56\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:37.48,0:03:37.53,Book,,0,0,0,,{\pos(639.59,36.43)\fscx2409.35\fscy2467.51\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:37.48,0:03:37.53,Book,,0,0,0,,{\pos(605.62,360.19)\fscx2335.62\fscy2223.46\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:37.48,0:03:37.53,Book,,0,0,0,,{\pos(639.59,36.43)\fscx2409.35\fscy2467.51\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:37.48,0:03:37.53,Book,,0,0,0,,{\pos(605.62,360.19)\fscx2335.62\fscy2223.46\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:37.48,0:03:37.53,Book,,0,0,0,,{\pos(547.18,514.72)\fscx2335.62\fscy2223.46\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:37.48,0:03:37.53,Book,,0,0,0,,{\pos(573.77,670.92)\fscx2335.62\fscy2223.46\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:37.53,0:03:37.57,Book,,0,0,0,,{\pos(639.59,36.59)\fscx2408.14\fscy2466.27\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:37.53,0:03:37.57,Book,,0,0,0,,{\pos(605.64,360.19)\fscx2334.44\fscy2222.34\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:37.53,0:03:37.57,Book,,0,0,0,,{\pos(639.59,36.59)\fscx2408.14\fscy2466.27\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:37.53,0:03:37.57,Book,,0,0,0,,{\pos(605.64,360.19)\fscx2334.44\fscy2222.34\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:37.53,0:03:37.57,Book,,0,0,0,,{\pos(547.24,514.64)\fscx2334.44\fscy2222.34\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:37.53,0:03:37.57,Book,,0,0,0,,{\pos(573.81,670.76)\fscx2334.44\fscy2222.34\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:37.57,0:03:37.61,Book,,0,0,0,,{\pos(639.60,36.74)\fscx2407.02\fscy2465.12\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:37.57,0:03:37.61,Book,,0,0,0,,{\pos(605.67,360.19)\fscx2333.36\fscy2221.31\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:37.57,0:03:37.61,Book,,0,0,0,,{\pos(639.60,36.74)\fscx2407.02\fscy2465.12\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:37.57,0:03:37.61,Book,,0,0,0,,{\pos(605.67,360.19)\fscx2333.36\fscy2221.31\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:37.57,0:03:37.61,Book,,0,0,0,,{\pos(547.29,514.57)\fscx2333.36\fscy2221.31\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:37.57,0:03:37.61,Book,,0,0,0,,{\pos(573.85,670.61)\fscx2333.36\fscy2221.31\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:37.61,0:03:37.65,Book,,0,0,0,,{\pos(639.61,36.90)\fscx2405.8\fscy2463.88\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:37.61,0:03:37.65,Book,,0,0,0,,{\pos(605.69,360.19)\fscx2332.18\fscy2220.18\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:37.61,0:03:37.65,Book,,0,0,0,,{\pos(639.61,36.90)\fscx2405.8\fscy2463.88\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:37.61,0:03:37.65,Book,,0,0,0,,{\pos(605.69,360.19)\fscx2332.18\fscy2220.18\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:37.61,0:03:37.65,Book,,0,0,0,,{\pos(547.34,514.49)\fscx2332.18\fscy2220.18\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:37.61,0:03:37.65,Book,,0,0,0,,{\pos(573.89,670.46)\fscx2332.18\fscy2220.18\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:37.65,0:03:37.69,Book,,0,0,0,,{\pos(639.62,37.06)\fscx2404.63\fscy2462.68\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:37.65,0:03:37.69,Book,,0,0,0,,{\pos(605.71,360.20)\fscx2331.04\fscy2219.1\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:37.65,0:03:37.69,Book,,0,0,0,,{\pos(639.62,37.06)\fscx2404.63\fscy2462.68\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:37.65,0:03:37.69,Book,,0,0,0,,{\pos(605.71,360.20)\fscx2331.04\fscy2219.1\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:37.65,0:03:37.69,Book,,0,0,0,,{\pos(547.39,514.42)\fscx2331.04\fscy2219.1\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:37.65,0:03:37.69,Book,,0,0,0,,{\pos(573.93,670.31)\fscx2331.04\fscy2219.1\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:37.69,0:03:37.73,Book,,0,0,0,,{\pos(639.63,37.22)\fscx2403.51\fscy2461.52\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:37.69,0:03:37.73,Book,,0,0,0,,{\pos(605.74,360.20)\fscx2329.95\fscy2218.06\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:37.69,0:03:37.73,Book,,0,0,0,,{\pos(639.63,37.22)\fscx2403.51\fscy2461.52\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:37.69,0:03:37.73,Book,,0,0,0,,{\pos(605.74,360.20)\fscx2329.95\fscy2218.06\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:37.69,0:03:37.73,Book,,0,0,0,,{\pos(547.45,514.36)\fscx2329.95\fscy2218.06\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:37.69,0:03:37.73,Book,,0,0,0,,{\pos(573.97,670.17)\fscx2329.95\fscy2218.06\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:37.73,0:03:37.78,Book,,0,0,0,,{\pos(639.64,37.37)\fscx2402.43\fscy2460.42\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:37.73,0:03:37.78,Book,,0,0,0,,{\pos(605.77,360.21)\fscx2328.91\fscy2217.07\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:37.73,0:03:37.78,Book,,0,0,0,,{\pos(639.64,37.37)\fscx2402.43\fscy2460.42\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:37.73,0:03:37.78,Book,,0,0,0,,{\pos(605.77,360.21)\fscx2328.91\fscy2217.07\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:37.73,0:03:37.78,Book,,0,0,0,,{\pos(547.50,514.29)\fscx2328.91\fscy2217.07\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:37.73,0:03:37.78,Book,,0,0,0,,{\pos(574.01,670.04)\fscx2328.91\fscy2217.07\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:37.78,0:03:37.82,Book,,0,0,0,,{\pos(639.65,37.53)\fscx2401.28\fscy2459.24\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:37.78,0:03:37.82,Book,,0,0,0,,{\pos(605.80,360.21)\fscx2327.79\fscy2216.01\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:37.78,0:03:37.82,Book,,0,0,0,,{\pos(639.65,37.53)\fscx2401.28\fscy2459.24\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:37.78,0:03:37.82,Book,,0,0,0,,{\pos(605.80,360.21)\fscx2327.79\fscy2216.01\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:37.78,0:03:37.82,Book,,0,0,0,,{\pos(547.56,514.23)\fscx2327.79\fscy2216.01\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:37.78,0:03:37.82,Book,,0,0,0,,{\pos(574.06,669.89)\fscx2327.79\fscy2216.01\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:37.82,0:03:37.86,Book,,0,0,0,,{\pos(639.67,37.68)\fscx2400.2\fscy2458.13\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:37.82,0:03:37.86,Book,,0,0,0,,{\pos(605.82,360.22)\fscx2326.74\fscy2215.01\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:37.82,0:03:37.86,Book,,0,0,0,,{\pos(639.67,37.68)\fscx2400.2\fscy2458.13\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:37.82,0:03:37.86,Book,,0,0,0,,{\pos(605.82,360.22)\fscx2326.74\fscy2215.01\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:37.82,0:03:37.86,Book,,0,0,0,,{\pos(547.61,514.16)\fscx2326.74\fscy2215.01\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:37.82,0:03:37.86,Book,,0,0,0,,{\pos(574.10,669.76)\fscx2326.74\fscy2215.01\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:37.86,0:03:37.90,Book,,0,0,0,,{\pos(639.66,37.84)\fscx2399.01\fscy2456.92\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:37.86,0:03:37.90,Book,,0,0,0,,{\pos(605.84,360.22)\fscx2325.59\fscy2213.92\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:37.86,0:03:37.90,Book,,0,0,0,,{\pos(639.66,37.84)\fscx2399.01\fscy2456.92\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:37.86,0:03:37.90,Book,,0,0,0,,{\pos(605.84,360.22)\fscx2325.59\fscy2213.92\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:37.86,0:03:37.90,Book,,0,0,0,,{\pos(547.65,514.09)\fscx2325.59\fscy2213.92\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:37.86,0:03:37.90,Book,,0,0,0,,{\pos(574.13,669.61)\fscx2325.59\fscy2213.92\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:37.90,0:03:37.94,Book,,0,0,0,,{\pos(639.66,38.00)\fscx2397.8\fscy2455.67\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:37.90,0:03:37.94,Book,,0,0,0,,{\pos(605.85,360.22)\fscx2324.41\fscy2212.79\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:37.90,0:03:37.94,Book,,0,0,0,,{\pos(639.66,38.00)\fscx2397.8\fscy2455.67\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:37.90,0:03:37.94,Book,,0,0,0,,{\pos(605.85,360.22)\fscx2324.41\fscy2212.79\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:37.90,0:03:37.94,Book,,0,0,0,,{\pos(547.70,514.01)\fscx2324.41\fscy2212.79\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:37.90,0:03:37.94,Book,,0,0,0,,{\pos(574.16,669.45)\fscx2324.41\fscy2212.79\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:37.94,0:03:37.98,Book,,0,0,0,,{\pos(639.66,38.16)\fscx2396.62\fscy2454.47\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:37.94,0:03:37.98,Book,,0,0,0,,{\pos(605.87,360.22)\fscx2323.28\fscy2211.71\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:37.94,0:03:37.98,Book,,0,0,0,,{\pos(639.66,38.16)\fscx2396.62\fscy2454.47\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:37.94,0:03:37.98,Book,,0,0,0,,{\pos(605.87,360.22)\fscx2323.28\fscy2211.71\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:37.94,0:03:37.98,Book,,0,0,0,,{\pos(547.75,513.93)\fscx2323.28\fscy2211.71\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:37.94,0:03:37.98,Book,,0,0,0,,{\pos(574.19,669.30)\fscx2323.28\fscy2211.71\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:37.98,0:03:38.03,Book,,0,0,0,,{\pos(639.66,38.32)\fscx2395.44\fscy2453.27\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:37.98,0:03:38.03,Book,,0,0,0,,{\pos(605.89,360.22)\fscx2322.14\fscy2210.62\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:37.98,0:03:38.03,Book,,0,0,0,,{\pos(639.66,38.32)\fscx2395.44\fscy2453.27\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:37.98,0:03:38.03,Book,,0,0,0,,{\pos(605.89,360.22)\fscx2322.14\fscy2210.62\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:37.98,0:03:38.03,Book,,0,0,0,,{\pos(547.79,513.86)\fscx2322.14\fscy2210.62\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:37.98,0:03:38.03,Book,,0,0,0,,{\pos(574.23,669.15)\fscx2322.14\fscy2210.62\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:38.03,0:03:38.07,Book,,0,0,0,,{\pos(639.67,38.48)\fscx2394.23\fscy2452.02\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:38.03,0:03:38.07,Book,,0,0,0,,{\pos(605.91,360.22)\fscx2320.96\fscy2209.5\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:38.03,0:03:38.07,Book,,0,0,0,,{\pos(639.67,38.48)\fscx2394.23\fscy2452.02\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:38.03,0:03:38.07,Book,,0,0,0,,{\pos(605.91,360.22)\fscx2320.96\fscy2209.5\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:38.03,0:03:38.07,Book,,0,0,0,,{\pos(547.84,513.78)\fscx2320.96\fscy2209.5\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:38.03,0:03:38.07,Book,,0,0,0,,{\pos(574.26,668.99)\fscx2320.96\fscy2209.5\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:38.07,0:03:38.11,Book,,0,0,0,,{\pos(639.68,38.63)\fscx2393.15\fscy2450.92\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:38.07,0:03:38.11,Book,,0,0,0,,{\pos(605.94,360.22)\fscx2319.91\fscy2208.51\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:38.07,0:03:38.11,Book,,0,0,0,,{\pos(639.68,38.63)\fscx2393.15\fscy2450.92\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:38.07,0:03:38.11,Book,,0,0,0,,{\pos(605.94,360.22)\fscx2319.91\fscy2208.51\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:38.07,0:03:38.11,Book,,0,0,0,,{\pos(547.89,513.72)\fscx2319.91\fscy2208.51\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:38.07,0:03:38.11,Book,,0,0,0,,{\pos(574.30,668.86)\fscx2319.91\fscy2208.51\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:38.11,0:03:38.15,Book,,0,0,0,,{\pos(639.69,38.79)\fscx2392.03\fscy2449.76\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:38.11,0:03:38.15,Book,,0,0,0,,{\pos(605.96,360.23)\fscx2318.82\fscy2207.47\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:38.11,0:03:38.15,Book,,0,0,0,,{\pos(639.69,38.79)\fscx2392.03\fscy2449.76\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:38.11,0:03:38.15,Book,,0,0,0,,{\pos(605.96,360.23)\fscx2318.82\fscy2207.47\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:38.11,0:03:38.15,Book,,0,0,0,,{\pos(547.95,513.65)\fscx2318.82\fscy2207.47\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:38.11,0:03:38.15,Book,,0,0,0,,{\pos(574.35,668.72)\fscx2318.82\fscy2207.47\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:38.15,0:03:38.19,Book,,0,0,0,,{\pos(639.70,38.95)\fscx2390.9\fscy2448.61\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:38.15,0:03:38.19,Book,,0,0,0,,{\pos(605.99,360.23)\fscx2317.73\fscy2206.43\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:38.15,0:03:38.19,Book,,0,0,0,,{\pos(639.70,38.95)\fscx2390.9\fscy2448.61\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:38.15,0:03:38.19,Book,,0,0,0,,{\pos(605.99,360.23)\fscx2317.73\fscy2206.43\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:38.15,0:03:38.19,Book,,0,0,0,,{\pos(548.00,513.58)\fscx2317.73\fscy2206.43\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:38.15,0:03:38.19,Book,,0,0,0,,{\pos(574.38,668.58)\fscx2317.73\fscy2206.43\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:38.19,0:03:38.23,Book,,0,0,0,,{\pos(639.71,39.11)\fscx2389.77\fscy2447.46\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:38.19,0:03:38.23,Book,,0,0,0,,{\pos(606.02,360.24)\fscx2316.64\fscy2205.39\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:38.19,0:03:38.23,Book,,0,0,0,,{\pos(639.71,39.11)\fscx2389.77\fscy2447.46\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:38.19,0:03:38.23,Book,,0,0,0,,{\pos(606.02,360.24)\fscx2316.64\fscy2205.39\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:38.19,0:03:38.23,Book,,0,0,0,,{\pos(548.06,513.52)\fscx2316.64\fscy2205.39\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:38.19,0:03:38.23,Book,,0,0,0,,{\pos(574.43,668.44)\fscx2316.64\fscy2205.39\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:38.23,0:03:38.28,Book,,0,0,0,,{\pos(639.72,39.26)\fscx2388.58\fscy2446.24\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:38.23,0:03:38.28,Book,,0,0,0,,{\pos(606.04,360.24)\fscx2315.48\fscy2204.29\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:38.23,0:03:38.28,Book,,0,0,0,,{\pos(639.72,39.26)\fscx2388.58\fscy2446.24\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:38.23,0:03:38.28,Book,,0,0,0,,{\pos(606.04,360.24)\fscx2315.48\fscy2204.29\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:38.23,0:03:38.28,Book,,0,0,0,,{\pos(548.11,513.44)\fscx2315.48\fscy2204.29\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:38.23,0:03:38.28,Book,,0,0,0,,{\pos(574.47,668.28)\fscx2315.48\fscy2204.29\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:38.28,0:03:38.32,Book,,0,0,0,,{\pos(639.73,39.42)\fscx2387.4\fscy2445.03\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:38.28,0:03:38.32,Book,,0,0,0,,{\pos(606.07,360.24)\fscx2314.34\fscy2203.2\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:38.28,0:03:38.32,Book,,0,0,0,,{\pos(639.73,39.42)\fscx2387.4\fscy2445.03\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:38.28,0:03:38.32,Book,,0,0,0,,{\pos(606.07,360.24)\fscx2314.34\fscy2203.2\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:38.28,0:03:38.32,Book,,0,0,0,,{\pos(548.17,513.36)\fscx2314.34\fscy2203.2\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:38.28,0:03:38.32,Book,,0,0,0,,{\pos(574.51,668.13)\fscx2314.34\fscy2203.2\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:38.32,0:03:38.36,Book,,0,0,0,,{\pos(639.73,39.59)\fscx2386.15\fscy2443.75\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:38.32,0:03:38.36,Book,,0,0,0,,{\pos(606.09,360.24)\fscx2313.13\fscy2202.05\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:38.32,0:03:38.36,Book,,0,0,0,,{\pos(639.73,39.59)\fscx2386.15\fscy2443.75\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:38.32,0:03:38.36,Book,,0,0,0,,{\pos(606.09,360.24)\fscx2313.13\fscy2202.05\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:38.32,0:03:38.36,Book,,0,0,0,,{\pos(548.22,513.28)\fscx2313.13\fscy2202.05\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:38.32,0:03:38.36,Book,,0,0,0,,{\pos(574.55,667.97)\fscx2313.13\fscy2202.05\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:38.36,0:03:38.40,Book,,0,0,0,,{\pos(639.74,39.75)\fscx2384.94\fscy2442.5\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:38.36,0:03:38.40,Book,,0,0,0,,{\pos(606.11,360.24)\fscx2311.95\fscy2200.93\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:38.36,0:03:38.40,Book,,0,0,0,,{\pos(639.74,39.75)\fscx2384.94\fscy2442.5\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:38.36,0:03:38.40,Book,,0,0,0,,{\pos(606.11,360.24)\fscx2311.95\fscy2200.93\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:38.36,0:03:38.40,Book,,0,0,0,,{\pos(548.27,513.20)\fscx2311.95\fscy2200.93\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:38.36,0:03:38.40,Book,,0,0,0,,{\pos(574.58,667.81)\fscx2311.95\fscy2200.93\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:38.40,0:03:38.44,Book,,0,0,0,,{\pos(639.73,39.90)\fscx2383.84\fscy2441.38\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:38.40,0:03:38.44,Book,,0,0,0,,{\pos(606.12,360.24)\fscx2310.89\fscy2199.91\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:38.40,0:03:38.44,Book,,0,0,0,,{\pos(639.73,39.90)\fscx2383.84\fscy2441.38\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:38.40,0:03:38.44,Book,,0,0,0,,{\pos(606.12,360.24)\fscx2310.89\fscy2199.91\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:38.40,0:03:38.44,Book,,0,0,0,,{\pos(548.31,513.13)\fscx2310.89\fscy2199.91\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:38.40,0:03:38.44,Book,,0,0,0,,{\pos(574.61,667.67)\fscx2310.89\fscy2199.91\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:38.44,0:03:38.48,Book,,0,0,0,,{\pos(639.72,40.06)\fscx2382.64\fscy2440.15\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:38.44,0:03:38.48,Book,,0,0,0,,{\pos(606.13,360.24)\fscx2309.73\fscy2198.81\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:38.44,0:03:38.48,Book,,0,0,0,,{\pos(639.72,40.06)\fscx2382.64\fscy2440.15\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:38.44,0:03:38.48,Book,,0,0,0,,{\pos(606.13,360.24)\fscx2309.73\fscy2198.81\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:38.44,0:03:38.48,Book,,0,0,0,,{\pos(548.34,513.06)\fscx2309.73\fscy2198.81\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:38.44,0:03:38.48,Book,,0,0,0,,{\pos(574.63,667.52)\fscx2309.73\fscy2198.81\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:38.48,0:03:38.53,Book,,0,0,0,,{\pos(639.72,40.23)\fscx2381.51\fscy2439\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:38.48,0:03:38.53,Book,,0,0,0,,{\pos(606.14,360.25)\fscx2308.63\fscy2197.76\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:38.48,0:03:38.53,Book,,0,0,0,,{\pos(639.72,40.23)\fscx2381.51\fscy2439\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:38.48,0:03:38.53,Book,,0,0,0,,{\pos(606.14,360.25)\fscx2308.63\fscy2197.76\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:38.48,0:03:38.53,Book,,0,0,0,,{\pos(548.38,513.00)\fscx2308.63\fscy2197.76\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:38.48,0:03:38.53,Book,,0,0,0,,{\pos(574.66,667.38)\fscx2308.63\fscy2197.76\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:38.53,0:03:38.57,Book,,0,0,0,,{\pos(639.72,40.39)\fscx2380.35\fscy2437.81\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:38.53,0:03:38.57,Book,,0,0,0,,{\pos(606.16,360.26)\fscx2307.5\fscy2196.69\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:38.53,0:03:38.57,Book,,0,0,0,,{\pos(639.72,40.39)\fscx2380.35\fscy2437.81\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:38.53,0:03:38.57,Book,,0,0,0,,{\pos(606.16,360.26)\fscx2307.5\fscy2196.69\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:38.53,0:03:38.57,Book,,0,0,0,,{\pos(548.43,512.93)\fscx2307.5\fscy2196.69\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:38.53,0:03:38.57,Book,,0,0,0,,{\pos(574.69,667.24)\fscx2307.5\fscy2196.69\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:38.57,0:03:38.61,Book,,0,0,0,,{\pos(639.73,40.54)\fscx2379.21\fscy2436.64\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:38.57,0:03:38.61,Book,,0,0,0,,{\pos(606.18,360.26)\fscx2306.39\fscy2195.64\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:38.57,0:03:38.61,Book,,0,0,0,,{\pos(639.73,40.54)\fscx2379.21\fscy2436.64\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:38.57,0:03:38.61,Book,,0,0,0,,{\pos(606.18,360.26)\fscx2306.39\fscy2195.64\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:38.57,0:03:38.61,Book,,0,0,0,,{\pos(548.48,512.86)\fscx2306.39\fscy2195.64\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:38.57,0:03:38.61,Book,,0,0,0,,{\pos(574.73,667.09)\fscx2306.39\fscy2195.64\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:38.61,0:03:38.65,Book,,0,0,0,,{\pos(639.74,40.70)\fscx2378\fscy2435.4\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:38.61,0:03:38.65,Book,,0,0,0,,{\pos(606.21,360.26)\fscx2305.22\fscy2194.52\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:38.61,0:03:38.65,Book,,0,0,0,,{\pos(639.74,40.70)\fscx2378\fscy2435.4\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:38.61,0:03:38.65,Book,,0,0,0,,{\pos(606.21,360.26)\fscx2305.22\fscy2194.52\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:38.61,0:03:38.65,Book,,0,0,0,,{\pos(548.53,512.78)\fscx2305.22\fscy2194.52\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:38.61,0:03:38.65,Book,,0,0,0,,{\pos(574.77,666.94)\fscx2305.22\fscy2194.52\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:38.65,0:03:38.69,Book,,0,0,0,,{\pos(639.75,40.85)\fscx2376.9\fscy2434.27\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:38.65,0:03:38.69,Book,,0,0,0,,{\pos(606.24,360.26)\fscx2304.16\fscy2193.51\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:38.65,0:03:38.69,Book,,0,0,0,,{\pos(639.75,40.85)\fscx2376.9\fscy2434.27\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:38.65,0:03:38.69,Book,,0,0,0,,{\pos(606.24,360.26)\fscx2304.16\fscy2193.51\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:38.65,0:03:38.69,Book,,0,0,0,,{\pos(548.59,512.71)\fscx2304.16\fscy2193.51\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:38.65,0:03:38.69,Book,,0,0,0,,{\pos(574.82,666.80)\fscx2304.16\fscy2193.51\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:38.69,0:03:38.74,Book,,0,0,0,,{\pos(639.77,41.02)\fscx2375.65\fscy2432.99\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:38.69,0:03:38.74,Book,,0,0,0,,{\pos(606.27,360.26)\fscx2302.95\fscy2192.36\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:38.69,0:03:38.74,Book,,0,0,0,,{\pos(639.77,41.02)\fscx2375.65\fscy2432.99\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:38.69,0:03:38.74,Book,,0,0,0,,{\pos(606.27,360.26)\fscx2302.95\fscy2192.36\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:38.69,0:03:38.74,Book,,0,0,0,,{\pos(548.65,512.63)\fscx2302.95\fscy2192.36\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:38.69,0:03:38.74,Book,,0,0,0,,{\pos(574.87,666.63)\fscx2302.95\fscy2192.36\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:38.74,0:03:38.78,Book,,0,0,0,,{\pos(639.78,41.17)\fscx2374.53\fscy2431.85\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:38.74,0:03:38.78,Book,,0,0,0,,{\pos(606.30,360.26)\fscx2301.87\fscy2191.33\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:38.74,0:03:38.78,Book,,0,0,0,,{\pos(639.78,41.17)\fscx2374.53\fscy2431.85\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:38.74,0:03:38.78,Book,,0,0,0,,{\pos(606.30,360.26)\fscx2301.87\fscy2191.33\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:38.74,0:03:38.78,Book,,0,0,0,,{\pos(548.71,512.56)\fscx2301.87\fscy2191.33\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:38.74,0:03:38.78,Book,,0,0,0,,{\pos(574.91,666.49)\fscx2301.87\fscy2191.33\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:38.78,0:03:38.82,Book,,0,0,0,,{\pos(639.78,41.33)\fscx2373.31\fscy2430.6\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:38.78,0:03:38.82,Book,,0,0,0,,{\pos(606.31,360.25)\fscx2300.68\fscy2190.2\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:38.78,0:03:38.82,Book,,0,0,0,,{\pos(639.78,41.33)\fscx2373.31\fscy2430.6\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:38.78,0:03:38.82,Book,,0,0,0,,{\pos(606.31,360.25)\fscx2300.68\fscy2190.2\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:38.78,0:03:38.82,Book,,0,0,0,,{\pos(548.76,512.47)\fscx2300.68\fscy2190.2\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:38.78,0:03:38.82,Book,,0,0,0,,{\pos(574.94,666.33)\fscx2300.68\fscy2190.2\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:38.82,0:03:38.86,Book,,0,0,0,,{\pos(639.77,41.49)\fscx2372.07\fscy2429.33\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:38.82,0:03:38.86,Book,,0,0,0,,{\pos(606.33,360.25)\fscx2299.48\fscy2189.05\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:38.82,0:03:38.86,Book,,0,0,0,,{\pos(639.77,41.49)\fscx2372.07\fscy2429.33\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:38.82,0:03:38.86,Book,,0,0,0,,{\pos(606.33,360.25)\fscx2299.48\fscy2189.05\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:38.82,0:03:38.86,Book,,0,0,0,,{\pos(548.80,512.39)\fscx2299.48\fscy2189.05\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:38.82,0:03:38.86,Book,,0,0,0,,{\pos(574.97,666.17)\fscx2299.48\fscy2189.05\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:38.86,0:03:38.90,Book,,0,0,0,,{\pos(639.79,41.65)\fscx2370.94\fscy2428.17\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:38.86,0:03:38.90,Book,,0,0,0,,{\pos(606.36,360.25)\fscx2298.38\fscy2188.01\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:38.86,0:03:38.90,Book,,0,0,0,,{\pos(639.79,41.65)\fscx2370.94\fscy2428.17\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:38.86,0:03:38.90,Book,,0,0,0,,{\pos(606.36,360.25)\fscx2298.38\fscy2188.01\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:38.86,0:03:38.90,Book,,0,0,0,,{\pos(548.86,512.32)\fscx2298.38\fscy2188.01\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:38.86,0:03:38.90,Book,,0,0,0,,{\pos(575.02,666.02)\fscx2298.38\fscy2188.01\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:38.90,0:03:38.94,Book,,0,0,0,,{\pos(639.80,41.79)\fscx2369.85\fscy2427.05\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:38.90,0:03:38.94,Book,,0,0,0,,{\pos(606.39,360.25)\fscx2297.32\fscy2187\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:38.90,0:03:38.94,Book,,0,0,0,,{\pos(639.80,41.79)\fscx2369.85\fscy2427.05\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:38.90,0:03:38.94,Book,,0,0,0,,{\pos(606.39,360.25)\fscx2297.32\fscy2187\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:38.90,0:03:38.94,Book,,0,0,0,,{\pos(548.91,512.25)\fscx2297.32\fscy2187\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:38.90,0:03:38.94,Book,,0,0,0,,{\pos(575.06,665.88)\fscx2297.32\fscy2187\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:38.94,0:03:38.99,Book,,0,0,0,,{\pos(639.81,41.95)\fscx2368.66\fscy2425.83\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:38.94,0:03:38.99,Book,,0,0,0,,{\pos(606.41,360.25)\fscx2296.17\fscy2185.9\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:38.94,0:03:38.99,Book,,0,0,0,,{\pos(639.81,41.95)\fscx2368.66\fscy2425.83\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:38.94,0:03:38.99,Book,,0,0,0,,{\pos(606.41,360.25)\fscx2296.17\fscy2185.9\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:38.94,0:03:38.99,Book,,0,0,0,,{\pos(548.97,512.17)\fscx2296.17\fscy2185.9\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:38.94,0:03:38.99,Book,,0,0,0,,{\pos(575.10,665.73)\fscx2296.17\fscy2185.9\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:38.99,0:03:39.03,Book,,0,0,0,,{\pos(639.83,42.11)\fscx2367.52\fscy2424.67\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:38.99,0:03:39.03,Book,,0,0,0,,{\pos(606.45,360.26)\fscx2295.07\fscy2184.86\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:38.99,0:03:39.03,Book,,0,0,0,,{\pos(639.83,42.11)\fscx2367.52\fscy2424.67\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:38.99,0:03:39.03,Book,,0,0,0,,{\pos(606.45,360.26)\fscx2295.07\fscy2184.86\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:38.99,0:03:39.03,Book,,0,0,0,,{\pos(549.03,512.10)\fscx2295.07\fscy2184.86\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:38.99,0:03:39.03,Book,,0,0,0,,{\pos(575.15,665.58)\fscx2295.07\fscy2184.86\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:39.03,0:03:39.07,Book,,0,0,0,,{\pos(639.83,42.28)\fscx2366.25\fscy2423.36\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:39.03,0:03:39.07,Book,,0,0,0,,{\pos(606.47,360.25)\fscx2293.83\fscy2183.68\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:39.03,0:03:39.07,Book,,0,0,0,,{\pos(639.83,42.28)\fscx2366.25\fscy2423.36\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:39.03,0:03:39.07,Book,,0,0,0,,{\pos(606.47,360.25)\fscx2293.83\fscy2183.68\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:39.03,0:03:39.07,Book,,0,0,0,,{\pos(549.08,512.02)\fscx2293.83\fscy2183.68\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:39.03,0:03:39.07,Book,,0,0,0,,{\pos(575.19,665.42)\fscx2293.83\fscy2183.68\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:39.07,0:03:39.11,Book,,0,0,0,,{\pos(639.82,42.43)\fscx2365.06\fscy2422.15\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:39.07,0:03:39.11,Book,,0,0,0,,{\pos(606.47,360.25)\fscx2292.68\fscy2182.58\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:39.07,0:03:39.11,Book,,0,0,0,,{\pos(639.82,42.43)\fscx2365.06\fscy2422.15\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:39.07,0:03:39.11,Book,,0,0,0,,{\pos(606.47,360.25)\fscx2292.68\fscy2182.58\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:39.07,0:03:39.11,Book,,0,0,0,,{\pos(549.11,511.94)\fscx2292.68\fscy2182.58\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:39.07,0:03:39.11,Book,,0,0,0,,{\pos(575.21,665.26)\fscx2292.68\fscy2182.58\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:39.11,0:03:39.15,Book,,0,0,0,,{\pos(639.82,42.59)\fscx2363.86\fscy2420.91\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:39.11,0:03:39.15,Book,,0,0,0,,{\pos(606.50,360.24)\fscx2291.51\fscy2181.47\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:39.11,0:03:39.15,Book,,0,0,0,,{\pos(639.82,42.59)\fscx2363.86\fscy2420.91\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:39.11,0:03:39.15,Book,,0,0,0,,{\pos(606.50,360.24)\fscx2291.51\fscy2181.47\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:39.11,0:03:39.15,Book,,0,0,0,,{\pos(549.16,511.86)\fscx2291.51\fscy2181.47\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:39.11,0:03:39.15,Book,,0,0,0,,{\pos(575.25,665.10)\fscx2291.51\fscy2181.47\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:39.15,0:03:39.19,Book,,0,0,0,,{\pos(639.83,42.75)\fscx2362.71\fscy2419.75\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:39.15,0:03:39.19,Book,,0,0,0,,{\pos(606.52,360.25)\fscx2290.41\fscy2180.42\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:39.15,0:03:39.19,Book,,0,0,0,,{\pos(639.83,42.75)\fscx2362.71\fscy2419.75\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:39.15,0:03:39.19,Book,,0,0,0,,{\pos(606.52,360.25)\fscx2290.41\fscy2180.42\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:39.15,0:03:39.19,Book,,0,0,0,,{\pos(549.21,511.79)\fscx2290.41\fscy2180.42\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:39.15,0:03:39.19,Book,,0,0,0,,{\pos(575.28,664.96)\fscx2290.41\fscy2180.42\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:39.19,0:03:39.24,Book,,0,0,0,,{\pos(639.83,42.91)\fscx2361.55\fscy2418.55\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:39.19,0:03:39.24,Book,,0,0,0,,{\pos(606.54,360.25)\fscx2289.27\fscy2179.34\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:39.19,0:03:39.24,Book,,0,0,0,,{\pos(639.83,42.91)\fscx2361.55\fscy2418.55\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:39.19,0:03:39.24,Book,,0,0,0,,{\pos(606.54,360.25)\fscx2289.27\fscy2179.34\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:39.19,0:03:39.24,Book,,0,0,0,,{\pos(549.26,511.71)\fscx2289.27\fscy2179.34\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:39.19,0:03:39.24,Book,,0,0,0,,{\pos(575.32,664.81)\fscx2289.27\fscy2179.34\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:39.24,0:03:39.28,Book,,0,0,0,,{\pos(639.84,43.06)\fscx2360.4\fscy2417.38\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:39.24,0:03:39.28,Book,,0,0,0,,{\pos(606.56,360.25)\fscx2288.17\fscy2178.29\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:39.24,0:03:39.28,Book,,0,0,0,,{\pos(639.84,43.06)\fscx2360.4\fscy2417.38\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:39.24,0:03:39.28,Book,,0,0,0,,{\pos(606.56,360.25)\fscx2288.17\fscy2178.29\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:39.24,0:03:39.28,Book,,0,0,0,,{\pos(549.31,511.64)\fscx2288.17\fscy2178.29\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:39.24,0:03:39.28,Book,,0,0,0,,{\pos(575.36,664.66)\fscx2288.17\fscy2178.29\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:39.28,0:03:39.32,Book,,0,0,0,,{\pos(639.84,43.22)\fscx2359.16\fscy2416.11\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:39.28,0:03:39.32,Book,,0,0,0,,{\pos(606.57,360.24)\fscx2286.96\fscy2177.14\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:39.28,0:03:39.32,Book,,0,0,0,,{\pos(639.84,43.22)\fscx2359.16\fscy2416.11\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:39.28,0:03:39.32,Book,,0,0,0,,{\pos(606.57,360.24)\fscx2286.96\fscy2177.14\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:39.28,0:03:39.32,Book,,0,0,0,,{\pos(549.36,511.55)\fscx2286.96\fscy2177.14\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:39.28,0:03:39.32,Book,,0,0,0,,{\pos(575.39,664.49)\fscx2286.96\fscy2177.14\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:39.32,0:03:39.36,Book,,0,0,0,,{\pos(639.85,43.38)\fscx2358.08\fscy2415\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:39.32,0:03:39.36,Book,,0,0,0,,{\pos(606.61,360.25)\fscx2285.92\fscy2176.15\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:39.32,0:03:39.36,Book,,0,0,0,,{\pos(639.85,43.38)\fscx2358.08\fscy2415\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:39.32,0:03:39.36,Book,,0,0,0,,{\pos(606.61,360.25)\fscx2285.92\fscy2176.15\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:39.32,0:03:39.36,Book,,0,0,0,,{\pos(549.41,511.50)\fscx2285.92\fscy2176.15\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:39.32,0:03:39.36,Book,,0,0,0,,{\pos(575.43,664.36)\fscx2285.92\fscy2176.15\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:39.36,0:03:39.40,Book,,0,0,0,,{\pos(639.85,43.55)\fscx2356.82\fscy2413.71\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:39.36,0:03:39.40,Book,,0,0,0,,{\pos(606.62,360.25)\fscx2284.7\fscy2174.98\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:39.36,0:03:39.40,Book,,0,0,0,,{\pos(639.85,43.55)\fscx2356.82\fscy2413.71\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:39.36,0:03:39.40,Book,,0,0,0,,{\pos(606.62,360.25)\fscx2284.7\fscy2174.98\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:39.36,0:03:39.40,Book,,0,0,0,,{\pos(549.46,511.42)\fscx2284.7\fscy2174.98\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:39.36,0:03:39.40,Book,,0,0,0,,{\pos(575.47,664.20)\fscx2284.7\fscy2174.98\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:39.40,0:03:39.44,Book,,0,0,0,,{\pos(639.88,43.69)\fscx2355.83\fscy2412.69\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:39.40,0:03:39.44,Book,,0,0,0,,{\pos(606.66,360.26)\fscx2283.73\fscy2174.06\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:39.40,0:03:39.44,Book,,0,0,0,,{\pos(639.88,43.69)\fscx2355.83\fscy2412.69\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:39.40,0:03:39.44,Book,,0,0,0,,{\pos(606.66,360.26)\fscx2283.73\fscy2174.06\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:39.40,0:03:39.44,Book,,0,0,0,,{\pos(549.52,511.36)\fscx2283.73\fscy2174.06\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:39.40,0:03:39.44,Book,,0,0,0,,{\pos(575.52,664.08)\fscx2283.73\fscy2174.06\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:39.44,0:03:39.49,Book,,0,0,0,,{\pos(639.90,43.84)\fscx2354.73\fscy2411.57\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:39.44,0:03:39.49,Book,,0,0,0,,{\pos(606.70,360.27)\fscx2282.67\fscy2173.05\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:39.44,0:03:39.49,Book,,0,0,0,,{\pos(639.90,43.84)\fscx2354.73\fscy2411.57\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:39.44,0:03:39.49,Book,,0,0,0,,{\pos(606.70,360.27)\fscx2282.67\fscy2173.05\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:39.44,0:03:39.49,Book,,0,0,0,,{\pos(549.59,511.29)\fscx2282.67\fscy2173.05\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:39.44,0:03:39.49,Book,,0,0,0,,{\pos(575.57,663.95)\fscx2282.67\fscy2173.05\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:39.49,0:03:39.53,Book,,0,0,0,,{\pos(639.91,44.00)\fscx2353.55\fscy2410.36\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:39.49,0:03:39.53,Book,,0,0,0,,{\pos(606.73,360.27)\fscx2281.52\fscy2171.96\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:39.49,0:03:39.53,Book,,0,0,0,,{\pos(639.91,44.00)\fscx2353.55\fscy2410.36\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:39.49,0:03:39.53,Book,,0,0,0,,{\pos(606.73,360.27)\fscx2281.52\fscy2171.96\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:39.49,0:03:39.53,Book,,0,0,0,,{\pos(549.64,511.22)\fscx2281.52\fscy2171.96\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:39.49,0:03:39.53,Book,,0,0,0,,{\pos(575.61,663.80)\fscx2281.52\fscy2171.96\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:39.53,0:03:39.57,Book,,0,0,0,,{\pos(639.92,44.17)\fscx2352.36\fscy2409.15\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:39.53,0:03:39.57,Book,,0,0,0,,{\pos(606.75,360.28)\fscx2280.37\fscy2170.87\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:39.53,0:03:39.57,Book,,0,0,0,,{\pos(639.92,44.17)\fscx2352.36\fscy2409.15\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:39.53,0:03:39.57,Book,,0,0,0,,{\pos(606.75,360.28)\fscx2280.37\fscy2170.87\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:39.53,0:03:39.57,Book,,0,0,0,,{\pos(549.70,511.15)\fscx2280.37\fscy2170.87\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:39.53,0:03:39.57,Book,,0,0,0,,{\pos(575.65,663.65)\fscx2280.37\fscy2170.87\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:39.57,0:03:39.61,Book,,0,0,0,,{\pos(639.92,44.32)\fscx2351.23\fscy2407.99\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:39.57,0:03:39.61,Book,,0,0,0,,{\pos(606.77,360.28)\fscx2279.28\fscy2169.82\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:39.57,0:03:39.61,Book,,0,0,0,,{\pos(639.92,44.32)\fscx2351.23\fscy2407.99\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:39.57,0:03:39.61,Book,,0,0,0,,{\pos(606.77,360.28)\fscx2279.28\fscy2169.82\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:39.57,0:03:39.61,Book,,0,0,0,,{\pos(549.74,511.08)\fscx2279.28\fscy2169.82\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:39.57,0:03:39.61,Book,,0,0,0,,{\pos(575.69,663.51)\fscx2279.28\fscy2169.82\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:39.61,0:03:39.65,Book,,0,0,0,,{\pos(639.92,44.49)\fscx2350.12\fscy2406.85\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:39.61,0:03:39.65,Book,,0,0,0,,{\pos(606.79,360.29)\fscx2278.2\fscy2168.8\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:39.61,0:03:39.65,Book,,0,0,0,,{\pos(639.92,44.49)\fscx2350.12\fscy2406.85\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:39.61,0:03:39.65,Book,,0,0,0,,{\pos(606.79,360.29)\fscx2278.2\fscy2168.8\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:39.61,0:03:39.65,Book,,0,0,0,,{\pos(549.79,511.03)\fscx2278.2\fscy2168.8\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:39.61,0:03:39.65,Book,,0,0,0,,{\pos(575.72,663.38)\fscx2278.2\fscy2168.8\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:39.65,0:03:39.69,Book,,0,0,0,,{\pos(639.93,44.64)\fscx2348.96\fscy2405.65\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:39.65,0:03:39.69,Book,,0,0,0,,{\pos(606.81,360.30)\fscx2277.07\fscy2167.72\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:39.65,0:03:39.69,Book,,0,0,0,,{\pos(639.93,44.64)\fscx2348.96\fscy2405.65\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:39.65,0:03:39.69,Book,,0,0,0,,{\pos(606.81,360.30)\fscx2277.07\fscy2167.72\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:39.65,0:03:39.69,Book,,0,0,0,,{\pos(549.84,510.95)\fscx2277.07\fscy2167.72\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:39.65,0:03:39.69,Book,,0,0,0,,{\pos(575.76,663.23)\fscx2277.07\fscy2167.72\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:39.69,0:03:39.74,Book,,0,0,0,,{\pos(639.92,44.81)\fscx2347.73\fscy2404.4\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:39.69,0:03:39.74,Book,,0,0,0,,{\pos(606.82,360.29)\fscx2275.88\fscy2166.59\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:39.69,0:03:39.74,Book,,0,0,0,,{\pos(639.92,44.81)\fscx2347.73\fscy2404.4\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:39.69,0:03:39.74,Book,,0,0,0,,{\pos(606.82,360.29)\fscx2275.88\fscy2166.59\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:39.69,0:03:39.74,Book,,0,0,0,,{\pos(549.88,510.87)\fscx2275.88\fscy2166.59\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:39.69,0:03:39.74,Book,,0,0,0,,{\pos(575.79,663.07)\fscx2275.88\fscy2166.59\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:39.74,0:03:39.78,Book,,0,0,0,,{\pos(639.94,44.96)\fscx2346.68\fscy2403.33\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:39.74,0:03:39.78,Book,,0,0,0,,{\pos(606.85,360.31)\fscx2274.87\fscy2165.63\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:39.74,0:03:39.78,Book,,0,0,0,,{\pos(639.94,44.96)\fscx2346.68\fscy2403.33\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:39.74,0:03:39.78,Book,,0,0,0,,{\pos(606.85,360.31)\fscx2274.87\fscy2165.63\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:39.74,0:03:39.78,Book,,0,0,0,,{\pos(549.94,510.82)\fscx2274.87\fscy2165.63\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:39.74,0:03:39.78,Book,,0,0,0,,{\pos(575.83,662.95)\fscx2274.87\fscy2165.63\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:39.78,0:03:39.82,Book,,0,0,0,,{\pos(639.94,45.12)\fscx2345.52\fscy2402.14\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:39.78,0:03:39.82,Book,,0,0,0,,{\pos(606.87,360.31)\fscx2273.74\fscy2164.56\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:39.78,0:03:39.82,Book,,0,0,0,,{\pos(639.94,45.12)\fscx2345.52\fscy2402.14\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:39.78,0:03:39.82,Book,,0,0,0,,{\pos(606.87,360.31)\fscx2273.74\fscy2164.56\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:39.78,0:03:39.82,Book,,0,0,0,,{\pos(549.99,510.75)\fscx2273.74\fscy2164.56\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:39.78,0:03:39.82,Book,,0,0,0,,{\pos(575.87,662.80)\fscx2273.74\fscy2164.56\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:39.82,0:03:39.86,Book,,0,0,0,,{\pos(639.96,45.28)\fscx2344.43\fscy2401.02\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:39.82,0:03:39.86,Book,,0,0,0,,{\pos(606.91,360.32)\fscx2272.68\fscy2163.55\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:39.82,0:03:39.86,Book,,0,0,0,,{\pos(639.96,45.28)\fscx2344.43\fscy2401.02\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:39.82,0:03:39.86,Book,,0,0,0,,{\pos(606.91,360.32)\fscx2272.68\fscy2163.55\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:39.82,0:03:39.86,Book,,0,0,0,,{\pos(550.05,510.69)\fscx2272.68\fscy2163.55\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:39.82,0:03:39.86,Book,,0,0,0,,{\pos(575.92,662.67)\fscx2272.68\fscy2163.55\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:39.86,0:03:39.90,Book,,0,0,0,,{\pos(639.96,45.44)\fscx2343.22\fscy2399.78\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:39.86,0:03:39.90,Book,,0,0,0,,{\pos(606.92,360.32)\fscx2271.51\fscy2162.43\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:39.86,0:03:39.90,Book,,0,0,0,,{\pos(639.96,45.44)\fscx2343.22\fscy2399.78\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:39.86,0:03:39.90,Book,,0,0,0,,{\pos(606.92,360.32)\fscx2271.51\fscy2162.43\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:39.86,0:03:39.90,Book,,0,0,0,,{\pos(550.09,510.61)\fscx2271.51\fscy2162.43\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:39.86,0:03:39.90,Book,,0,0,0,,{\pos(575.95,662.52)\fscx2271.51\fscy2162.43\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:39.90,0:03:39.94,Book,,0,0,0,,{\pos(639.96,45.60)\fscx2342.08\fscy2398.61\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:39.90,0:03:39.94,Book,,0,0,0,,{\pos(606.94,360.33)\fscx2270.4\fscy2161.37\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:39.90,0:03:39.94,Book,,0,0,0,,{\pos(639.96,45.60)\fscx2342.08\fscy2398.61\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:39.90,0:03:39.94,Book,,0,0,0,,{\pos(606.94,360.33)\fscx2270.4\fscy2161.37\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:39.90,0:03:39.94,Book,,0,0,0,,{\pos(550.14,510.54)\fscx2270.4\fscy2161.37\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:39.90,0:03:39.94,Book,,0,0,0,,{\pos(575.98,662.37)\fscx2270.4\fscy2161.37\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:39.94,0:03:39.99,Book,,0,0,0,,{\pos(639.96,45.77)\fscx2340.85\fscy2397.35\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:39.94,0:03:39.99,Book,,0,0,0,,{\pos(606.96,360.33)\fscx2269.21\fscy2160.24\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:39.94,0:03:39.99,Book,,0,0,0,,{\pos(639.96,45.77)\fscx2340.85\fscy2397.35\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:39.94,0:03:39.99,Book,,0,0,0,,{\pos(606.96,360.33)\fscx2269.21\fscy2160.24\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:39.94,0:03:39.99,Book,,0,0,0,,{\pos(550.18,510.47)\fscx2269.21\fscy2160.24\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:39.94,0:03:39.99,Book,,0,0,0,,{\pos(576.01,662.22)\fscx2269.21\fscy2160.24\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:39.99,0:03:40.03,Book,,0,0,0,,{\pos(639.97,45.93)\fscx2339.68\fscy2396.15\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:39.99,0:03:40.03,Book,,0,0,0,,{\pos(606.98,360.34)\fscx2268.07\fscy2159.16\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:39.99,0:03:40.03,Book,,0,0,0,,{\pos(639.97,45.93)\fscx2339.68\fscy2396.15\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:39.99,0:03:40.03,Book,,0,0,0,,{\pos(606.98,360.34)\fscx2268.07\fscy2159.16\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:39.99,0:03:40.03,Book,,0,0,0,,{\pos(550.23,510.40)\fscx2268.07\fscy2159.16\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:39.99,0:03:40.03,Book,,0,0,0,,{\pos(576.05,662.07)\fscx2268.07\fscy2159.16\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:40.03,0:03:40.07,Book,,0,0,0,,{\pos(639.98,46.10)\fscx2338.51\fscy2394.96\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:40.03,0:03:40.07,Book,,0,0,0,,{\pos(607.00,360.34)\fscx2266.95\fscy2158.09\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:40.03,0:03:40.07,Book,,0,0,0,,{\pos(639.98,46.10)\fscx2338.51\fscy2394.96\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:40.03,0:03:40.07,Book,,0,0,0,,{\pos(607.00,360.34)\fscx2266.95\fscy2158.09\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:40.03,0:03:40.07,Book,,0,0,0,,{\pos(550.29,510.33)\fscx2266.95\fscy2158.09\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:40.03,0:03:40.07,Book,,0,0,0,,{\pos(576.09,661.93)\fscx2266.95\fscy2158.09\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:40.07,0:03:40.11,Book,,0,0,0,,{\pos(639.98,46.25)\fscx2337.36\fscy2393.78\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:40.07,0:03:40.11,Book,,0,0,0,,{\pos(607.03,360.34)\fscx2265.83\fscy2157.02\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:40.07,0:03:40.11,Book,,0,0,0,,{\pos(639.98,46.25)\fscx2337.36\fscy2393.78\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:40.07,0:03:40.11,Book,,0,0,0,,{\pos(607.03,360.34)\fscx2265.83\fscy2157.02\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:40.07,0:03:40.11,Book,,0,0,0,,{\pos(550.34,510.25)\fscx2265.83\fscy2157.02\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:40.07,0:03:40.11,Book,,0,0,0,,{\pos(576.13,661.78)\fscx2265.83\fscy2157.02\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:40.11,0:03:40.15,Book,,0,0,0,,{\pos(639.97,46.42)\fscx2336.04\fscy2392.43\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:40.11,0:03:40.15,Book,,0,0,0,,{\pos(607.04,360.33)\fscx2264.55\fscy2155.8\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:40.11,0:03:40.15,Book,,0,0,0,,{\pos(639.97,46.42)\fscx2336.04\fscy2392.43\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:40.11,0:03:40.15,Book,,0,0,0,,{\pos(607.04,360.33)\fscx2264.55\fscy2155.8\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:40.11,0:03:40.15,Book,,0,0,0,,{\pos(550.38,510.16)\fscx2264.55\fscy2155.8\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:40.11,0:03:40.15,Book,,0,0,0,,{\pos(576.16,661.60)\fscx2264.55\fscy2155.8\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:40.15,0:03:40.19,Book,,0,0,0,,{\pos(639.96,46.59)\fscx2334.7\fscy2391.06\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:40.15,0:03:40.19,Book,,0,0,0,,{\pos(607.04,360.32)\fscx2263.25\fscy2154.57\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:40.15,0:03:40.19,Book,,0,0,0,,{\pos(639.96,46.59)\fscx2334.7\fscy2391.06\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:40.15,0:03:40.19,Book,,0,0,0,,{\pos(607.04,360.32)\fscx2263.25\fscy2154.57\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:40.15,0:03:40.19,Book,,0,0,0,,{\pos(550.41,510.07)\fscx2263.25\fscy2154.57\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:40.15,0:03:40.19,Book,,0,0,0,,{\pos(576.18,661.42)\fscx2263.25\fscy2154.57\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:40.19,0:03:40.24,Book,,0,0,0,,{\pos(639.95,46.75)\fscx2333.4\fscy2389.72\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:40.19,0:03:40.24,Book,,0,0,0,,{\pos(607.05,360.31)\fscx2261.99\fscy2153.37\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:40.19,0:03:40.24,Book,,0,0,0,,{\pos(639.95,46.75)\fscx2333.4\fscy2389.72\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:40.19,0:03:40.24,Book,,0,0,0,,{\pos(607.05,360.31)\fscx2261.99\fscy2153.37\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:40.19,0:03:40.24,Book,,0,0,0,,{\pos(550.46,509.97)\fscx2261.99\fscy2153.37\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:40.19,0:03:40.24,Book,,0,0,0,,{\pos(576.20,661.24)\fscx2261.99\fscy2153.37\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:40.24,0:03:40.28,Book,,0,0,0,,{\pos(639.96,46.91)\fscx2332.32\fscy2388.61\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:40.24,0:03:40.28,Book,,0,0,0,,{\pos(607.07,360.33)\fscx2260.94\fscy2152.37\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:40.24,0:03:40.28,Book,,0,0,0,,{\pos(639.96,46.91)\fscx2332.32\fscy2388.61\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:40.24,0:03:40.28,Book,,0,0,0,,{\pos(607.07,360.33)\fscx2260.94\fscy2152.37\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:40.24,0:03:40.28,Book,,0,0,0,,{\pos(550.51,509.92)\fscx2260.94\fscy2152.37\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:40.24,0:03:40.28,Book,,0,0,0,,{\pos(576.24,661.12)\fscx2260.94\fscy2152.37\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:40.28,0:03:40.32,Book,,0,0,0,,{\pos(639.97,47.07)\fscx2331.22\fscy2387.49\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:40.28,0:03:40.32,Book,,0,0,0,,{\pos(607.10,360.34)\fscx2259.87\fscy2151.35\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:40.28,0:03:40.32,Book,,0,0,0,,{\pos(639.97,47.07)\fscx2331.22\fscy2387.49\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:40.28,0:03:40.32,Book,,0,0,0,,{\pos(607.10,360.34)\fscx2259.87\fscy2151.35\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:40.28,0:03:40.32,Book,,0,0,0,,{\pos(550.56,509.86)\fscx2259.87\fscy2151.35\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:40.28,0:03:40.32,Book,,0,0,0,,{\pos(576.29,660.98)\fscx2259.87\fscy2151.35\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:40.32,0:03:40.36,Book,,0,0,0,,{\pos(639.96,47.24)\fscx2330.05\fscy2386.3\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:40.32,0:03:40.36,Book,,0,0,0,,{\pos(607.11,360.35)\fscx2258.75\fscy2150.28\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:40.32,0:03:40.36,Book,,0,0,0,,{\pos(639.96,47.24)\fscx2330.05\fscy2386.3\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:40.32,0:03:40.36,Book,,0,0,0,,{\pos(607.11,360.35)\fscx2258.75\fscy2150.28\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:40.32,0:03:40.36,Book,,0,0,0,,{\pos(550.60,509.80)\fscx2258.75\fscy2150.28\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:40.32,0:03:40.36,Book,,0,0,0,,{\pos(576.31,660.85)\fscx2258.75\fscy2150.28\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:40.36,0:03:40.40,Book,,0,0,0,,{\pos(639.97,47.40)\fscx2328.93\fscy2385.14\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:40.36,0:03:40.40,Book,,0,0,0,,{\pos(607.14,360.36)\fscx2257.65\fscy2149.24\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:40.36,0:03:40.40,Book,,0,0,0,,{\pos(639.97,47.40)\fscx2328.93\fscy2385.14\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:40.36,0:03:40.40,Book,,0,0,0,,{\pos(607.14,360.36)\fscx2257.65\fscy2149.24\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:40.36,0:03:40.40,Book,,0,0,0,,{\pos(550.65,509.73)\fscx2257.65\fscy2149.24\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:40.36,0:03:40.40,Book,,0,0,0,,{\pos(576.35,660.71)\fscx2257.65\fscy2149.24\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:40.40,0:03:40.45,Book,,0,0,0,,{\pos(639.97,47.56)\fscx2327.74\fscy2383.93\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:40.40,0:03:40.45,Book,,0,0,0,,{\pos(607.15,360.36)\fscx2256.51\fscy2148.15\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:40.40,0:03:40.45,Book,,0,0,0,,{\pos(639.97,47.56)\fscx2327.74\fscy2383.93\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:40.40,0:03:40.45,Book,,0,0,0,,{\pos(607.15,360.36)\fscx2256.51\fscy2148.15\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:40.40,0:03:40.45,Book,,0,0,0,,{\pos(550.70,509.66)\fscx2256.51\fscy2148.15\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:40.40,0:03:40.45,Book,,0,0,0,,{\pos(576.38,660.56)\fscx2256.51\fscy2148.15\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:40.45,0:03:40.49,Book,,0,0,0,,{\pos(639.98,47.73)\fscx2326.51\fscy2382.67\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:40.45,0:03:40.49,Book,,0,0,0,,{\pos(607.18,360.36)\fscx2255.31\fscy2147.01\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:40.45,0:03:40.49,Book,,0,0,0,,{\pos(639.98,47.73)\fscx2326.51\fscy2382.67\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:40.45,0:03:40.49,Book,,0,0,0,,{\pos(607.18,360.36)\fscx2255.31\fscy2147.01\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:40.45,0:03:40.49,Book,,0,0,0,,{\pos(550.76,509.58)\fscx2255.31\fscy2147.01\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:40.45,0:03:40.49,Book,,0,0,0,,{\pos(576.43,660.40)\fscx2255.31\fscy2147.01\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:40.49,0:03:40.53,Book,,0,0,0,,{\pos(639.98,47.90)\fscx2325.27\fscy2381.39\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:40.49,0:03:40.53,Book,,0,0,0,,{\pos(607.20,360.37)\fscx2254.11\fscy2145.86\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:40.49,0:03:40.53,Book,,0,0,0,,{\pos(639.98,47.90)\fscx2325.27\fscy2381.39\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:40.49,0:03:40.53,Book,,0,0,0,,{\pos(607.20,360.37)\fscx2254.11\fscy2145.86\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:40.49,0:03:40.53,Book,,0,0,0,,{\pos(550.80,509.50)\fscx2254.11\fscy2145.86\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:40.49,0:03:40.53,Book,,0,0,0,,{\pos(576.46,660.25)\fscx2254.11\fscy2145.86\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:40.53,0:03:40.57,Book,,0,0,0,,{\pos(639.98,48.06)\fscx2324.12\fscy2380.22\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:40.53,0:03:40.57,Book,,0,0,0,,{\pos(607.22,360.38)\fscx2252.99\fscy2144.8\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:40.53,0:03:40.57,Book,,0,0,0,,{\pos(639.98,48.06)\fscx2324.12\fscy2380.22\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:40.53,0:03:40.57,Book,,0,0,0,,{\pos(607.22,360.38)\fscx2252.99\fscy2144.8\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:40.53,0:03:40.57,Book,,0,0,0,,{\pos(550.85,509.44)\fscx2252.99\fscy2144.8\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:40.53,0:03:40.57,Book,,0,0,0,,{\pos(576.49,660.11)\fscx2252.99\fscy2144.8\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:40.57,0:03:40.61,Book,,0,0,0,,{\pos(639.99,48.23)\fscx2322.9\fscy2378.97\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:40.57,0:03:40.61,Book,,0,0,0,,{\pos(607.24,360.38)\fscx2251.81\fscy2143.68\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:40.57,0:03:40.61,Book,,0,0,0,,{\pos(639.99,48.23)\fscx2322.9\fscy2378.97\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:40.57,0:03:40.61,Book,,0,0,0,,{\pos(607.24,360.38)\fscx2251.81\fscy2143.68\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:40.57,0:03:40.61,Book,,0,0,0,,{\pos(550.90,509.37)\fscx2251.81\fscy2143.68\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:40.57,0:03:40.61,Book,,0,0,0,,{\pos(576.53,659.95)\fscx2251.81\fscy2143.68\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:40.61,0:03:40.65,Book,,0,0,0,,{\pos(639.99,48.40)\fscx2321.76\fscy2377.81\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:40.61,0:03:40.65,Book,,0,0,0,,{\pos(607.25,360.40)\fscx2250.71\fscy2142.63\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:40.61,0:03:40.65,Book,,0,0,0,,{\pos(639.99,48.40)\fscx2321.76\fscy2377.81\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:40.61,0:03:40.65,Book,,0,0,0,,{\pos(607.25,360.40)\fscx2250.71\fscy2142.63\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:40.61,0:03:40.65,Book,,0,0,0,,{\pos(550.94,509.31)\fscx2250.71\fscy2142.63\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:40.61,0:03:40.65,Book,,0,0,0,,{\pos(576.56,659.83)\fscx2250.71\fscy2142.63\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:40.65,0:03:40.70,Book,,0,0,0,,{\pos(640.00,48.58)\fscx2320.44\fscy2376.46\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:40.65,0:03:40.70,Book,,0,0,0,,{\pos(607.29,360.40)\fscx2249.43\fscy2141.41\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:40.65,0:03:40.70,Book,,0,0,0,,{\pos(640.00,48.58)\fscx2320.44\fscy2376.46\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:40.65,0:03:40.70,Book,,0,0,0,,{\pos(607.29,360.40)\fscx2249.43\fscy2141.41\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:40.65,0:03:40.70,Book,,0,0,0,,{\pos(551.01,509.23)\fscx2249.43\fscy2141.41\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:40.65,0:03:40.70,Book,,0,0,0,,{\pos(576.61,659.66)\fscx2249.43\fscy2141.41\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
-Dialogue: 0,0:03:40.70,0:03:40.74,Book,,0,0,0,,{\pos(640.00,48.64)\fscx2320\fscy2376\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule{\b0}
-Dialogue: 0,0:03:40.70,0:03:40.74,Book,,0,0,0,,{\pos(607.29,360.40)\fscx2249\fscy2141\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August{\b1}
+Dialogue: 0,0:03:40.70,0:03:40.74,Book,,0,0,0,,{\pos(640.00,48.64)\fscx2320\fscy2376\bord0\an5\blur1\fs2\b1\c&HEFEFEF&}Serialization committee schedule
+Dialogue: 0,0:03:40.70,0:03:40.74,Book,,0,0,0,,{\pos(607.29,360.40)\fscx2249\fscy2141\bord0\an5\blur1\fs2\b0\c&H45D700&}First: \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hearly August
 Dialogue: 0,0:03:40.70,0:03:40.74,Book,,0,0,0,,{\pos(551.02,509.20)\fscx2249\fscy2141\bord0\an5\blur1\fs2\b0\c&H00D7F2&}Second:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h mid-October
 Dialogue: 0,0:03:40.70,0:03:40.74,Book,,0,0,0,,{\pos(576.62,659.60)\fscx2249\fscy2141\bord0\an5\blur1\fs2\b0\c&H0000C2&}Third:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hlate December
 Dialogue: 0,0:06:28.03,0:06:30.03,Book,,0,0,0,,{\blur1\fs50\c&H97928E&\fscx80\fscy86\pos(396.381,232.047)}Room
 Dialogue: 0,0:06:28.03,0:06:30.03,Huge,,0,0,0,,{\blur1\fs60\c&H6D6365&\pos(860.8,471.4)}Miura
 Dialogue: 0,0:07:07.53,0:07:09.49,Book,,0,0,0,,{\blur1\fs50\c&H97928E&\fscx80\fscy86\pos(396.381,232.047)}Room
 Dialogue: 0,0:07:07.53,0:07:09.49,Huge,,0,0,0,,{\blur1\fs60\c&H6D6365&\pos(860.8,471.4)}Miura
-Dialogue: 0,0:07:17.41,0:07:18.83,Huge,,0,0,0,,{\blur1\c&H838186&\i0\b0\frz284.1\fscx55\fscy70\frx2\fry0\pos(257,285.333)}This could be something \NTanto-kun made...{\i1\b1}
+Dialogue: 0,0:07:17.41,0:07:18.83,Huge,,0,0,0,,{\blur1\c&H838186&\i0\b0\frz284.1\fscx55\fscy70\frx2\fry0\pos(257,285.333)}This could be something \NTanto-kun made...
 Dialogue: 0,0:07:17.41,0:07:18.83,Huge,,0,0,0,,{\blur1\frz15.55\pos(328,653.8)\frx2\fry6}The End
 Dialogue: 0,0:18:22.62,0:18:22.70,Huge,,0,0,0,,{\blur0.8\b0\c&H6F6F70&\frz4.033\pos(1241.7,548.77)}Serialization Name 3 chapters
 Dialogue: 0,0:18:22.62,0:18:22.70,Huge,,0,0,0,,{\blur0.8\c&H6B6B6C&\b0\frz7.8\pos(1412.9,675.17)}Ashirogi Muto
@@ -748,7 +748,7 @@ Dialogue: 10,0:03:30.81,0:03:32.28,Default,,0,0,0,,Before you think \Nabout our 
 Dialogue: 10,0:03:32.28,0:03:34.40,Default,,0,0,0,,you've got to focus on \Nwrapping up {\i1}Tanto{\i0}, right?
 Dialogue: 10,0:03:34.40,0:03:35.36,Default,,0,0,0,,I know, but...
 Dialogue: 10,0:03:35.90,0:03:38.54,Default,,0,0,0,,If we don't submit something that can compete with Eiji's work
-Dialogue: 10,0:03:38.54,0:03:40.74,Default,,0,0,0,,to one of the three serialization committees over the next six months,
+Dialogue: 10,0:03:38.54,0:03:40.74,Default,,0,0,0, [unreadable],to one of the three serialization committees over the next six months,
 Dialogue: 10,0:03:40.74,0:03:42.66,Default,,0,0,0,,we can't draw for Jack anymore.
 Dialogue: 10,0:03:42.66,0:03:43.95,Default,,0,0,0,,Are you regretting it?
 Dialogue: 10,0:03:43.95,0:03:46.66,Default,,0,0,0,,No, I'm on fire.
@@ -769,7 +769,7 @@ Dialogue: 10,0:04:16.06,0:04:18.23,Default,,0,0,0,,you know that's a promise I c
 Dialogue: 10,0:04:20.23,0:04:22.86,Default,,0,0,0,,Father, you know that's\N a promise I can't make!
 Dialogue: 10,0:04:23.49,0:04:25.03,Default,,0,0,0,,That's probably wrong...
 Dialogue: 10,0:04:30.83,0:04:32.04,Default-Italic,,0,0,0,,Mashiro!
-Dialogue: 10,0:04:33.25,0:04:35.17,Default-Italic,,0,0,0,,We've come to an understanding with the editorial department,
+Dialogue: 10,0:04:32.87,0:04:35.17,Default-Italic,,0,0,0,,We've come to an understanding with the editorial department,
 Dialogue: 10,0:04:35.17,0:04:39.17,Default-Italic,,0,0,0,,so {\i0}Hirameki Tanto-kun{\i1} \Nwill end in issue 31.
 Dialogue: 10,0:04:39.17,0:04:42.47,Default-Italic,,0,0,0,,I'll definitely make our \Nnext series a big hit!
 Dialogue: 10,0:04:46.18,0:04:49.68,Default-Italic,,0,0,0,,{\fad(0,650)}I'm praying for your \Nnext manga to be a hit.
@@ -854,8 +854,8 @@ Dialogue: 10,0:08:24.85,0:08:27.40,Default,,0,0,0,,Men and women would \Ndiffer 
 Dialogue: 10,0:08:27.40,0:08:30.69,Default,,0,0,0,,Many things are different depending on how attractive you are.
 Dialogue: 10,0:08:30.69,0:08:32.90,Default,,0,0,0,,Um, is it okay to write\N something like this?
 Dialogue: 10,0:08:32.90,0:08:34.70,Default,,0,0,0,,Just write what you want to.
-Dialogue: 10,0:08:34.70,0:08:37.20,Default,,0,0,0,,I'll point out things that \Nmight be inappropriate.
-Dialogue: 10,0:08:37.41,0:08:39.66,Default-Italic,,0,0,0,,Money, Intelligence, and Appearance.
+Dialogue: 10,0:08:34.70,0:08:36.87,Default,,0,0,0,,I'll point out things that \Nmight be inappropriate.
+Dialogue: 10,0:08:37.20,0:08:39.66,Default-Italic,,0,0,0,,Money, Intelligence, and Appearance.
 Dialogue: 10,0:08:39.66,0:08:42.87,Default-Italic,,0,0,0,,I can't believe Miura thought of this.
 Dialogue: 10,0:08:37.20,0:08:40.49,Default-Alt,,0,0,0,,Women especially want to be beautiful.
 Dialogue: 10,0:08:40.49,0:08:44.67,Default-Alt,,0,0,0,,Spending lots of money on brand name lipstick, visiting beauty salons...
@@ -864,8 +864,8 @@ Dialogue: 10,0:08:47.80,0:08:50.00,Default,,0,0,0,,and body that she refuses to 
 Dialogue: 10,0:08:50.00,0:08:50.80,Default,,0,0,0,,Nice!
 Dialogue: 10,0:08:50.80,0:08:51.59,Default,,0,0,0,,That's Azuki's role.
 Dialogue: 10,0:08:52.38,0:08:55.59,Default,,0,0,0,,Rank wouldn't just be based \Non intelligence anymore,
-Dialogue: 10,0:08:55.59,0:08:56.93,Default,,0,0,0,,but appearance as well.
-Dialogue: 10,0:08:56.93,0:08:59.51,Default,,0,0,0,,There would be an intelligence rank, an appearance rank, and an overall rank.
+Dialogue: 10,0:08:55.59,0:08:56.72,Default,,0,0,0,,but appearance as well.
+Dialogue: 10,0:08:56.72,0:08:59.51,Default,,0,0,0,,There would be an intelligence rank, an appearance rank, and an overall rank.
 Dialogue: 10,0:08:59.51,0:09:01.07,Default,,0,0,0,,What a horrible world!
 Dialogue: 10,0:09:01.07,0:09:02.14,Default,,0,0,0,,I wouldn't want to live in it.
 Dialogue: 10,0:09:02.14,0:09:03.02,Default,,0,0,0,,And then?
@@ -880,8 +880,8 @@ Dialogue: 10,0:09:16.28,0:09:18.28,Default,,0,0,0,,You're taking it in a directi
 Dialogue: 10,0:09:18.28,0:09:20.66,Default,,0,0,0,,Takagi, you really are good \Nat these kinds of stories.
 Dialogue: 10,0:09:20.66,0:09:23.24,Default-Italic,,0,0,0,,Miura is trying to get Takagi on a roll,
 Dialogue: 10,0:09:23.24,0:09:25.08,Default-Italic,,0,0,0,,and he's working with his strengths!
-Dialogue: 10,0:09:25.08,0:09:27.36,Default,,0,0,0,,So would having the\N protagonist be ugly
-Dialogue: 10,0:09:27.36,0:09:28.91,Default,,0,0,0,,and moderately \Nintelligent at the beginning
+Dialogue: 10,0:09:25.08,0:09:27.33,Default,,0,0,0,,So would having the\N protagonist be ugly
+Dialogue: 10,0:09:27.33,0:09:28.91,Default,,0,0,0,,and moderately \Nintelligent at the beginning
 Dialogue: 10,0:09:28.91,0:09:30.88,Default,,0,0,0,,be the best way to go?
 Dialogue: 10,0:09:31.63,0:09:34.47,Default,,0,0,0,,Wait, the protagonist in a shounen manga can't be ugly, can he?
 Dialogue: 10,0:09:34.47,0:09:35.72,Default,,0,0,0,,That's not true!
@@ -1088,8 +1088,8 @@ Dialogue: 10,0:17:48.71,0:17:50.83,Default,,0,0,0,,Takagi got married,
 Dialogue: 10,0:17:50.83,0:17:53.51,Default,,0,0,0,,and you decided you \Ncouldn't like him anymore.
 Dialogue: 10,0:17:53.51,0:17:54.21,Default,,0,0,0,,That's fine.
 Dialogue: 10,0:17:54.80,0:17:56.80,Default,,0,0,0,,But to replace him with me...
-Dialogue: 10,0:17:56.80,0:17:57.72,Default,,0,0,0,,You're wrong!
-Dialogue: 10,0:17:57.72,0:17:58.97,Default,,0,0,0,,That's the only thing \Nthat makes sense!
+Dialogue: 10,0:17:56.80,0:17:57.55,Default,,0,0,0,,You're wrong!
+Dialogue: 10,0:17:57.55,0:17:58.97,Default,,0,0,0,,That's the only thing \Nthat makes sense!
 Dialogue: 10,0:18:03.02,0:18:04.31,Default,,0,0,0,,You're still young.
 Dialogue: 10,0:18:04.77,0:18:06.23,Default,,0,0,0,,Take a look around.
 Dialogue: 10,0:18:06.23,0:18:07.85,Default,,0,0,0,,There must be some wonderful \Nyoung men at your uni—
@@ -1102,10 +1102,10 @@ Dialogue: 10,0:18:22.91,0:18:25.00,Default,,0,0,0,,Here's the third chapter.
 Dialogue: 10,0:18:26.46,0:18:28.79,Default,,0,0,0,,But still, why a \Nmainstream fantasy?
 Dialogue: 10,0:18:28.79,0:18:30.21,Default,,0,0,0,,I don't get it.
 Dialogue: 10,0:18:30.21,0:18:33.50,Default,,0,0,0,,Even if he says it's because \Nwe haven't done one before.
-Dialogue: 10,0:18:33.50,0:18:34.36,Default,,0,0,0,,But Shuujin,
-Dialogue: 10,0:18:34.36,0:18:36.32,Default,,0,0,0,,once you decided on a story, you haven't had trouble writing it.
-Dialogue: 10,0:18:36.32,0:18:38.64,Default,,0,0,0,,That's because he said, "Don't make the setting too elaborate.
-Dialogue: 10,0:18:38.64,0:18:41.05,Default,,0,0,0,,Rely on Saiko's art to make it look cool."
+Dialogue: 10,0:18:33.50,0:18:34.25,Default,,0,0,0,,But Shuujin,
+Dialogue: 10,0:18:34.25,0:18:36.47,Default,,0,0,0,,once you decided on a story, you haven't had trouble writing it.
+Dialogue: 10,0:18:36.47,0:18:38.59,Default,,0,0,0,,That's because he said, "Don't make the setting too elaborate.
+Dialogue: 10,0:18:38.59,0:18:41.05,Default,,0,0,0,,Rely on Saiko's art to make it look cool."
 Dialogue: 10,0:18:41.05,0:18:43.01,Default,,0,0,0,,But to me, it feels like\N something's missing.
 Dialogue: 10,0:18:43.01,0:18:43.68,Default,,0,0,0,,Comment.
 Dialogue: 10,0:18:43.68,0:18:44.72,Default,,0,0,0,,Comment?

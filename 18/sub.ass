@@ -20,9 +20,8 @@ Keyframes File: ep18_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 614
-Active Line: 629
-Video Position: 27401
+Active Line: 12
+Video Position: 750
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -183,8 +182,8 @@ Dialogue: 10,0:05:18.28,0:05:21.30,Default,,0,0,0,,will be submitted to the \Nsa
 Dialogue: 10,0:05:21.84,0:05:26.80,Default,,0,0,0,,She's apparently been a rival of Takagi's since middle school.
 Dialogue: 10,0:05:26.80,0:05:28.22,Default,,0,0,0,,What?!
 Dialogue: 10,0:05:28.22,0:05:30.32,Default,,0,0,0,,A name made from Akina Aiko's manuscript
-Dialogue: 10,0:05:30.32,0:05:32.27,Default,,0,0,0,,will be submitted to the next \Nserialization committee?!
-Dialogue: 10,0:05:32.27,0:05:33.39,Default,,0,0,0,,Are you for real?
+Dialogue: 10,0:05:30.32,0:05:32.35,Default,,0,0,0,,will be submitted to the next \Nserialization committee?!
+Dialogue: 10,0:05:32.35,0:05:33.39,Default,,0,0,0,,Are you for real?
 Dialogue: 10,0:05:33.81,0:05:35.85,Default-Alt,,0,0,0,,Th-That's Iwase, right?
 Dialogue: 10,0:05:35.85,0:05:36.48,Default-Alt,,0,0,0,,Yeah.
 Dialogue: 10,0:05:33.39,0:05:36.48,Default,,0,0,0,,So it's true that she's been your rival since middle school.
@@ -299,8 +298,8 @@ Dialogue: 10,0:10:07.76,0:10:08.91,Default,,0,0,0,,but a serialization?!
 Dialogue: 10,0:10:08.91,0:10:10.46,Default,,0,0,0,,The other authors will complain.
 Dialogue: 10,0:10:10.46,0:10:13.30,Default,,0,0,0,,But this is really good.
 Dialogue: 10,0:10:13.30,0:10:16.92,Default,,0,0,0,,Each chapter is good on its own, but it's been a while since
-Dialogue: 10,0:10:16.92,0:10:19.89,Default,,0,0,0,,I've read something where the second and third chapters step up the pace like this.
-Dialogue: 10,0:10:19.89,0:10:22.67,Default,,0,0,0,,Well, I agree that it's good,
+Dialogue: 10,0:10:16.92,0:10:19.97,Default,,0,0,0,,I've read something where the second and third chapters step up the pace like this.
+Dialogue: 10,0:10:19.97,0:10:22.67,Default,,0,0,0,,Well, I agree that it's good,
 Dialogue: 10,0:10:22.67,0:10:25.27,Default,,0,0,0,,and I wouldn't want \NJack SQ to get it.
 Dialogue: 10,0:10:25.85,0:10:28.73,Default,,0,0,0,,There is also the option of having\N someone other than Niizuma draw it.
 Dialogue: 10,0:10:28.73,0:10:30.48,Default,,0,0,0,,We can't do that.
@@ -318,7 +317,7 @@ Dialogue: 10,0:10:54.09,0:10:56.14,Default,,0,0,0,,but there's no rule that \Nst
 Dialogue: 10,0:10:56.14,0:10:57.98,Default,,0,0,0,,cannot have two serialized \Nmanga at the same time.
 Dialogue: 10,0:10:57.98,0:11:01.39,Default,,0,0,0,,There's probably never been an author that could do it before.
 Dialogue: 10,0:11:01.80,0:11:03.23,Default,,0,0,0,,Yuujirou...
-Dialogue: 10,0:11:03.23,0:11:04.75,Default,,0,0,0,,You know how important {\i1}Crow{\i0}
+Dialogue: 10,0:11:03.23,0:11:04.75,Default,,0,0,0,,You know how important {\i1}Crow
 Dialogue: 10,0:11:04.75,0:11:07.64,Default,,0,0,0,,is to Jack right now, don't you?
 Dialogue: 10,0:11:07.64,0:11:09.40,Default,,0,0,0,,If the quality of {\i1}Crow{\i0}\N suffers due to the artist
 Dialogue: 10,0:11:09.40,0:11:10.56,Default,,0,0,0,,working on two manga simultaneously—
@@ -354,7 +353,7 @@ Dialogue: 10,0:12:34.44,0:12:35.65,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:12:35.65,0:12:36.76,Default-Alt,,0,0,0,,What do you mean,
 Dialogue: 10,0:12:36.76,0:12:38.19,Default-Alt,,0,0,0,,he's doing two works at the same time?!
 Dialogue: 10,0:12:35.65,0:12:39.37,Default,,0,0,0,,{\i1}+NATURAL{\i0} will be serialized in Issue 11, one issue before yours,
-Dialogue: 10,0:12:39.37,0:12:40.90,Default,,0,0,0,,with the script written by Akina Aiko and art by Niizuma Eiji.
+Dialogue: 10,0:12:39.37,0:12:40.90,Default,,0,0,0, [unreadable!],with the script written by Akina Aiko and art by Niizuma Eiji.
 Dialogue: 10,0:12:38.19,0:12:40.90,Default-Alt,,0,0,0,,It's not fair to have Niizuma do the art! It's wrong!
 Dialogue: 10,0:12:40.90,0:12:42.90,Default-Alt,,0,0,0,,Yuujirou, this is unfair!
 Dialogue: 10,0:12:42.90,0:12:45.61,Default-Alt,,0,0,0,,There'll be one less slot for new authors!
@@ -438,8 +437,8 @@ Dialogue: 10,0:15:37.83,0:15:40.20,Default,,0,0,0,,And I didn't tell you this be
 Dialogue: 10,0:15:40.20,0:15:42.08,Default,,0,0,0,,but your artist, MONEYS,
 Dialogue: 10,0:15:42.08,0:15:44.50,Default,,0,0,0,,is actually Niizuma Eiji, \Nthe author of Crow.
 Dialogue: 10,0:15:44.50,0:15:45.88,Default,,0,0,0,,Have you heard of it?
-Dialogue: 10,0:15:45.88,0:15:47.08,Default,,0,0,0,,Yes.
-Dialogue: 10,0:15:47.08,0:15:48.81,Default,,0,0,0,,It's a popular manga \Nthat's been on the front cover
+Dialogue: 10,0:15:45.88,0:15:46.92,Default,,0,0,0,,Yes.
+Dialogue: 10,0:15:46.92,0:15:48.81,Default,,0,0,0,,It's a popular manga \Nthat's been on the front cover
 Dialogue: 10,0:15:48.81,0:15:50.84,Default,,0,0,0,,many times, and also \Nfrequently gets color pages.
 Dialogue: 10,0:15:50.84,0:15:51.63,Default,,0,0,0,,Right.
 Dialogue: 10,0:15:51.63,0:15:53.69,Default,,0,0,0,,We've hidden it up until now,
@@ -469,9 +468,9 @@ Dialogue: 10,0:16:41.85,0:16:44.77,Default,,0,0,0,,Is he going to have two manga
 Dialogue: 10,0:16:44.77,0:16:45.73,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:16:45.73,0:16:49.19,Default-Alt,,0,0,0,,The original work is {\i1}+NATURAL{\i0} by Akina Aiko...
 Dialogue: 10,0:16:46.65,0:16:48.57,Default-Italic,,0,0,0,,Two manga by himself...
-Dialogue: 10,0:16:49.19,0:16:51.15,Default,,0,0,0,,Niizuma's really something.
-Dialogue: 10,0:16:51.15,0:16:52.60,Default,,0,0,0,,Even before the serialization was decided on,
-Dialogue: 10,0:16:52.60,0:16:54.82,Default,,0,0,0,,he drew up a rough \Nsketch of the first chapter.
+Dialogue: 10,0:16:49.19,0:16:51.07,Default,,0,0,0,,Niizuma's really something.
+Dialogue: 10,0:16:51.07,0:16:52.65,Default,,0,0,0,,Even before the serialization was decided on,
+Dialogue: 10,0:16:52.65,0:16:54.82,Default,,0,0,0,,he drew up a rough \Nsketch of the first chapter.
 Dialogue: 10,0:16:54.82,0:16:56.66,Default,,0,0,0,,He's ready to go.
 Dialogue: 10,0:16:56.66,0:16:58.20,Default,,0,0,0,,It'll definitely go well.
 Dialogue: 10,0:16:58.20,0:16:59.08,Default,,0,0,0,,And next time,
@@ -486,7 +485,7 @@ Dialogue: 10,0:17:15.64,0:17:16.51,Default,,0,0,0,,It'll sell.
 Dialogue: 10,0:17:16.51,0:17:18.85,Default,,0,0,0,,So anything goes if \Nit's good for business?
 Dialogue: 10,0:17:18.85,0:17:20.60,Default,,0,0,0,,Don't put it that way.
 Dialogue: 10,0:17:20.60,0:17:23.17,Default,,0,0,0,,Fukuda, you stick your nose into \Nother people's business too much.
-Dialogue: 10,0:17:23.17,0:17:24.77,Default,,0,0,0,,Focus on {\i1}Kiyoshi!{\i0}
+Dialogue: 10,0:17:23.17,0:17:24.77,Default,,0,0,0,,Focus on {\i1}Kiyoshi!
 Dialogue: 10,0:17:25.69,0:17:27.69,Default-Italic,,0,0,0,,I don't like this.
 Dialogue: 10,0:17:27.69,0:17:28.91,Default,,0,0,0,,What?
 Dialogue: 10,0:17:28.91,0:17:30.57,Default,,0,0,0,,Two serializations in\N a weekly magazine?
@@ -506,8 +505,8 @@ Dialogue: 10,0:17:59.14,0:18:01.56,Default,,0,0,0,,Aoki this, Aoki that.
 Dialogue: 10,0:18:01.56,0:18:03.56,Default,,0,0,0,,Why don't you just go after {\i1}her{\i0}?
 Dialogue: 10,0:18:03.56,0:18:05.39,Default,,0,0,0,,R-Really?
 Dialogue: 10,0:18:05.39,0:18:06.94,Default,,0,0,0,,If you keep your deadlines,
-Dialogue: 10,0:18:06.94,0:18:08.48,Default,,0,0,0,,you're free to do as you\N like with your love life.
-Dialogue: 10,0:18:08.48,0:18:11.36,Default,,0,0,0,,It's common for \Nmangakas to get married.
+Dialogue: 10,0:18:06.94,0:18:08.65,Default,,0,0,0,,you're free to do as you\N like with your love life.
+Dialogue: 10,0:18:08.65,0:18:11.36,Default,,0,0,0,,It's common for \Nmangakas to get married.
 Dialogue: 10,0:18:11.36,0:18:13.69,Default,,0,0,0,,But it's up to Aoki...
 Dialogue: 10,0:18:13.69,0:18:16.53,Default,,0,0,0,,That kind of girl is weak\N against a bit of pressure.
 Dialogue: 10,0:18:16.53,0:18:17.82,Default,,0,0,0,,Really?
@@ -694,10 +693,10 @@ Dialogue: 1,0:00:38.43,0:00:44.35,Huge,,0,0,0,,{\blur0.8\c&H6C6D70&\fscx66\fscy1
 Dialogue: 1,0:08:09.26,0:08:12.93,Dates,,0,0,0,,{\b1\fad(231,0)\bord0\blur0.6\an8\3a&HFF&\c&HE4E4E3&}December 25th Tuesday\NDay of Serialization Committee
 Dialogue: 0,0:08:09.26,0:08:12.93,Dates,,0,0,0,,{\b1\fad(231,0)\bord3.5\c&H141213&\3c&H141213&\an8\1a&HFF&\blur0.6}December 25th Tuesday\NDay of Serialization Committee
 Dialogue: 0,0:09:19.08,0:09:26.42,Huge,,0,0,0,,{\blur2\fax0.3\c&HB4ADAC&\frz8.166\frx14\fry8\pos(835.637,584.715)}{TS 9:20}Ma{\frz8}nus{\frz7}cri{\frz6}pt: {\frz4}Akina Aiko
-Dialogue: 0,0:09:19.08,0:09:26.42,Huge,,0,0,0,,{\blur2\fax0.35\c&HB4ADAC&\frx16\fry6\frz8.166\pos(724.209,681.572)}{TS 9:20}Ar{\frz8}ti{\frz7}st{\frz6}
+Dialogue: 0,0:09:19.08,0:09:26.42,Huge,,0,0,0,,{\blur2\fax0.35\c&HB4ADAC&\frx16\fry6\frz8.166\pos(724.209,681.572)}{TS 9:20}Ar{\frz8}ti{\frz7}st
 Dialogue: 0,0:09:50.73,0:09:53.23,Huge,,0,0,0,,{\blur1\fnMaya\c&H857F7D&\frz264.3\frx2\fry2\pos(1030.4,420.2)}Come out!! Hiruriramu!
 Dialogue: 0,0:13:52.89,0:13:53.85,Textmsgslazy,,0,0,0,,{\an1\frz9\fax0.02\fs100\blur1.2\c&H654A3F&\move(561,70,549,16)}News
-Dialogue: 0,0:13:52.89,0:13:57.35,Textmsgslazy,,0,0,0,,{\fs32\blur1\frz8.7\fs43\fscy85\c&H795C53&\move(198,748,136,495)}Congratulations! I can't believe you have a serialization only a \Nyear after Trap ended. You two really do have talent! Go for it!\NPS: Merry Xmas (lol)
+Dialogue: 0,0:13:52.89,0:13:57.35,Textmsgslazy,,0,0,0,,{\blur1\frz8.7\fs43\fscy85\c&H795C53&\move(198,748,136,495)}Congratulations! I can't believe you have a serialization only a \Nyear after Trap ended. You two really do have talent! Go for it!\NPS: Merry Xmas (lol)
 Dialogue: 0,0:18:52.81,0:18:57.36,Huge,,0,0,0,,{\blur1\c&H626664&\frz4.882\frx8\fry340\pos(649.143,241.286)}Tue
 Dialogue: 0,0:18:52.81,0:18:57.36,Huge,,0,0,0,,{\blur1\c&H636A67&\frz4.882\frx8\fry340\pos(768,220.286)}Wed
 Dialogue: 0,0:18:52.81,0:18:57.36,Huge,,0,0,0,,{\blur1\frx2\fry342\fscx52\fscy67\frz3.305\pos(641.334,645.333)\c&H4F5251&}Serialization
@@ -706,8 +705,8 @@ Dialogue: 0,0:18:52.81,0:18:57.36,Huge,,0,0,0,,{\blur1\c&H4F5251&\frx2\fry342\fs
 Dialogue: 0,0:18:52.81,0:18:57.36,Huge,,0,0,0,,{\blur1\c&H4F5251&\frx2\fry342\fscx52\fscy67\frz3.305\pos(641.334,672.133)}Commitee
 Dialogue: 0,0:18:52.81,0:18:57.36,Huge,,0,0,0,,{\blur1\c&H4F5251&\frx2\fry342\fscx52\fscy67\frz3.305\pos(641.334,672.133)}Commitee
 Dialogue: 0,0:18:52.81,0:18:57.36,Huge,,0,0,0,,{\blur1\c&H4F5251&\frx2\fry342\fscx52\fscy67\frz3.305\pos(641.334,672.133)}Commitee
-Dialogue: 0,0:18:52.81,0:18:57.36,Huge,,0,0,0,,{\blur1\c&H5B605E&\fs36\b1\frx8\fry338\frz273.2\pos(765.4,360.62)} Greet Miyosh's parents{\b0}
-Dialogue: 0,0:18:52.81,0:18:57.36,Huge,,0,0,0,,{\blur1\c&H5B605E&\fs36\b1\frx8\fry338\frz273.2\pos(765.4,360.62)} Greet Miyosh's parents{\b0}
+Dialogue: 0,0:18:52.81,0:18:57.36,Huge,,0,0,0,,{\blur1\c&H5B605E&\fs36\b1\frx8\fry338\frz273.2\pos(765.4,360.62)} Greet Miyosh's parents
+Dialogue: 0,0:18:52.81,0:18:57.36,Huge,,0,0,0,,{\blur1\c&H5B605E&\fs36\b1\frx8\fry338\frz273.2\pos(765.4,360.62)} Greet Miyosh's parents
 Dialogue: 0,0:19:02.82,0:19:04.83,Huge,,0,0,0,,{\an1\fscx160\fscy160\fs60\blur1\c&HDDDDD6&\pos(640,269)}N{\c&HCBC8C4&}i{\c&HCDCAC3&}i{\c&HCDC9C3&}z{\c&HD9D9D4&}u{\c&HDFDEDA&}m{\c&HF9F8F3&}a
 Dialogue: 0,0:19:02.82,0:19:04.83,Huge,,0,0,0,,{\an1\blur1\c&H44403D&\frx0\fry0\fscx135\fscy135\pos(884,653)}Eiji  Ltd.
 Dialogue: 0,0:04:15.31,0:04:17.02,Silence,,0,0,0,,{\an1\pos(852,238)\b0\fs55\fsp-1\blur0.8\bord0\shad0\c&HC8CACE&}Editorial Department

@@ -19,9 +19,8 @@ Keyframes File: ep25_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 596
-Active Line: 621
-Video Position: 29856
+Active Line: 578
+Video Position: 5835
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -114,7 +113,7 @@ Dialogue: 10,0:01:24.73,0:01:26.27,Default,,0,0,0,,Speaking of main characters,
 Dialogue: 10,0:01:26.27,0:01:28.19,Default,,0,0,0,,there's one more \Nthing you need to fix.
 Dialogue: 10,0:01:28.65,0:01:29.65,Default,,0,0,0,,One more thing?
 Dialogue: 10,0:01:30.06,0:01:31.61,Default,,0,0,0,,A design suitable for\N a main character.
-Dialogue: 10,0:01:33.03,0:01:35.04,Default,,0,0,0,,Since the setting calls for a \Nnormal elementary school kid,
+Dialogue: 10,0:01:32.82,0:01:35.04,Default,,0,0,0,,Since the setting calls for a \Nnormal elementary school kid,
 Dialogue: 10,0:01:35.04,0:01:36.40,Default,,0,0,0,,we want it to be realistic,
 Dialogue: 10,0:01:36.40,0:01:38.24,Default,,0,0,0,,so to a certain degree it's okay,
 Dialogue: 10,0:01:38.24,0:01:39.74,Default,,0,0,0,,but he's just too normal right now.
@@ -151,9 +150,9 @@ Dialogue: 10,0:02:39.64,0:02:41.51,Default-Italic,,0,0,0,,was make a living\N of
 Dialogue: 10,0:02:41.51,0:02:43.15,Default-Italic,,0,0,0,,What he left undone
 Dialogue: 10,0:02:43.15,0:02:45.89,Default-Italic,,0,0,0,,was getting first \Nplace in the survey!
 Dialogue: 10,0:04:17.98,0:04:19.98,Default,,0,0,0,,Is the coming of age \Nceremony over already?
-Dialogue: 10,0:04:19.98,0:04:22.35,Default,,0,0,0,,How could I let you \Nkeep working alone
-Dialogue: 10,0:04:22.35,0:04:24.11,Default,,0,0,0,,when I haven't come up with character names or a title yet?
-Dialogue: 10,0:04:24.11,0:04:26.01,Default,,0,0,0,,Iwase and Ishizawa were there too,
+Dialogue: 10,0:04:19.98,0:04:22.35,Default,,0,0,0,,How could I let you keep \Nworking alone when I haven't 
+Dialogue: 10,0:04:22.35,0:04:24.22,Default,,0,0,0,,come up with character\N names or a title yet?
+Dialogue: 10,0:04:24.22,0:04:26.01,Default,,0,0,0,,Iwase and Ishizawa were there too,
 Dialogue: 10,0:04:26.01,0:04:27.33,Default,,0,0,0,,so we ducked out early.
 Dialogue: 10,0:04:28.08,0:04:29.91,Default,,0,0,0,,But you've really drawn a lot of them.
 Dialogue: 10,0:04:29.91,0:04:31.62,Default,,0,0,0,,There must be a hundred.
@@ -401,9 +400,9 @@ Dialogue: 10,0:14:16.08,0:14:17.08,Default,,0,0,0,,Party.
 Dialogue: 10,0:14:17.62,0:14:19.17,Default,,0,0,0,,{\i1}PCP{\i0}!
 Dialogue: 10,0:14:19.17,0:14:22.17,Default,,0,0,0,,{\an8}The Japanese translation is "Perfect Crime Party."
 Dialogue: 10,0:14:22.17,0:14:23.05,Default,,0,0,0,,{\an8}Right!
-Dialogue: 10,0:14:23.63,0:14:24.65,Default,,0,0,0,,I was watching the news
-Dialogue: 10,0:14:24.65,0:14:26.56,Default,,0,0,0,,and I thought "party" as in "political party" would work well.
-Dialogue: 10,0:14:26.56,0:14:28.86,Default,,0,0,0,,"Party" has a cheerful image,
+Dialogue: 10,0:14:23.55,0:14:24.55,Default,,0,0,0,,I was watching the news
+Dialogue: 10,0:14:24.55,0:14:26.59,Default,,0,0,0,,and I thought "party" as in "political party" would work well.
+Dialogue: 10,0:14:26.59,0:14:28.86,Default,,0,0,0,,"Party" has a cheerful image,
 Dialogue: 10,0:14:28.86,0:14:31.80,Default,,0,0,0,,and since it's also used in video games, I thought it would make it seem fun.
 Dialogue: 10,0:14:33.06,0:14:34.97,Default,,0,0,0,,A typical Takagi analysis.
 Dialogue: 10,0:14:34.97,0:14:36.85,Default,,0,0,0,,The effort you two put\N into this really shows.
@@ -443,9 +442,9 @@ Dialogue: 10,0:16:05.48,0:16:06.61,Default,,0,0,0,,Mainstream...
 Dialogue: 10,0:16:07.94,0:16:10.07,Default,,0,0,0,,This is gonna split the votes.
 Dialogue: 10,0:16:10.49,0:16:12.40,Default,,0,0,0,,Fukuda's on a roll.
 Dialogue: 10,0:16:12.40,0:16:15.28,Default,,0,0,0,,Making a manga about your\N hobby sure has a big effect.
-Dialogue: 10,0:16:15.28,0:16:17.88,Default,,0,0,0,,But if it comes down \Nto a new serialization
-Dialogue: 10,0:16:17.88,0:16:20.70,Default,,0,0,0,,and a one-shot, people are more likely to vote for the new serialization, right?
-Dialogue: 10,0:16:20.70,0:16:22.41,Default,,0,0,0,,That trend does exist,
+Dialogue: 10,0:16:15.28,0:16:17.83,Default,,0,0,0,,But if it comes down \Nto a new serialization
+Dialogue: 10,0:16:17.83,0:16:20.79,Default,,0,0,0,,and a one-shot, people are more likely to vote for the new serialization, right?
+Dialogue: 10,0:16:20.79,0:16:22.41,Default,,0,0,0,,That trend does exist,
 Dialogue: 10,0:16:22.41,0:16:23.33,Default,,0,0,0,,but it's not a sure thing.
 Dialogue: 10,0:16:24.25,0:16:28.63,Default,,0,0,0,,{\i1}Buchigiri{\i0} has a clear goal of becoming the number one racer.
 Dialogue: 10,0:16:28.63,0:16:31.22,Default,,0,0,0,,{\fad(0,430)}The race scenes are\N showy and intense.
@@ -455,7 +454,7 @@ Dialogue: 10,0:16:36.60,0:16:39.22,Default,,0,0,0,,But the content is good, righ
 Dialogue: 10,0:16:39.22,0:16:40.64,Default,,0,0,0,,Yes, it is.
 Dialogue: 10,0:16:40.64,0:16:41.64,Default,,0,0,0,,Then...
 Dialogue: 10,0:16:41.64,0:16:43.94,Default,,0,0,0,,That is, if they \Nunderstand what's going on.
-Dialogue: 10,0:16:44.56,0:16:46.19,Default,,0,0,0,,The majority of the \Nreaders are in their teens.
+Dialogue: 10,0:16:44.44,0:16:46.19,Default,,0,0,0,,The majority of the \Nreaders are in their teens.
 Dialogue: 10,0:16:46.65,0:16:49.78,Default,,0,0,0,,{\i1}Buchigiri{\i0} is easier for \Nthem to understand.
 Dialogue: 10,0:16:49.78,0:16:53.32,Default,,0,0,0,,Aida, what ranking do \Nyou think {\i1}PCP{\i0} will get?
 Dialogue: 10,0:16:54.40,0:16:56.70,Default,,0,0,0,,If it splits votes with {\i1}Buchigiri{\i0},
@@ -667,9 +666,9 @@ Dialogue: 10,0:03:50.33,0:03:57.09,Lyrics-Eng,,0,0,0,,There will be meetings and
 Dialogue: 10,0:03:57.09,0:04:03.34,Lyrics-Eng,,0,0,0,,But I'll simply believe in my strength that you've taught me
 Dialogue: 10,0:04:03.34,0:04:09.22,Lyrics-Eng,,0,0,0,,And rise back up again and again and again
 Dialogue: 0,0:04:11.48,0:04:14.98,Ep Titles,,0,0,0,,{\pos(640,464.62)\blur0.334}Votes and Charts
-Dialogue: 2,0:04:15.02,0:04:17.98,Dates,,0,0,0,,{\blur0.6\fad(861,0)\pos(650,308)\c&HE5E6E4&\bord4\fscx120\fscy120\bord0}Monday, January 13th
-Dialogue: 1,0:04:15.02,0:04:17.98,Dates,,0,0,0,,{\blur0.6\fad(861,0)\pos(650,308)\c&H121212&\fscx120\fscy120\bord4.5\fscx120\fscy120\1a&H00&\3c&H121212&}Monday, January 13th
-Dialogue: 1,0:00:03.27,0:00:06.23,Dates,,0,0,0,,{\blur0.6\fad(500,500)\pos(650,308)\c&HE5E5E3&\bord4\fscx120\fscy120\bord0}Thursday, January 2nd
+Dialogue: 2,0:04:15.02,0:04:17.98,Dates,,0,0,0,,{\blur0.6\fad(861,0)\pos(650,308)\c&HE5E6E4&\fscx120\fscy120\bord0}Monday, January 13th
+Dialogue: 1,0:04:15.02,0:04:17.98,Dates,,0,0,0,,{\blur0.6\fad(861,0)\pos(650,308)\c&H121212&\bord4.5\fscx120\fscy120\1a&H00&\3c&H121212&}Monday, January 13th
+Dialogue: 1,0:00:03.27,0:00:06.23,Dates,,0,0,0,,{\blur0.6\fad(500,500)\pos(650,308)\c&HE5E5E3&\fscx120\fscy120\bord0}Thursday, January 2nd
 Dialogue: 0,0:00:03.27,0:00:06.23,Dates,,0,0,0,,{\blur0.6\fad(500,500)\pos(650,308)\c&H161218&\bord4.5\fscx120\fscy120\1a&HFF&}Thursday, January 2nd
 Dialogue: 0,0:01:01.87,0:01:10.88,Signs2,,0,0,1,,{\fad(500,500)\fsp-2\blur0.8\c&H020002&\fscx125\fscy125\pos(638,666)}Tanto
 Dialogue: 0,0:01:11.88,0:01:16.84,Signs2,,0,0,1,,{\fad(500,0)\pos(638,666)\fsp-2\blur0.6\c&H000001&\fscx125\fscy125}Chimitsu Kei
@@ -680,12 +679,12 @@ Dialogue: 1,0:07:51.70,0:07:57.03,Signs3,,0,0,0,,{\b1\fsp-3\blur1\bord3\shad0\c&
 Dialogue: 0,0:13:25.11,0:13:31.04,Huge,,0,0,0,,{\b0\blur1\c&H606469&\move(643,468,643,444)\t(\fscx105\fscy105)}Doumoto Makoto
 Dialogue: 0,0:13:25.11,0:13:31.04,Huge,,0,0,0,,{\b0\blur1\c&H5C6063&\t(\fscx105\fscy105)\move(639,669,640,655,28,5909)}Tokunaga Minoru
 Dialogue: 0,0:14:20.08,0:14:23.05,Signs2,,0,0,0,,{\fad(195,0)\blur0.8\c&HFFFFF7&\fscx110\fscy110\pos(645,662)}Perfect Crime Party
-Dialogue: 2,0:15:37.24,0:15:40.87,Dates,,0,0,0,,{\blur0.6\fad(500,900)\pos(650,308)\c&HE6E6E5&\fscx120\fscy120\bord0\fscx120\fscy120\1a&H00&}Tuesday, February 11th
-Dialogue: 1,0:15:37.24,0:15:40.87,Dates,,0,0,0,,{\blur0.6\fad(500,900)\pos(650,308)\c&H121212&\bord4\fscx120\fscy120\bord4.5\3c&H121212&}Tuesday, February 11th
-Dialogue: 2,0:17:04.33,0:17:07.25,Dates,,0,0,0,,{\blur0.6\fad(500,900)\pos(650,308)\c&HE5E6E4&\bord4\fscx120\fscy120\bord0}Monday, February 17th
-Dialogue: 1,0:17:04.33,0:17:07.25,Dates,,0,0,0,,{\blur0.6\fad(500,900)\pos(650,308)\c&H121212&\fscx120\fscy120\bord4.5\fscx120\fscy120\1a&H00&\3c&H121212&}Monday, February 17th
-Dialogue: 2,0:18:02.93,0:18:06.39,Dates,,0,0,0,,{\blur0.6\fad(500,900)\pos(650,308)\c&HE6E6E5&\bord4\fscx120\fscy120\bord0}Friday, February 21st
-Dialogue: 1,0:18:02.93,0:18:06.39,Dates,,0,0,0,,{\blur0.6\fad(500,900)\pos(650,308)\c&H131312&\fscx120\fscy120\bord4.5\fscx120\fscy120\1a&H00&\3c&H131312&}Friday, February 21st
+Dialogue: 2,0:15:37.24,0:15:40.87,Dates,,0,0,0,,{\blur0.6\fad(500,900)\pos(650,308)\c&HE6E6E5&\bord0\fscx120\fscy120\1a&H00&}Tuesday, February 11th
+Dialogue: 1,0:15:37.24,0:15:40.87,Dates,,0,0,0,,{\blur0.6\fad(500,900)\pos(650,308)\c&H121212&\fscx120\fscy120\bord4.5\3c&H121212&}Tuesday, February 11th
+Dialogue: 2,0:17:04.33,0:17:07.25,Dates,,0,0,0,,{\blur0.6\fad(500,900)\pos(650,308)\c&HE5E6E4&\fscx120\fscy120\bord0}Monday, February 17th
+Dialogue: 1,0:17:04.33,0:17:07.25,Dates,,0,0,0,,{\blur0.6\fad(500,900)\pos(650,308)\c&H121212&\bord4.5\fscx120\fscy120\1a&H00&\3c&H121212&}Monday, February 17th
+Dialogue: 2,0:18:02.93,0:18:06.39,Dates,,0,0,0,,{\blur0.6\fad(500,900)\pos(650,308)\c&HE6E6E5&\fscx120\fscy120\bord0}Friday, February 21st
+Dialogue: 1,0:18:02.93,0:18:06.39,Dates,,0,0,0,,{\blur0.6\fad(500,900)\pos(650,308)\c&H131312&\bord4.5\fscx120\fscy120\1a&H00&\3c&H131312&}Friday, February 21st
 Dialogue: 0,0:19:39.03,0:19:42.28,Detective,,0,0,0,,{\fax-0.5\fs70\bord0\blur1\fsp-3\c&H918172&\fscx35\fscy35\frz10.664\pos(328,330)}Print
 Dialogue: 0,0:19:39.03,0:19:42.28,Detective,,0,0,0,,{\fax-0.5\bord0\blur1\fsp-3\c&HAB9C96&\fscx45\fscy45\frz10.664\pos(285,459)}Rank
 Dialogue: 0,0:19:39.03,0:19:42.28,Detective,,0,0,0,,{\fax-0.5\bord0\blur1\fsp-3\fscx45\fscy45\frz10.319\c&HA79890&\pos(557,416)}Manga

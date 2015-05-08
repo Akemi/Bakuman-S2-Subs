@@ -20,9 +20,9 @@ Keyframes File: ep19_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 577
-Active Line: 589
-Video Position: 16751
+Scroll Position: 603
+Active Line: 25
+Video Position: 3613
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -108,8 +108,8 @@ Dialogue: 10,0:00:52.53,0:00:54.07,Default,,0,0,0,,Mashiro Nobuhiro.
 Dialogue: 10,0:00:54.07,0:00:56.16,Default,,0,0,0,,{\fad(0,600)}Pen name: Kawaguchi Tarou.
 Dialogue: 10,0:00:56.23,0:00:57.95,Default,,0,0,0,,He was
 Dialogue: 10,0:00:57.95,0:00:59.45,Default,,0,0,0,,my best friend.
-Dialogue: 10,0:02:30.71,0:02:32.34,Default-Italic,,0,0,0,,Shuujin's probably being\N told something like
-Dialogue: 10,0:02:32.34,0:02:37.09,Default-Italic,,0,0,0,,"I won't hand my daughter over to a mangaka with such an unstable future" by now.
+Dialogue: 10,0:02:30.68,0:02:31.96,Default-Italic,,0,0,0, [unreadable!],Shuujin's probably being\N told something like
+Dialogue: 10,0:02:32.42,0:02:37.09,Default-Italic,,0,0,0,,"I won't hand my daughter over to a mangaka with such an unstable future" by now.
 Dialogue: 10,0:02:39.80,0:02:40.72,Default,,0,0,0,,I see.
 Dialogue: 10,0:02:40.72,0:02:42.97,Default,,0,0,0,,So you're working \Nwith his nephew.
 Dialogue: 10,0:02:42.97,0:02:44.35,Default,,0,0,0,,Y-Yes.
@@ -208,8 +208,8 @@ Dialogue: 10,0:06:18.94,0:06:19.52,Default,,0,0,0,,But...
 Dialogue: 10,0:06:19.52,0:06:22.32,Default,,0,0,0,,The karate thing was just an excuse.
 Dialogue: 10,0:06:24.98,0:06:27.20,Default,,0,0,0,,Succeed as a mangaka,
 Dialogue: 10,0:06:27.20,0:06:29.41,Default,,0,0,0,,then get married, huh?
-Dialogue: 10,0:06:32.20,0:06:34.20,Default,,0,0,0,,You've done enough, haven't you?!
-Dialogue: 10,0:06:34.20,0:06:35.33,Default,,0,0,0,,Why won't you tell her your feelings?!
+Dialogue: 10,0:06:32.20,0:06:34.04,Default,,0,0,0,,You've done enough, haven't you?!
+Dialogue: 10,0:06:34.04,0:06:35.33,Default,,0,0,0,,Why won't you tell her your feelings?!
 Dialogue: 10,0:06:35.33,0:06:38.33,Default,,0,0,0,,I was just a bit lucky with \Nmy current serialization!
 Dialogue: 10,0:06:38.33,0:06:41.13,Default,,0,0,0,,Until I succeed as a mangaka \Nand can make a living...
 Dialogue: 10,0:06:41.13,0:06:44.25,Default,,0,0,0,,Do you have to do all this\N just to tell her how you feel?
@@ -370,8 +370,8 @@ Dialogue: 10,0:12:20.05,0:12:23.09,Default,,0,0,0,,So no matter how you \Nsuppor
 Dialogue: 10,0:12:23.51,0:12:24.05,Default,,0,0,0,,However...
 Dialogue: 10,0:12:25.34,0:12:26.89,Default,,0,0,0,,I won't lose to them!
 Dialogue: 10,0:12:36.40,0:12:37.53,Default,,0,0,0,,Nice to meet you!
-Dialogue: 10,0:12:37.53,0:12:38.98,Default,,0,0,0,,I'm Orihara Ichiriki!
-Dialogue: 10,0:12:38.98,0:12:40.32,Default,,0,0,0,,Looking forward to working together!
+Dialogue: 10,0:12:37.53,0:12:38.94,Default,,0,0,0,,I'm Orihara Ichiriki!
+Dialogue: 10,0:12:38.94,0:12:40.32,Default,,0,0,0,,Looking forward to working together!
 Dialogue: 10,0:12:40.32,0:12:43.61,Default,,0,0,0,,Orihara got honorable \Nmention for the Tezuka Prize.
 Dialogue: 10,0:12:43.61,0:12:47.49,Default,,0,0,0,,I've got Takahama too, so \Nyou guys should be all set.
 Dialogue: 10,0:12:47.49,0:12:49.33,Default,,0,0,0,,I'm the artist, Mashiro.
@@ -396,7 +396,7 @@ Dialogue: 10,0:13:48.43,0:13:49.14,Default,,0,0,0,,Okay!
 Dialogue: 10,0:13:49.14,0:13:50.75,Default,,0,0,0,,All right!
 Dialogue: 10,0:13:50.75,0:13:53.02,Default,,0,0,0,,The first chapter's done!
 Dialogue: 10,0:13:53.02,0:13:54.10,Default,,0,0,0,,Good work, everybody.
-Dialogue: 10,0:13:55.27,0:13:57.81,Default,,0,0,0,,I brought the publishing\N sample of {\i1}+NATURAL.{\i0}
+Dialogue: 10,0:13:55.27,0:13:57.81,Default,,0,0,0,,I brought the publishing\N sample of {\i1}+NATURAL.
 Dialogue: 10,0:13:58.27,0:13:59.79,Default,,0,0,0,,An opening color page?
 Dialogue: 10,0:13:59.79,0:14:01.48,Default,,0,0,0,,And {\i1}Crow{\i0}'s got one in the middle?
 Dialogue: 10,0:14:01.48,0:14:03.28,Default,,0,0,0,,It's already a Niiuzma Eiji issue.
@@ -418,8 +418,8 @@ Dialogue: 10,0:14:36.85,0:14:38.19,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:14:38.19,0:14:40.08,Default,,0,0,0,,He's following the pattern\N of stuff like Pokémon
 Dialogue: 10,0:14:40.08,0:14:41.69,Default,,0,0,0,,{\fad(0,390)}by hatching the egg into various monsters.
 Dialogue: 10,0:14:41.77,0:14:44.33,Default,,0,0,0,,Oh, {\i1}that{\i0} I can understand.
-Dialogue: 10,0:14:44.33,0:14:45.82,Default,,0,0,0,,That's super mainstream!
-Dialogue: 10,0:14:45.82,0:14:46.94,Default,,0,0,0,,As for franchise opportunities,
+Dialogue: 10,0:14:44.33,0:14:45.69,Default,,0,0,0,,That's super mainstream!
+Dialogue: 10,0:14:45.69,0:14:46.94,Default,,0,0,0,,As for franchise opportunities,
 Dialogue: 10,0:14:46.94,0:14:49.99,Default,,0,0,0,,if it were turned into a card game, kids would probably love it.
 Dialogue: 10,0:14:50.78,0:14:52.32,Default,,0,0,0,,And an anime too.
 Dialogue: 10,0:14:53.66,0:14:55.37,Default,,0,0,0,,Speaking of anime adaptations...
@@ -428,8 +428,8 @@ Dialogue: 10,0:14:59.37,0:15:00.25,Default,,0,0,0,,No way!
 Dialogue: 10,0:15:00.25,0:15:02.38,Default,,0,0,0,,Not even I could lie about that.
 Dialogue: 10,0:15:04.04,0:15:05.34,Default,,0,0,0,,Yoshida-shi!
 Dialogue: 10,0:15:05.84,0:15:07.38,Default,,0,0,0,,I'm so glad I followed you!
-Dialogue: 10,0:15:07.38,0:15:10.06,Default,,0,0,0,,I've been a terrible\N person for thinking of you
-Dialogue: 10,0:15:10.06,0:15:12.47,Default,,0,0,0,,as a long-haired narcissistic con man who tricked me time and time again!
+Dialogue: 10,0:15:07.38,0:15:09.93,Default,,0,0,0,,I've been a terrible\N person for thinking of you
+Dialogue: 10,0:15:09.93,0:15:12.47,Default,,0,0,0,,as a long-haired narcissistic con man who tricked me time and time again!
 Dialogue: 10,0:15:12.47,0:15:15.10,Default,,0,0,0,,So that's what you think of me?
 Dialogue: 10,0:15:15.10,0:15:17.31,Default,,0,0,0,,Well, not that you're wrong.
 Dialogue: 10,0:15:17.31,0:15:19.10,Default,,0,0,0,,We'll announce it in \Nthe magazine this spring.
@@ -450,7 +450,7 @@ Dialogue: 10,0:15:50.01,0:15:51.84,Default-Italic,,0,0,0,,I'm too much.
 Dialogue: 10,0:15:52.26,0:15:54.43,Default,,0,0,0,,{\i1}Otters{\i0} and {\i1}Crow{\i0} got an anime.
 Dialogue: 10,0:15:54.43,0:15:56.78,Default,,0,0,0,,Fukuda and Aoki's look promising,
 Dialogue: 10,0:15:56.78,0:15:59.68,Default,,0,0,0,,so if we don't pull out all the\N stops, we'll be left behind.
-Dialogue: 10,0:16:00.93,0:16:03.10,Default,,0,0,0,,The first chapter of {\i1}Tanto{\i0} has already been sent to the press.
+Dialogue: 10,0:16:00.89,0:16:03.10,Default,,0,0,0,,The first chapter of {\i1}Tanto{\i0} has already been sent to the press.
 Dialogue: 10,0:16:03.10,0:16:05.65,Default,,0,0,0,,The names up to chapter \Nthree have been finalized.
 Dialogue: 10,0:16:05.65,0:16:07.90,Default,,0,0,0,,The rest is out of our hands.
 Dialogue: 10,0:16:08.44,0:16:11.68,Default,,0,0,0,,Oh, have you come up with\N an idea for the invention
@@ -477,8 +477,8 @@ Dialogue: 10,0:16:48.36,0:16:49.98,Default,,0,0,0,,It's only 3 PM on a Monday!
 Dialogue: 10,0:16:50.48,0:16:52.36,Default,,0,0,0,,Is it the Niizuma Eiji effect?!
 Dialogue: 10,0:16:52.36,0:16:52.91,Default,,0,0,0,,No way.
 Dialogue: 10,0:16:52.91,0:16:53.86,Default,,0,0,0,,It has to be a coincidence!
-Dialogue: 10,0:16:53.86,0:16:55.87,Default,,0,0,0,,No, you're exactly right.
-Dialogue: 10,0:16:55.87,0:16:58.62,Default,,0,0,0,,Everyone was buzzing about it on the Internet yesterday before it went on sale.
+Dialogue: 10,0:16:53.86,0:16:55.82,Default,,0,0,0,,No, you're exactly right.
+Dialogue: 10,0:16:55.82,0:16:58.62,Default,,0,0,0,,Everyone was buzzing about it on the Internet yesterday before it went on sale.
 Dialogue: 10,0:16:58.62,0:17:03.00,Default,,0,0,0,,They were saying that\N{\i1} +NATURAL{\i0} is going to be great!
 Dialogue: 10,0:17:05.54,0:17:07.08,Default,,0,0,0,,My apologies.
 Dialogue: 10,0:17:07.08,0:17:08.59,Default,,0,0,0,,All copies were sold out yesterday.
@@ -513,15 +513,15 @@ Dialogue: 10,0:18:23.83,0:18:25.62,Default,,0,0,0,,You got fifth place!
 Dialogue: 10,0:18:26.66,0:18:27.58,Default,,0,0,0,,Fifth...
 Dialogue: 10,0:18:29.29,0:18:30.91,Default,,0,0,0,,Come on.
 Dialogue: 10,0:18:30.91,0:18:32.21,Default,,0,0,0,,What's with that reaction?
-Dialogue: 10,0:18:32.21,0:18:33.28,Default,,0,0,0,,I told you before
-Dialogue: 10,0:18:33.28,0:18:35.26,Default,,0,0,0,,that getting fifth place with a gag manga is a {\i1}good{\i0} thing!
+Dialogue: 10,0:18:32.21,0:18:33.25,Default,,0,0,0,,I told you before that
+Dialogue: 10,0:18:33.25,0:18:35.26,Default,,0,0,0,,getting fifth place with a \Ngag manga is a {\i1}good{\i0} thing!
 Dialogue: 10,0:18:35.26,0:18:37.22,Default,,0,0,0,,Oh, yeah...
 Dialogue: 10,0:18:37.22,0:18:38.72,Default,,0,0,0,,What about {\i1}Natural{\i0}?
 Dialogue: 10,0:18:40.72,0:18:42.18,Default,,0,0,0,,Third?
 Dialogue: 10,0:18:42.18,0:18:43.45,Default,,0,0,0,,Yes...
 Dialogue: 10,0:18:43.45,0:18:44.47,Default,,0,0,0,,Yes...
 Dialogue: 10,0:18:45.47,0:18:46.39,Default,,0,0,0,,{\i1}Crow{\i0} was fourth.
-Dialogue: 10,0:18:48.60,0:18:51.10,Default-Italic,,0,0,0,,I read {\i0}Hirameki! Tanto-kun.{\i1}
+Dialogue: 10,0:18:48.60,0:18:51.10,Default-Italic,,0,0,0,,I read {\i0}Hirameki! Tanto-kun.
 Dialogue: 10,0:18:51.10,0:18:55.11,Default-Italic,,0,0,0,,It'll definitely be a \Nbig hit with the kids!
 Dialogue: 10,0:18:56.03,0:18:57.48,Default-Italic,,0,0,0,,Kids...
 Dialogue: 10,0:18:57.48,0:18:58.49,Default-Italic,,0,0,0,,Huh?
@@ -600,7 +600,7 @@ Dialogue: 10,0:22:07.05,0:22:09.18,Default,,0,0,0,,it might make writing jokes e
 Dialogue: 10,0:22:09.18,0:22:10.60,Default-Italic,,0,0,0,,I see.
 Dialogue: 10,0:22:10.60,0:22:13.01,Default-Italic,,0,0,0,,We can get better rankings \Nif we change how we do things!
 Dialogue: 10,0:22:14.18,0:22:15.48,Default,,0,0,0,,Good work.
-Dialogue: 10,0:22:15.48,0:22:17.42,Default,,0,0,0,,The seventh chapter's  \Nstill at 2nd place...
+Dialogue: 10,0:22:15.48,0:22:17.42,Default,,0,0,0,,The seventh chapter's \Nstill at 2nd place...
 Dialogue: 10,0:22:17.42,0:22:19.48,Default,,0,0,0,,{\i1}Natural{\i0} is really something.
 Dialogue: 10,0:22:19.48,0:22:21.68,Default,,0,0,0,,Well, it's not as if {\i1}Crow{\i0} \Ndropped in popularity.
 Dialogue: 10,0:22:21.68,0:22:23.94,Default,,0,0,0,,It actually got more votes.
@@ -613,8 +613,8 @@ Dialogue: 10,0:22:40.00,0:22:41.29,Default,,0,0,0,,I'm not reading it
 Dialogue: 10,0:22:41.29,0:22:43.75,Default,,0,0,0,,anymore!
 Dialogue: 10,0:22:43.75,0:22:44.92,Default,,0,0,0,,What?!
 Dialogue: 10,0:24:15.60,0:24:18.06,Default,,0,0,0,,Is it okay for us to \Ncontinue {\i1}Tanto{\i0} like this?
-Dialogue: 10,0:24:18.08,0:24:20.56,Default,,0,0,0,,Don't say something so unnerving right before my wedding ceremony!{FUCK YEAH}
-Dialogue: 10,0:24:21.02,0:24:22.23,Default,,0,0,0,,Next time on {\i1}Bakuman:{\i0}
+Dialogue: 10,0:24:18.06,0:24:20.56,Default,,0,0,0,,Don't say something so unnerving right before my wedding ceremony!{FUCK YEAH}
+Dialogue: 10,0:24:21.02,0:24:22.23,Default,,0,0,0,,Next time on {\i1}Bakuman:
 Dialogue: 10,0:24:22.23,0:24:23.65,Default,,0,0,0,,"Love and Denial."
 Dialogue: 10,0:24:23.65,0:24:25.02,Default,,0,0,0,,In order to achieve your dream,
 Dialogue: 10,0:24:25.02,0:24:26.86,Default,,0,0,0,,you need to stick to your goals!
@@ -669,8 +669,8 @@ Dialogue: 0,0:02:25.50,0:02:29.00,Ep Titles,,0,0,0,,{\pos(640,464.62)\blur0.334}
 Dialogue: 0,0:24:14.97,0:24:18.39,NextEpTitle,,0,0,0,,{\blur0.334\pos(79.676,519.696)}Next\NEpisode
 Dialogue: 0,0:24:21.52,0:24:29.99,NextEpTitle,,0,0,0,,{\blur0.334\an9\pos(1214,56)}Love and \NDenial
 Dialogue: 2,0:04:49.18,0:04:53.06,Mashiro,,0,0,0,,{\an7\move(305,504,305,317)\fs35\fscx55\fscy62\frz21\frx358\fry354\c&HFCFCFC&\4c&HFEFDFF&\fax-0.54\fsp-0\blur0.8\b0\shad0\t(0,876,\c&H9A9D9E&)}\h\h\h\h\h\h\h\hYakusa City Akehi \N\h\h\h\h\h\hMiddle School \N\h\h\hClass of 1980 \NGraduation \NCeremony
-Dialogue: 1,0:04:49.18,0:04:53.06,Mashiro,,0,0,0,,{\c&HFEFDFF&\4c&HFEFDFF&\fax-0.29\fsp-4\blur1\b0\shad0\fscx100\fscy100\move(867,536,867,349)\fs40\frx0\fry0\frz14.3\t(0,876,(\4c&H474747&\c&H63888D&)}Yakusa City Akehi Middle School
-Dialogue: 0,0:04:49.18,0:04:53.06,Mashiro,,0,0,0,,{\c&HFEFDFF&\4c&HFEFDFF&\fax-0.29\fsp-4\blur1\b0\shad0\fscx100\fscy100\move(869,538,869,351)\fs40\frx0\fry0\frz14.3\t(0,876,(\4c&H474747&\c&H1B262A&)}Yakusa City Akehi Middle School
+Dialogue: 1,0:04:49.18,0:04:53.06,Mashiro,,0,0,0,,{\c&HFEFDFF&\4c&HFEFDFF&\fax-0.29\fsp-4\blur1\b0\shad0\fscx100\fscy100\move(867,536,867,349)\fs40\frx0\fry0\frz14.3\t(0,876,\4c&H474747&\c&H63888D&)}Yakusa City Akehi Middle School
+Dialogue: 0,0:04:49.18,0:04:53.06,Mashiro,,0,0,0,,{\c&HFEFDFF&\4c&HFEFDFF&\fax-0.29\fsp-4\blur1\b0\shad0\fscx100\fscy100\move(869,538,869,351)\fs40\frx0\fry0\frz14.3\t(0,876,\4c&H474747&\c&H1B262A&)}Yakusa City Akehi Middle School
 Dialogue: 0,0:11:38.63,0:11:41.09,Huge,,0,0,0,,{\an1\fscx160\fscy160\fs60\blur1\c&HDDDDD6&\pos(640,269)}N{\c&HCBC8C4&}i{\c&HCDCAC3&}i{\c&HCDC9C3&}z{\c&HD9D9D4&}u{\c&HDFDEDA&}m{\c&HF9F8F3&}a
 Dialogue: 0,0:11:38.63,0:11:41.09,Huge,,0,0,0,,{\an1\blur1\c&H44403D&\frx0\fry0\fscx135\fscy135\pos(884,653)}Eiji  Ltd.
 Dialogue: 1,0:13:35.21,0:13:37.67,Sunny,,0,0,0,,{\fax-0.53\blur1\fscx36.25\fscy30\frx20\fry0\frz31\c&H361F0D&\pos(755,158)}Takagi

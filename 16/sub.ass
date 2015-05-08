@@ -19,9 +19,9 @@ Keyframes File: ep16_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 525
-Active Line: 539
-Video Position: 30027
+Scroll Position: 561
+Active Line: 518
+Video Position: 28972
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -121,11 +121,11 @@ Dialogue: 0,0:24:07.75,0:24:11.17,Lyrics-Eng,,0,0,0,,{\fad(0,950)}over and over 
 Dialogue: 0,0:02:14.48,0:02:17.99,Ep Titles,,0,0,0,,{\pos(640,464.62)\blur0.334}Prince and Savior
 Dialogue: 0,0:24:15.97,0:24:21.69,NextEpTitle,,0,0,0,,{\blur0.334\pos(79.676,519.696)}Next\NEpisode
 Dialogue: 0,0:24:24.90,0:24:30.99,NextEpTitle,,0,0,0,,{\blur0.334\an9\pos(1214,56)}Special Relationship \Nand Hometown
-Dialogue: 4,0:00:45.90,0:00:48.90,Hero,,0,0,0,,{\bord0\fax-0.1\blur1\fsp-1\fscx150\fscy150\3c&H152935&\frz341.919\move(777,397,742.25,397)\frx8\fry6}{\1c&HA7E0CE&}H{\1c&HB9DCBE&}i{\1c&HBDD9BB&}r{\1c&HBCD0B1&}a{\1c&HC3CAA4&}m{\1c&HCBC495&}e{\1c&HD6C08C&}k{\1c&HE1BC80&}i
+Dialogue: 4,0:00:45.90,0:00:48.90,Hero,,0,0,0,,{\bord0\fax-0.1\blur1\fsp-1\fscx150\fscy150\3c&H152935&\frz341.919\move(777,397,742.25,397)\frx8\fry6\1c&HA7E0CE&}H{\1c&HB9DCBE&}i{\1c&HBDD9BB&}r{\1c&HBCD0B1&}a{\1c&HC3CAA4&}m{\1c&HCBC495&}e{\1c&HD6C08C&}k{\1c&HE1BC80&}i
 Dialogue: 3,0:00:45.90,0:00:48.90,Hero,,0,0,0,,{\fax-0.1\blur0.8\fsp-1\fscx150\fscy150\3c&H193B55&\frz341.919\move(777,397,742.25,397)\frx8\fry6\c&H193B55&\bord2}Hirameki
 Dialogue: 2,0:00:45.90,0:00:48.90,Hero,,0,0,0,,{\fax-0.1\blur0.8\fsp-1\fscx150\fscy150\3c&H193B55&\frz341.919\move(775,398,740.25,398)\frx8\fry6\c&H193B55&\bord2}Hirameki
 Dialogue: 1,0:00:45.90,0:00:48.90,Hero,,0,0,0,,{\fax-0.1\blur1\fsp-1\fscx150\fscy150\3c&H54C4D4&\frz341.919\move(777,397,742.25,397)\frx8\fry6\c&H52C3DB&\bord6}Hirameki
-Dialogue: 4,0:00:45.90,0:00:48.90,Hero,,0,0,0,,{\fax-0.1\fs35\blur1\fsp-1\3c&H152935&\fscx190\fscy190\4c&H27398F&\shad0\frz343.323\move(873,473,838.25,473)\bord0\frx8\fry6}{\1c&HC7EFEB&}T{\1c&HBDEAE8&}a{\1c&HB1E8E4&}n{\1c&HAEE7E4&}t{\1c&HACE6E2&}o{\1c&HAFE6E1&}-{\1c&H84D5D8&}k{\1c&H73D0D5&}u{\1c&H69CBD1&}n
+Dialogue: 4,0:00:45.90,0:00:48.90,Hero,,0,0,0,,{\fax-0.1\fs35\blur1\fsp-1\3c&H152935&\fscx190\fscy190\4c&H27398F&\shad0\frz343.323\move(873,473,838.25,473)\bord0\frx8\fry6\1c&HC7EFEB&}T{\1c&HBDEAE8&}a{\1c&HB1E8E4&}n{\1c&HAEE7E4&}t{\1c&HACE6E2&}o{\1c&HAFE6E1&}-{\1c&H84D5D8&}k{\1c&H73D0D5&}u{\1c&H69CBD1&}n
 Dialogue: 3,0:00:45.90,0:00:48.90,Hero,,0,0,0,,{\fax-0.1\fs35\blur0.8\fsp-1\3c&H253293&\fscx190\fscy190\4c&H54C4D4&\shad0\frz343.323\move(875,475.5,840.25,475.5)\bord\frx8\fry6\c&H253293&}Tanto-kun
 Dialogue: 2,0:00:45.90,0:00:48.90,Hero,,0,0,0,,{\fax-0.1\fs35\blur0.8\fsp-1\3c&H243545&\fscx190\fscy190\4c&H54C4D4&\shad0\frz343.323\move(873,473,838.25,473)\bord2.5\frx8\fry6\c&H243545&}Tanto-kun
 Dialogue: 2,0:00:45.90,0:00:48.90,Hero,,0,0,0,,{\fax-0.1\fs35\blur0.8\fsp-1\3c&H243545&\fscx190\fscy190\4c&H54C4D4&\shad0\frz343.323\move(875,475.5,840.25,475.5)\bord4\frx8\fry6\c&H243545&}Tanto-kun
@@ -221,7 +221,7 @@ Dialogue: 10,0:04:37.84,0:04:41.09,Default,,0,0,0,,Aoki and Nakai had a fight an
 Dialogue: 10,0:04:41.09,0:04:42.59,Default,,0,0,0,,A fight?
 Dialogue: 10,0:04:47.14,0:04:49.22,Default-Italic,,0,0,0,,Fukuda again?
 Dialogue: 10,0:04:49.22,0:04:50.93,Default-Italic,,0,0,0,,He'll just rag on me...
-Dialogue: 10,0:04:51.85,0:04:54.69,Default,,0,0,0,,{\i1}The person you have dialed cannot come to the phone at this time.{\i0}
+Dialogue: 10,0:04:51.85,0:04:54.69,Default,,0,0,0,,{\i1}The person you have dialed cannot come to the phone at this time.
 Dialogue: 10,0:04:54.69,0:04:56.35,Default,,0,0,0,,{\i1}If you wish to leave a message, please{\i0}—
 Dialogue: 10,0:04:56.35,0:04:58.44,Default,,0,0,0,,It went straight to his voicemail!
 Dialogue: 10,0:04:58.44,0:05:00.44,Default,,0,0,0,,What is he thinking?!
@@ -481,8 +481,8 @@ Dialogue: 10,0:16:05.08,0:16:06.19,Default,,0,0,0,,Are you still willing to do i
 Dialogue: 10,0:16:06.19,0:16:07.11,Default,,0,0,0,,Yes.
 Dialogue: 10,0:16:08.65,0:16:13.24,Default,,0,0,0,,Alright then, try marking your work like this to divide it into pages...
 Dialogue: 10,0:16:13.24,0:16:15.03,Default,,0,0,0,,for when it's time to draw the art.
-Dialogue: 10,0:16:15.03,0:16:16.07,Default,,0,0,0,,I understand.
-Dialogue: 10,0:16:16.07,0:16:16.83,Default,,0,0,0,,I'll have it done by tonight.
+Dialogue: 10,0:16:15.03,0:16:16.03,Default,,0,0,0,,I understand.
+Dialogue: 10,0:16:16.03,0:16:16.83,Default,,0,0,0, [hard to read?],I'll have it done by tonight.
 Dialogue: 10,0:16:16.83,0:16:19.12,Default,,0,0,0,,Well, by tomorrow is fine.
 Dialogue: 10,0:16:19.12,0:16:20.37,Default,,0,0,0,,Okay.
 Dialogue: 10,0:16:20.37,0:16:22.29,Default-Italic,,0,0,0,,She's got spirit.
@@ -525,7 +525,7 @@ Dialogue: 10,0:17:54.76,0:17:56.68,Default,,0,0,0,,Let's make it as funny as we 
 Dialogue: 10,0:17:56.68,0:17:57.38,Default,,0,0,0,,Yes!
 Dialogue: 10,0:17:58.26,0:18:01.51,Default,,0,0,0,,Would you show me \Nthat list of inventions?
 Dialogue: 10,0:18:01.51,0:18:02.31,Default,,0,0,0,,This?
-Dialogue: 10,0:18:02.81,0:18:04.89,Default,,0,0,0,,I wrote down whatever popped into my head, so it's pretty stupid.
+Dialogue: 10,0:18:02.64,0:18:04.89,Default,,0,0,0,,I wrote down whatever popped into my head, so it's pretty stupid.
 Dialogue: 10,0:18:04.89,0:18:08.60,Default,,0,0,0,,It's my job to expand on \Nthose stupid ideas.
 Dialogue: 10,0:18:11.06,0:18:15.03,Default-Italic,,0,0,0,,{\i0}Business Boy Kenichi{\i1} will be in danger at the next serialization meeting.
 Dialogue: 10,0:18:15.03,0:18:18.49,Default-Italic,,0,0,0,,I've got no choice but to bet\N it all on {\i1}Hirameki Tanto{\i0}!
@@ -574,8 +574,8 @@ Dialogue: 10,0:19:47.08,0:19:48.58,Default,,0,0,0,,I won't.
 Dialogue: 10,0:19:48.58,0:19:49.54,Default,,0,0,0,,I'll do my best.
 Dialogue: 10,0:19:50.46,0:19:51.87,Default,,0,0,0,,Good girl.
 Dialogue: 10,0:19:51.87,0:19:52.92,Default,,0,0,0,,Aoki Ko.
-Dialogue: 10,0:19:52.92,0:19:54.96,Default,,0,0,0,,A mysterious author.
-Dialogue: 10,0:19:54.96,0:19:56.80,Default,,0,0,0,,She seems like a different \Nperson with each manuscript.
+Dialogue: 10,0:19:52.92,0:19:54.79,Default,,0,0,0,,A mysterious author.
+Dialogue: 10,0:19:54.79,0:19:56.80,Default,,0,0,0,,She seems like a different \Nperson with each manuscript.
 Dialogue: 10,0:19:56.80,0:19:58.09,Default,,0,0,0,,Yeah, really.
 Dialogue: 10,0:19:58.09,0:20:00.26,Default,,0,0,0,,It's becoming more and \Nmore like a shounen manga.
 Dialogue: 10,0:20:00.72,0:20:02.80,Default,,0,0,0,,Did she hire someone to help her?
@@ -583,23 +583,23 @@ Dialogue: 10,0:20:02.80,0:20:03.98,Default,,0,0,0,,Maybe.
 Dialogue: 10,0:20:03.98,0:20:05.35,Default,,0,0,0,,A college friend, perhaps?
 Dialogue: 10,0:20:06.10,0:20:07.01,Default,,0,0,0,,What do you think?
 Dialogue: 10,0:20:07.01,0:20:08.35,Default,,0,0,0,,Since it's gotten this good,
-Dialogue: 10,0:20:08.35,0:20:11.60,Default,,0,0,0,,I'm thinking of submitting it to the serialization committee instead of doing a one-shot.
-Dialogue: 10,0:20:11.60,0:20:12.52,Default,,0,0,0,,Yeah.
+Dialogue: 10,0:20:08.35,0:20:11.69,Default,,0,0,0,,I'm thinking of submitting it to the serialization committee instead of doing a one-shot.
+Dialogue: 10,0:20:11.69,0:20:12.52,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:20:12.52,0:20:14.86,Default,,0,0,0,,If she can make three \Nchapters that are this good.
 Dialogue: 10,0:20:14.86,0:20:15.73,Default,,0,0,0,,All right!
 Dialogue: 10,0:20:15.73,0:20:20.09,Default,,0,0,0,,Wow, I can't believe things are going this well for me, even though it's only my first year!
 Dialogue: 10,0:20:22.82,0:20:23.56,Default,,0,0,0,,Huh?
 Dialogue: 10,0:20:23.56,0:20:24.57,Default,,0,0,0,,Aoki's too?
-Dialogue: 10,0:20:24.57,0:20:25.53,Default,,0,0,0,,Yeah.
-Dialogue: 10,0:20:25.53,0:20:28.20,Default,,0,0,0,,It looks like her manuscript's gonna be submitted to the serialization committee.
+Dialogue: 10,0:20:24.57,0:20:25.37,Default,,0,0,0,,Yeah.
+Dialogue: 10,0:20:25.37,0:20:28.20,Default,,0,0,0,,It looks like her manuscript's gonna be submitted to the serialization committee.
 Dialogue: 10,0:20:28.20,0:20:30.29,Default,,0,0,0,,I coached her on panty shots.
 Dialogue: 10,0:20:30.29,0:20:31.46,Default,,0,0,0,,She'll be a formidable enemy!
 Dialogue: 10,0:20:31.96,0:20:35.04,Default,,0,0,0,,Of course, the best thing would be for you both to get serialized.
 Dialogue: 10,0:20:35.04,0:20:36.04,Default,,0,0,0,,Don't lose.
 Dialogue: 10,0:20:36.04,0:20:36.96,Default,,0,0,0,,Go for it!
 Dialogue: 10,0:20:36.96,0:20:39.59,Default,,0,0,0,,Master Niizuma and I are waiting.
-Dialogue: 10,0:20:39.59,0:20:40.51,Default,,0,0,0,,Okay.
-Dialogue: 10,0:20:40.51,0:20:42.26,Default,,0,0,0,,We'll definitely score \Na serialization this time!
+Dialogue: 10,0:20:39.59,0:20:40.38,Default,,0,0,0,,Okay.
+Dialogue: 10,0:20:40.38,0:20:42.26,Default,,0,0,0,,We'll definitely score \Na serialization this time!
 Dialogue: 10,0:20:43.59,0:20:46.05,Default,,0,0,0,,I never thought Aoki \Nwould be in the mix too.
 Dialogue: 10,0:20:46.05,0:20:48.51,Default,,0,0,0,,Fukuda must really be something.
 Dialogue: 10,0:20:48.51,0:20:50.75,Default,,0,0,0,,It's fine! I'm kinda fired up now!

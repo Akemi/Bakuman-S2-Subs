@@ -20,9 +20,9 @@ Keyframes File: ep20_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 442
-Active Line: 467
-Video Position: 32592
+Scroll Position: 189
+Active Line: 202
+Video Position: 15500
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -177,8 +177,8 @@ Dialogue: 10,0:05:51.66,0:05:53.24,Default,,0,0,0,,Right.
 Dialogue: 10,0:05:53.24,0:05:55.91,Default,,0,0,0,,Then it might be two to \Nthree days later than usual.
 Dialogue: 10,0:05:55.91,0:05:57.37,Default,,0,0,0,,Fine,
 Dialogue: 10,0:05:57.37,0:05:59.44,Default,,0,0,0,,but wouldn't you have\N to put off the vacation
-Dialogue: 10,0:05:59.44,0:06:01.84,Default,,0,0,0,,we planned for your \Nwedding ceremony in June?
-Dialogue: 10,0:06:01.84,0:06:03.21,Default,,0,0,0,,If you don't leave \Nyourself enough time...
+Dialogue: 10,0:05:59.44,0:06:01.71,Default,,0,0,0,,we planned for your \Nwedding ceremony in June?
+Dialogue: 10,0:06:01.71,0:06:03.21,Default,,0,0,0,,If you don't leave \Nyourself enough time...
 Dialogue: 10,0:06:04.05,0:06:05.42,Default,,0,0,0,,I know.
 Dialogue: 10,0:06:05.42,0:06:07.20,Default,,0,0,0,,My livelihood is depending on it,
 Dialogue: 10,0:06:07.20,0:06:08.93,Default,,0,0,0,,so I have to work hard.
@@ -209,7 +209,7 @@ Dialogue: 10,0:07:37.44,0:07:40.48,Default,,0,0,0,,you said you'd never get marr
 Dialogue: 10,0:07:40.48,0:07:43.06,Default,,0,0,0,,Oh, did I say that?
 Dialogue: 10,0:07:43.81,0:07:45.11,Default,,0,0,0,,You did!
 Dialogue: 10,0:07:46.86,0:07:47.69,Default,,0,0,0,,Right.
-Dialogue: 10,0:07:48.23,0:07:50.53,Default,,0,0,0,,{\fad(0,750(}Miho, back then...
+Dialogue: 10,0:07:48.23,0:07:50.53,Default,,0,0,0,,{\fad(0,750)}Miho, back then...
 Dialogue: 10,0:07:56.37,0:07:59.41,Default,,0,0,0,,Akito, Kaya, congratulations\N on your marriage!
 Dialogue: 10,0:08:01.96,0:08:04.86,Default,,0,0,0,,I clearly and fondly remember
 Dialogue: 10,0:08:04.86,0:08:10.13,Default,,0,0,0,,when Akito and Mashiro Moritaka\N came to me for a consultation.
@@ -256,9 +256,9 @@ Dialogue: 10,0:09:42.14,0:09:43.68,Default,,0,0,0,,Tell me to quit!
 Dialogue: 10,0:09:43.68,0:09:44.68,Default-Italic,,0,0,0,,Saiko!
 Dialogue: 10,0:09:44.68,0:09:45.56,Default,,0,0,0,,What?
 Dialogue: 10,0:09:45.56,0:09:46.52,Default-Italic,,0,0,0,,Mashiro?
-Dialogue: 10,0:09:48.52,0:09:51.20,Default,,0,0,0,,Mashiro, this is a celebration.
-Dialogue: 10,0:09:51.20,0:09:52.54,Default,,0,0,0,,If you insist on having\N this conversation,
-Dialogue: 10,0:09:52.54,0:09:53.98,Default,,0,0,0,,let's take it outside.
+Dialogue: 10,0:09:48.52,0:09:50.98,Default,,0,0,0,,Mashiro, this is a celebration.
+Dialogue: 10,0:09:50.98,0:09:52.57,Default,,0,0,0,,If you insist on having\N this conversation,
+Dialogue: 10,0:09:52.57,0:09:53.98,Default,,0,0,0,,let's take it outside.
 Dialogue: 10,0:09:53.98,0:09:55.86,Default,,0,0,0,,Yes, let's.
 Dialogue: 10,0:09:59.32,0:10:01.58,Default-Italic,,0,0,0,,Saiko and Hattori...
 Dialogue: 10,0:10:01.58,0:10:02.79,Default-Italic,,0,0,0,,What's going on?
@@ -274,9 +274,9 @@ Dialogue: 10,0:10:28.81,0:10:32.52,Default,,0,0,0,,Are you going to do \Nwhateve
 Dialogue: 10,0:10:32.52,0:10:37.53,Default,,0,0,0,,You and Takagi just have to follow the path you chose and believed in!
 Dialogue: 10,0:10:37.53,0:10:39.45,Default,,0,0,0,,That's what you've \Nalways done, right?
 Dialogue: 10,0:10:39.45,0:10:43.91,Default,,0,0,0,,How far are you going to go to avoid saying what you think about {\i1}Tanto{\i0}?
-Dialogue: 10,0:10:44.49,0:10:46.58,Default,,0,0,0,,You could at least \Ngive me some advice!
-Dialogue: 10,0:10:46.58,0:10:47.75,Default,,0,0,0,,Just tell me whether you\N think it's good or not—
-Dialogue: 10,0:10:47.75,0:10:48.79,Default,,0,0,0,,It's not!
+Dialogue: 10,0:10:44.49,0:10:46.45,Default,,0,0,0,,You could at least \Ngive me some advice!
+Dialogue: 10,0:10:46.45,0:10:47.91,Default,,0,0,0,,Just tell me whether you\N think it's good or not—
+Dialogue: 10,0:10:47.91,0:10:48.79,Default,,0,0,0,,It's not!
 Dialogue: 10,0:10:50.29,0:10:51.93,Default,,0,0,0,,Personally,
 Dialogue: 10,0:10:51.93,0:10:53.25,Default,,0,0,0,,I don't think it's good.
 Dialogue: 10,0:10:53.25,0:10:56.26,Default,,0,0,0,,Ever since I saw your\N manuscript five years ago,
@@ -295,9 +295,9 @@ Dialogue: 10,0:11:42.30,0:11:43.05,Default,,0,0,0,,All right?
 Dialogue: 10,0:11:47.39,0:11:50.81,Default,,0,0,0,,Oh, I like this show!
 Dialogue: 10,0:11:52.69,0:11:55.81,Default,,0,0,0,,This may be a bit abrupt, \Nbut do you read manga?
 Dialogue: 10,0:11:55.81,0:11:57.57,Default,,0,0,0,,Yes, I read a lot of it.
-Dialogue: 10,0:11:57.57,0:12:01.03,Default,,0,0,0,,{\i1}One Piece{\i0}, {\i1}Naruto{\i0}, \N{\i1}Inumaru Dashi{\i0}, and {\i1}Crow!{\i0}
+Dialogue: 10,0:11:57.57,0:12:01.03,Default,,0,0,0,,{\i1}One Piece{\i0}, {\i1}Naruto{\i0}, \N{\i1}Inumaru Dashi{\i0}, and {\i1}Crow!
 Dialogue: 10,0:12:01.03,0:12:01.82,Default,,0,0,0,,That's the one!
-Dialogue: 10,0:12:02.53,0:12:05.95,Default,,0,0,0,,Our guest today is \Nthe creator of {\i1}Crow{\i0}
+Dialogue: 10,0:12:02.53,0:12:05.95,Default,,0,0,0,,Our guest today is \Nthe creator of {\i1}Crow
 Dialogue: 10,0:12:05.95,0:12:07.33,Default,,0,0,0,,with an successful anime to boot.
 Dialogue: 10,0:12:07.33,0:12:09.70,Default,,0,0,0,,Mangaka Niizuma Eiji!
 Dialogue: 10,0:12:09.70,0:12:10.62,Default,,0,0,0,,Tada!
@@ -338,7 +338,7 @@ Dialogue: 10,0:13:30.78,0:13:31.95,Default,,0,0,0,,Mashiro?!
 Dialogue: 10,0:13:41.38,0:13:43.84,Default,,0,0,0,,Dammit!
 Dialogue: 10,0:13:55.02,0:13:55.77,Default,,0,0,0,,Mashiro?
 Dialogue: 10,0:13:56.23,0:13:57.35,Default,,0,0,0,,Azuki.
-Dialogue: 10,0:13:58.06,0:14:00.15,Default,,0,0,0,,I want to quit {\i1}Tanto!{\i0}
+Dialogue: 10,0:13:58.06,0:14:00.15,Default,,0,0,0,,I want to quit {\i1}Tanto!
 Dialogue: 10,0:14:00.73,0:14:01.86,Default,,0,0,0,,What do you mean?
 Dialogue: 10,0:14:01.86,0:14:02.82,Default,,0,0,0,,{\i1}Tanto{\i0}'s no good!
 Dialogue: 10,0:14:02.82,0:14:04.03,Default,,0,0,0,,It has no future!
@@ -464,7 +464,7 @@ Dialogue: 10,0:19:03.45,0:19:04.62,Default,,0,0,0,,Saiko!
 Dialogue: 10,0:19:08.79,0:19:09.41,Default,,0,0,0,,What is it?
 Dialogue: 10,0:19:10.21,0:19:12.29,Default,,0,0,0,,I would like to quit the \Nserialization of {\i1}Tanto{\i0}.
 Dialogue: 10,0:19:14.34,0:19:15.42,Default,,0,0,0,,If you want to quit, then quit.
-Dialogue: 10,0:19:17.34,0:19:20.43,Default,,0,0,0,,I have no need for authors who throw aside their work in the middle of a serialization.
+Dialogue: 10,0:19:17.21,0:19:20.43,Default,,0,0,0,,I have no need for authors who throw aside their work in the middle of a serialization.
 Dialogue: 10,0:19:20.43,0:19:22.01,Default,,0,0,0,,You won't draw for Jack anymore.
 Dialogue: 10,0:19:22.01,0:19:24.30,Default,,0,0,0,,If you are prepared for \Nthat, then you may quit.
 Dialogue: 10,0:19:26.56,0:19:27.60,Default,,0,0,0,,Figured as much.
@@ -616,11 +616,11 @@ Dialogue: 0,0:24:17.60,0:24:17.64,marker,,0,0,0,,{\fsp-1\b1\blur1\fs48\fscx44\fs
 Dialogue: 0,0:24:17.64,0:24:17.68,marker,,0,0,0,,{\fsp-1\b1\blur1\fscx43\fscy43\frz7.37\c&H2E5AC7&\pos(537,626)}Money
 Dialogue: 0,0:24:17.64,0:24:17.68,marker,,0,0,0,,{\fsp-1\b1\blur1\fscx43\fscy43\c&HB8747A&\pos(635,618)}Intelligence
 Dialogue: 0,0:24:17.64,0:24:17.68,marker,,0,0,0,,{\fsp-1\b1\blur1\fs48\fscx43\fscy43\frz355.94\c&H539A77&\pos(759,622)}Appearance
-Dialogue: 0,0:24:17.68,0:24:17.72,marker,,0,0,0,,{\fsp-.9\b1\blur1\fscx42\fscy42\frz7.37\c&H305CCA&\pos(538,627)}Money
-Dialogue: 0,0:24:17.68,0:24:17.72,marker,,0,0,0,,{\fsp-.9\b1\blur1\fscx42\fscy42\c&HB5757B&\pos(635.25,620)}Intelligence
-Dialogue: 0,0:24:17.68,0:24:17.72,marker,,0,0,0,,{\fsp-.9\b1\blur1\fs48\fscx42\fscy42\frz355.94\c&H47926C&\pos(757,625)}Appearance
-Dialogue: 0,0:24:17.72,0:24:18.43,marker,,0,0,0,,{\fsp-.9\b1\blur1\fscx42\fscy42\frz7.37\c&H2F5DC9&\pos(538.5,627.5)}Money
-Dialogue: 0,0:24:17.72,0:24:18.43,marker,,0,0,0,,{\fsp-.9\b1\blur1\fscx42\fscy42\c&HB7767B&\pos(635.5,620.5)}Intelligence
+Dialogue: 0,0:24:17.68,0:24:17.72,marker,,0,0,0,,{\fsp-0.9\b1\blur1\fscx42\fscy42\frz7.37\c&H305CCA&\pos(538,627)}Money
+Dialogue: 0,0:24:17.68,0:24:17.72,marker,,0,0,0,,{\fsp-0.9\b1\blur1\fscx42\fscy42\c&HB5757B&\pos(635.25,620)}Intelligence
+Dialogue: 0,0:24:17.68,0:24:17.72,marker,,0,0,0,,{\fsp-0.9\b1\blur1\fs48\fscx42\fscy42\frz355.94\c&H47926C&\pos(757,625)}Appearance
+Dialogue: 0,0:24:17.72,0:24:18.43,marker,,0,0,0,,{\fsp-0.9\b1\blur1\fscx42\fscy42\frz7.37\c&H2F5DC9&\pos(538.5,627.5)}Money
+Dialogue: 0,0:24:17.72,0:24:18.43,marker,,0,0,0,,{\fsp-0.9\b1\blur1\fscx42\fscy42\c&HB7767B&\pos(635.5,620.5)}Intelligence
 Dialogue: 0,0:24:17.72,0:24:18.43,marker,,0,0,0,,{\fsp-1\b1\blur1\fs48\fscx42\fscy42\frz355.94\c&H46926C&\pos(757,625.5)}Appearance
 Dialogue: 0,0:07:38.81,0:07:43.06,marker,,0,0,0,,{\b1\fsp-1\blur1.2\fax0.2\fscx48\fscy70\frx10\fry354\frz-1\move(265,563,332,563)\c&H1831AC&}Wedding Ceremony
 Dialogue: 0,0:07:13.12,0:07:16.70,Textmsgslazytoo,,0,0,0,,{\fs26\fax-0.5\blur1\fsp-1\c&H88F4F9&\3c&H59ADC9&\pos(766,417)\iclip(m 803 420 b 804 427 817 438 799 449 798 456 820 439 827 436)\frx10\fry356\frz303.723\3a&H00&}Azuki Miho
@@ -642,11 +642,11 @@ Dialogue: 1,0:06:55.43,0:06:58.89,HugeJR,,0,0,0,,{\fsp-1\an1\b0\c&H666669&\blur1
 Dialogue: 1,0:06:55.43,0:06:58.89,HugeJR,,0,0,0,,{\fsp-1\an1\b0\c&H666669&\blur1\frx10\fry8\frz7.653\fscx200\fscy200\pos(745,627)}What!!
 Dialogue: 1,0:06:55.43,0:06:58.89,HugeJR,,0,0,0,,{\fsp-1\an3\b0\c&H666669&\blur1\frx10\fry8\frz7.653\fscx130\fscy130\pos(650,702)}If you wait, we'll \Ndefinitely take \Nyou to Hawaii
 Dialogue: 1,0:06:55.43,0:06:58.89,HugeJR,,0,0,0,,{\fsp-1\an1\b0\c&H666669&\blur1\frx10\fry8\fscx160\fscy160\frz10.831\pos(47,658)}They'll take me \Nto Hawaii!
-Dialogue: 0,0:06:55.43,0:06:58.89,subbox,,0,0,0,,{\p1\blur1\pos(1054,271)\c&HECECF0&}m 0 0 b -44 97 31 71 28 128 l 106 126 l 84 -10 l 6 -1{\p0}
-Dialogue: 0,0:06:55.43,0:06:58.89,subbox,,0,0,0,,{\p1\blur1\pos(824,329)\c&HEEEDF2&\clip()}m 0 0 l 24 118 b 51 143 94 127 130 131 122 133 173 149 212 109 237 37 197 -11 185 -19 l 0 0{\p0}
-Dialogue: 0,0:06:55.43,0:06:58.89,subbox,,0,0,0,,{\p1\blur1\pos(514,434)\c&HEBECF1&}m 0 0 l 22 121 b 110 151 182 97 262 109 b 314 107 340 168 419 102 l 392 -52 l 0 0{\p0}
+Dialogue: 0,0:06:55.43,0:06:58.89,subbox,,0,0,0,,{\p1\blur1\pos(1054,271)\c&HECECF0&}m 0 0 b -44 97 31 71 28 128 l 106 126 l 84 -10 l 6 -1
+Dialogue: 0,0:06:55.43,0:06:58.89,subbox,,0,0,0,,{\p1\blur1\pos(824,329)\c&HEEEDF2&\clip()}m 0 0 l 24 118 b 51 143 94 127 130 131 122 133 173 149 212 109 237 37 197 -11 185 -19 l 0 0
+Dialogue: 0,0:06:55.43,0:06:58.89,subbox,,0,0,0,,{\p1\blur1\pos(514,434)\c&HEBECF1&}m 0 0 l 22 121 b 110 151 182 97 262 109 b 314 107 340 168 419 102 l 392 -52 l 0 0
 Dialogue: 0,0:06:55.43,0:06:58.89,subbox,,0,0,0,,{\p1\blur1\pos(167,562)\c&HEBEBF0&}m 0 0 l 2 250 l 338 201 l 294 -49 l 0 0{\p0} {lab}
-Dialogue: 0,0:06:55.43,0:06:58.89,subbox,,0,0,0,,{\p1\blur1\pos(1063,686)\c&HE8E6EB&}m 0 0 b 1 88 31 101 46 151 b 57 162 86 158 103 155 l 74 -7 l 0 0{\p0}
-Dialogue: 0,0:06:55.43,0:06:58.89,subbox,,0,0,0,,{\p1\blur1\pos(779,672)\c&HE9E8ED&}m 0 0 l 10 61 b 125 82 234 54 279 56 l 272 -30 l 0 0{\p0}
-Dialogue: 0,0:06:55.43,0:06:58.89,subbox,,0,0,0,,{\p1\blur1\pos(552,748)\c&HEAE8ED&}m 0 0 l 8 52 l 18 52 l 19 95 l 39 96 l 46 137 l 212 137 l 183 -24 l 0 0{\p0}
-Dialogue: 0,0:06:55.43,0:06:58.89,subbox,,0,0,0,,{\p1\blur1\pos(128,765)\c&HEAE8ED&}m 0 0 l 37 197 l 158 194 b 150 103 251 -17 205 -36 l 0 0{\p0}
+Dialogue: 0,0:06:55.43,0:06:58.89,subbox,,0,0,0,,{\p1\blur1\pos(1063,686)\c&HE8E6EB&}m 0 0 b 1 88 31 101 46 151 b 57 162 86 158 103 155 l 74 -7 l 0 0
+Dialogue: 0,0:06:55.43,0:06:58.89,subbox,,0,0,0,,{\p1\blur1\pos(779,672)\c&HE9E8ED&}m 0 0 l 10 61 b 125 82 234 54 279 56 l 272 -30 l 0 0
+Dialogue: 0,0:06:55.43,0:06:58.89,subbox,,0,0,0,,{\p1\blur1\pos(552,748)\c&HEAE8ED&}m 0 0 l 8 52 l 18 52 l 19 95 l 39 96 l 46 137 l 212 137 l 183 -24 l 0 0
+Dialogue: 0,0:06:55.43,0:06:58.89,subbox,,0,0,0,,{\p1\blur1\pos(128,765)\c&HEAE8ED&}m 0 0 l 37 197 l 158 194 b 150 103 251 -17 205 -36 l 0 0
