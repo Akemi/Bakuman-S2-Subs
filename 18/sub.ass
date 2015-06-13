@@ -692,8 +692,8 @@ Dialogue: 1,0:00:38.43,0:00:44.35,Huge,,0,0,0,,{\blur0.8\c&H6C6D70&\fscx54\fscy9
 Dialogue: 1,0:00:38.43,0:00:44.35,Huge,,0,0,0,,{\blur0.8\c&H6C6D70&\fscx66\fscy102\frz24.33\frx32\fry14\pos(1133.86,75.761)}steps
 Dialogue: 1,0:08:09.26,0:08:12.93,Dates,,0,0,0,,{\b1\fad(231,0)\bord0\blur0.6\an8\3a&HFF&\c&HE4E4E3&}December 25th Tuesday\NDay of Serialization Committee
 Dialogue: 0,0:08:09.26,0:08:12.93,Dates,,0,0,0,,{\b1\fad(231,0)\bord3.5\c&H141213&\3c&H141213&\an8\1a&HFF&\blur0.6}December 25th Tuesday\NDay of Serialization Committee
-Dialogue: 0,0:09:19.08,0:09:26.42,Huge,,0,0,0,,{\blur2\fax0.3\c&HB4ADAC&\frz8.166\frx14\fry8\pos(835.637,584.715)}{TS 9:20}Ma{\frz8}nus{\frz7}cri{\frz6}pt: {\frz4}Akina Aiko
-Dialogue: 0,0:09:19.08,0:09:26.42,Huge,,0,0,0,,{\blur2\fax0.35\c&HB4ADAC&\frx16\fry6\frz8.166\pos(724.209,681.572)}{TS 9:20}Ar{\frz8}ti{\frz7}st
+Dialogue: 0,0:09:19.08,0:09:26.42,Huge,,0,0,0,,{\blur2\fax0.3\c&HB4ADAC&\frz8.166\frx14\fry8\pos(835.637,584.715)}Ma{\frz8}nus{\frz7}cri{\frz6}pt: {\frz4}Akina Aiko
+Dialogue: 0,0:09:19.08,0:09:26.42,Huge,,0,0,0,,{\blur2\fax0.35\c&HB4ADAC&\frx16\fry6\frz8.166\pos(724.209,681.572)}Ar{\frz8}ti{\frz7}st
 Dialogue: 0,0:09:50.73,0:09:53.23,Huge,,0,0,0,,{\blur1\fnMaya\c&H857F7D&\frz264.3\frx2\fry2\pos(1030.4,420.2)}Come out!! Hiruriramu!
 Dialogue: 0,0:13:52.89,0:13:53.85,Textmsgslazy,,0,0,0,,{\an1\frz9\fax0.02\fs100\blur1.2\c&H654A3F&\move(561,70,549,16)}News
 Dialogue: 0,0:13:52.89,0:13:57.35,Textmsgslazy,,0,0,0,,{\blur1\frz8.7\fs43\fscy85\c&H795C53&\move(198,748,136,495)}Congratulations! I can't believe you have a serialization only a \Nyear after Trap ended. You two really do have talent! Go for it!\NPS: Merry Xmas (lol)

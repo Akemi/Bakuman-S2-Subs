@@ -3171,7 +3171,7 @@ Dialogue: 0,0:14:04.99,0:14:05.03,BoxBoxBox,,0,0,0,,{\an8\pos(121.84,157.91)\fsc
 Dialogue: 0,0:14:05.03,0:14:05.07,BoxBoxBox,,0,0,0,,{\an8\pos(122.14,157.92)\fscx92.09\fscy90.09\fs60\c&H121521&\frz269.8\bord0\blur1\b1\3c&H192438&}I love you!
 Dialogue: 0,0:14:05.07,0:14:05.11,BoxBoxBox,,0,0,0,,{\an8\pos(122.06,157.91)\fscx92.1\fscy90.1\fs60\c&H121521&\frz269.8\bord0\blur1\b1\3c&H192438&}I love you!
 Dialogue: 0,0:14:05.11,0:14:05.15,BoxBoxBox,,0,0,0,,{\an8\pos(122.4,157.93)\fscx92.05\fscy90.04\fs60\c&H121521&\frz269.8\bord0\blur1\b1\3c&H192438&}I love you!
-Comment: 0,0:14:05.15,0:14:05.19,BoxBoxBox,,0,0,0,,{\pos(122.67,157.93)\fscx92\fscy90\fs60\c&H0F1623&\frz269.8\an8\bord0\blur1\c&H192438&\b1\3c&H192438&TS 13:22}I love you!
+Comment: 0,0:14:05.15,0:14:05.19,BoxBoxBox,,0,0,0,,{\pos(122.67,157.93)\fscx92\fscy90\fs60\c&H0F1623&\frz269.8\an8\bord0\blur1\c&H192438&\b1\3c&H192438&}I love you!
 Dialogue: 0,0:00:38.17,0:00:44.35,Lyrics-Jap,,0,0,0,,yume kanaeru made chousen wa tsuzuku
 Dialogue: 0,0:00:44.35,0:00:50.60,Lyrics-Jap,,0,0,0,,boku wa dokomade chikazuketandarou?
 Dialogue: 0,0:00:50.60,0:00:55.90,Lyrics-Jap,,0,0,0,,juunengo no mirai kagayaiteru sugata wa
