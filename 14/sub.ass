@@ -20,13 +20,8 @@ Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
 Scroll Position: 3617
-<<<<<<< HEAD
 Active Line: 3645
 Video Position: 13136
-=======
-Active Line: 3618
-Video Position: 30840
->>>>>>> dce34a87312bc0e3488d6f8aab310b59008bafb5
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -3725,13 +3720,8 @@ Dialogue: 10,0:22:24.69,0:22:27.32,Default,,0,0,0,,Like I said, I'm not hiding a
 Dialogue: 10,0:22:27.32,0:22:29.57,Default,,0,0,0,,Then tell me everything \Nabout Takagi's issue.
 Dialogue: 10,0:22:29.57,0:22:31.78,Default,,0,0,0,,Well, that's...
 Dialogue: 10,0:22:36.62,0:22:38.62,Default,,0,0,0,,I can't trust you!
-<<<<<<< HEAD
 Dialogue: 10,0:22:40.17,0:22:40.58,Default,,0,0,0,,What happened?
 Dialogue: 10,0:22:41.96,0:22:44.80,Default,,0,0,0,,I-I think Azuki just dumped me!
-=======
-Dialogue: 10,0:22:40.04,0:22:40.58,Default,,0,0,0,,What happened?
-Dialogue: 10,0:22:41.96,0:22:44.80,Default,,0,0,0,,I-I think Azuki dumped me.
->>>>>>> dce34a87312bc0e3488d6f8aab310b59008bafb5
 Dialogue: 10,0:24:15.97,0:24:18.52,Default,,0,0,0,,I've been cornered! It's sink or swim!
 Dialogue: 10,0:24:18.52,0:24:20.77,Default,,0,0,0,,It's sink or swim for me, \Ntoo, in a different way.
 Dialogue: 10,0:24:20.77,0:24:22.19,Default,,0,0,0,,We're both in rough spots.
