@@ -20,9 +20,8 @@ Keyframes File: ep17_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 510
-Active Line: 513
-Video Position: 28286
+Active Line: 40
+Video Position: 4494
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -117,8 +116,8 @@ Dialogue: 10,0:03:02.03,0:03:04.03,Default,,0,0,0,,You already got one?!
 Dialogue: 10,0:03:04.03,0:03:04.87,Default,,0,0,0,,You jumped the gun!
 Dialogue: 10,0:03:04.87,0:03:05.80,Default,,0,0,0,,What's wrong?
 Dialogue: 10,0:03:05.80,0:03:07.41,Default,,0,0,0,,This is how you get registered!
-Dialogue: 10,0:03:07.41,0:03:08.84,Default,,0,0,0,,We can only do that \Nafter we get serialized
-Dialogue: 10,0:03:08.84,0:03:10.50,Default,,0,0,0,,and get permission from our parents!
+Dialogue: 10,0:03:07.41,0:03:08.91,Default,,0,0,0,,We can only do that \Nafter we get serialized
+Dialogue: 10,0:03:08.91,0:03:10.50,Default,,0,0,0,,and get permission from our parents!
 Dialogue: 10,0:03:10.50,0:03:12.17,Default,,0,0,0,,It's fine to get the form in advance!
 Dialogue: 10,0:03:13.33,0:03:15.96,Default,,0,0,0,,It's all about a man's technique!
 Dialogue: 10,0:03:15.96,0:03:18.55,Default,,0,0,0,,Well, I mean his manga technique.
@@ -128,7 +127,7 @@ Dialogue: 10,0:03:24.64,0:03:26.93,Default,,0,0,0,,I'm talking about manga, of c
 Dialogue: 10,0:03:26.93,0:03:28.14,Default,,0,0,0,,What?
 Dialogue: 10,0:03:28.14,0:03:30.39,Default,,0,0,0,,What's with that question?
 Dialogue: 10,0:03:30.39,0:03:33.02,Default,,0,0,0,,Um, I haven't mentioned this,
-Dialogue: 10,0:03:33.02,0:03:34.44,Default,,0,0,0,,but {\i1}Business Boy Kenichi{\i0}
+Dialogue: 10,0:03:33.02,0:03:34.44,Default,,0,0,0,,but {\i1}Business Boy Kenichi
 Dialogue: 10,0:03:34.44,0:03:37.98,Default,,0,0,0,,might be canceled in \Ntoday's serialization meeting.
 Dialogue: 10,0:03:39.15,0:03:40.57,Default,,0,0,0,,I didn't know.
 Dialogue: 10,0:03:41.15,0:03:42.68,Default,,0,0,0,,If it does end,
@@ -169,7 +168,7 @@ Dialogue: 10,0:05:19.52,0:05:23.21,Default-Italic,,0,0,0,,that they only needed 
 Dialogue: 10,0:05:23.21,0:05:25.76,Default-Italic,,0,0,0,,If they don't get serialized, then...
 Dialogue: 10,0:05:47.70,0:05:49.39,Default,,0,0,0,,Congratulations!
 Dialogue: 10,0:05:49.39,0:05:50.44,Default,,0,0,0,,{\i1}Time of Blue Leaves{\i0} will start
-Dialogue: 10,0:05:50.44,0:05:52.16,Default,,0,0,0,,its serialization in the \Nsecond issue of the new year!
+Dialogue: 10,0:05:50.44,0:05:52.16,Default,,0,0,0, [hard to read?],its serialization in the \Nsecond issue of the new year!
 Dialogue: 10,0:05:52.16,0:05:53.74,Default,,0,0,0,,Really?
 Dialogue: 10,0:05:53.74,0:05:54.87,Default,,0,0,0,,Thank you!
 Dialogue: 10,0:05:55.33,0:05:58.88,Default,,0,0,0,,Everyone thinks it's much \Nbetter than the Next one-shot.
@@ -393,14 +392,14 @@ Dialogue: 10,0:17:03.21,0:17:04.87,Default,,0,0,0,,Is that all?
 Dialogue: 10,0:17:04.87,0:17:06.12,Default,,0,0,0,,Yes.
 Dialogue: 10,0:17:06.12,0:17:06.71,Default,,0,0,0,,Listen.
 Dialogue: 10,0:17:07.54,0:17:10.42,Default,,0,0,0,,"He won't let me draw what I want"...
-Dialogue: 10,0:17:10.42,0:17:14.05,Default,,0,0,0,,is an admission that you  \Ndon't have any talent.
+Dialogue: 10,0:17:10.42,0:17:14.05,Default,,0,0,0,,is an admission that you \Ndon't have any talent.
 Dialogue: 10,0:17:17.01,0:17:21.22,Default,,0,0,0,,If what you wanted to draw produced an excellent shounen manga,
 Dialogue: 10,0:17:21.22,0:17:22.43,Default,,0,0,0,,then it would be accepted as-is.
 Dialogue: 10,0:17:23.27,0:17:26.06,Default,,0,0,0,,Because it is not, it means that you do not have the ability to do so.
 Dialogue: 10,0:17:26.06,0:17:28.69,Default-Italic,,0,0,0,,"He won't let me draw what I want"...
 Dialogue: 10,0:17:28.69,0:17:30.98,Default-Italic,,0,0,0,,It does seems like an excuse.
-Dialogue: 10,0:17:32.32,0:17:35.03,Default,,0,0,0,,I believe that an author who blames
-Dialogue: 10,0:17:35.03,0:17:37.57,Default,,0,0,0,,the editing department or his editor for a work that doesn't produce results
+Dialogue: 10,0:17:32.32,0:17:34.86,Default,,0,0,0,,I believe that an author who blames
+Dialogue: 10,0:17:34.86,0:17:37.57,Default,,0,0,0,,the editing department or his editor for a work that doesn't produce results
 Dialogue: 10,0:17:37.57,0:17:39.78,Default,,0,0,0,,is most foolish.
 Dialogue: 10,0:17:40.45,0:17:42.49,Default,,0,0,0,,If you disagree with your editor
 Dialogue: 10,0:17:42.49,0:17:45.62,Default,,0,0,0,,and believe you are \Nright no matter what,
@@ -453,8 +452,8 @@ Dialogue: 10,0:19:44.91,0:19:46.99,Default,,0,0,0,,It was born!
 Dialogue: 10,0:19:46.99,0:19:47.79,Default,,0,0,0,,It's not a chick!
 Dialogue: 10,0:19:47.79,0:19:48.70,Default,,0,0,0,,Huh?
 Dialogue: 10,0:19:48.70,0:19:50.46,Default,,0,0,0,,This is a great manuscript!
-Dialogue: 10,0:19:50.46,0:19:51.62,Default,,0,0,0,,Are they going to fight after this?
-Dialogue: 10,0:19:51.62,0:19:52.83,Default,,0,0,0,,Or...
+Dialogue: 10,0:19:50.46,0:19:51.71,Default,,0,0,0,,Are they going to fight after this?
+Dialogue: 10,0:19:51.71,0:19:52.83,Default,,0,0,0,,Or...
 Dialogue: 10,0:19:52.83,0:19:53.83,Default,,0,0,0,,Next! Give me the next chapter!
 Dialogue: 10,0:19:53.83,0:19:55.96,Default,,0,0,0,,There isn't one yet.
 Dialogue: 10,0:19:55.96,0:19:56.71,Default-Italic,,0,0,0,,There isn't?
@@ -495,14 +494,14 @@ Dialogue: 10,0:21:22.38,0:21:23.97,Default,,0,0,0,,I'll only do it as a serializ
 Dialogue: 10,0:21:23.97,0:21:25.43,Default,,0,0,0,,Don't be ridiculous!
 Dialogue: 10,0:21:25.43,0:21:26.33,Default,,0,0,0,,All right.
 Dialogue: 10,0:21:26.33,0:21:28.51,Default,,0,0,0,,I'm already having her \Nwrite a second chapter.
-Dialogue: 10,0:21:28.51,0:21:29.76,Default,,0,0,0,,I'll have her write a third
-Dialogue: 10,0:21:29.76,0:21:31.39,Default,,0,0,0,,and submit it to the next \Nserialization committee.
-Dialogue: 10,0:21:31.39,0:21:32.14,Default,,0,0,0,,Hattori!
+Dialogue: 10,0:21:28.51,0:21:29.68,Default,,0,0,0,,I'll have her write a third
+Dialogue: 10,0:21:29.68,0:21:31.43,Default,,0,0,0,,and submit it to the next \Nserialization committee.
+Dialogue: 10,0:21:31.43,0:21:32.14,Default,,0,0,0,,Hattori!
 Dialogue: 10,0:21:32.14,0:21:35.06,Default,,0,0,0,,Akina's been Takagi's rival\N since middle school.
 Dialogue: 10,0:21:35.06,0:21:38.15,Default,,0,0,0,,If we do this, it'll definitely\N fire up Ashirogi Muto!
 Dialogue: 10,0:21:38.15,0:21:41.40,Default,,0,0,0,,Yuujirou, I definitely want\N this to get serialized.
 Dialogue: 10,0:21:41.40,0:21:45.11,Default,,0,0,0,,But two works by the same author \Ngetting serialized at the same time?!
-Dialogue: 10,0:21:45.11,0:21:46.40,Default,,0,0,0,,It's fine, it just hasn't\N happened before.
+Dialogue: 10,0:21:45.11,0:21:46.40,Default,,0,0,0, [hard to read?],It's fine, it just hasn't\N happened before.
 Dialogue: 10,0:21:46.40,0:21:48.03,Default,,0,0,0,,He'll have an impossible schedule!
 Dialogue: 10,0:21:48.03,0:21:51.83,Default,,0,0,0,,But you know I can make a name in a day, and a manuscript in two!
 Dialogue: 10,0:21:51.83,0:21:54.66,Default,,0,0,0,,Damn, he can do it if \Nwe get more assistants.

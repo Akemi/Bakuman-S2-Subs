@@ -20,9 +20,9 @@ Keyframes File: ep23_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 537
-Active Line: 554
-Video Position: 13231
+Scroll Position: 452
+Active Line: 29
+Video Position: 4654
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -211,7 +211,7 @@ Dialogue: 10,0:07:48.82,0:07:50.99,Default,,0,0,0,,If it's good, then please sub
 Dialogue: 10,0:07:52.15,0:07:54.74,Default,,0,0,0,,Actually, Takahama,
 Dialogue: 10,0:07:54.74,0:07:57.29,Default,,0,0,0,,if Ashirogi doesn't submit a work that's
 Dialogue: 10,0:07:57.29,0:07:59.37,Default,,0,0,0,,as good as Niiuzma's to \Nthe next committee,
-Dialogue: 10,0:07:59.37,0:08:00.83,Default,,0,0,0,,they won't be able to \Ndraw for Jack anymore.
+Dialogue: 10,0:07:59.37,0:08:00.83,Default,,0,0,0, [hard to read?],they won't be able to \Ndraw for Jack anymore.
 Dialogue: 10,0:08:01.41,0:08:04.04,Default,,0,0,0,,It was the condition for them being allowed to quit {\i1}Tanto{\i0}.
 Dialogue: 10,0:08:05.04,0:08:07.68,Default,,0,0,0,,So in order to make \Nthings easier for Ashirogi,
 Dialogue: 10,0:08:07.68,0:08:09.21,Default,,0,0,0,,you're asking me to swallow my tears?
@@ -233,7 +233,7 @@ Dialogue: 10,0:08:40.83,0:08:42.83,Default,,0,0,0,,I'll try talking to \Nthe hig
 Dialogue: 10,0:08:43.41,0:08:45.00,Default,,0,0,0,,Please do.
 Dialogue: 10,0:08:45.00,0:08:47.75,Default,,0,0,0,,I can't stand the idea \Nof losing without a fight.
 Dialogue: 10,0:08:47.75,0:08:49.98,Default,,0,0,0,,Besides, you're the \None who always says
-Dialogue: 10,0:08:49.98,0:08:53.76,Default,,0,0,0,,"If you can just get serialized, everything else will work out"!
+Dialogue: 10,0:08:49.98,0:08:53.76,Default,,0,0,0,,"If you can just get serialized, everything else will work out!"
 Dialogue: 10,0:08:54.26,0:08:55.53,Default,,0,0,0,,You're right.
 Dialogue: 10,0:08:56.09,0:08:58.18,Default,,0,0,0,,We both worked hard on \Nthis hoping to get it serialized.
 Dialogue: 10,0:08:58.18,0:08:59.60,Default,,0,0,0,,I shouldn't have said that.
@@ -257,7 +257,7 @@ Dialogue: 10,0:09:48.77,0:09:50.90,Default,,0,0,0,,They've got some tough acts t
 Dialogue: 10,0:09:50.90,0:09:55.78,Default,,0,0,0,,Maybe they should change the condition to just getting serialized.
 Dialogue: 10,0:09:55.78,0:09:58.99,Default,,0,0,0,,Well, Ashirogi will get \Nwhat they deserve.
 Dialogue: 10,0:09:58.99,0:09:59.96,Default,,0,0,0,,There it is!
-Dialogue: 10,0:09:59.96,0:10:01.62,Default,,0,0,0,,Yoshida's trademark \N"They get what they deserve"!
+Dialogue: 10,0:09:59.96,0:10:02.03,Default,,0,0,0,,Yoshida's trademark \N"They get what they deserve!"
 Dialogue: 10,0:10:03.99,0:10:05.18,Default,,0,0,0,,Miura...
 Dialogue: 10,0:10:05.18,0:10:06.41,Default,,0,0,0,,Hattori...
 Dialogue: 10,0:10:06.41,0:10:08.37,Default,,0,0,0,,I've had enough.
@@ -341,7 +341,7 @@ Dialogue: 10,0:13:26.36,0:13:27.99,Default,,0,0,0,,O-Okay.
 Dialogue: 10,0:13:29.12,0:13:29.76,Default,,0,0,0,,Huh?
 Dialogue: 10,0:13:29.76,0:13:30.95,Default,,0,0,0,,{\i1}Perfect Crime Club{\i0}?
 Dialogue: 10,0:13:30.95,0:13:32.75,Default,,0,0,0,,Is this okay?
-Dialogue: 10,0:13:33.25,0:13:35.75,Default,,0,0,0,,It's much more than "okay"!
+Dialogue: 10,0:13:33.25,0:13:35.75,Default,,0,0,0,,It's much more than "okay!"
 Dialogue: 10,0:13:47.38,0:13:48.43,Default,,0,0,0,,Coming!
 Dialogue: 10,0:13:49.01,0:13:50.55,Default,,0,0,0,,Here's the fried chicken.
 Dialogue: 10,0:13:50.55,0:13:52.01,Default,,0,0,0,,Oh, thanks!
@@ -420,18 +420,18 @@ Dialogue: 10,0:16:47.84,0:16:51.61,Default,,0,0,0,,I tailed a girl I really like
 Dialogue: 10,0:16:51.61,0:16:52.99,Default,,0,0,0,,It reminded me of that.
 Dialogue: 10,0:16:52.99,0:16:54.99,Default,,0,0,0,,If you did that now,\N you'd be a stalker!
 Dialogue: 10,0:16:56.57,0:16:59.20,Default,,0,0,0,,Although we're having\N fun with old stories,
-Dialogue: 10,0:16:59.20,0:17:02.08,Default,,0,0,0,,let's pass {\i1}Perfect Crime Club{\i0} \Nwith a unanimous "Yes".
+Dialogue: 10,0:16:59.20,0:17:02.08,Default,,0,0,0,,let's pass {\i1}Perfect Crime Club{\i0} \Nwith a unanimous "Yes."
 Dialogue: 10,0:17:02.08,0:17:02.87,Default,,0,0,0,,No.
 Dialogue: 10,0:17:04.21,0:17:05.12,Default,,0,0,0,,No?
 Dialogue: 10,0:17:07.54,0:17:09.96,Default,,0,0,0,,I rated it highly,
 Dialogue: 10,0:17:09.96,0:17:12.08,Default,,0,0,0,,but before we say yes \Nor no to this manga,
 Dialogue: 10,0:17:12.08,0:17:14.73,Default,,0,0,0,,we first must consider whether it can beat Niizuma's manga,
-Dialogue: 10,0:17:14.73,0:17:15.93,Default,,0,0,0,,{\i1}Crow{\i0}
-Dialogue: 10,0:17:15.93,0:17:18.40,Default,,0,0,0,, and {\i1}+NATURAL.{\i0}
+Dialogue: 10,0:17:14.73,0:17:15.93,Default,,0,0,0,,{\i1}Crow
+Dialogue: 10,0:17:15.93,0:17:18.40,Default,,0,0,0,, and {\i1}+NATURAL.
 Dialogue: 10,0:17:19.35,0:17:21.27,Default,,0,0,0,,Chief Editor,
 Dialogue: 10,0:17:21.27,0:17:23.35,Default,,0,0,0,,so you really were serious
 Dialogue: 10,0:17:23.35,0:17:26.57,Default,,0,0,0,,about not letting them \Ndraw for Jack if they can't win
-Dialogue: 10,0:17:26.57,0:17:28.61,Default,,0,0,0,,against {\i1}Crow{\i0} and {\i1}+Natural?{\i0}
+Dialogue: 10,0:17:26.57,0:17:28.61,Default,,0,0,0,,against {\i1}Crow{\i0} and {\i1}+Natural{\i0}?
 Dialogue: 10,0:17:29.06,0:17:30.11,Default,,0,0,0,,Of course I was.
 Dialogue: 10,0:17:30.11,0:17:32.36,Default,,0,0,0,,If it's a question of \Nwinning or losing...
 Dialogue: 10,0:17:32.86,0:17:34.11,Default,,0,0,0,,It's difficult to say.
@@ -454,7 +454,7 @@ Dialogue: 10,0:18:17.86,0:18:19.45,Default,,0,0,0,,Right.
 Dialogue: 10,0:18:22.12,0:18:23.08,Default,,0,0,0,,Shuujin,
 Dialogue: 10,0:18:23.08,0:18:26.20,Default,,0,0,0,,if we don't pass, you \Nwon't give up on manga?
 Dialogue: 10,0:18:27.08,0:18:29.08,Default,,0,0,0,,What are you talking about, Saiko?!
-Dialogue: 10,0:18:29.08,0:18:30.79,Default,,0,0,0,,I'm just saying, "What if"?
+Dialogue: 10,0:18:29.08,0:18:30.79,Default,,0,0,0,,I'm just saying, "What if?"
 Dialogue: 10,0:18:30.79,0:18:32.08,Default,,0,0,0,,In that case,
 Dialogue: 10,0:18:32.08,0:18:34.50,Default,,0,0,0,,we'll draw for some other magazine and surpass Eiji that way.
 Dialogue: 10,0:18:34.50,0:18:36.08,Default,,0,0,0,,That wouldn't be the best option,
@@ -503,8 +503,8 @@ Dialogue: 10,0:20:06.18,0:20:07.28,Default-Italic,,0,0,0,,I'm worried that Hatto
 Dialogue: 10,0:20:07.28,0:20:09.56,Default-Italic,,0,0,0,,who said it was really good,
 Dialogue: 10,0:20:09.56,0:20:12.56,Default-Italic,,0,0,0,,has been looking \Ndepressed this whole time.
 Dialogue: 10,0:20:17.19,0:20:19.74,Default,,0,0,0,,Niizuma and Ashirogi have different levels of experience.
-Dialogue: 10,0:20:19.74,0:20:21.11,Default,,0,0,0,,You can't compare them.
-Dialogue: 10,0:20:21.11,0:20:22.33,Default,,0,0,0,,If you're talking about experience,
+Dialogue: 10,0:20:19.74,0:20:21.03,Default,,0,0,0,,You can't compare them.
+Dialogue: 10,0:20:21.03,0:20:22.33,Default,,0,0,0,,If you're talking about experience,
 Dialogue: 10,0:20:22.33,0:20:24.99,Default,,0,0,0,,I think Ashirogi's struggles have made them stronger in that area.
 Dialogue: 10,0:20:24.99,0:20:26.78,Default,,0,0,0,,It doesn't make sense \Nto compare two completely
 Dialogue: 10,0:20:26.78,0:20:28.66,Default,,0,0,0,,different types of manga \Non experience level.
@@ -538,7 +538,7 @@ Dialogue: 10,0:21:49.74,0:21:51.16,Default,,0,0,0,,Me, huh.
 Dialogue: 10,0:21:54.00,0:21:55.41,Default,,0,0,0,,We're all ready!
 Dialogue: 10,0:21:55.41,0:21:57.83,Default,,0,0,0,,All that's left is to get \Nnews of the serialization!
 Dialogue: 10,0:21:58.75,0:21:59.71,Default,,0,0,0,,Saiko,
-Dialogue: 10,0:21:59.71,0:22:02.59,Default,,0,0,0,,do you honestly think \Nthat {\i1}Perfect Crime Club{\i0}
+Dialogue: 10,0:21:59.71,0:22:02.59,Default,,0,0,0,,do you honestly think \Nthat {\i1}Perfect Crime Club
 Dialogue: 10,0:22:02.59,0:22:05.13,Default,,0,0,0,,can win against {\i1}Crow{\i0} and {\i1}+NATURAL{\i0}?
 Dialogue: 10,0:22:06.05,0:22:08.16,Default,,0,0,0,,{\i1}Trap{\i0} tied with {\i1}Crow{\i0} once.
 Dialogue: 10,0:22:08.84,0:22:10.39,Default,,0,0,0,,We can definitely win!
@@ -550,7 +550,7 @@ Dialogue: 10,0:22:31.66,0:22:32.75,Default,,0,0,0,,Th-Then—
 Dialogue: 10,0:22:32.75,0:22:34.41,Default,,0,0,0,,With 3 for Win
 Dialogue: 10,0:22:34.41,0:22:35.88,Default,,0,0,0,,and 4 for Lose
 Dialogue: 10,0:22:35.88,0:22:37.68,Default,,0,0,0,,in our majority vote,
-Dialogue: 10,0:22:37.68,0:22:41.17,Default,,0,0,0,,Ashirogi Muto's {\i1}Perfect Crime Club{\i0}
+Dialogue: 10,0:22:37.68,0:22:41.17,Default,,0,0,0,,Ashirogi Muto's {\i1}Perfect Crime Club
 Dialogue: 10,0:22:41.17,0:22:44.13,Default,,0,0,0,,{\fad(0,1400)}will not be serialized...
 Dialogue: 10,0:24:15.51,0:24:17.60,Default,,0,0,0,,{\i1}Perfect Crime Club{\i0} is good.
 Dialogue: 10,0:24:17.60,0:24:18.39,Default,,0,0,0,,But it can't win.
@@ -629,7 +629,7 @@ Dialogue: 0,0:07:28.30,0:07:30.76,marker,,0,0,0,,{\fax-0.18\b1\fs40\c&H726E79&\b
 Dialogue: 0,0:09:11.82,0:09:13.28,Huge,,0,0,0,,{\an1\fscx160\fscy160\fs60\blur1\c&HDDDDD6&\pos(640,269)}N{\c&HCBC8C4&}i{\c&HCDCAC3&}i{\c&HCDC9C3&}z{\c&HD9D9D4&}u{\c&HDFDEDA&}m{\c&HF9F8F3&}a
 Dialogue: 0,0:09:11.82,0:09:13.28,Huge,,0,0,0,,{\an1\blur1\c&H44403D&\frx0\fry0\fscx135\fscy135\pos(884,653)}Eiji  Ltd.
 Dialogue: 0,0:11:57.36,0:11:58.03,Textmsgs,,0,0,0,,{\fax0.05\fsp-1\blur0.8\fs25\frx14\fry0\pos(568,440)\frz85.758\c&HFFF2C3&}Incoming Call
-Dialogue: 0,0:11:58.03,0:11:58.15,Textmsgs,,0,0,0,,{\fax.05\fsp-1\blur0.8\fs25\frx14\fry0\c&HFFF2C3&\pos(590,355)\frz88.057}Incoming Call
+Dialogue: 0,0:11:58.03,0:11:58.15,Textmsgs,,0,0,0,,{\fax0.05\fsp-1\blur0.8\fs25\frx14\fry0\c&HFFF2C3&\pos(590,355)\frz88.057}Incoming Call
 Dialogue: 0,0:11:58.15,0:11:58.28,Textmsgs,,0,0,0,,{\fax0.05\fsp-1\blur0.8\fs25\frx14\fry0\c&HFFF2C3&\frz90.159\pos(602,269)}Incoming Call
 Dialogue: 0,0:11:58.28,0:11:58.40,Textmsgs,,0,0,0,,{\fax0.05\fsp-1\blur0.8\fs25\frx14\fry0\c&HFFF2C3&\frz98.101\pos(624,119)}Incoming Call
 Dialogue: 0,0:11:57.36,0:11:57.65,Textmsgs,,0,0,0,,{\fsp-1\blur0.8\fs25\pos(647,424)\frx12\fry0\frz86.263\c&HFEF0BF&}Takahama Shoyo

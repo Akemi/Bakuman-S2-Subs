@@ -20,9 +20,9 @@ Keyframes File: ep24_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 53
-Active Line: 67
-Video Position: 27706
+Scroll Position: 536
+Active Line: 47
+Video Position: 4687
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -126,8 +126,8 @@ Dialogue: 0,0:24:15.97,0:24:19.64,NextEpTitle,,0,0,0,,{\blur0.334\pos(79.676,519
 Dialogue: 0,0:24:23.98,0:24:30.99,NextEpTitle,,0,0,0,,{\blur0.334\an9\pos(1214,56)}Votes and \NCharts
 Dialogue: 0,0:05:32.01,0:05:34.98,Huge,,0,0,0,,{\b0\blur0.8\pos(565,361)\frx6\fry352\frz263.449\c&H6D7176&}To Mashiro-kun
 Dialogue: 0,0:05:52.24,0:05:55.25,Huge,,0,0,0,,{\fax-0.2\b0\blur0.8\frx6\fry352\c&H43464A&\frz319.298\fscx44\fscy44\pos(908,504)}To Mashiro-kun
-Dialogue: 0,0:06:55.31,0:06:56.72,Huge,,0,0,0,,{\fax-0.1\fsp-1\b0\blur1\fax-0.25\frz339.881\pos(675,267)\c&H7C7C7B&}Do we absolutely positively have to wait until our dream
-Dialogue: 0,0:06:55.31,0:06:56.72,Huge,,0,0,0,,{\fax-0.1\fsp-1\b0\blur1\fax-0.25\frz339.881\c&H7C7C7B&\pos(630,287)}comes true?
+Dialogue: 0,0:06:55.31,0:06:56.72,Huge,,0,0,0,,{\fsp-1\b0\blur1\fax-0.25\frz339.881\pos(675,267)\c&H7C7C7B&}Do we absolutely positively have to wait until our dream
+Dialogue: 0,0:06:55.31,0:06:56.72,Huge,,0,0,0,,{\fsp-1\b0\blur1\fax-0.25\frz339.881\c&H7C7C7B&\pos(630,287)}comes true?
 Dialogue: 0,0:07:20.87,0:07:22.04,Textmsgslazy,,0,0,0,,{\blur1.2\an7\fs35\frz145\c&H241F17&\t(\fscx101\fscy101.189)\fnFagoCoTf\move(639,536,638,543)}Azuki Miho \N{\fnJP Hand\fs45}Nickname: Amame
 Dialogue: 0,0:07:20.87,0:07:22.04,Textmsgslazy,,0,0,0,,{\blur1.2\an7\fs41\frz145\c&H24201A&\t(\fscx101.189\fscy101.189)\move(785,486,787,492)}Dream for the future
 Dialogue: 0,0:07:20.87,0:07:22.04,Textmsgslazy,,0,0,0,,{\blur1.2\an7\fs43\frz145\c&H2B2721&\move(835,414,837,419)\t(\fscx101.189\fscy101.189)}Voice Actress
@@ -135,10 +135,10 @@ Dialogue: 0,0:12:44.32,0:12:48.28,Huge,,0,0,0,,{\b0\blur1\c&H79797C&\fscx135\fsc
 Dialogue: 0,0:12:44.32,0:12:48.28,Huge,,0,0,0,,{\b0\blur1\c&H6C696E&\fscx135\fscy135\frz2.518\move(534,259,482,259)}Club"
 Dialogue: 0,0:12:44.32,0:12:48.28,Huge,,0,0,0,,{\b0\fax0.1\blur1\c&H68696E&\fscx85\fscy85\frz1.615\move(472,342,420,342)}First Chapter
 Dialogue: 0,0:12:44.32,0:12:48.28,Huge,,0,0,0,,{\b0\fax0.1\blur1\c&H606165&\fscx85\fscy85\move(413,433,361,433)\frz3.487}Ashirogi Muto
-Dialogue: 0,0:14:41.65,0:14:44.57,subbox,,0,0,0,,{\p1\blur0.8\pos(649,617)\c&HE5EBEE&}m -1 0 b -2 46 1 48 -15 84 b -14 99 -11 115 -8 130 b 117 129 241 129 366 128 b 368 126 372 118 371 105 b 333 105 303 104 274 104 b 273 70 274 35 273 1 l -1 0{\p0}
+Dialogue: 0,0:14:41.65,0:14:44.57,subbox,,0,0,0,,{\p1\blur0.8\pos(649,617)\c&HE5EBEE&}m -1 0 b -2 46 1 48 -15 84 b -14 99 -11 115 -8 130 b 117 129 241 129 366 128 b 368 126 372 118 371 105 b 333 105 303 104 274 104 b 273 70 274 35 273 1 l -1 0
 Dialogue: 1,0:14:41.65,0:14:44.57,Signs,,0,0,0,,{\an1\fsp-2\b0\c&H393437&\blur0.8\bord0\fscx50\fscy50\pos(460,559)}The original book for the super-popular \N{\b1}"+NATURAL"{\b0} currently serialized in \NWeekly Shounen Jack!!
 Dialogue: 1,0:14:41.65,0:14:44.57,Silence,,0,0,0,,{\shad0\an1\fsp-3\b0\c&H393437&\blur0.8\bord0\fscx40\fscy40\pos(637,581)}Akina Aiko
-Dialogue: 1,0:14:41.65,0:14:44.57,Defbox,,0,0,0,,{\an1\fsp-2\b0\c&H393437&\blur0.8\fs25\c&HE5EBEE&\3c&H473B3D&\pos(445,616)}The real story written by \Nthe receiver of the amateur award of Novel Pleiades
+Dialogue: 1,0:14:41.65,0:14:44.57,Defbox,,0,0,0,,{\an1\fsp-2\b0\blur0.8\fs25\c&HE5EBEE&\3c&H473B3D&\pos(445,616)}The real story written by \Nthe receiver of the amateur award of Novel Pleiades
 Dialogue: 0,0:15:23.11,0:15:24.90,Prize,,0,0,0,,{\fsp-2\fax0.2\bord0\blur1\c&H252836&\pos(435,505)}Something...
 Dialogue: 0,0:19:15.55,0:19:19.47,Huge,,0,0,0,,{\an1\fscx160\fscy160\fs60\blur1\c&HDDDDD6&\pos(640,269)}N{\c&HCBC8C4&}i{\c&HCDCAC3&}i{\c&HCDC9C3&}z{\c&HD9D9D4&}u{\c&HDFDEDA&}m{\c&HF9F8F3&}a
 Dialogue: 0,0:19:15.55,0:19:19.47,Huge,,0,0,0,,{\an1\blur1\c&H403D3A&\frx0\fry0\fscx135\fscy135\pos(884,653)}Eiji  Ltd.
@@ -149,7 +149,7 @@ Dialogue: 10,0:00:18.70,0:00:20.33,Default,,0,0,0,,Th-Then—
 Dialogue: 10,0:00:20.33,0:00:22.62,Default,,0,0,0,,With 3 for Win
 Dialogue: 10,0:00:22.62,0:00:24.81,Default,,0,0,0,,and 4 for Lose
 Dialogue: 10,0:00:24.81,0:00:26.38,Default,,0,0,0,,in our majority vote,
-Dialogue: 10,0:00:26.38,0:00:29.75,Default,,0,0,0,,Ashirogi Muto's {\i1}Perfect Crime Club{\i0}
+Dialogue: 10,0:00:26.38,0:00:29.75,Default,,0,0,0,,Ashirogi Muto's {\i1}Perfect Crime Club
 Dialogue: 10,0:00:29.75,0:00:31.24,Default,,0,0,0,,will not be serialized...
 Dialogue: 10,0:00:32.38,0:00:33.80,Default,,0,0,0,,Wait a minute!
 Dialogue: 10,0:00:34.43,0:00:35.30,Default,,0,0,0,,What is it, Oonishi?
@@ -209,8 +209,8 @@ Dialogue: 10,0:04:30.12,0:04:32.89,Default,,0,0,0,,We decided to stop \N{\i1}Tan
 Dialogue: 10,0:04:32.89,0:04:36.75,Default,,0,0,0,,because you were there\N as our rival, Niizuma.
 Dialogue: 10,0:04:37.42,0:04:38.54,Default,,0,0,0,,Indeed.
 Dialogue: 10,0:04:39.30,0:04:42.67,Default,,0,0,0,,Ashirogi and I are fated rivals.
-Dialogue: 10,0:04:42.67,0:04:44.38,Default,,0,0,0,,"Eternal rivals".
-Dialogue: 10,0:04:44.38,0:04:47.43,Default,,0,0,0,,It should be written as "formidable \Nenemy" but pronounced as "friend".
+Dialogue: 10,0:04:42.67,0:04:44.38,Default,,0,0,0,,"Eternal rivals."
+Dialogue: 10,0:04:44.38,0:04:47.43,Default,,0,0,0,,It should be written as "formidable \Nenemy" but pronounced as "friend."
 Dialogue: 10,0:04:47.43,0:04:49.01,Default,,0,0,0,,Or something like that.
 Dialogue: 10,0:04:49.68,0:04:51.14,Default,,0,0,0,,Niizuma!
 Dialogue: 10,0:04:51.14,0:04:54.89,Default,,0,0,0,,We're going to put everything we've learned into this one,
@@ -399,8 +399,8 @@ Dialogue: 10,0:14:03.15,0:14:04.28,Default,,0,0,0,,Let's see...
 Dialogue: 10,0:14:04.94,0:14:06.70,Default,,0,0,0,,If I had to say,
 Dialogue: 10,0:14:06.70,0:14:09.07,Default,,0,0,0,,it would be his expressiveness.
 Dialogue: 10,0:14:09.07,0:14:10.70,Default,,0,0,0,,The way he uses perspective
-Dialogue: 10,0:14:10.70,0:14:12.37,Default,,0,0,0,,and sound effects.
-Dialogue: 10,0:14:12.37,0:14:15.05,Default,,0,0,0,,The feelings and portrayal of the \Ncharacters are straight and full-bodied,
+Dialogue: 10,0:14:10.70,0:14:12.24,Default,,0,0,0,,and sound effects.
+Dialogue: 10,0:14:12.24,0:14:15.05,Default,,0,0,0,,The feelings and portrayal of the \Ncharacters are straight and full-bodied,
 Dialogue: 10,0:14:15.05,0:14:17.58,Default,,0,0,0,,and his dialogue is polished \Nand easy to understand.
 Dialogue: 10,0:14:17.58,0:14:19.75,Default,,0,0,0,,He gets inside the characters.
 Dialogue: 10,0:14:19.75,0:14:22.20,Default,,0,0,0,,On the other hand, you \Nbeat him in your sketching.
@@ -459,7 +459,7 @@ Dialogue: 10,0:16:22.58,0:16:23.71,Default,,0,0,0,,Thanks.
 Dialogue: 10,0:16:24.83,0:16:26.63,Default,,0,0,0,,I'm glad I could come here right away.
 Dialogue: 10,0:16:27.04,0:16:28.59,Default,,0,0,0,,Thanks to you, my doubts are gone.
 Dialogue: 10,0:16:31.55,0:16:32.97,Default,,0,0,0,,Hattori,
-Dialogue: 10,0:16:32.97,0:16:35.34,Default,,0,0,0,,I'll take what you've \Ndone with {\i1}+NATURAL{\i0}
+Dialogue: 10,0:16:32.97,0:16:35.34,Default,,0,0,0,,I'll take what you've \Ndone with {\i1}+NATURAL
 Dialogue: 10,0:16:35.34,0:16:37.85,Default,,0,0,0,,and use that popularity\N to my advantage.
 Dialogue: 10,0:16:37.85,0:16:38.97,Default,,0,0,0,,I won't lose to you!
 Dialogue: 10,0:16:40.18,0:16:42.89,Default,,0,0,0,,Yeah, bring it on!
@@ -489,7 +489,7 @@ Dialogue: 10,0:17:43.70,0:17:44.37,Default,,0,0,0,,The best!
 Dialogue: 10,0:17:45.00,0:17:46.58,Default,,0,0,0,,And {\i1}you{\i0} are my editor!
 Dialogue: 10,0:17:46.58,0:17:48.29,Default,,0,0,0,,You'd better act like it!
 Dialogue: 10,0:17:48.29,0:17:51.63,Default,,0,0,0,,I-I understand.
-Dialogue: 10,0:17:51.17,0:17:54.34,Default-Alt,,0,0,0,,Mom, I feel sorry for him.
+Dialogue: 10,0:17:51.09,0:17:54.34,Default-Alt,,0,0,0,,Mom, I feel sorry for him.
 Dialogue: 10,0:17:51.63,0:17:54.34,Default-Italic,,0,0,0,,Can I really do this?
 Dialogue: 10,0:17:54.80,0:17:56.59,Default-Alt,,0,0,0,,Don't look at them!
 Dialogue: 10,0:18:00.97,0:18:03.72,Default,,0,0,0,,Drawings that get you\N inside the characters, huh?

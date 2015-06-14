@@ -20,9 +20,9 @@ Keyframes File: ep22_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 508
-Active Line: 509
-Video Position: 31910
+Scroll Position: 651
+Active Line: 667
+Video Position: 32232
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -114,12 +114,12 @@ Dialogue: 10,0:03:14.96,0:03:16.84,Default,,0,0,0,,I don't understand that bit.
 Dialogue: 10,0:03:16.84,0:03:20.13,Default,,0,0,0,,You wanted them to make\N a humorous fantasy, right?
 Dialogue: 10,0:03:20.13,0:03:22.80,Default,,0,0,0,,This is something I wanted\N the three of you to realize,
 Dialogue: 10,0:03:22.80,0:03:24.62,Default,,0,0,0,,but perhaps it would have been easier
-Dialogue: 10,0:03:24.62,0:03:27.31,Default,,0,0,0,,to understand if I had said to make an unconventional manga with humor in it.
+Dialogue: 10,0:03:24.62,0:03:27.47,Default,,0,0,0,,to understand if I had said to make an unconventional manga with humor in it.
 Dialogue: 10,0:03:28.02,0:03:31.52,Default,,0,0,0,,Listen, there is absolutely\N no humor in this manga.
-Dialogue: 10,0:03:32.06,0:03:34.73,Default,,0,0,0,,You could say the \Nsame about {\i1}+NATURAL.{\i0}
+Dialogue: 10,0:03:32.06,0:03:34.73,Default,,0,0,0,,You could say the \Nsame about {\i1}+NATURAL.
 Dialogue: 10,0:03:34.73,0:03:38.61,Default,,0,0,0,,I don't think serious \Nstories need humor.
 Dialogue: 10,0:03:38.61,0:03:39.52,Default,,0,0,0,,That's because
-Dialogue: 10,0:03:39.52,0:03:41.82,Default,,0,0,0,,you're thinking about putting in silly things to make people laugh.
+Dialogue: 10,0:03:39.52,0:03:41.95,Default,,0,0,0,,you're thinking about putting in silly things to make people laugh.
 Dialogue: 10,0:03:43.36,0:03:44.97,Default,,0,0,0,,When I read {\i1}Tanto{\i0},
 Dialogue: 10,0:03:44.97,0:03:47.91,Default,,0,0,0,,I couldn't help feeling \Nthat it was a waste.
 Dialogue: 10,0:03:47.91,0:03:50.06,Default,,0,0,0,,I thought there should be
@@ -182,7 +182,7 @@ Dialogue: 10,0:06:23.48,0:06:25.69,Default,,0,0,0,,I want to see it in real time
 Dialogue: 10,0:06:25.69,0:06:27.71,Default,,0,0,0,,Besides, since I've got an anime,
 Dialogue: 10,0:06:27.71,0:06:29.57,Default,,0,0,0,,I can take a break\N for a week or two...
 Dialogue: 10,0:06:29.57,0:06:31.41,Default,,0,0,0,,So you can take a break, can you?
-Dialogue: 10,0:06:31.99,0:06:36.08,Default,,0,0,0,,Then I'll take an eternal break from "This week's Aoki Ko".
+Dialogue: 10,0:06:31.99,0:06:36.08,Default,,0,0,0,,Then I'll take an eternal break from "This week's Aoki Ko."
 Dialogue: 10,0:06:36.08,0:06:37.87,Default,,0,0,0,,No, anything but that!
 Dialogue: 10,0:06:37.87,0:06:39.04,Default,,0,0,0,,I'll draw! I'll do it!
 Dialogue: 10,0:06:40.17,0:06:41.33,Default,,0,0,0,,Good boy.
@@ -333,9 +333,9 @@ Dialogue: 10,0:12:41.24,0:12:42.90,Default,,0,0,0,,What {\i1}is {\i0}he reading?
 Dialogue: 10,0:12:43.65,0:12:44.61,Default,,0,0,0,,Oh, he's going to buy it!
 Dialogue: 10,0:12:45.11,0:12:46.37,Default,,0,0,0,,I'm gonna go take a look!
 Dialogue: 10,0:12:46.37,0:12:47.57,Default,,0,0,0,,Don't let him notice you.
-Dialogue: 10,0:12:48.53,0:12:50.33,Default,,0,0,0,,"Key Points of Women in Love"?
+Dialogue: 10,0:12:48.53,0:12:50.33,Default,,0,0,0,,"Key Points of Women in Love?"
 Dialogue: 10,0:12:50.33,0:12:53.26,Default,,0,0,0,,Also, "Basic Manners for Relationships"
-Dialogue: 10,0:12:53.26,0:12:55.25,Default,,0,0,0,,and "The Art of Taking \Nthe Initiative in Love".
+Dialogue: 10,0:12:53.26,0:12:55.25,Default,,0,0,0,,and "The Art of Taking \Nthe Initiative in Love."
 Dialogue: 10,0:12:55.25,0:12:56.79,Default,,0,0,0,,Seriously?
 Dialogue: 10,0:12:56.79,0:12:59.84,Default,,0,0,0,,Crap, this tailing thing just got fun.
 Dialogue: 10,0:12:59.84,0:13:00.42,Default,,0,0,0,,I know, right?
@@ -374,7 +374,7 @@ Dialogue: 10,0:13:57.85,0:13:59.18,Default,,0,0,0,,Rather than pretty,
 Dialogue: 10,0:13:59.18,0:14:00.77,Default,,0,0,0,,I would say that your \Nyouth is dazzling.
 Dialogue: 10,0:14:02.57,0:14:04.32,Default,,0,0,0,,N-Now, let's get back to the—
 Dialogue: 10,0:14:04.32,0:14:07.57,Default,,0,0,0,,Will you take me out to a\N movie on your next day off?
-Dialogue: 10,0:14:06.03,0:14:08.57,Default-Alt,,0,0,0,,"Your youth is dazzling"?!
+Dialogue: 10,0:14:06.03,0:14:08.57,Default-Alt,,0,0,0,,"Your youth is dazzling?!"
 Dialogue: 10,0:14:07.86,0:14:09.78,Default,,0,0,0,,Well, as editor and author—
 Dialogue: 10,0:14:09.78,0:14:10.74,Default,,0,0,0,,No.
 Dialogue: 10,0:14:10.74,0:14:12.08,Default,,0,0,0,,Socially.
@@ -427,12 +427,12 @@ Dialogue: 10,0:15:54.47,0:15:56.60,Default,,0,0,0,,I got caught up in that.
 Dialogue: 10,0:15:56.60,0:15:57.22,Default,,0,0,0,,Me too.
 Dialogue: 10,0:15:57.68,0:16:00.28,Default,,0,0,0,,So from that, and \Nfrom trailing Hattori,
 Dialogue: 10,0:16:00.28,0:16:02.10,Default,,0,0,0,,I know what we're going to do now.
-Dialogue: 10,0:16:02.60,0:16:05.40,Default,,0,0,0,,What kind of manga can you make from trailing and "I didn't expect that!"?
+Dialogue: 10,0:16:02.60,0:16:05.40,Default,,0,0,0,,What kind of manga can you make from trailing and "I didn't expect that!?"
 Dialogue: 10,0:16:05.40,0:16:06.73,Default,,0,0,0,,Long story short,
 Dialogue: 10,0:16:07.32,0:16:09.07,Default,,0,0,0,,it's a perfect crime manga.
 Dialogue: 10,0:16:09.07,0:16:09.94,Default,,0,0,0,,Huh?
 Dialogue: 10,0:16:09.94,0:16:11.90,Default,,0,0,0,,Perfect crime?!
-Dialogue: 10,0:16:15.32,0:16:19.66,Default,,0,0,0,,The protagonist  is a boy who admires and is fascinated by perfect crimes.
+Dialogue: 10,0:16:15.32,0:16:19.66,Default,,0,0,0,,The protagonist is a boy who admires and is fascinated by perfect crimes.
 Dialogue: 10,0:16:19.66,0:16:22.83,Default,,0,0,0,,But he doesn't commit real crimes.
 Dialogue: 10,0:16:22.83,0:16:27.17,Default,,0,0,0,,For example, he observes the pencil \Ncase of the boy who sits next to him.
 Dialogue: 10,0:16:27.17,0:16:30.01,Default,,0,0,0,,What kind of case it is, \Nwhat condition it's in...
@@ -449,7 +449,7 @@ Dialogue: 10,0:16:52.61,0:16:53.65,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:16:53.65,0:16:56.07,Default,,0,0,0,,What kind of splendid \Ncrime will he pull off?
 Dialogue: 10,0:16:56.07,0:16:57.48,Default,,0,0,0,,The tension it causes!
 Dialogue: 10,0:16:57.48,0:16:58.25,Default,,0,0,0,,The excitement!
-Dialogue: 10,0:16:58.25,0:16:58.95,Default,,0,0,0,,The shocking turn of events!
+Dialogue: 10,0:16:58.25,0:16:58.95,Default,,0,0,0, [unreadable],The shocking turn of events!
 Dialogue: 10,0:16:59.47,0:17:00.83,Default,,0,0,0,,Even if it's stupid at first glance,
 Dialogue: 10,0:17:00.83,0:17:02.83,Default,,0,0,0,,the more serious you \Ntreat it, the funnier it is!
 Dialogue: 10,0:17:03.33,0:17:05.46,Default,,0,0,0,,That's where the serious\N humor will come from.
@@ -489,8 +489,8 @@ Dialogue: 10,0:18:27.08,0:18:29.54,Default,,0,0,0,,Something exactly the same as
 Dialogue: 10,0:18:29.54,0:18:32.84,Default,,0,0,0,,We can't tell what store she bought it from by this picture.
 Dialogue: 10,0:18:32.84,0:18:34.13,Default,,0,0,0,,We'll start by finding it.
 Dialogue: 10,0:18:34.13,0:18:35.76,Default,,0,0,0,,Finding it?
-Dialogue: 10,0:18:35.76,0:18:37.51,Default,,0,0,0,,We don't know the name of the store.
-Dialogue: 10,0:18:37.51,0:18:39.18,Default,,0,0,0,,And how many clothes stores do you think there are here—
+Dialogue: 10,0:18:35.76,0:18:37.47,Default,,0,0,0,,We don't know the name of the store.
+Dialogue: 10,0:18:37.47,0:18:39.18,Default,,0,0,0,,And how many clothes stores do you think there are here—
 Dialogue: 10,0:18:39.18,0:18:40.34,Default,,0,0,0,,Right?
 Dialogue: 10,0:18:40.34,0:18:41.64,Default,,0,0,0,,If this were a manga, it'd be...
 Dialogue: 10,0:18:42.64,0:18:43.60,Default,,0,0,0,,Shit!
@@ -514,7 +514,7 @@ Dialogue: 10,0:19:26.68,0:19:28.64,Default,,0,0,0,,and the sense of accomplishme
 Dialogue: 10,0:19:28.64,0:19:30.77,Default,,0,0,0,,Its fun and addictive!
 Dialogue: 10,0:19:30.77,0:19:33.27,Default,,0,0,0,,Tailing Hattori also came\N in handy for the name...
 Dialogue: 10,0:19:33.27,0:19:35.36,Default,,0,0,0,,My pencil won't stop moving!
-Dialogue: 10,0:19:35.36,0:19:36.44,Default,,0,0,0,,Shuujin..
+Dialogue: 10,0:19:35.36,0:19:36.44,Default,,0,0,0,,Shuujin...
 Dialogue: 10,0:19:36.44,0:19:37.11,Default,,0,0,0,,Yeah?
 Dialogue: 10,0:19:37.57,0:19:38.61,Default,,0,0,0,,This name...
 Dialogue: 10,0:19:38.61,0:19:42.66,Default,,0,0,0,,This is the best name\N you've ever done!
@@ -650,7 +650,7 @@ Dialogue: 0,0:24:15.97,0:24:20.06,NextEpTitle,,0,0,0,,{\blur0.334\pos(79.676,519
 Dialogue: 0,0:24:24.02,0:24:30.99,NextEpTitle,,0,0,0,,{\blur0.334\an9\pos(1214,56)}Win and \NLose
 Dialogue: 0,0:00:00.98,0:00:02.98,Signs2,,0,0,0,,{\fax-0.6\fsp-3\b0\blur1\fscx60\fscy60\frz30.607\c&H363636&\pos(615,182)\frx12\fry22}Mashiro
 Dialogue: 2,0:02:41.59,0:02:45.31,HugeSR,,0,0,0,,{\fs35\fsp-1\blur1\b0\move(595,316,595,640)\3c&H91C7DC&\c&H6D8698&\frx12\fry358}It was interesting, but probably lacks the tension expected from a shounen magazine. \NThe setting might be too complicated for young people to understand.{\1a&HFF&}_____________
-Dialogue: 1,0:02:41.59,0:02:45.31,HugeSR,,0,0,0,,{\move(323,93,323,417)\bord0\c&H8FC8DE&\p1}m 204 350 l 450 330 705 326 818 302 842 256 559 252 219 260 203 316
+Dialogue: 1,0:02:41.59,0:02:45.31,HugeSR,,0,0,0,,{\blur0.6\move(323,93,323,417)\bord0\c&H8FC8DE&\p1}m 204 350 l 450 330 705 326 818 302 842 256 559 252 219 260 203 316
 Dialogue: 0,0:02:41.59,0:02:45.31,Signs2,,0,0,0,,{\c&H24343C&\blur1\fsp-2\fscx40\fscy40\frz358.357\frx16\fry4\move(878,530,878,854)}Integrated Publication Corporation
 Dialogue: 0,0:06:43.50,0:06:43.54,Huge,,0,0,0,,{\bord0\shad0\frx0\fry350\blur0.8\b0\fax-0.35\c&H483A35&\frz13.53\pos(694,182)}Aoki Ko
 Dialogue: 0,0:06:43.54,0:06:43.59,Huge,,0,0,0,,{\fscx80\fscy80\bord0\shad0\frx0\fry350\blur0.8\b0\fax-0.35\c&H483A35&\pos(711,160)\frz15.356}Aoki Ko
@@ -676,7 +676,7 @@ Dialogue: 0,0:06:44.34,0:06:44.38,Huge,,0,0,0,,{\pos(721.03,124.12)\fscx50.28\fs
 Dialogue: 0,0:06:44.38,0:06:44.42,Huge,,0,0,0,,{\pos(721.03,124.12)\fscx50.28\fscy50.28\bord0\shad0\frx0\fry350\blur0.8\b0\fax-0.35\c&H483A35&\frz16.276}Aoki Ko
 Dialogue: 0,0:06:44.42,0:06:44.46,Huge,,0,0,0,,{\pos(721.03,124.02)\fscx50.16\fscy50.16\bord0\shad0\frx0\fry350\blur0.8\b0\fax-0.35\c&H483A35&\frz16.276}Aoki Ko
 Dialogue: 0,0:06:44.46,0:06:45.46,Huge,,0,0,0,,{\pos(721.02,123.96)\fscx50.1\fscy50.1\bord0\shad0\frx0\fry350\blur0.8\b0\fax-0.35\c&H483A35&\frz16.276}Aoki Ko
-Dialogue: 0,0:06:43.50,0:06:43.54,Huge,,0,0,0,,{\bord0\fs40\fs40\shad0\pos(682,343)\blur0.8\b0\fax-0.3\frx0\fry350\c&H544540&\frz14.127}Secret Diary
+Dialogue: 0,0:06:43.50,0:06:43.54,Huge,,0,0,0,,{\bord0\fs40\shad0\pos(682,343)\blur0.8\b0\fax-0.3\frx0\fry350\c&H544540&\frz14.127}Secret Diary
 Dialogue: 0,0:06:43.54,0:06:43.59,Huge,,0,0,0,,{\fscx80\fscy80\bord0\fs40\shad0\pos(702,286)\blur0.8\b0\fax-0.3\frx0\fry350\c&H544540&\frz14.127}Secret Diary
 Dialogue: 0,0:06:43.59,0:06:43.63,Huge,,0,0,0,,{\pos(710.54,250.52)\fscx66.42\fscy66.42\bord0\fs40\shad0\blur0.8\b0\fax-0.3\frx0\fry350\c&H544540&\frz14.127}Secret Diary
 Dialogue: 0,0:06:43.63,0:06:43.67,Huge,,0,0,0,,{\pos(714.43,230)\fscx59.16\fscy59.16\bord0\fs40\shad0\blur0.8\b0\fax-0.3\frx0\fry350\c&H544540&\frz14.127}Secret Diary

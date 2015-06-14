@@ -19,9 +19,8 @@ Keyframes File: ep15_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 566
-Active Line: 581
-Video Position: 8152
+Active Line: 72
+Video Position: 7065
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -147,8 +146,8 @@ Dialogue: 10,0:04:44.22,0:04:47.05,Default,,0,0,0,,But I've caused \Ntrouble for
 Dialogue: 10,0:04:47.05,0:04:48.43,Default,,0,0,0,,If they apologize,
 Dialogue: 10,0:04:48.43,0:04:51.43,Default,,0,0,0,,then we can tell them everything.
 Dialogue: 10,0:04:51.43,0:04:53.56,Default,,0,0,0,,Otherwise, they'll walk \Nall over us in the future!
-Dialogue: 10,0:04:53.56,0:04:54.81,Default,,0,0,0,,Now!
-Dialogue: 10,0:04:54.81,0:04:57.48,Default,,0,0,0,,Let's get started on that serialization \Nname for when {\i1}Tanto{\i0} gets first place!
+Dialogue: 10,0:04:53.56,0:04:54.64,Default,,0,0,0,,Now!
+Dialogue: 10,0:04:54.64,0:04:57.48,Default,,0,0,0,,Let's get started on that serialization \Nname for when {\i1}Tanto{\i0} gets first place!
 Dialogue: 10,0:04:57.48,0:04:58.44,Default,,0,0,0,,Y-Yeah.
 Dialogue: 10,0:05:01.32,0:05:03.65,Default-Italic,,0,0,0,,"If they apologize..."
 Dialogue: 10,0:05:04.11,0:05:05.53,Default-Italic,,0,0,0,,This is bad.
@@ -185,7 +184,7 @@ Dialogue: 10,0:06:06.47,0:06:09.34,Default,,0,0,0,,It's gonna be a while before 
 Dialogue: 10,0:06:09.80,0:06:13.76,Default,,0,0,0,,I should have asked him\N to tell us the early results.
 Dialogue: 10,0:06:13.76,0:06:14.65,Default,,0,0,0,,{\i1}Tanto{\i0}...
 Dialogue: 10,0:06:14.65,0:06:15.98,Default,,0,0,0,,can get first place, right?
-Dialogue: 10,0:06:15.98,0:06:19.60,Default,,0,0,0,,It's not "can", it's "will".
+Dialogue: 10,0:06:15.98,0:06:19.60,Default,,0,0,0,,It's not "can", it's "will."
 Dialogue: 10,0:06:19.60,0:06:21.86,Default,,0,0,0,,I think it'll go over \Nwell with little kids,
 Dialogue: 10,0:06:22.27,0:06:26.07,Default,,0,0,0,,but Next has a higher \Nreadership age than Jack does.
 Dialogue: 10,0:06:27.70,0:06:32.24,Default,,0,0,0,,Saiko, you're just useless without Azuki's "It was great!" email.
@@ -258,7 +257,7 @@ Dialogue: 10,0:09:10.57,0:09:12.23,Default-Italic,,0,0,0,,No, I can't feel that 
 Dialogue: 10,0:09:13.07,0:09:15.36,Default-Italic,,0,0,0,,He has a girlfriend.
 Dialogue: 10,0:09:16.82,0:09:18.70,Default,,0,0,0,,This is Yamahisa from Jack.
 Dialogue: 10,0:09:18.70,0:09:19.91,Default,,0,0,0,,H-Hello.
-Dialogue: 10,0:09:19.91,0:09:23.00,Default,,0,0,0,,This may be sudden, but we decided to try out {\i1}Time of Blue Leaves{\i0}
+Dialogue: 10,0:09:19.91,0:09:23.00,Default,,0,0,0,,This may be sudden, but we decided to try out {\i1}Time of Blue Leaves
 Dialogue: 10,0:09:23.00,0:09:25.08,Default,,0,0,0,,as a one-shot in Jack!
 Dialogue: 10,0:09:25.08,0:09:26.00,Default,,0,0,0,,Really?
 Dialogue: 10,0:09:26.00,0:09:27.31,Default,,0,0,0,,Yep!
@@ -308,13 +307,13 @@ Dialogue: 10,0:11:31.54,0:11:34.96,Default,,0,0,0,,Since you've gone this far, m
 Dialogue: 10,0:11:35.38,0:11:38.17,Default,,0,0,0,,Natsumi is waiting for me, so...
 Dialogue: 10,0:11:38.17,0:11:39.51,Default,,0,0,0,,Goodbye.
 Dialogue: 10,0:11:48.14,0:11:51.14,Default,,0,0,0,,For the first chapter, we'll go with "The gum that makes you say cool stuff"
-Dialogue: 10,0:11:51.14,0:11:53.90,Default,,0,0,0,,and "The cast that punches back".
+Dialogue: 10,0:11:51.14,0:11:53.90,Default,,0,0,0,,and "The cast that punches back."
 Dialogue: 10,0:11:53.90,0:11:57.19,Default,,0,0,0,,Which of these inventions do you want to use for chapters two and up?
 Dialogue: 10,0:11:58.65,0:12:01.24,Default-Italic,,0,0,0,,He hasn't sent Azuki any mail since then.
 Dialogue: 10,0:12:01.24,0:12:02.86,Default-Italic,,0,0,0,,This is getting bad.
 Dialogue: 10,0:12:03.41,0:12:05.36,Default-Italic,,0,0,0,,We have to get this serialized,
-Dialogue: 10,0:12:05.36,0:12:07.70,Default-Italic,,0,0,0,,{\fad(0,330}make it into a big hit, \Nand then we'll get an anime...
-Dialogue: 10,0:12:08.99,0:12:12.16,Default-Italic,,0,0,0,,{\fad(0,400}I can't even email her until then?
+Dialogue: 10,0:12:05.36,0:12:07.70,Default-Italic,,0,0,0,,{\fad(0,330)}make it into a big hit, \Nand then we'll get an anime...
+Dialogue: 10,0:12:08.99,0:12:12.16,Default-Italic,,0,0,0,,{\fad(0,400)}I can't even email her until then?
 Dialogue: 10,0:12:12.46,0:12:15.48,Default-Italic,,0,0,0,,Actually, is our promise to \Nget married once I get an anime
 Dialogue: 10,0:12:15.48,0:12:17.00,Default-Italic,,0,0,0,,even valid at this point?
 Dialogue: 10,0:12:15.92,0:12:17.00,Default-Alt,,0,0,0,,Hey, you alive?
@@ -351,7 +350,7 @@ Dialogue: 10,0:13:24.40,0:13:25.99,Default,,0,0,0,,See you later!
 Dialogue: 10,0:13:25.99,0:13:28.82,Default-Italic,,0,0,0,,I won't wait 30 minutes!
 Dialogue: 10,0:13:28.82,0:13:29.99,Default,,0,0,0,,Oh, Miyoshi.
 Dialogue: 10,0:13:29.99,0:13:30.78,Default,,0,0,0,,That was fast.
-Dialogue: 10,0:13:30.78,0:13:32.12,Default,,0,0,0,,What's with the "Oh"?
+Dialogue: 10,0:13:30.78,0:13:32.12,Default,,0,0,0,,What's with the "Oh?"
 Dialogue: 10,0:13:32.12,0:13:34.00,Default,,0,0,0,,You guys are idiots!
 Dialogue: 10,0:13:34.00,0:13:35.33,Default,,0,0,0,,What was with that manga?
 Dialogue: 10,0:13:35.33,0:13:36.00,Default,,0,0,0,,Huh?
@@ -361,7 +360,7 @@ Dialogue: 10,0:13:39.75,0:13:40.67,Default,,0,0,0,,Not that one!
 Dialogue: 10,0:13:40.67,0:13:42.88,Default,,0,0,0,,The one that used Miho \Nand Mashiro's romance!
 Dialogue: 10,0:13:42.88,0:13:45.09,Default,,0,0,0,,What are you doing, \Ntelling everybody about it?!
 Dialogue: 10,0:13:45.09,0:13:46.80,Default,,0,0,0,,Oh, that.
-Dialogue: 10,0:13:46.80,0:13:47.97,Default,,0,0,0,,"{\i1}That{\i0}"?!
+Dialogue: 10,0:13:46.80,0:13:47.97,Default,,0,0,0,,"{\i1}That{\i0}?"!
 Dialogue: 10,0:13:47.97,0:13:51.22,Default,,0,0,0,,You're so obviously prattling away with both Iwase and that female mangaka!
 Dialogue: 10,0:13:51.22,0:13:55.23,Default,,0,0,0,,Are the two of you going on group dates with both of them every day, or something?
 Dialogue: 10,0:13:55.85,0:13:57.44,Default,,0,0,0,,Sounds like fun!
@@ -483,7 +482,7 @@ Dialogue: 10,0:18:24.62,0:18:27.37,Default,,0,0,0,,So trust Takagi and marry him
 Dialogue: 10,0:18:29.33,0:18:32.75,Default,,0,0,0,,He proposed on a whim just \Nto stop me from running off.
 Dialogue: 10,0:18:32.75,0:18:35.46,Default,,0,0,0,,No, if you say yes, then I'll do it.
 Dialogue: 10,0:18:35.46,0:18:36.54,Default,,0,0,0,,If we're always together,
-Dialogue: 10,0:18:36.54,0:18:38.13,Default,,0,0,0,,there won't be any more\N misunderstandings like this.
+Dialogue: 10,0:18:36.54,0:18:38.13,Default,,0,0,0, [unreadable],there won't be any more\N misunderstandings like this.
 Dialogue: 10,0:18:38.80,0:18:43.01,Default,,0,0,0,,I would have preferred to do it after becoming a famous mangaka,
 Dialogue: 10,0:18:43.01,0:18:44.77,Default,,0,0,0,,but if you're willing to\N struggle with me, then...
 Dialogue: 10,0:18:44.77,0:18:46.32,Default,,0,0,0,,I think it's wonderful
@@ -518,7 +517,7 @@ Dialogue: 10,0:19:49.62,0:19:51.00,Default,,0,0,0,,You should have stuck with th
 Dialogue: 10,0:19:51.00,0:19:53.79,Default,,0,0,0,,"We're just fellow mangakas" story.
 Dialogue: 10,0:19:53.79,0:19:54.42,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:19:57.34,0:20:00.67,Default,,0,0,0,,But Takai and Nakai are both idiots.
-Dialogue: 10,0:20:00.67,0:20:04.09,Default,,0,0,0,,If I were a man, I'd  \Ndefinitely choose you.
+Dialogue: 10,0:20:00.67,0:20:04.09,Default,,0,0,0,,If I were a man, I'd \Ndefinitely choose you.
 Dialogue: 10,0:20:05.39,0:20:06.68,Default,,0,0,0,,I can still change my mind...
 Dialogue: 10,0:20:06.68,0:20:07.64,Default,,0,0,0,,Takagi!
 Dialogue: 10,0:20:07.64,0:20:10.68,Default,,0,0,0,,What are you saying in front of the girl you just proposed to?!
@@ -580,7 +579,7 @@ Dialogue: 10,0:22:19.15,0:22:20.36,Default,,0,0,0,,You'd better be grateful.
 Dialogue: 10,0:22:20.36,0:22:21.88,Default,,0,0,0,,Because of you,
 Dialogue: 10,0:22:21.88,0:22:25.19,Default,,0,0,0,,I was forced to agree to marry \NMiyoshi when we get serialized.
 Dialogue: 10,0:22:25.90,0:22:27.45,Default,,0,0,0,,M-Marriage?!
-Dialogue: 10,0:22:27.45,0:22:29.41,Default,,0,0,0,,What do you mean by "forced"?!
+Dialogue: 10,0:22:27.45,0:22:29.41,Default,,0,0,0,,What do you mean by "forced?!"
 Dialogue: 10,0:22:29.41,0:22:30.12,Default,,0,0,0,,Ow!
 Dialogue: 10,0:22:30.12,0:22:31.95,Default,,0,0,0,,Miyoshi!
 Dialogue: 10,0:22:31.95,0:22:33.45,Default,,0,0,0,,But Kaya looks happy.
@@ -589,7 +588,7 @@ Dialogue: 10,0:22:36.83,0:22:39.75,Default,,0,0,0,,Let's get serialized for sure
 Dialogue: 10,0:22:40.38,0:22:41.25,Default,,0,0,0,,Yeah!
 Dialogue: 10,0:22:41.25,0:22:43.71,Default,,0,0,0,,When it gets an anime, \Nyou get married too!
 Dialogue: 10,0:22:43.71,0:22:44.88,Default,,0,0,0,,Yeah!
-Dialogue: 10,0:24:15.43,0:24:16.81,Default,,0,0,0,,I'll work hard and\N aim for a serialization.
+Dialogue: 10,0:24:15.30,0:24:16.81,Default,,0,0,0,,I'll work hard and\N aim for a serialization.
 Dialogue: 10,0:24:16.81,0:24:18.43,Default,,0,0,0,,We're going to get married!
 Dialogue: 10,0:24:18.43,0:24:19.81,Default,,0,0,0,,But will it go well?
 Dialogue: 10,0:24:19.81,0:24:21.18,Default,,0,0,0,,It'll work out somehow!

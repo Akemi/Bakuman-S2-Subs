@@ -19,9 +19,9 @@ Keyframes File: ep7_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 166
-Active Line: 172
-Video Position: 13318
+Scroll Position: 403
+Active Line: 410
+Video Position: 28827
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -150,8 +150,8 @@ Dialogue: 10,0:05:37.65,0:05:39.19,Default,,0,0,0,,N-No...
 Dialogue: 10,0:05:39.19,0:05:41.77,Default,,0,0,0,,I'll accompany you to \Nthe hospital tomorrow.
 Dialogue: 10,0:05:41.77,0:05:44.68,Default,,0,0,0,,It seems I can't count on \Nyou to get the job done.
 Dialogue: 10,0:05:44.68,0:05:45.90,Default,,0,0,0,,Yes sir...
-Dialogue: 10,0:05:46.53,0:05:47.69,Default,,0,0,0,,The patient is saying
-Dialogue: 10,0:05:47.69,0:05:50.87,Default,,0,0,0,,that if he is not allowed to draw, his stress will increase, and it will be bad for his health.
+Dialogue: 10,0:05:46.53,0:05:47.57,Default,,0,0,0,,The patient is saying
+Dialogue: 10,0:05:47.57,0:05:50.87,Default,,0,0,0,,that if he is not allowed to draw, his stress will increase, and it will be bad for his health.
 Dialogue: 10,0:05:50.87,0:05:55.33,Default,,0,0,0,,It is true that patients should be allowed to do as they like in moderation.
 Dialogue: 10,0:05:55.33,0:05:56.46,Default,,0,0,0,,Really?
 Dialogue: 10,0:05:56.46,0:05:58.17,Default,,0,0,0,,Only in moderation.
@@ -164,12 +164,12 @@ Dialogue: 10,0:06:11.22,0:06:13.89,Default,,0,0,0,,Thank you for taking care of 
 Dialogue: 10,0:06:13.89,0:06:15.64,Default,,0,0,0,,You've met before?
 Dialogue: 10,0:06:15.64,0:06:17.56,Default,,0,0,0,,It's not something \NI should mention here.
 Dialogue: 10,0:06:19.15,0:06:22.83,Default,,0,0,0,,We are to blame for the current situation,
-Dialogue: 10,0:06:22.83,0:06:23.98,Default,,0,0,0,,and I offer my deepest apologies.
-Dialogue: 10,0:06:23.98,0:06:25.07,Default,,0,0,0,,No, you aren't...
+Dialogue: 10,0:06:22.83,0:06:24.07,Default,,0,0,0,,and I offer my deepest apologies.
+Dialogue: 10,0:06:24.07,0:06:25.07,Default,,0,0,0,,No, you aren't...
 Dialogue: 10,0:06:25.07,0:06:26.03,Default,,0,0,0,,Moritaka!
 Dialogue: 10,0:06:26.03,0:06:28.20,Default,,0,0,0,,Stop drawing manga \Nin your hospital room!
 Dialogue: 10,0:06:29.16,0:06:32.58,Default,,0,0,0,,Ah, well, the doctor said \Nit was fine in moderation...
-Dialogue: 10,0:06:32.58,0:06:34.87,Default,,0,0,0,,He won't be able to \Ndo it "in moderation"!
+Dialogue: 10,0:06:32.58,0:06:34.87,Default,,0,0,0,,He won't be able to \Ndo it "in moderation!"
 Dialogue: 10,0:06:36.12,0:06:39.50,Default,,0,0,0,,Well, it isn't good to be too persistent.
 Dialogue: 10,0:06:39.50,0:06:40.42,Default,,0,0,0,,I'll rest a bit.
 Dialogue: 10,0:06:41.13,0:06:43.38,Default,,0,0,0,,Your name was Sasaki, correct?
@@ -198,9 +198,9 @@ Dialogue: 10,0:07:37.85,0:07:40.18,Default,,0,0,0,,Let's just go on Monday \Nand
 Dialogue: 10,0:07:40.18,0:07:42.69,Default,,0,0,0,,In exchange, I'll be going with you, and we're coming back right away.
 Dialogue: 10,0:07:42.69,0:07:43.81,Default,,0,0,0,,All right?
 Dialogue: 10,0:07:44.77,0:07:47.23,Default,,0,0,0,,I heard Mashiro is in the hospital.
-Dialogue: 10,0:07:47.23,0:07:49.11,Default,,0,0,0,,Yeah, I heard from Aida.
-Dialogue: 10,0:07:49.11,0:07:50.95,Default,,0,0,0,,I also heard that they're on hiatus starting from issue 33.
-Dialogue: 10,0:07:50.95,0:07:53.20,Default,,0,0,0,,Going on hiatus after \Nfinally getting popular...
+Dialogue: 10,0:07:47.23,0:07:49.07,Default,,0,0,0,,Yeah, I heard from Aida.
+Dialogue: 10,0:07:49.07,0:07:51.07,Default,,0,0,0,,I also heard that they're on hiatus starting from issue 33.
+Dialogue: 10,0:07:51.07,0:07:53.20,Default,,0,0,0,,Going on hiatus after \Nfinally getting popular...
 Dialogue: 10,0:07:53.20,0:07:54.87,Default,,0,0,0,,What bad luck.
 Dialogue: 10,0:07:54.87,0:07:56.91,Default,,0,0,0,,It seems Niizuma \Nalready went to see him.
 Dialogue: 10,0:07:56.91,0:07:59.16,Default,,0,0,0,,I'm going on Monday, wanna come?
@@ -280,7 +280,7 @@ Dialogue: 10,0:11:04.31,0:11:07.47,Default,,0,0,0,,I think it does, though.
 Dialogue: 10,0:11:07.47,0:11:09.73,Default,,0,0,0,,Ashirogi Muto are my comrades.
 Dialogue: 10,0:11:09.73,0:11:11.19,Default,,0,0,0,,Comrades?
 Dialogue: 10,0:11:11.19,0:11:12.31,Default,,0,0,0,,You're soft.
-Dialogue: 10,0:11:12.31,0:11:16.36,Default,,0,0,0,,Of course, it's written as \N"comrade" but read as "rival".
+Dialogue: 10,0:11:12.31,0:11:16.36,Default,,0,0,0,,Of course, it's written as \N"comrade" but read as "rival."
 Dialogue: 10,0:11:17.82,0:11:19.36,Default,,0,0,0,,Fine, you may stay.
 Dialogue: 10,0:11:20.82,0:11:22.41,Default,,0,0,0,,Azuki, you stay too.
 Dialogue: 10,0:11:30.00,0:11:32.56,Default,,0,0,0,,Listen, this is a hospital.
@@ -343,8 +343,8 @@ Dialogue: 10,0:14:20.50,0:14:24.88,Default,,0,0,0,,But a weekly serialization is
 Dialogue: 10,0:14:26.26,0:14:27.97,Default,,0,0,0,,It was our mistake.
 Dialogue: 10,0:14:27.97,0:14:31.39,Default,,0,0,0,,We regret it, and will refrain from\N approving such serializations in the future.
 Dialogue: 10,0:14:31.39,0:14:32.35,Default,,0,0,0,,Refrain?!
-Dialogue: 10,0:14:32.35,0:14:34.43,Default,,0,0,0,,But serializations that have already started should be another matter!
-Dialogue: 10,0:14:34.43,0:14:37.96,Default,,0,0,0,,You're irresponsible for \Nstarting this policy now!
+Dialogue: 10,0:14:32.35,0:14:34.83,Default,,0,0,0,,But serializations that have already started should be another matter!
+Dialogue: 10,0:14:34.83,0:14:37.96,Default,,0,0,0,,You're irresponsible for \Nstarting this policy now!
 Dialogue: 10,0:14:37.96,0:14:39.52,Default,,0,0,0,,Then I'll quit school!
 Dialogue: 10,0:14:40.69,0:14:42.06,Default,,0,0,0,,Me too!
 Dialogue: 10,0:14:42.06,0:14:43.48,Default,,0,0,0,,There shouldn't be a problem then!
@@ -352,8 +352,8 @@ Dialogue: 10,0:14:43.48,0:14:47.32,Default,,0,0,0,,Even if you do that, I won't 
 Dialogue: 10,0:14:47.32,0:14:50.74,Default,,0,0,0,,What Ashirogi's saying \Nmakes more sense!
 Dialogue: 10,0:14:50.74,0:14:53.12,Default,,0,0,0,,Put yourself in their parents' positions!
 Dialogue: 10,0:14:54.28,0:14:56.25,Default,,0,0,0,,Dropping out of high \Nschool to draw manga.
-Dialogue: 10,0:14:56.95,0:14:58.21,Default,,0,0,0,,Will your parents be happy with that?
-Dialogue: 10,0:14:58.21,0:14:59.83,Default,,0,0,0,,I don't live for my parents!
+Dialogue: 10,0:14:56.95,0:14:58.30,Default,,0,0,0,,Will your parents be happy with that?
+Dialogue: 10,0:14:58.30,0:14:59.83,Default,,0,0,0,,I don't live for my parents!
 Dialogue: 10,0:14:59.83,0:15:02.54,Default,,0,0,0,,That's right! Our lives are our own!
 Dialogue: 10,0:15:04.50,0:15:05.50,Default,,0,0,0,,Until April?!
 Dialogue: 10,0:15:05.50,0:15:09.63,Default,,0,0,0,,A special Sunday meeting was held yesterday, and that's what was decided upon.
@@ -429,7 +429,7 @@ Dialogue: 10,0:17:56.88,0:17:59.48,Default,,0,0,0,,The words I said to you the d
 Dialogue: 10,0:17:59.48,0:18:02.06,Default,,0,0,0,,will hold true forever.
 Dialogue: 10,0:18:02.97,0:18:05.10,Default,,0,0,0,,Take your time to get better.
 Dialogue: 10,0:18:07.14,0:18:09.94,Default,,0,0,0,,What's this about graduation day?
-Dialogue: 10,0:18:09.94,0:18:11.52,Default,,0,0,0,,Well, even if I ask, you  \Nprobably won't tell me.
+Dialogue: 10,0:18:09.94,0:18:11.52,Default,,0,0,0,,Well, even if I ask, you \Nprobably won't tell me.
 Dialogue: 10,0:18:12.65,0:18:14.82,Default,,0,0,0,,I said I'd always be waiting.
 Dialogue: 10,0:18:14.82,0:18:17.20,Default,,0,0,0,,A-Azuki...
 Dialogue: 10,0:18:19.03,0:18:21.49,Default-Italic,,0,0,0,,So she's worried about \Nhis health after all.
@@ -471,8 +471,8 @@ Dialogue: 10,0:19:51.33,0:19:53.15,Default,,0,0,0,,And if he doesn't give in,
 Dialogue: 10,0:19:53.15,0:19:56.00,Default,,0,0,0,,I'll draw for another magazine until Ashirogi can draw again.
 Dialogue: 10,0:19:56.00,0:19:57.63,Default,,0,0,0,,You're going that far?
 Dialogue: 10,0:19:57.63,0:19:59.80,Default,,0,0,0,,But you have a contract, \Nso you can't do that...
-Dialogue: 10,0:20:00.30,0:20:02.38,Default,,0,0,0,,I'll return the down \Npayment and do it!
-Dialogue: 10,0:20:02.38,0:20:04.72,Default,,0,0,0,,If it comes down to it, I'll pay the termination fees for Ashirogi-sensei
+Dialogue: 10,0:20:00.30,0:20:02.30,Default,,0,0,0,,I'll return the down \Npayment and do it!
+Dialogue: 10,0:20:02.30,0:20:04.72,Default,,0,0,0,,If it comes down to it, I'll pay the termination fees for Ashirogi-sensei
 Dialogue: 10,0:20:04.72,0:20:07.14,Default,,0,0,0,,and everyone else so we can migrate to another magazine!
 Dialogue: 10,0:20:07.14,0:20:09.22,Default,,0,0,0,,I want to keep drawing\N manga, you know.
 Dialogue: 10,0:20:09.22,0:20:10.89,Default,,0,0,0,,But, well...
@@ -483,9 +483,9 @@ Dialogue: 10,0:20:18.53,0:20:21.90,Default,,0,0,0,,Oh, Miss Aoki, this is the fi
 Dialogue: 10,0:20:21.90,0:20:25.49,Default,,0,0,0,,For a boycott, the more \Npeople we have, the better.
 Dialogue: 10,0:20:25.49,0:20:27.62,Default,,0,0,0,,You're on fire today!
 Dialogue: 10,0:20:27.62,0:20:28.95,Default,,0,0,0,,I also like you.
-Dialogue: 10,0:20:28.95,0:20:31.20,Default,,0,0,0,,H-Hey, Hiramaru!
-Dialogue: 10,0:20:31.20,0:20:32.71,Default,,0,0,0,,What are you trying to \Npull in this confusion?
-Dialogue: 10,0:20:32.71,0:20:33.54,Default,,0,0,0,,Forgive me.
+Dialogue: 10,0:20:28.95,0:20:31.16,Default,,0,0,0,,H-Hey, Hiramaru!
+Dialogue: 10,0:20:31.16,0:20:32.75,Default,,0,0,0,,What are you trying to \Npull in this confusion?
+Dialogue: 10,0:20:32.75,0:20:33.54,Default,,0,0,0,,Forgive me.
 Dialogue: 10,0:20:33.54,0:20:35.63,Default,,0,0,0,,You see, I'm weak \Nagainst beautiful women.
 Dialogue: 10,0:20:35.63,0:20:37.21,Default,,0,0,0,,Fine, I'll do it.
 Dialogue: 10,0:20:37.21,0:20:39.63,Default,,0,0,0,,I'm worried about them too.
@@ -506,7 +506,7 @@ Dialogue: 10,0:21:26.43,0:21:27.59,Default,,0,0,0,,Fukuda?
 Dialogue: 10,0:21:28.09,0:21:29.60,Default,,0,0,0,,Boycott?
 Dialogue: 10,0:21:30.89,0:21:32.31,Default,,0,0,0,,What do you mean by that?
 Dialogue: 10,0:21:32.72,0:21:37.10,Default,,0,0,0,,"If arrangements are not made for {\i1}Trap{\i0}'s early return, we will also go on hiatus."
-Dialogue: 10,0:21:37.98,0:21:39.36,Default,,0,0,0,,"We..."?
+Dialogue: 10,0:21:37.98,0:21:39.36,Default,,0,0,0,,"We...?"
 Dialogue: 10,0:21:39.36,0:21:42.82,Default,,0,0,0,,{\i1}Kiyoshi Knight{\i0}, {\i1}Crow{\i0}, {\i1}Otters 11{\i0}...
 Dialogue: 10,0:21:42.82,0:21:43.69,Default,,0,0,0,,{\i1}Otters{\i0} as well?
 Dialogue: 10,0:21:43.69,0:21:46.03,Default,,0,0,0,,And also, {\i1}Hideout Door{\i0}.

@@ -19,9 +19,9 @@ Keyframes File: ep8_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 538
-Active Line: 557
-Video Position: 24913
+Scroll Position: 567
+Active Line: 577
+Video Position: 26126
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -120,8 +120,8 @@ Dialogue: 10,0:04:14.90,0:04:17.65,Default,,0,0,0,,You might be discontinued \Ni
 Dialogue: 10,0:04:17.65,0:04:18.94,Default,,0,0,0,,T-That'll be bad...
 Dialogue: 10,0:04:18.94,0:04:19.65,Default,,0,0,0,,I don't mind.
 Dialogue: 10,0:04:20.53,0:04:22.88,Default,,0,0,0,,I would rather willingly cancel our manga
-Dialogue: 10,0:04:22.88,0:04:24.86,Default,,0,0,0,,than deal with a Chief Editor who makes such unjust decisions.
-Dialogue: 10,0:04:24.86,0:04:28.16,Default,,0,0,0,,I believe that he's wrong.
+Dialogue: 10,0:04:22.88,0:04:24.99,Default,,0,0,0,,than deal with a Chief Editor who makes such unjust decisions.
+Dialogue: 10,0:04:24.99,0:04:28.16,Default,,0,0,0,,I believe that he's wrong.
 Dialogue: 10,0:04:28.16,0:04:29.99,Default,,0,0,0,,Yeah! Miss Aoki is the best!
 Dialogue: 10,0:04:29.99,0:04:32.12,Default,,0,0,0,,Bravo! Bravo!
 Dialogue: 10,0:04:32.12,0:04:33.87,Default,,0,0,0,,I like you, Aoki.
@@ -163,12 +163,12 @@ Dialogue: 10,0:06:06.30,0:06:09.09,Default,,0,0,0,,Of course, we'll keep \Ntryin
 Dialogue: 10,0:06:09.09,0:06:11.55,Default,,0,0,0,,However, they are \Nresolved in their decision.
 Dialogue: 10,0:06:11.55,0:06:14.52,Default,,0,0,0,,At this point, they \Ndefinitely will go on hiatus.
 Dialogue: 10,0:06:16.56,0:06:18.33,Default,,0,0,0,,If the manuscripts fail to \Nmake their deadlines,
-Dialogue: 10,0:06:18.33,0:06:20.02,Default,,0,0,0,,that is the responsibility \Nof the supervising editor,
+Dialogue: 10,0:06:18.33,0:06:20.02,Default,,0,0,0, [unreadable],that is the responsibility \Nof the supervising editor,
 Dialogue: 10,0:06:20.81,0:06:24.69,Default,,0,0,0,,and therefore, it becomes my responsibility as Chief Editor.
 Dialogue: 10,0:06:25.65,0:06:30.87,Default,,0,0,0,,Well, again, if you remove the hiatus on {\i1}Trap{\i0}, the four manga will resume—
 Dialogue: 10,0:06:30.87,0:06:32.83,Default,,0,0,0,,{\i1}Trap{\i0}'s hiatus is a settled matter.
 Dialogue: 10,0:06:34.12,0:06:36.14,Default,,0,0,0,,Put forth your best efforts to see
-Dialogue: 10,0:06:36.14,0:06:37.75,Default,,0,0,0,,that those four manga's manuscripts continue to come in.
+Dialogue: 10,0:06:36.14,0:06:37.75,Default,,0,0,0, [unreadable],that those four manga's manuscripts continue to come in.
 Dialogue: 10,0:06:38.41,0:06:40.42,Default,,0,0,0,,That is all I have to say.
 Dialogue: 10,0:06:40.42,0:06:41.79,Default,,0,0,0,,But Chief...
 Dialogue: 10,0:06:41.79,0:06:43.71,Default,,0,0,0,,This is something I \Nhave already decided.
@@ -181,7 +181,7 @@ Dialogue: 10,0:07:01.94,0:07:03.06,Default,,0,0,0,,Miura!
 Dialogue: 10,0:07:03.06,0:07:04.02,Default,,0,0,0,,Hi!
 Dialogue: 10,0:07:04.02,0:07:05.73,Default,,0,0,0,,How are you feeling?
 Dialogue: 10,0:07:05.73,0:07:08.53,Default,,0,0,0,,The Chief Editor said he won't print {\i1}Trap{\i0} even if I keep drawing,
-Dialogue: 10,0:07:08.53,0:07:10.03,Default,,0,0,0,,but I won't give up  \Nuntil the very end.
+Dialogue: 10,0:07:08.53,0:07:10.03,Default,,0,0,0,,but I won't give up \Nuntil the very end.
 Dialogue: 10,0:07:10.91,0:07:14.49,Default,,0,0,0,,I'll finish it by Friday like always!
 Dialogue: 10,0:07:14.49,0:07:15.95,Default,,0,0,0,,I get it. I get it.
 Dialogue: 10,0:07:15.95,0:07:18.20,Default,,0,0,0,,If the manuscript gets finished, \NI'll come and pick it up.
@@ -273,7 +273,7 @@ Dialogue: 10,0:11:15.44,0:11:16.19,Default,,0,0,0,,Yes.
 Dialogue: 10,0:11:16.19,0:11:18.40,Default,,0,0,0,,Don't make that face, Miyoshi.
 Dialogue: 10,0:11:18.40,0:11:20.15,Default,,0,0,0,,{\i1}I'm{\i0} the one who should be nervous.
 Dialogue: 10,0:11:20.15,0:11:21.24,Default,,0,0,0,,Yeah...
-Dialogue: 10,0:11:21.24,0:11:23.62,Default,,0,0,0,,Would friends and family  \Nplease wait in another room?
+Dialogue: 10,0:11:21.24,0:11:23.62,Default,,0,0,0,,Would friends and family \Nplease wait in another room?
 Dialogue: 10,0:11:23.62,0:11:24.83,Default,,0,0,0,,Oh, yeah.
 Dialogue: 10,0:11:24.83,0:11:26.58,Default,,0,0,0,,Well, I'm going in.
 Dialogue: 10,0:11:26.58,0:11:28.70,Default,,0,0,0,,Good luck, Mashiro.
@@ -322,7 +322,7 @@ Dialogue: 10,0:13:15.89,0:13:17.77,Default,,0,0,0,,W-Why?!
 Dialogue: 10,0:13:24.11,0:13:26.57,Default,,0,0,0,,Miura, what's all this about?!
 Dialogue: 10,0:13:27.91,0:13:31.87,Default,,0,0,0,,Since {\i1}Trap{\i0} has been forced to go on hiatus, they are also boycotting.
 Dialogue: 10,0:13:31.87,0:13:34.46,Default,,0,0,0,,The reason put here for us \Nis "Due to sudden illness",
-Dialogue: 10,0:13:34.46,0:13:36.92,Default,,0,0,0,,but the reason put for them is "Due to circumstances of the author".
+Dialogue: 10,0:13:34.46,0:13:36.92,Default,,0,0,0,,but the reason put for them is "Due to circumstances of the author."
 Dialogue: 10,0:13:36.92,0:13:40.63,Default,,0,0,0,,Isn't it going to be a big problem if Jack gets published like this?
 Dialogue: 10,0:13:43.09,0:13:45.55,Default,,0,0,0,,Oh, all you authors are awesome!
 Dialogue: 10,0:13:45.55,0:13:47.89,Default,,0,0,0,,Can't wait to see what\N happens on Monday.
@@ -392,9 +392,9 @@ Dialogue: 10,0:16:26.42,0:16:27.75,Default,,0,0,0,,We don't have a choice.
 Dialogue: 10,0:16:27.75,0:16:31.05,Default,,0,0,0,,I don't want to, but it's \Nmy fault for getting sick.
 Dialogue: 10,0:16:31.05,0:16:33.93,Default,,0,0,0,,Ashirogi themselves are saying it.
 Dialogue: 10,0:16:33.93,0:16:35.80,Default,,0,0,0,,You should end this.
-Dialogue: 10,0:16:35.80,0:16:37.51,Default,,0,0,0,,Wait a minute.
-Dialogue: 10,0:16:37.51,0:16:39.31,Default,,0,0,0,,Do we have your guarantee\N that if we stop the boycott,
-Dialogue: 10,0:16:39.31,0:16:42.85,Default,,0,0,0,,{\i1}Trap{\i0} will resume as soon as he gets discharged from the hospital?
+Dialogue: 10,0:16:35.80,0:16:37.43,Default,,0,0,0,,Wait a minute.
+Dialogue: 10,0:16:37.43,0:16:39.39,Default,,0,0,0,,Do we have your guarantee\N that if we stop the boycott,
+Dialogue: 10,0:16:39.39,0:16:42.85,Default,,0,0,0,,{\i1}Trap{\i0} will resume as soon as he gets discharged from the hospital?
 Dialogue: 10,0:16:42.85,0:16:44.98,Default,,0,0,0,,Er, not yet.
 Dialogue: 10,0:16:44.98,0:16:46.31,Default,,0,0,0,,What's with that?
 Dialogue: 10,0:16:46.31,0:16:50.15,Default,,0,0,0,,If Ashirogi is okay with \Nthat, then I am too.
@@ -450,7 +450,7 @@ Dialogue: 10,0:19:23.18,0:19:26.43,Default,,0,0,0,,We don't talk much, do we?
 Dialogue: 10,0:19:29.31,0:19:33.36,Default,,0,0,0,,If our dreams come true \Nand we g-get married...
 Dialogue: 10,0:19:33.36,0:19:35.11,Default,,0,0,0,,it might still be like this.
 Dialogue: 10,0:19:35.82,0:19:36.69,Default,,0,0,0,,Probably.
-Dialogue: 10,0:19:37.23,0:19:38.32,Default,,0,0,0,,"Probably"?
+Dialogue: 10,0:19:37.23,0:19:38.32,Default,,0,0,0,,"Probably?"
 Dialogue: 10,0:19:38.94,0:19:44.66,Default,,0,0,0,,Even if we stop being so shy, we're just normally quiet people.
 Dialogue: 10,0:19:45.41,0:19:46.33,Default,,0,0,0,,Does that sound okay to you?
 Dialogue: 10,0:19:48.33,0:19:49.50,Default,,0,0,0,,Yeah, it's fine.
@@ -462,13 +462,13 @@ Dialogue: 10,0:20:07.47,0:20:09.27,Default,,0,0,0,,Sorry for worrying you.
 Dialogue: 10,0:20:09.27,0:20:10.52,Default,,0,0,0,,Then, let's go.
 Dialogue: 10,0:20:10.52,0:20:11.27,Default,,0,0,0,,Yes!
 Dialogue: 10,0:20:11.27,0:20:12.52,Default,,0,0,0,,Finally, huh?
-Dialogue: 10,0:20:12.52,0:20:14.10,Default,,0,0,0,,Sorry, Mom.
-Dialogue: 10,0:20:14.10,0:20:16.11,Default,,0,0,0,,I'll be heading to the editorial department before going home...
-Dialogue: 10,0:20:16.11,0:20:18.15,Default,,0,0,0,,Oh, it's fine. I understand.
+Dialogue: 10,0:20:12.52,0:20:13.94,Default,,0,0,0,,Sorry, Mom.
+Dialogue: 10,0:20:13.94,0:20:16.19,Default,,0,0,0,,I'll be heading to the editorial department before going home...
+Dialogue: 10,0:20:16.19,0:20:18.15,Default,,0,0,0,,Oh, it's fine. I understand.
 Dialogue: 10,0:20:18.15,0:20:19.36,Default,,0,0,0,,Go on.
 Dialogue: 10,0:20:20.65,0:20:22.74,Default,,0,0,0,,{\fad(0,350)}Then, I'll be going.
 Dialogue: 10,0:20:24.24,0:20:25.07,Default,,0,0,0,,Yeah.
-Dialogue: 10,0:20:31.87,0:20:35.46,Default-Italic,,0,0,0,,{\fad(160,0}I am also dissatisfied \Nwith a hiatus until April.
+Dialogue: 10,0:20:31.87,0:20:35.46,Default-Italic,,0,0,0,,{\fad(160,0)}I am also dissatisfied \Nwith a hiatus until April.
 Dialogue: 10,0:20:35.54,0:20:38.38,Default-Italic,,0,0,0,,{\fad(180,240)}It's not something that'll be resolved with more time!
 Dialogue: 10,0:20:38.84,0:20:42.17,Default-Italic,,0,0,0,,An editor's job is to receive the manuscript from the authors...
 Dialogue: 10,0:20:42.17,0:20:44.97,Default-Italic,,0,0,0,,and to make sure it's put on the page.
@@ -483,12 +483,12 @@ Dialogue: 10,0:21:04.15,0:21:06.74,Default,,0,0,0,,Mashiro has also made \Na com
 Dialogue: 10,0:21:06.74,0:21:10.04,Default,,0,0,0,,More than anything, the fact that he drew all of these while in the hospital...
 Dialogue: 10,0:21:10.04,0:21:13.04,Default,,0,0,0,,proves his strength \Nto continue serializing!
 Dialogue: 10,0:21:14.75,0:21:16.49,Default,,0,0,0,,While you set all this up,
-Dialogue: 10,0:21:16.49,0:21:19.38,Default,,0,0,0,,did you stop to think about what you would have done in the worst case scenario?
+Dialogue: 10,0:21:16.49,0:21:19.42,Default,,0,0,0,,did you stop to think about what you would have done in the worst case scenario?
 Dialogue: 10,0:21:20.17,0:21:23.17,Default,,0,0,0,,I refused to let anyone stop me!
 Dialogue: 10,0:21:23.17,0:21:25.13,Default,,0,0,0,,I also went along with it!
 Dialogue: 10,0:21:27.59,0:21:29.56,Default,,0,0,0,,M-My uncle
 Dialogue: 10,0:21:30.27,0:21:31.77,Default,,0,0,0,,Kawaguchi Tarou said;
-Dialogue: 10,0:21:32.56,0:21:36.56,Default,,0,0,0,,That until you get serialized, it's about "conceit, effort, and luck".
+Dialogue: 10,0:21:32.56,0:21:36.56,Default,,0,0,0,,That until you get serialized, it's about "conceit, effort, and luck."
 Dialogue: 10,0:21:36.56,0:21:38.40,Default,,0,0,0,,Once you've managed to get serialized,
 Dialogue: 10,0:21:38.40,0:21:42.03,Default,,0,0,0,,it's "physical strength, emotional strength, and finally, guts!"
 Dialogue: 10,0:21:44.15,0:21:47.11,Default,,0,0,0,,Kawaguchi Tarou read \Ntoo many sports manga.
@@ -611,7 +611,7 @@ Dialogue: 0,0:16:06.32,0:16:06.40,Textmsgs,,0,0,0,,{\fax-0.4\blur1.2\fscy65\frz3
 Dialogue: 0,0:16:06.40,0:16:06.48,Textmsgs,,0,0,0,,{\fax-0.2\blur1.2\frz1.048\fscy75\pos(791,170)\c&HFAEEE8&}Incoming call           {\blur1.2\c&HFFFEFD&}Miura Gorou
 Dialogue: 0,0:16:06.48,0:16:06.57,Textmsgs,,0,0,0,,{\blur1.2\frz3.488\pos(599,140)\c&HFAEEE8&}Incoming call           {\blur1.2\c&HFFFEFD&}Miura Gorou
 Dialogue: 0,0:16:06.57,0:16:07.82,Textmsgs,,0,0,0,,{\blur1.2\frz3.488\pos(599,143)\c&HFAEEE8&}Incoming call           {\blur1.2\c&HFFFEFD&}Miura Gorou
-Dialogue: 0,0:16:06.32,0:16:06.40,Textmsgs,,0,0,0,,{\fax-0.4\blur1.2\fscy65\fscy75\frz359.856\pos(813,558)}Refuse        Accept       Forward
+Dialogue: 0,0:16:06.32,0:16:06.40,Textmsgs,,0,0,0,,{\fax-0.4\blur1.2\fscy75\frz359.856\pos(813,558)}Refuse        Accept       Forward
 Dialogue: 0,0:16:06.40,0:16:06.48,Textmsgs,,0,0,0,,{\fax-0.2\blur1.2\fscy75\frz1.93\pos(730,603)}Refuse        Accept       Forward
 Dialogue: 0,0:16:06.48,0:16:06.57,Textmsgs,,0,0,0,,{\blur1.2\frz3.938\pos(654,633)}Refuse        Accept       Forward
 Dialogue: 0,0:16:06.57,0:16:07.82,Textmsgs,,0,0,0,,{\blur1.2\frz3.938\pos(654,636)}Refuse        Accept       Forward
@@ -636,10 +636,10 @@ Dialogue: 0,0:22:45.21,0:22:48.01,Herotoo,,0,0,0,,{\blur0.8\fax0.15\bord0\b0\c&H
 Dialogue: 0,0:22:45.21,0:22:48.01,Herotoo,,0,0,0,,{\an7\fs45\fsp-1\blur0.8\fax0.09\bord0\b0\c&H443025&\fry5\frz21\pos(479,586)}We start back up in issue 45 \Non Oct 3rd with our color spread!
 Dialogue: 1,0:15:13.68,0:15:17.39,Dates,,0,0,0,,{\blur0.8\fad(709,0)\pos(645,298)\c&HF1F4F3&\bord0}Monday, July 11th \N\N\N\N Jack Issue 33 Goes on Sale
 Dialogue: 0,0:15:13.68,0:15:17.39,Dates,,0,0,0,,{\blur0.8\fad(709,0)\pos(645,298)\c&H000000&}Monday, July 11th \N\N\N\N Jack Issue 33 Goes on Sale
-Dialogue: 0,0:11:44.64,0:11:47.85,Silence,,0,0,0,,{\\fax-0.48\fsp-1\fs53\blur0.8\bord0\shad0\fscx56\fscy56\frz23.792\fry4\move(526,826,526,420)\c&H6E8E69&}Yakusa Municipal Hospital
-Dialogue: 2,0:18:09.65,0:18:13.61,Herotoo,,0,0,0,,{\blur0.8\fax0.15\frx14\fry4\c&H39A9AC&\c&H43AFB1&\bord0\pos(937,553)}Niizuma Eiji
+Dialogue: 0,0:11:44.64,0:11:47.85,Silence,,0,0,0,,{\fax-0.48\fsp-1\fs53\blur0.8\bord0\shad0\fscx56\fscy56\frz23.792\fry4\move(526,826,526,420)\c&H6E8E69&}Yakusa Municipal Hospital
+Dialogue: 2,0:18:09.65,0:18:13.61,Herotoo,,0,0,0,,{\blur0.8\fax0.15\frx14\fry4\c&H43AFB1&\bord0\pos(937,553)}Niizuma Eiji
 Dialogue: 1,0:18:09.65,0:18:13.61,Herotoo,,0,0,0,,{\blur0.8\fax0.15\frx14\fry4\c&H28306B&\3c&H28306B&\bord2\pos(937,553)}Niizuma Eiji
-Dialogue: 0,0:18:09.65,0:18:13.61,Herotoo,,0,0,0,,{\blur0.8\fax0.15\frx14\fry4\3c&HFFFFFF&\c&HFFFFFF&b\bord3\pos(937,553)}Niizuma Eiji
+Dialogue: 0,0:18:09.65,0:18:13.61,Herotoo,,0,0,0,,{\blur0.8\fax0.15\frx14\fry4\3c&HFFFFFF&\c&HFFFFFF&\bord3\pos(937,553)}Niizuma Eiji
 Dialogue: 1,0:18:09.65,0:18:13.61,Herotoo,,0,0,0,,{\fs22\blur0.8\frx14\fry4\c&H39B0BA&\bord0\fscx120\fscy120\pos(633,149)}Don't take the easy road!
 Dialogue: 0,0:18:09.65,0:18:13.61,Herotoo,,0,0,0,,{\fs22\blur0.8\frx14\fry4\bord2\fscx120\fscy120\c&H2B2B9D&\3c&H2D308F&\pos(633,149)}Don't take the easy road!
 Dialogue: 3,0:18:09.65,0:18:13.61,Herotoo,,0,0,0,,{\blur0.8\fs22\b1\bord0\fscx120\fscy120\3c&H4C44A5&\frx16\fry4\pos(631,120)\c&H4B43AC&}Congrats  Anime Adaptation!!!
