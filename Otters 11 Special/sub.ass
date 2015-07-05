@@ -16,9 +16,9 @@ Video File: extra 8.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 62
-Active Line: 89
-Video Position: 5835
+Scroll Position: 105
+Active Line: 1
+Video Position: 84
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,18 +36,18 @@ Style: Title,Times New Roman,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0
 Style: Red title,Arial,33,&H001D0DEA,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0.8,0,2,10,10,10,1
 Style: Black title,Arial,25,&H00000203,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: Black BIG,Arial Black,54,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,1,1,2,10,10,24,1
+Style: Signs,Arial,30,&H00FFFFFF,&H000000FF,&H00302E2D,&H00302E2D,0,0,0,0,100,100,0,0,1,2.00556,1.33704,5,15,15,15,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.78,0:00:03.36,Default,,0,0,0,,Otter No. 11
+Dialogue: 0,0:00:00.78,0:00:03.36,Signs,,0,0,0,,Otter No. 11
 Dialogue: 0,0:00:03.48,0:00:05.44,Title,,0,0,0,,Otter Human Meeting!
-Dialogue: 0,0:01:35.02,0:01:36.49,Default,,0,0,0,,Otter 11.
-Dialogue: 0,0:01:52.46,0:01:54.20,Default,,0,0,0,,{\pos(289,50)}Horsefly
-Dialogue: 0,0:01:52.46,0:01:54.20,Default,,0,0,0,,{\pos(955,50)}Wasp
-Dialogue: 0,0:01:54.20,0:01:56.29,Default,,0,0,0,,{\pos(241,60)}Day 1
-Dialogue: 0,0:01:54.90,0:01:56.29,Default,,0,0,0,,{\pos(642,60)}Day 2
-Dialogue: 0,0:01:55.60,0:01:56.29,Default,,0,0,0,,{\pos(1058,60)}Day 3
-Dialogue: 0,0:01:56.57,0:01:58.56,Default,,0,0,0,,If it turns out bad leave immediately.
+Dialogue: 0,0:01:35.02,0:01:36.49,Signs,,0,0,0,,Otter 11.
+Dialogue: 0,0:01:52.46,0:01:54.20,Signs,,0,0,0,,{\pos(289,50)}Horsefly
+Dialogue: 0,0:01:52.46,0:01:54.20,Signs,,0,0,0,,{\pos(955,50)}Wasp
+Dialogue: 0,0:01:54.20,0:01:56.29,Signs,,0,0,0,,{\pos(241,60)}Day 1
+Dialogue: 0,0:01:54.90,0:01:56.29,Signs,,0,0,0,,{\pos(642,60)}Day 2
+Dialogue: 0,0:01:55.60,0:01:56.29,Signs,,0,0,0,,{\pos(1058,60)}Day 3
 Dialogue: 0,0:01:56.50,0:01:58.56,Red title,,0,0,0,,{\pos(302,533)}Deficit Bond
 Dialogue: 0,0:01:56.50,0:01:58.56,Black title,,0,0,0,,{\pos(190,89)}Trillion Yen
 Dialogue: 0,0:00:11.48,0:00:12.86,Default,,0,0,0,,It's Spring.
@@ -91,6 +91,7 @@ Dialogue: 0,0:01:46.76,0:01:48.04,Default,,0,0,0,,Halfway?
 Dialogue: 0,0:01:49.40,0:01:51.93,Default,,0,0,0,,What's wrong in being halfway?
 Dialogue: 0,0:01:52.46,0:01:54.20,Default,,0,0,0,,It's vague which to stay away from.
 Dialogue: 0,0:01:54.41,0:01:56.36,Default,,0,0,0,,Whatever done is left unfinished.
+Dialogue: 0,0:01:56.57,0:01:58.56,Default,,0,0,0,,If it turns out bad leave immediately.
 Dialogue: 0,0:01:58.80,0:02:01.95,Default,,0,0,0,,This world is charming because halfway people exist.
 Dialogue: 0,0:02:02.64,0:02:04.43,Default,,0,0,0,,Halfway is rough on evil.
 Dialogue: 0,0:02:06.60,0:02:09.10,Black BIG,,0,0,0,,OLIVINE THOLEIITE
