@@ -20,8 +20,8 @@ Keyframes File: ep21_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 1101
-Active Line: 1127
+Scroll Position: 867
+Active Line: 868
 Video Position: 26044
 
 [V4+ Styles]
@@ -940,7 +940,7 @@ Dialogue: 10,0:11:31.71,0:11:32.58,Default,,0,0,0,,I'll do it!
 Dialogue: 10,0:11:33.28,0:11:35.25,Default,,0,0,0,,I'll write something that \Ncan surpass Niizuma Eiji!
 Dialogue: 10,0:11:35.88,0:11:39.87,Default,,0,0,0,,We've grown a lot since we made {\i1}Money and Intelligence{\i0}.
 Dialogue: 10,0:11:40.51,0:11:43.55,Default,,0,0,0,,Well, that was four years ago, so it would be a problem if we hadn't.
-Dialogue: 10,0:11:44.14,0:11:48.18,Default,,0,0,0,,You've gotten better at both super\N deformed and serious art.
+Dialogue: 10,0:11:44.14,0:11:48.18,Default,,0,0,0,,You've gotten better at both\N super deformed and serious art.
 Dialogue: 10,0:11:48.18,0:11:50.27,Default,,0,0,0,,Even I can tell, so it\N must be a {\i1}lot{\i0} better.
 Dialogue: 10,0:11:50.77,0:11:53.10,Default,,0,0,0,,Miura's not the only one who's grown!
 Dialogue: 10,0:11:53.52,0:11:54.22,Default,,0,0,0,,Right.
