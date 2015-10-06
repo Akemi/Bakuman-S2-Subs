@@ -19,10 +19,10 @@ Video File: ep21.mkv
 Keyframes File: ep21_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.000000
-Scroll Position: 51
-Active Line: 60
-Video Position: 18002
+Video Zoom Percent: 0.750000
+Scroll Position: 1104
+Active Line: 1131
+Video Position: 35065
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1031,9 +1031,9 @@ Dialogue: 10,0:15:04.25,0:15:07.42,Default,,0,0,0,,Please tell us why you \Nwant
 Dialogue: 10,0:15:07.88,0:15:10.18,Default,,0,0,0,,Because you've \Nnever actually tried it.
 Dialogue: 10,0:15:12.01,0:15:12.92,Default,,0,0,0,,Well...
 Dialogue: 10,0:15:12.92,0:15:14.92,Default,,0,0,0,,It's true that we've never \Ndone a mainstream fantasy...
-Dialogue: 10,0:15:14.92,0:15:17.52,Default,,0,0,0,,more like, I feel that we shouldn't \Neven try to do one...
+Dialogue: 10,0:15:14.92,0:15:17.52,Default,,0,0,0,,more like, I feel that we \Nshouldn't even try to do one...
 Dialogue: 10,0:15:17.52,0:15:20.62,Default,,0,0,0,,In that case, sports manga, romantic \Ncomedy, delinquent manga...
-Dialogue: 10,0:15:20.62,0:15:22.81,Default,,0,0,0,,there are tons of genres \Nwe haven't tried yet.
+Dialogue: 10,0:15:20.62,0:15:22.81,Default,,0,0,0,,There are tons of genres \Nwe haven't tried yet.
 Dialogue: 10,0:15:22.81,0:15:25.07,Default,,0,0,0,,No, it has to be a \Nmainstream fantasy.
 Dialogue: 10,0:15:25.90,0:15:28.19,Default,,0,0,0,,You have two months to\N put all you've got into one!
 Dialogue: 10,0:15:41.50,0:15:42.67,Default,,0,0,0,,Let's try it.
