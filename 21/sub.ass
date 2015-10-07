@@ -20,9 +20,9 @@ Keyframes File: ep21_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 1104
-Active Line: 1131
-Video Position: 35065
+Scroll Position: 838
+Active Line: 847
+Video Position: 15564
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -919,7 +919,7 @@ Dialogue: 10,0:10:40.11,0:10:42.58,Default,,0,0,0,,So you'd better get serialize
 Dialogue: 10,0:10:42.58,0:10:43.74,Default,,0,0,0,,I'm looking forward to it.
 Dialogue: 10,0:10:43.74,0:10:44.66,Default,,0,0,0,,Right!
 Dialogue: 10,0:10:44.66,0:10:46.58,Default,,0,0,0,,We'll see you within six months!
-Dialogue: 10,0:10:49.12,0:10:51.75,Default,,0,0,0,,The final chapter's over \Nwithout a hitch, huh?
+Dialogue: 10,0:10:49.12,0:10:51.75,Default,,0,0,0,,The final chapter's done \Nwithout a hitch, huh?
 Dialogue: 10,0:10:51.75,0:10:53.38,Default,,0,0,0,,Good job, Saiko.
 Dialogue: 10,0:10:53.38,0:10:54.92,Default,,0,0,0,,You too, Shuujin.
 Dialogue: 10,0:10:54.92,0:10:56.17,Default,,0,0,0,,It's been quite a journey.

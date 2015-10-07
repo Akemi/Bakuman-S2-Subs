@@ -20,9 +20,9 @@ Keyframes File: ep18_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 156
-Active Line: 170
-Video Position: 12129
+Scroll Position: 261
+Active Line: 273
+Video Position: 18277
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -353,8 +353,8 @@ Dialogue: 10,0:12:30.89,0:12:34.44,Default,,0,0,0,,This means Niizuma Eiji will 
 Dialogue: 10,0:12:34.44,0:12:35.65,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:12:35.65,0:12:36.76,Default-Alt,,0,0,0,,What do you mean,
 Dialogue: 10,0:12:36.76,0:12:38.19,Default-Alt,,0,0,0,,he's doing two works at the same time?!
-Dialogue: 10,0:12:35.65,0:12:39.37,Default,,0,0,0,,{\i1}+NATURAL{\i0} will be serialized in Issue 11, one issue before yours,
-Dialogue: 10,0:12:39.37,0:12:40.90,Default,,0,0,0,[unreadable!],with the script written by Akina Aiko and art by Niizuma Eiji.
+Dialogue: 10,0:12:35.65,0:12:38.44,Default,,0,0,0,,{\i1}+NATURAL{\i0} will be serialized in Issue 11, one issue before yours,
+Dialogue: 10,0:12:38.44,0:12:40.90,Default,,0,0,0,[unreadable!],with the script written by Akina Aiko and art by Niizuma Eiji.
 Dialogue: 10,0:12:38.19,0:12:40.90,Default-Alt,,0,0,0,,It's not fair to have Niizuma do the art! It's wrong!
 Dialogue: 10,0:12:40.90,0:12:42.90,Default-Alt,,0,0,0,,Yuujirou, this is unfair!
 Dialogue: 10,0:12:42.90,0:12:45.61,Default-Alt,,0,0,0,,There'll be one less slot for new authors!

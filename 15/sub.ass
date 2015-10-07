@@ -19,9 +19,9 @@ Keyframes File: ep15_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 407
-Active Line: 430
-Video Position: 27971
+Scroll Position: 259
+Active Line: 285
+Video Position: 19824
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -361,7 +361,7 @@ Dialogue: 10,0:13:39.75,0:13:40.67,Default,,0,0,0,,Not that one!
 Dialogue: 10,0:13:40.67,0:13:42.88,Default,,0,0,0,,The one that used Miho \Nand Mashiro's romance!
 Dialogue: 10,0:13:42.88,0:13:45.09,Default,,0,0,0,,What are you doing, \Ntelling everybody about it?!
 Dialogue: 10,0:13:45.09,0:13:46.80,Default,,0,0,0,,Oh, that.
-Dialogue: 10,0:13:46.80,0:13:47.97,Default,,0,0,0,,"{\i1}That{\i0}?"!
+Dialogue: 10,0:13:46.80,0:13:47.97,Default,,0,0,0,,"{\i1}That{\i0}?!"
 Dialogue: 10,0:13:47.97,0:13:51.22,Default,,0,0,0,,You're so obviously prattling away with both Iwase and that female mangaka!
 Dialogue: 10,0:13:51.22,0:13:55.23,Default,,0,0,0,,Are the two of you going on group dates with both of them every day, or something?
 Dialogue: 10,0:13:55.85,0:13:57.44,Default,,0,0,0,,Sounds like fun!

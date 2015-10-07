@@ -18,10 +18,10 @@ Audio File: ep22.mkv
 Video File: ep22.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 252
-Active Line: 258
-Video Position: 18345
+Video Zoom Percent: 1.000000
+Scroll Position: 362
+Active Line: 375
+Video Position: 24396
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -448,8 +448,7 @@ Dialogue: 10,0:16:50.65,0:16:52.61,Default,,0,0,0,,Even if it's not a real crime
 Dialogue: 10,0:16:52.61,0:16:53.65,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:16:53.65,0:16:56.07,Default,,0,0,0,,What kind of splendid \Ncrime will he pull off?
 Dialogue: 10,0:16:56.07,0:16:57.48,Default,,0,0,0,,The tension it causes!
-Dialogue: 10,0:16:57.48,0:16:58.25,Default,,0,0,0,,The excitement!
-Dialogue: 10,0:16:58.25,0:16:58.95,Default,,0,0,0,[unreadable],The shocking turn of events!
+Dialogue: 10,0:16:57.48,0:16:58.95,Default,,0,0,0,,The excitement! The shocking turn of events!
 Dialogue: 10,0:16:59.47,0:17:00.83,Default,,0,0,0,,Even if it's stupid at first glance,
 Dialogue: 10,0:17:00.83,0:17:02.83,Default,,0,0,0,,the more serious you \Ntreat it, the funnier it is!
 Dialogue: 10,0:17:03.33,0:17:05.46,Default,,0,0,0,,That's where the serious\N humor will come from.

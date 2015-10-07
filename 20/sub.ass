@@ -20,9 +20,9 @@ Keyframes File: ep20_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 273
-Active Line: 305
-Video Position: 22567
+Scroll Position: 164
+Active Line: 185
+Video Position: 14242
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -257,9 +257,8 @@ Dialogue: 10,0:09:43.68,0:09:44.68,Default-Italic,,0,0,0,,Saiko!
 Dialogue: 10,0:09:44.68,0:09:45.56,Default,,0,0,0,,What?
 Dialogue: 10,0:09:45.56,0:09:46.52,Default-Italic,,0,0,0,,Mashiro?
 Dialogue: 10,0:09:48.52,0:09:50.98,Default,,0,0,0,,Mashiro, this is a celebration.
-Dialogue: 10,0:09:50.98,0:09:52.57,Default,,0,0,0,,If you insist on having\N this conversation,
-Dialogue: 10,0:09:52.57,0:09:53.98,Default,,0,0,0,,we'll take it outside.
-Dialogue: 10,0:09:53.98,0:09:55.86,Default,,0,0,0,,Yes. Let's.
+Dialogue: 10,0:09:50.98,0:09:53.98,Default,,0,0,0,,If you insist on having this conversation, let's take it outside.
+Dialogue: 10,0:09:53.98,0:09:55.86,Default,,0,0,0,,Yes, let's.
 Dialogue: 10,0:09:59.32,0:10:01.58,Default-Italic,,0,0,0,,Saiko and Hattori...
 Dialogue: 10,0:10:01.58,0:10:02.79,Default-Italic,,0,0,0,,What's going on?
 Dialogue: 10,0:10:02.79,0:10:05.29,Default-Italic,,0,0,0,,From his grim expression, \Nsomething must be up.

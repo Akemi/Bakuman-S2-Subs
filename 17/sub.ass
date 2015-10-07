@@ -20,9 +20,9 @@ Keyframes File: ep17_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 6
-Active Line: 10
-Video Position: 3003
+Scroll Position: 421
+Active Line: 425
+Video Position: 31290
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -168,8 +168,8 @@ Dialogue: 10,0:05:18.17,0:05:19.52,Default-Italic,,0,0,0,,And I told Ashirogi
 Dialogue: 10,0:05:19.52,0:05:23.21,Default-Italic,,0,0,0,,that they only needed three solid chapters to pass for sure...
 Dialogue: 10,0:05:23.21,0:05:25.76,Default-Italic,,0,0,0,,If they don't get serialized, then...
 Dialogue: 10,0:05:47.70,0:05:49.39,Default,,0,0,0,,Congratulations!
-Dialogue: 10,0:05:49.39,0:05:50.44,Default,,0,0,0,,{\i1}Time of Blue Leaves{\i0} will start
-Dialogue: 10,0:05:50.44,0:05:52.16,Default,,0,0,0,[hard to read?],its serialization in the \Nsecond issue of the new year!
+Dialogue: 10,0:05:49.39,0:05:50.36,Default,,0,0,0,,{\i1}Time of Blue Leaves{\i0} will start
+Dialogue: 10,0:05:50.36,0:05:52.16,Default,,0,0,0,,its serialization in the \Nsecond issue of the new year!
 Dialogue: 10,0:05:52.16,0:05:53.74,Default,,0,0,0,,Really?
 Dialogue: 10,0:05:53.74,0:05:54.87,Default,,0,0,0,,Thank you!
 Dialogue: 10,0:05:55.33,0:05:58.88,Default,,0,0,0,,Everyone thinks it's much \Nbetter than the Next one-shot.
@@ -501,8 +501,8 @@ Dialogue: 10,0:21:31.43,0:21:32.14,Default,,0,0,0,,Hattori!
 Dialogue: 10,0:21:32.14,0:21:35.06,Default,,0,0,0,,Akina's been Takagi's rival\N since middle school.
 Dialogue: 10,0:21:35.06,0:21:38.15,Default,,0,0,0,,If we do this, it'll definitely\N fire up Ashirogi Muto!
 Dialogue: 10,0:21:38.15,0:21:41.40,Default,,0,0,0,,Yuujirou, I definitely want\N this to get serialized.
-Dialogue: 10,0:21:41.40,0:21:45.11,Default,,0,0,0,,But two works by the same author \Ngetting serialized at the same time?!
-Dialogue: 10,0:21:45.11,0:21:46.40,Default,,0,0,0,[hard to read?],It's fine, it just hasn't\N happened before.
+Dialogue: 10,0:21:41.40,0:21:45.05,Default,,0,0,0,,But two works by the same author \Ngetting serialized at the same time?!
+Dialogue: 10,0:21:45.05,0:21:46.40,Default,,0,0,0,,It's fine, it just hasn't\N happened before.
 Dialogue: 10,0:21:46.40,0:21:48.03,Default,,0,0,0,,He'll have an impossible schedule!
 Dialogue: 10,0:21:48.03,0:21:51.83,Default,,0,0,0,,But you know I can make a name in a day, and a manuscript in two!
 Dialogue: 10,0:21:51.83,0:21:54.66,Default,,0,0,0,,Damn, he can do it if \Nwe get more assistants.

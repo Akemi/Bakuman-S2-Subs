@@ -20,9 +20,9 @@ Keyframes File: ep19_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 588
-Active Line: 603
-Video Position: 24423
+Scroll Position: 504
+Active Line: 520
+Video Position: 32169
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -602,8 +602,8 @@ Dialogue: 10,0:22:10.60,0:22:13.01,Default-Italic,,0,0,0,,We can get better rank
 Dialogue: 10,0:22:14.18,0:22:15.48,Default,,0,0,0,,Good work.
 Dialogue: 10,0:22:15.48,0:22:17.42,Default,,0,0,0,,The seventh chapter's \Nstill at 2nd place...
 Dialogue: 10,0:22:17.42,0:22:19.48,Default,,0,0,0,,{\i1}Natural{\i0} is really something.
-Dialogue: 10,0:22:19.48,0:22:21.68,Default,,0,0,0,,Well, it's not as if {\i1}Crow's{\i0} \Ndropped in popularity.
-Dialogue: 10,0:22:21.68,0:22:23.94,Default,,0,0,0,,Its actually got more votes.
+Dialogue: 10,0:22:19.48,0:22:21.68,Default,,0,0,0,,Well, it's not like {\i1}Crow{\i0} \Ndropped in popularity.
+Dialogue: 10,0:22:21.68,0:22:23.94,Default,,0,0,0,,It actually got more votes.
 Dialogue: 10,0:22:24.40,0:22:25.68,Default,,0,0,0,,Speaking of rankings,
 Dialogue: 10,0:22:25.68,0:22:30.07,Default,,0,0,0,,your favorite Ashirogi has\N settled at 11th place.
 Dialogue: 10,0:22:31.16,0:22:34.70,Default,,0,0,0,,The editorial department is saying things like, "Looks like Ashirogi can do gag manga too,"
