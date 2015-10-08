@@ -273,7 +273,7 @@ Dialogue: 10,0:08:43.71,0:08:45.50,Default,,0,0,0,,Oh, congrats on \Nyour new se
 Dialogue: 10,0:08:45.50,0:08:48.13,Default,,0,0,0,,Well, enjoy the party.
 Dialogue: 10,0:08:48.13,0:08:48.96,Default,,0,0,0,,O-Okay...
 Dialogue: 10,0:08:48.96,0:08:52.21,Default,,0,0,0,,I'm Ibaraki, editor-in-chief of {\i1}Jack SQ{\i0}.
-Dialogue: 10,0:08:52.97,0:08:56.14,Default,,0,0,0,,We're aware of \N{\i1}+NATURAL{\i0}'s reputation.
+Dialogue: 10,0:08:52.97,0:08:56.14,Default,,0,0,0,,We're aware of \N{\i1}+Natural{\i0}'s reputation.
 Dialogue: 10,0:08:56.14,0:08:56.89,Default,,0,0,0,,By the way,
 Dialogue: 10,0:08:56.89,0:08:59.14,Default,,0,0,0,,if there are any other stories you'd like to write, by all means—
 Dialogue: 10,0:08:58.22,0:08:59.47,Default-Alt,,0,0,0,,Akina!
@@ -396,7 +396,7 @@ Dialogue: 10,0:13:48.43,0:13:49.14,Default,,0,0,0,,Okay!
 Dialogue: 10,0:13:49.14,0:13:50.75,Default,,0,0,0,,All right!
 Dialogue: 10,0:13:50.75,0:13:53.02,Default,,0,0,0,,The first chapter's done!
 Dialogue: 10,0:13:53.02,0:13:54.10,Default,,0,0,0,,Good work, everybody.
-Dialogue: 10,0:13:55.27,0:13:57.81,Default,,0,0,0,,I brought the publishing\N sample of {\i1}+NATURAL.
+Dialogue: 10,0:13:55.27,0:13:57.81,Default,,0,0,0,,I brought the publishing\N sample of {\i1}+Natural.
 Dialogue: 10,0:13:58.27,0:13:59.79,Default,,0,0,0,,An opening color page?
 Dialogue: 10,0:13:59.79,0:14:01.48,Default,,0,0,0,,And {\i1}Crow{\i0}'s got one in the middle?
 Dialogue: 10,0:14:01.48,0:14:03.28,Default,,0,0,0,,It's already a Niiuzma Eiji issue.
@@ -479,7 +479,7 @@ Dialogue: 10,0:16:52.36,0:16:52.91,Default,,0,0,0,,No way.
 Dialogue: 10,0:16:52.91,0:16:53.86,Default,,0,0,0,,It has to be a coincidence!
 Dialogue: 10,0:16:53.86,0:16:55.82,Default,,0,0,0,,No, you're exactly right.
 Dialogue: 10,0:16:55.82,0:16:58.62,Default,,0,0,0,,Everyone was buzzing about it on the Internet yesterday before it went on sale.
-Dialogue: 10,0:16:58.62,0:17:03.00,Default,,0,0,0,,They were saying that\N{\i1} +NATURAL{\i0} is going to be great!
+Dialogue: 10,0:16:58.62,0:17:03.00,Default,,0,0,0,,They were saying that\N{\i1} +Natural{\i0} is going to be great!
 Dialogue: 10,0:17:05.54,0:17:07.08,Default,,0,0,0,,My apologies.
 Dialogue: 10,0:17:07.08,0:17:08.59,Default,,0,0,0,,All copies were sold out yesterday.
 Dialogue: 10,0:17:10.63,0:17:12.26,Default,,0,0,0,,It's first place in \Nthe preliminary polls!

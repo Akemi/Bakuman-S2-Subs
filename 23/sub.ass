@@ -242,17 +242,17 @@ Dialogue: 10,0:09:02.60,0:09:04.64,Default-Italic,,0,0,0,,getting a serializatio
 Dialogue: 10,0:09:04.64,0:09:06.60,Default-Italic,,0,0,0,,{\fad(0,700)}That's what I thought...
 Dialogue: 10,0:09:07.81,0:09:11.82,Default-Italic,,0,0,0,,Now, I've finally realizing that\N there's more to it than that.
 Dialogue: 10,0:09:15.15,0:09:17.11,Default,,0,0,0,,Niizuma, I have some \Ngood news for you.
-Dialogue: 10,0:09:18.32,0:09:20.24,Default,,0,0,0,,{\i1}+NATURAL{\i0} is getting an anime.
+Dialogue: 10,0:09:18.32,0:09:20.24,Default,,0,0,0,,{\i1}+Natural{\i0} is getting an anime.
 Dialogue: 10,0:09:20.91,0:09:22.41,Default,,0,0,0,,And it's starting in April!
 Dialogue: 10,0:09:22.41,0:09:23.75,Default,,0,0,0,,That's quick!
 Dialogue: 10,0:09:23.75,0:09:25.54,Default,,0,0,0,,It's because it got more\N popular than {\i1}Crow{\i0}.
 Dialogue: 10,0:09:26.12,0:09:28.50,Default,,0,0,0,,But will Ashirogi be okay?
-Dialogue: 10,0:09:28.50,0:09:30.92,Default,,0,0,0,,Unless they're as popular \Nas {\i1}Crow{\i0} and {\i1}+NATURAL{\i0},
+Dialogue: 10,0:09:28.50,0:09:30.92,Default,,0,0,0,,Unless they're as popular \Nas {\i1}Crow{\i0} and {\i1}+Natural{\i0},
 Dialogue: 10,0:09:30.92,0:09:33.34,Default,,0,0,0,,they won't be able to \Ndraw for Jack anymore.
 Dialogue: 10,0:09:35.30,0:09:40.97,Default,,0,0,0,,Akira, you'd usually say "Ashirogi won't lose to you next time!"
 Dialogue: 10,0:09:42.43,0:09:45.60,Default,,0,0,0,,They sure are in a tight spot.
 Dialogue: 10,0:09:45.60,0:09:47.02,Default,,0,0,0,,Even if they get serialized,
-Dialogue: 10,0:09:47.02,0:09:48.77,Default,,0,0,0,,they'll have to draw even \Nwith {\i1}Crow{\i0} and {\i1}+NATURAL{\i0}.
+Dialogue: 10,0:09:47.02,0:09:48.77,Default,,0,0,0,,they'll have to draw even \Nwith {\i1}Crow{\i0} and {\i1}+Natural{\i0}.
 Dialogue: 10,0:09:48.77,0:09:50.90,Default,,0,0,0,,They've got some tough acts to follow.
 Dialogue: 10,0:09:50.90,0:09:55.78,Default,,0,0,0,,Maybe they should change the condition to just getting serialized.
 Dialogue: 10,0:09:55.78,0:09:58.99,Default,,0,0,0,,Well, Ashirogi will get \Nwhat they deserve.
@@ -427,7 +427,7 @@ Dialogue: 10,0:17:07.54,0:17:09.96,Default,,0,0,0,,I rated it highly,
 Dialogue: 10,0:17:09.96,0:17:12.08,Default,,0,0,0,,but before we say yes \Nor no to this manga,
 Dialogue: 10,0:17:12.08,0:17:14.73,Default,,0,0,0,,we first must consider whether it can beat Niizuma's manga,
 Dialogue: 10,0:17:14.73,0:17:15.93,Default,,0,0,0,,{\i1}Crow
-Dialogue: 10,0:17:15.93,0:17:18.40,Default,,0,0,0,, and {\i1}+NATURAL.
+Dialogue: 10,0:17:15.93,0:17:18.40,Default,,0,0,0,, and {\i1}+Natural.
 Dialogue: 10,0:17:19.35,0:17:21.27,Default,,0,0,0,,Chief Editor,
 Dialogue: 10,0:17:21.27,0:17:23.35,Default,,0,0,0,,so you really were serious
 Dialogue: 10,0:17:23.35,0:17:26.57,Default,,0,0,0,,about not letting them \Ndraw for Jack if they can't win
@@ -441,7 +441,7 @@ Dialogue: 10,0:17:45.32,0:17:46.37,Default,,0,0,0,,Of course it will!
 Dialogue: 10,0:17:46.37,0:17:47.50,Default,,0,0,0,,Why are you asking again?
 Dialogue: 10,0:17:47.50,0:17:51.13,Default,,0,0,0,,But this time, it's not a \Nquestion of being good or bad.
 Dialogue: 10,0:17:51.13,0:17:52.46,Default,,0,0,0,,It's about whether it can compete
-Dialogue: 10,0:17:52.46,0:17:54.17,Default,,0,0,0,,with {\i1}Crow{\i0} and {\i1}+NATURAL{\i0}.
+Dialogue: 10,0:17:52.46,0:17:54.17,Default,,0,0,0,,with {\i1}Crow{\i0} and {\i1}+Natural{\i0}.
 Dialogue: 10,0:17:54.92,0:17:57.22,Default,,0,0,0,,Well, we knew it wouldn't be easy.
 Dialogue: 10,0:17:57.22,0:18:00.43,Default,,0,0,0,,Well, you know, there are \Nmagazines other than Jack.
 Dialogue: 10,0:18:03.02,0:18:04.10,Default,,0,0,0,,Oh, sorry.
@@ -467,7 +467,7 @@ Dialogue: 10,0:18:44.57,0:18:46.02,Default,,0,0,0,,we'll do it for the\N rest of
 Dialogue: 10,0:18:46.02,0:18:48.44,Default,,0,0,0,,You two are so cool!
 Dialogue: 10,0:18:53.65,0:18:54.99,Default,,0,0,0,,W-Well then,
 Dialogue: 10,0:18:54.99,0:18:56.54,Default,,0,0,0,,shall we begin discussion on whether
-Dialogue: 10,0:18:56.54,0:19:00.95,Default,,0,0,0,,{\i1}Perfect Crime Club{\i0} can win\N against {\i1}Crow{\i0} and {\i1}+NATURAL{\i0}?
+Dialogue: 10,0:18:56.54,0:19:00.95,Default,,0,0,0,,{\i1}Perfect Crime Club{\i0} can win\N against {\i1}Crow{\i0} and {\i1}+Natural{\i0}?
 Dialogue: 10,0:19:00.95,0:19:03.49,Default-Italic,,0,0,0,,Isn't this sort of a\N strange topic to discuss?
 Dialogue: 10,0:19:03.49,0:19:04.58,Default-Italic,,0,0,0,,But...
 Dialogue: 10,0:19:05.04,0:19:06.79,Default,,0,0,0,,I think it can beat them!
@@ -539,13 +539,13 @@ Dialogue: 10,0:21:54.00,0:21:55.41,Default,,0,0,0,,We're all ready!
 Dialogue: 10,0:21:55.41,0:21:57.83,Default,,0,0,0,,All that's left is to get \Nnews of the serialization!
 Dialogue: 10,0:21:58.75,0:21:59.71,Default,,0,0,0,,Saiko,
 Dialogue: 10,0:21:59.71,0:22:02.59,Default,,0,0,0,,do you honestly think \Nthat {\i1}Perfect Crime Club
-Dialogue: 10,0:22:02.59,0:22:05.13,Default,,0,0,0,,can win against {\i1}Crow{\i0} and {\i1}+NATURAL{\i0}?
+Dialogue: 10,0:22:02.59,0:22:05.13,Default,,0,0,0,,can win against {\i1}Crow{\i0} and {\i1}+Natural{\i0}?
 Dialogue: 10,0:22:06.05,0:22:08.16,Default,,0,0,0,,{\i1}Trap{\i0} tied with {\i1}Crow{\i0} once.
 Dialogue: 10,0:22:08.84,0:22:10.39,Default,,0,0,0,,We can definitely win!
 Dialogue: 10,0:22:12.22,0:22:13.81,Default,,0,0,0,,Chief Editor, please vote.
 Dialogue: 10,0:22:17.06,0:22:19.48,Default,,0,0,0,,{\i1}Perfect Crime Club{\i0} is good.
 Dialogue: 10,0:22:24.32,0:22:26.03,Default,,0,0,0,,But... it can't win.
-Dialogue: 10,0:22:26.65,0:22:30.03,Default,,0,0,0,,I don't think it can win \Nagainst {\i1}Crow{\i0} and {\i1}+NATURAL{\i0}.
+Dialogue: 10,0:22:26.65,0:22:30.03,Default,,0,0,0,,I don't think it can win \Nagainst {\i1}Crow{\i0} and {\i1}+Natural{\i0}.
 Dialogue: 10,0:22:31.66,0:22:32.75,Default,,0,0,0,,Th-Then—
 Dialogue: 10,0:22:32.75,0:22:34.41,Default,,0,0,0,,With 3 for Win
 Dialogue: 10,0:22:34.41,0:22:35.88,Default,,0,0,0,,and 4 for Lose

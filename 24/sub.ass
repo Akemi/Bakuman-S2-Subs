@@ -6055,7 +6055,7 @@ Dialogue: 0,0:12:44.32,0:12:48.28,Huge,,0,0,0,,{\b0\blur1\c&H6C696E&\fscx135\fsc
 Dialogue: 0,0:12:44.32,0:12:48.28,Huge,,0,0,0,,{\b0\fax0.1\blur1\c&H68696E&\fscx85\fscy85\frz1.615\move(472,342,420,342)}First Chapter
 Dialogue: 0,0:12:44.32,0:12:48.28,Huge,,0,0,0,,{\b0\fax0.1\blur1\c&H606165&\fscx85\fscy85\move(413,433,361,433)\frz3.487}Ashirogi Muto
 Dialogue: 0,0:14:41.65,0:14:44.57,subbox,,0,0,0,,{\p1\blur0.8\pos(649,617)\c&HE5EBEE&}m -1 0 b -2 46 1 48 -15 84 b -14 99 -11 115 -8 130 b 117 129 241 129 366 128 b 368 126 372 118 371 105 b 333 105 303 104 274 104 b 273 70 274 35 273 1 l -1 0
-Dialogue: 1,0:14:41.65,0:14:44.57,Signs,,0,0,0,,{\an1\fs42\fsp-2\b0\c&H393437&\blur0.8\bord0\fscx50\fscy50\pos(460,555)}The novel version of the super-popular \N{\b1}"+NATURAL"{\b0} series currently serialized \Nin the Weekly Shounen Jack!!
+Dialogue: 1,0:14:41.65,0:14:44.57,Signs,,0,0,0,,{\an1\fs42\fsp-2\b0\c&H393437&\blur0.8\bord0\fscx50\fscy50\pos(460,555)}The novel version of the super-popular \N{\b1}"+Natural"{\b0} series currently serialized \Nin the Weekly Shounen Jack!!
 Dialogue: 1,0:14:41.65,0:14:44.57,Silence,,0,0,0,,{\shad0\an1\fs80\fsp-3\b0\c&H393437&\blur0.8\bord0\fscx40\fscy40\pos(622.333,584.999)}Akina Aiko
 Dialogue: 1,0:14:41.65,0:14:44.57,Defbox,,0,0,0,,{\an1\fsp-2\b0\blur0.8\fs21\c&HE5EBEE&\3c&H393437&\pos(445,613)}\hThe original story written by\h\h\N\hthe receiver of the amateur award, Novel Pleiades\h\h
 Dialogue: 0,0:15:23.11,0:15:24.90,Prize,,0,0,0,,{\fsp-2\fax0.2\bord0\blur1\c&H252836&\pos(435,505)}Something...
@@ -6063,7 +6063,7 @@ Dialogue: 0,0:19:15.55,0:19:19.47,Huge,,0,0,0,,{\an1\fscx160\fscy160\fs60\blur1\
 Dialogue: 0,0:19:15.55,0:19:19.47,Huge,,0,0,0,,{\an1\blur1\c&H403D3A&\frx0\fry0\fscx135\fscy135\pos(884,653)}Eiji  Ltd.
 Dialogue: 10,0:00:05.81,0:00:08.65,Default,,0,0,0,,{\i1}Perfect Crime Club{\i0} is good.
 Dialogue: 10,0:00:12.82,0:00:14.61,Default,,0,0,0,,But... it can't win.
-Dialogue: 10,0:00:15.45,0:00:18.16,Default,,0,0,0,,I don't think it can beat \N{\i1}Crow{\i0} and {\i1}+NATURAL{\i0}.
+Dialogue: 10,0:00:15.45,0:00:18.16,Default,,0,0,0,,I don't think it can beat \N{\i1}Crow{\i0} and {\i1}+Natural{\i0}.
 Dialogue: 10,0:00:18.70,0:00:20.33,Default,,0,0,0,,Th-Then—
 Dialogue: 10,0:00:20.33,0:00:22.62,Default,,0,0,0,,With 3 for 'Win'
 Dialogue: 10,0:00:22.62,0:00:24.81,Default,,0,0,0,,and 4 for 'Lose'
@@ -6212,7 +6212,7 @@ Dialogue: 10,0:09:42.81,0:09:45.27,Default,,0,0,0,,I told you, it's okay to be h
 Dialogue: 10,0:09:45.27,0:09:46.56,Default,,0,0,0,,Miura...
 Dialogue: 10,0:09:46.56,0:09:50.02,Default,,0,0,0,,It is frustrating to get a \Ndifferent assignment now,
 Dialogue: 10,0:09:50.52,0:09:54.49,Default,,0,0,0,,but it worked out so that Hattori and I have swapped places.
-Dialogue: 10,0:09:54.49,0:09:58.45,Default,,0,0,0,,I'll be in charge of {\i1}+NATURAL{\i0}.
+Dialogue: 10,0:09:54.49,0:09:58.45,Default,,0,0,0,,I'll be in charge of {\i1}+Natural{\i0}.
 Dialogue: 10,0:09:58.91,0:10:03.49,Default,,0,0,0,,Make {\i1}Perfect Crime Club{\i0} \Na big hit with Hattori!
 Dialogue: 10,0:10:03.49,0:10:04.91,Default,,0,0,0,,And then we'll duke it out!
 Dialogue: 10,0:10:06.96,0:10:07.75,Default,,0,0,0,,Yes.
@@ -6296,7 +6296,7 @@ Dialogue: 10,0:12:56.64,0:13:00.42,Default,,0,0,0,,because they judged it could 
 Dialogue: 10,0:13:01.01,0:13:01.67,Default,,0,0,0,,Actually...
 Dialogue: 10,0:13:03.05,0:13:04.41,Default,,0,0,0,,It seems like
 Dialogue: 10,0:13:04.41,0:13:07.40,Default,,0,0,0,,they took a vote on whether\N this manga could win
-Dialogue: 10,0:13:07.40,0:13:09.22,Default,,0,0,0,,over {\i1}Crow{\i0} and {\i1}+NATURAL{\i0}.
+Dialogue: 10,0:13:07.40,0:13:09.22,Default,,0,0,0,,over {\i1}Crow{\i0} and {\i1}+Natural{\i0}.
 Dialogue: 10,0:13:10.51,0:13:13.35,Default,,0,0,0,,The result was 4 vs. 3 for 'Lose'.
 Dialogue: 10,0:13:14.31,0:13:18.48,Default,,0,0,0,,But there's plenty of potential for you to win from here on out.
 Dialogue: 10,0:13:18.48,0:13:20.27,Default,,0,0,0,,That's why it got serialized.
@@ -6312,7 +6312,7 @@ Dialogue: 10,0:13:37.29,0:13:40.46,Default-Italic,,0,0,0,,Putting this zeal into
 Dialogue: 10,0:13:41.55,0:13:44.21,Default-Italic,,0,0,0,,This is Ashirogi Muto!
 Dialogue: 10,0:13:50.85,0:13:52.64,Default,,0,0,0,,So we need battles after all?
 Dialogue: 10,0:13:52.64,0:13:54.39,Default,,0,0,0,,{\i1}Crow{\i0} may have battles,
-Dialogue: 10,0:13:54.39,0:13:57.56,Default,,0,0,0,,but {\i1}+NATURAL{\i0} has \Nstorylines that don't.
+Dialogue: 10,0:13:54.39,0:13:57.56,Default,,0,0,0,,but {\i1}+Natural{\i0} has \Nstorylines that don't.
 Dialogue: 10,0:13:58.31,0:14:02.11,Default,,0,0,0,,Hattori, where do you\N think we're losing to Eiji?
 Dialogue: 10,0:14:03.15,0:14:04.28,Default,,0,0,0,,Let's see...
 Dialogue: 10,0:14:04.94,0:14:06.70,Default,,0,0,0,,If I had to say,
@@ -6326,7 +6326,7 @@ Dialogue: 10,0:14:19.75,0:14:22.20,Default,,0,0,0,,On the other hand, you \Nbeat
 Dialogue: 10,0:14:22.20,0:14:25.05,Default,,0,0,0,,Mashiro's realistic art \Nis better than his.
 Dialogue: 10,0:14:25.46,0:14:28.43,Default,,0,0,0,,There's also the sheer \Namount of Takagi's ideas.
 Dialogue: 10,0:14:30.25,0:14:31.28,Default,,0,0,0,,Miura!
-Dialogue: 10,0:14:31.28,0:14:33.88,Default,,0,0,0,,Do you have the novel \Nversion of {\i1}+NATURAL{\i0} on you?
+Dialogue: 10,0:14:31.28,0:14:33.88,Default,,0,0,0,,Do you have the novel \Nversion of {\i1}+Natural{\i0} on you?
 Dialogue: 10,0:14:34.52,0:14:35.52,Default,,0,0,0,,Yes.
 Dialogue: 10,0:14:35.52,0:14:38.19,Default,,0,0,0,,Since I'm their editor now, \NI carry a copy with me.
 Dialogue: 10,0:14:38.19,0:14:39.77,Default,,0,0,0,,Can you show it to us?
@@ -6339,7 +6339,7 @@ Dialogue: 10,0:14:55.08,0:14:58.08,Default,,0,0,0,,He cuts out the unneeded\N pa
 Dialogue: 10,0:14:58.08,0:15:01.54,Default,,0,0,0,,and inserts new scenes as necessary.
 Dialogue: 10,0:15:02.04,0:15:03.38,Default,,0,0,0,,If you compare the two,
 Dialogue: 10,0:15:03.38,0:15:05.32,Default,,0,0,0,,you'll see that Niizuma's expressiveness
-Dialogue: 10,0:15:05.32,0:15:08.13,Default,,0,0,0,,made {\i1}+NATURAL{\i0} much better.
+Dialogue: 10,0:15:05.32,0:15:08.13,Default,,0,0,0,,made {\i1}+Natural{\i0} much better.
 Dialogue: 10,0:15:09.59,0:15:10.76,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:15:10.76,0:15:12.06,Default,,0,0,0,,He's done so much with it,
 Dialogue: 10,0:15:12.06,0:15:14.51,Default,,0,0,0,,I'd say this is more about his imagination than his expression.
@@ -6378,7 +6378,7 @@ Dialogue: 10,0:16:22.58,0:16:23.71,Default,,0,0,0,,Thanks.
 Dialogue: 10,0:16:24.83,0:16:26.63,Default,,0,0,0,,I'm glad you told me \Nto come here right away.
 Dialogue: 10,0:16:27.04,0:16:28.59,Default,,0,0,0,,Thanks to you,\N I have no more doubts.
 Dialogue: 10,0:16:31.55,0:16:32.97,Default,,0,0,0,,Hattori,
-Dialogue: 10,0:16:32.97,0:16:35.34,Default,,0,0,0,,I'll take what you've \Ndone with {\i1}+NATURAL
+Dialogue: 10,0:16:32.97,0:16:35.34,Default,,0,0,0,,I'll take what you've \Ndone with {\i1}+Natural
 Dialogue: 10,0:16:35.34,0:16:37.85,Default,,0,0,0,,and use that popularity\N to my advantage.
 Dialogue: 10,0:16:37.85,0:16:38.97,Default,,0,0,0,,I won't lose to you!
 Dialogue: 10,0:16:40.18,0:16:42.89,Default,,0,0,0,,Yeah, bring it on!
@@ -6442,7 +6442,7 @@ Dialogue: 10,0:19:06.08,0:19:07.28,Default,,0,0,0,,All right, then.
 Dialogue: 10,0:19:07.28,0:19:10.00,Default,,0,0,0,,I'll contact you after\N noon on the 2nd.
 Dialogue: 10,0:19:10.54,0:19:11.38,Default,,0,0,0,,Bye.
 Dialogue: 10,0:19:13.71,0:19:15.55,Default,,0,0,0,,Oh, he's here.
-Dialogue: 10,0:19:16.38,0:19:19.47,Default,,0,0,0,,This is Miura, the editor who will be taking over {\i1}+NATURAL{\i0}.
+Dialogue: 10,0:19:16.38,0:19:19.47,Default,,0,0,0,,This is Miura, the editor who will be taking over {\i1}+Natural{\i0}.
 Dialogue: 10,0:19:19.47,0:19:21.55,Default,,0,0,0,,I'm Miura Goro.
 Dialogue: 10,0:19:21.55,0:19:22.84,Default,,0,0,0,,Nice to meet you.
 Dialogue: 10,0:19:22.84,0:19:26.77,Default,,0,0,0,,Oh, you were \NAshirogi's editor, right?
