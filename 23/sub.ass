@@ -587,24 +587,24 @@ Dialogue: 1,0:23:15.04,0:23:20.54,Lyrics-Jap,,0,0,0,,boku no namae yobu sono koe
 Dialogue: 1,0:23:21.96,0:23:28.47,Lyrics-Jap,,0,0,0,,zutto zutto shitteta ki ga shita n da
 Dialogue: 1,0:23:29.38,0:23:35.39,Lyrics-Jap,,0,0,0,,boku no yubisaki de egaita
 Dialogue: 1,0:23:35.39,0:23:41.77,Lyrics-Jap,,0,0,0,,subete no sen wa kimi ni tsuzuku kakehashi sa
-Dialogue: 1,0:23:41.77,0:23:45.27,Lyrics-Jap,,0,0,0,,Show me the way bokura no michi kitto
-Dialogue: 1,0:23:45.27,0:23:48.90,Lyrics-Jap,,0,0,0,,Believe in your way hitosuji ni tsunagari
-Dialogue: 1,0:23:48.90,0:23:55.16,Lyrics-Jap,,0,0,0,,Show me the way yakusoku no basho e tsuzuku
-Dialogue: 1,0:23:56.03,0:23:59.50,Lyrics-Jap,,0,0,0,,Show me the way akirametari shinaide
-Dialogue: 1,0:23:59.50,0:24:03.12,Lyrics-Jap,,0,0,0,,Believe in your way sono hitomi wo agete
-Dialogue: 1,0:24:03.12,0:24:11.13,Lyrics-Jap,,0,0,0,,Show me the way bokura wa massugu deau sa
+Dialogue: 1,0:23:41.77,0:23:45.27,Lyrics-Jap,,0,0,0,,(Show me the way) bokura no michi kitto
+Dialogue: 1,0:23:45.27,0:23:48.90,Lyrics-Jap,,0,0,0,,(Believe in your way) hitosuji ni tsunagari
+Dialogue: 1,0:23:48.90,0:23:55.16,Lyrics-Jap,,0,0,0,,(Show me the way) yakusoku no basho e tsuzuku
+Dialogue: 1,0:23:56.03,0:23:59.50,Lyrics-Jap,,0,0,0,,(Show me the way) akirametari shinaide
+Dialogue: 1,0:23:59.50,0:24:03.12,Lyrics-Jap,,0,0,0,,(Believe in your way) sono hitomi wo agete
+Dialogue: 1,0:24:03.12,0:24:11.13,Lyrics-Jap,,0,0,0,,(Show me the way) bokura wa massugu deau sa
 Dialogue: 0,0:23:00.81,0:23:06.36,Lyrics-Eng,,0,0,0,,The reason I chose to take a detour
 Dialogue: 0,0:23:07.74,0:23:14.24,Lyrics-Eng,,0,0,0,,was to fall ever deeper in love with you
 Dialogue: 0,0:23:15.04,0:23:20.54,Lyrics-Eng,,0,0,0,,I have a feeling I've always known
 Dialogue: 0,0:23:21.96,0:23:28.47,Lyrics-Eng,,0,0,0,,what your voice sounds like when it calls my name
 Dialogue: 0,0:23:29.38,0:23:35.39,Lyrics-Eng,,0,0,0,,With my fingertips I drew
 Dialogue: 0,0:23:35.39,0:23:41.77,Lyrics-Eng,,0,0,0,,many lines that make up a suspension bridge leading to you
-Dialogue: 0,0:23:41.77,0:23:45.27,Lyrics-Eng,,0,0,0,,Show me the way I'm sure our path
-Dialogue: 0,0:23:45.27,0:23:48.90,Lyrics-Eng,,0,0,0,,Believe in your way connects us without any turns
-Dialogue: 0,0:23:48.90,0:23:55.16,Lyrics-Eng,,0,0,0,,Show me the way It leads to the place where we promised
-Dialogue: 0,0:23:56.03,0:23:59.50,Lyrics-Eng,,0,0,0,,Show me the way I will never give up
-Dialogue: 0,0:23:59.50,0:24:03.12,Lyrics-Eng,,0,0,0,,Believe in your way Raise your gaze
-Dialogue: 0,0:24:03.12,0:24:11.13,Lyrics-Eng,,0,0,0,,Show me the way and see that we're certain to meet again
+Dialogue: 0,0:23:41.77,0:23:45.27,Lyrics-Eng,,0,0,0,,(Show me the way) I'm sure our path
+Dialogue: 0,0:23:45.27,0:23:48.90,Lyrics-Eng,,0,0,0,,(Believe in your way) connects us without any turns
+Dialogue: 0,0:23:48.90,0:23:55.16,Lyrics-Eng,,0,0,0,,(Show me the way) It leads to the place where we promised
+Dialogue: 0,0:23:56.03,0:23:59.50,Lyrics-Eng,,0,0,0,,(Show me the way) I will never give up
+Dialogue: 0,0:23:59.50,0:24:03.12,Lyrics-Eng,,0,0,0,,(Believe in your way) Raise your gaze
+Dialogue: 0,0:24:03.12,0:24:11.13,Lyrics-Eng,,0,0,0,,(Show me the way) and see that we're certain to meet again
 Dialogue: 0,0:01:45.50,0:01:49.00,Ep Titles,,0,0,0,,{\pos(640,464.62)\blur0.334}Win and Lose
 Dialogue: 0,0:24:14.97,0:24:19.10,NextEpTitle,,0,0,0,,{\blur0.334\pos(79.676,519.696)}Next\NEpisode
 Dialogue: 0,0:24:20.77,0:24:29.99,NextEpTitle,,0,0,0,,{\blur0.334\an9\pos(1214,56)}Expression and \NImagination
