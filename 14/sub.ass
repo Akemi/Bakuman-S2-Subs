@@ -19,9 +19,9 @@ Keyframes File: ep14_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 3373
-Active Line: 3384
-Video Position: 16278
+Scroll Position: 3640
+Active Line: 3650
+Video Position: 35090
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -3727,4 +3727,4 @@ Dialogue: 10,0:24:18.52,0:24:20.77,Default,,0,0,0,,It's sink or swim for me, \Nt
 Dialogue: 10,0:24:20.77,0:24:22.19,Default,,0,0,0,,We're both in rough spots.
 Dialogue: 10,0:24:22.19,0:24:23.52,Default,,0,0,0,,Next time on Bakuman:
 Dialogue: 10,0:24:23.52,0:24:24.60,Default,,0,0,0,,Monkeys and Marriage.
-Dialogue: 10,0:24:24.60,0:24:28.61,Default,,0,0,0,,It's just a dream, but I \Nwant to be popular too!
+Dialogue: 10,0:24:24.60,0:24:28.61,Default,,140,0,0,,It's just a dream, but I \Nwant to be popular too!
