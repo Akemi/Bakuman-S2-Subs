@@ -14,14 +14,13 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ep23.mkv
-Video File: ep23.mkv
-Keyframes File: ep23_keyframes.log
+Audio File: D:/12laus/Downloads/bakuman s3/Bakuman-S2-Subs/23/ep23.mkv
+Video File: D:/12laus/Downloads/bakuman s3/Bakuman-S2-Subs/23/ep23.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.000000
-Active Line: 12
-Video Position: 11494
+Video Zoom Percent: 0.500000
+Active Line: 11
+Video Position: 3268
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -83,7 +82,7 @@ Dialogue: 10,0:01:55.01,0:02:01.00,Default-Italic,,0,0,0,,everyone puts their di
 Dialogue: 10,0:02:01.68,0:02:06.10,Default-Italic,,0,0,0,,Then 80% of the students \Ngo to play on the playground,
 Dialogue: 10,0:02:06.10,0:02:08.70,Default-Italic,,0,0,0,,while 20% remain at their desks.
 Dialogue: 10,0:02:09.52,0:02:15.69,Default-Italic,,0,0,0,,For example, Takahashi spends lunch break pretending to study.
-Dialogue: 10,0:02:16.28,0:02:20.24,Default-Italic,,0,0,0,,So, while he puts his dishes away, what will happen 
+Dialogue: 10,0:02:16.28,0:02:20.24,Default-Italic,,0,0,0,,So, while he puts his dishes away, what will happen...
 Dialogue: 10,0:02:20.24,0:02:26.25,Default-Italic,,0,0,0,,if I covertly place my \Ndishes on Takahashi's desk?
 Dialogue: 10,0:02:29.12,0:02:32.54,Default-Italic,,0,0,0,,It's a perfect crime!
 Dialogue: 10,0:02:32.54,0:02:34.71,Default,,0,0,0,,What's this?
