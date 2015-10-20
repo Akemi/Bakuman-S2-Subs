@@ -18,10 +18,10 @@ Video File: ep25.mkv
 Keyframes File: ep25_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 530
-Active Line: 547
-Video Position: 31961
+Video Zoom Percent: 1.000000
+Scroll Position: 770
+Active Line: 820
+Video Position: 32218
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -72,6 +72,7 @@ Style: Insert-Jap,Corbel,40,&H00E6E8E6,&H000000FF,&H00121210,&H00000000,0,0,0,0,
 Style: Insert-Eng,Corbel,40,&H00E6E8E6,&H000000FF,&H00121210,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,20,10,10,1
 Style: Signs2,Odense,80,&H00000100,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
 Style: Signs3,Corbel,50,&H00E1E1DD,&H000000FF,&H001D1E1F,&H00000000,0,0,0,0,100,100,0,0,1,2.47352,0,2,15,15,27,1
+Style: Signs,Kozuka Mincho Pr6N,80,&H00000100,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -696,3 +697,203 @@ Dialogue: 0,0:19:39.03,0:19:42.28,Detective,,0,0,0,,{\fax-0.15\bord0\blur1\fsp-3
 Dialogue: 0,0:19:39.03,0:19:42.28,Detective,,0,0,0,,{\fax-0.25\bord0\fs75\blur1\fsp-3\fscx45\fscy45\frx0\fry2\frz2.779\c&H94867D&\pos(453,703)}Road Racer Buchigiri
 Dialogue: 0,0:20:45.22,0:20:46.76,Huge,,0,0,0,,{\an1\fscx160\fscy160\fs60\blur1\c&HDDDDD6&\pos(640,269)}N{\c&HCBC8C4&}i{\c&HCDCAC3&}i{\c&HCDC9C3&}z{\c&HD9D9D4&}u{\c&HDFDEDA&}m{\c&HF9F8F3&}a
 Dialogue: 0,0:20:45.22,0:20:46.76,Huge,,0,0,0,,{\an1\blur1\c&H433E3E&\frx0\fry0\fscx135\fscy135\pos(884,653)}Eiji  Ltd.
+Dialogue: 3,0:22:19.60,0:22:19.65,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-483.333)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:19.65,0:22:19.69,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-473.203)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:19.69,0:22:19.73,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-464.406)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:19.73,0:22:19.77,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-454.944)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:19.77,0:22:19.81,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-446.147)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:19.81,0:22:19.86,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-436.683)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:19.86,0:22:19.90,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-427.22)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:19.90,0:22:19.94,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-417.757)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:19.94,0:22:19.98,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-408.95)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:19.98,0:22:20.02,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-399.487)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:20.02,0:22:20.06,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-390.024)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:20.06,0:22:20.11,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-380.56)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:20.11,0:22:20.15,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-371.764)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:20.15,0:22:20.19,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-362.3)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:20.19,0:22:20.23,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-353.503)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:20.23,0:22:20.27,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-344.707)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:20.27,0:22:20.31,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-335.9)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:20.31,0:22:20.36,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-326.437)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:20.36,0:22:20.40,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-316.974)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:20.40,0:22:20.44,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-308.843)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:20.44,0:22:20.48,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-299.38)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:20.48,0:22:20.52,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-291.25)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:20.52,0:22:20.56,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-282.453)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:20.56,0:22:20.61,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-272.98)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:20.61,0:22:20.65,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-264.85)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:20.65,0:22:20.69,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-256.053)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:20.69,0:22:20.73,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-247.923)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:20.73,0:22:20.77,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-239.793)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:20.77,0:22:20.81,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-230.33)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:20.81,0:22:20.86,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-222.866)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:20.86,0:22:20.90,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-214.737)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:20.90,0:22:20.94,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-206.597)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:20.94,0:22:20.98,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-198.467)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:20.98,0:22:21.02,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-190.337)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:21.02,0:22:21.06,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-182.873)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:21.06,0:22:21.11,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-174.744)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:21.11,0:22:21.15,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-166.613)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:21.15,0:22:21.19,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-159.15)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:21.19,0:22:21.23,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-151.687)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:21.23,0:22:21.27,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-143.547)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:21.27,0:22:21.31,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-137.417)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:21.31,0:22:21.36,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-129.953)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:21.36,0:22:21.40,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-121.824)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:21.40,0:22:21.44,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-115.026)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:21.44,0:22:21.48,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-108.23)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:21.48,0:22:21.52,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-100.1)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:21.52,0:22:21.57,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-93.96)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:21.57,0:22:21.61,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-87.164)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:21.61,0:22:21.65,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-80.367)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:21.65,0:22:21.69,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-74.236)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:21.69,0:22:21.73,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-67.44)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:21.73,0:22:21.77,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-61.31)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:21.77,0:22:21.82,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-55.18)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:21.82,0:22:21.86,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-49.05)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:21.86,0:22:21.90,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-42.91)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:21.90,0:22:21.94,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-37.446)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:21.94,0:22:21.98,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-31.317)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:21.98,0:22:22.02,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-25.187)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:22.02,0:22:22.07,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-19.723)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:22.07,0:22:22.11,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-12.926)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:22.11,0:22:22.15,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-8.796)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:22.15,0:22:22.19,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,-3.99)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:22.19,0:22:22.23,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,2.14)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:22.23,0:22:22.27,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,7.603)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:22.27,0:22:22.32,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,12.4)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:22.32,0:22:22.36,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,17.197)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:22.36,0:22:22.40,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,21.993)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:22.40,0:22:22.44,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,26.123)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:22.44,0:22:22.48,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,30.92)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:22.48,0:22:22.52,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,35.727)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:22.52,0:22:22.57,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,40.523)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:22.57,0:22:22.61,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,44.653)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:22.61,0:22:22.65,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,48.783)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:22.65,0:22:22.69,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,52.913)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:22.69,0:22:22.73,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,57.043)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:22.73,0:22:22.77,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,61.173)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:22.77,0:22:22.82,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,64.637)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:22.82,0:22:22.86,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,68.11)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:22.86,0:22:22.90,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,71.573)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:22.90,0:22:22.94,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,75.703)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:22.94,0:22:22.98,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,78.5)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:22.98,0:22:23.02,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,82.63)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:23.02,0:22:23.07,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,85.427)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:23.07,0:22:23.11,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,88.89)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:23.11,0:22:23.15,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,91.697)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:23.15,0:22:23.19,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,95.16)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:23.19,0:22:23.23,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,97.29)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:23.23,0:22:23.28,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,100.753)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:23.28,0:22:23.32,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,102.883)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:23.32,0:22:23.36,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,106.347)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:23.36,0:22:23.40,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,108.477)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:23.40,0:22:23.44,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,109.94)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:23.44,0:22:23.48,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,112.747)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:23.48,0:22:23.53,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,115.543)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:23.53,0:22:23.57,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,116.34)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:23.57,0:22:23.61,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,118.47)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:23.61,0:22:23.65,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,119.267)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:23.65,0:22:23.69,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,121.397)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:23.69,0:22:23.73,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,122.86)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 3,0:22:23.73,0:22:23.78,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(349.333,123.667)\an7\fs43\b1\blur1.2\c&H1D4261&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:19.60,0:22:19.65,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-485.333)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:19.65,0:22:19.69,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-475.203)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:19.69,0:22:19.73,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-466.406)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:19.73,0:22:19.77,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-456.944)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:19.77,0:22:19.81,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-448.147)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:19.81,0:22:19.86,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-438.683)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:19.86,0:22:19.90,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-429.22)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:19.90,0:22:19.94,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-419.757)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:19.94,0:22:19.98,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-410.95)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:19.98,0:22:20.02,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-401.487)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:20.02,0:22:20.06,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-392.024)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:20.06,0:22:20.11,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-382.56)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:20.11,0:22:20.15,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-373.764)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:20.15,0:22:20.19,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-364.3)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:20.19,0:22:20.23,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-355.503)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:20.23,0:22:20.27,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-346.707)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:20.27,0:22:20.31,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-337.9)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:20.31,0:22:20.36,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-328.437)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:20.36,0:22:20.40,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-318.974)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:20.40,0:22:20.44,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-310.843)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:20.44,0:22:20.48,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-301.38)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:20.48,0:22:20.52,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-293.25)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:20.52,0:22:20.56,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-284.453)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:20.56,0:22:20.61,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-274.98)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:20.61,0:22:20.65,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-266.85)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:20.65,0:22:20.69,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-258.053)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:20.69,0:22:20.73,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-249.923)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:20.73,0:22:20.77,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-241.793)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:20.77,0:22:20.81,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-232.33)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:20.81,0:22:20.86,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-224.866)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:20.86,0:22:20.90,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-216.737)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:20.90,0:22:20.94,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-208.597)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:20.94,0:22:20.98,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-200.467)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:20.98,0:22:21.02,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-192.337)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:21.02,0:22:21.06,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-184.873)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:21.06,0:22:21.11,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-176.744)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:21.11,0:22:21.15,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-168.613)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:21.15,0:22:21.19,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-161.15)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:21.19,0:22:21.23,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-153.687)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:21.23,0:22:21.27,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-145.547)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:21.27,0:22:21.31,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-139.417)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:21.31,0:22:21.36,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-131.953)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:21.36,0:22:21.40,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-123.824)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:21.40,0:22:21.44,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-117.026)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:21.44,0:22:21.48,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-110.23)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:21.48,0:22:21.52,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-102.1)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:21.52,0:22:21.57,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-95.96)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:21.57,0:22:21.61,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-89.164)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:21.61,0:22:21.65,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-82.367)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:21.65,0:22:21.69,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-76.236)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:21.69,0:22:21.73,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-69.44)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:21.73,0:22:21.77,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-63.31)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:21.77,0:22:21.82,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-57.18)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:21.82,0:22:21.86,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-51.05)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:21.86,0:22:21.90,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-44.91)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:21.90,0:22:21.94,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-39.446)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:21.94,0:22:21.98,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-33.317)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:21.98,0:22:22.02,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-27.187)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:22.02,0:22:22.07,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-21.723)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:22.07,0:22:22.11,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-14.926)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:22.11,0:22:22.15,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-10.796)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:22.15,0:22:22.19,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,-5.99)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:22.19,0:22:22.23,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,0.14)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:22.23,0:22:22.27,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,5.603)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:22.27,0:22:22.32,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,10.4)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:22.32,0:22:22.36,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,15.197)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:22.36,0:22:22.40,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,19.993)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:22.40,0:22:22.44,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,24.123)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:22.44,0:22:22.48,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,28.92)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:22.48,0:22:22.52,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,33.727)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:22.52,0:22:22.57,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,38.523)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:22.57,0:22:22.61,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,42.653)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:22.61,0:22:22.65,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,46.783)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:22.65,0:22:22.69,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,50.913)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:22.69,0:22:22.73,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,55.043)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:22.73,0:22:22.77,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,59.173)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:22.77,0:22:22.82,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,62.637)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:22.82,0:22:22.86,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,66.11)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:22.86,0:22:22.90,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,69.573)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:22.90,0:22:22.94,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,73.703)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:22.94,0:22:22.98,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,76.5)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:22.98,0:22:23.02,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,80.63)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:23.02,0:22:23.07,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,83.427)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:23.07,0:22:23.11,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,86.89)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:23.11,0:22:23.15,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,89.697)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:23.15,0:22:23.19,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,93.16)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:23.19,0:22:23.23,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,95.29)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:23.23,0:22:23.28,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,98.753)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:23.28,0:22:23.32,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,100.883)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:23.32,0:22:23.36,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,104.347)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:23.36,0:22:23.40,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,106.477)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:23.40,0:22:23.44,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,107.94)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:23.44,0:22:23.48,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,110.747)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:23.48,0:22:23.53,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,113.543)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:23.53,0:22:23.57,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,114.34)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:23.57,0:22:23.61,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,116.47)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:23.61,0:22:23.65,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,117.267)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:23.65,0:22:23.69,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,119.397)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:23.69,0:22:23.73,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,120.86)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
+Dialogue: 2,0:22:23.73,0:22:23.78,Signs,,0,0,0,,{\fn@Kozuka Mincho Pr6N\pos(351.333,121.667)\an7\fs43\b1\blur1.2\c&H171D29&\frz-90\frx0\fry324\fax0}Ｍａｓｈｉｒｏ   {\fax0.2}Ｆａｍｉｌｙ   {\fax0.25}Ｇｒａｖｅ
