@@ -20,9 +20,9 @@ Keyframes File: ep21_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 838
-Active Line: 847
-Video Position: 15564
+Scroll Position: 656
+Active Line: 676
+Video Position: 5240
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -748,7 +748,7 @@ Dialogue: 10,0:03:30.81,0:03:32.28,Default,,0,0,0,,Before you think \Nabout our 
 Dialogue: 10,0:03:32.28,0:03:34.40,Default,,0,0,0,,you've got to focus on \Nwrapping up {\i1}Tanto{\i0}, right?
 Dialogue: 10,0:03:34.40,0:03:35.36,Default,,0,0,0,,I know, but...
 Dialogue: 10,0:03:35.90,0:03:38.54,Default,,0,0,0,,If we don't submit something that can compete with Eiji's work
-Dialogue: 10,0:03:38.54,0:03:40.74,Default,,0,0,0,[unreadable],to one of the three serialization committees over the next six months,
+Dialogue: 10,0:03:38.54,0:03:40.74,Default,,0,0,0,,to one of the three serialization committees over the next six months,
 Dialogue: 10,0:03:40.74,0:03:42.66,Default,,0,0,0,,we can't draw for Jack anymore.
 Dialogue: 10,0:03:42.66,0:03:43.95,Default,,0,0,0,,Are you regretting it?
 Dialogue: 10,0:03:43.95,0:03:46.66,Default,,0,0,0,,No, I'm super fired up.

@@ -19,9 +19,9 @@ Keyframes File: ep11_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 5609
-Active Line: 5618
-Video Position: 11393
+Scroll Position: 5740
+Active Line: 5753
+Video Position: 19672
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -5511,10 +5511,10 @@ Dialogue: 0,0:04:31.50,0:04:31.54,Ohmotherofgod,,0,0,0,,{\pos(383.46,-169.65)\fa
 Dialogue: 0,0:04:31.50,0:04:31.54,Ohmotherofgod,,0,0,0,,{\pos(348.56,-159.65)\fax0.2\fsp-1\blur0.8\c&H5B5B59&\fs20\frz90.571}Illustrations{\1a&HFF&}__
 Dialogue: 0,0:04:31.50,0:04:31.54,lul,,0,0,0,,{\pos(1130.33,-260.65)\fsp-1\fax-0.2\blur1.2\c&H5B5B59&\bord0\frz10.725}Boring
 Dialogue: 0,0:04:31.50,0:04:31.54,lul,,0,0,0,,{\pos(1045.57,-114.65)\fsp-1\fax-0.2\blur1.2\c&H5B5B59&\bord1\frz8.811\3c&HFCFCFA&}Very interesting!!
-Dialogue: 0,0:04:31.50,0:04:31.54,lul,,0,0,0,,{\pos(1132.32,-11.65)\fsp-1\fax-0.2\blur1.2\c&H5B5B59&\bord0\frz8.591}Boring {}
-Dialogue: 0,0:04:31.50,0:04:31.54,lul,,0,0,0,,{\pos(1132.32,112.35)\fsp-1\fax-0.2\blur1.2\c&H5B5B59&\bord0\frz7.957}Boring {}
-Dialogue: 0,0:04:31.50,0:04:31.54,lul,,0,0,0,,{\pos(1132.32,237.35)\fsp-1\fax-0.2\blur1.2\c&H5B5B59&\bord0\frz6.714}Boring {}
-Dialogue: 1,0:04:31.50,0:04:31.54,Ohmotherofgod,,0,0,0,,{\pos(225,364)\fscx160\fscy170\fsp-1\fax-0.2\blur0.8\frz9.141\c&H6D6C6B&\bord0}r {}
+Dialogue: 0,0:04:31.50,0:04:31.54,lul,,0,0,0,,{\pos(1132.32,-11.65)\fsp-1\fax-0.2\blur1.2\c&H5B5B59&\bord0\frz8.591}Boring
+Dialogue: 0,0:04:31.50,0:04:31.54,lul,,0,0,0,,{\pos(1132.32,112.35)\fsp-1\fax-0.2\blur1.2\c&H5B5B59&\bord0\frz7.957}Boring
+Dialogue: 0,0:04:31.50,0:04:31.54,lul,,0,0,0,,{\pos(1132.32,237.35)\fsp-1\fax-0.2\blur1.2\c&H5B5B59&\bord0\frz6.714}Boring
+Dialogue: 1,0:04:31.50,0:04:31.54,Ohmotherofgod,,0,0,0,,{\pos(225,364)\fscx160\fscy170\fsp-1\fax-0.2\blur0.8\frz9.141\c&H6D6C6B&\bord0}r
 Dialogue: 0,0:04:31.50,0:04:31.54,Ohmotherofgod,,0,0,0,,{\pos(222,357)\fscx130\fscy100\fsp-1\fax-0.2\blur0.8\frz9.141\1a&HFF&}r
 Dialogue: 0,0:04:31.50,0:04:31.54,signs3,,0,0,0,,{\pos(199,409)\fsp-1\fax-0.13\blur0.8\c&H5B5B59&\bord0\frz3.002\fscx52\fscy54.5\frx0\fry358}Tanaka Mitsuko (21), Fukushima
 Dialogue: 0,0:04:31.50,0:04:31.54,signs3,,0,0,0,,{\pos(179,436)\fsp-1\fax-0.09\blur0.8\c&H5B5B59&\bord0\frx0\fry0\fscx57\fscy57\frz2.122}Inside-out Chebu
@@ -5523,7 +5523,7 @@ Dialogue: 0,0:04:31.50,0:04:31.54,signs3,,0,0,0,,{\pos(164,609)\fsp-1\fax-0.08\b
 Dialogue: 0,0:04:31.50,0:04:31.54,signs3,,0,0,0,,{\pos(145,633)\fsp-1\fax-0.06\blur0.8\c&H5B5B59&\bord0\fscx57\fscy57\frz359.995\frx358\fry356}Flying Hero
 Dialogue: 0,0:04:31.50,0:04:31.54,signs3,,0,0,0,,{\pos(194,709)\fsp-1\fax0.01\blur0.8\c&H5B5B59&\bord0\frx358\fry356\frz358.393\fscx53.25\fscy54.5}Yoshida Maruo (17), Kanagawa
 Dialogue: 0,0:04:31.50,0:04:31.54,lul,,0,0,0,,{\pos(1133,364)\fsp-1\fax-0.175\blur1.2\c&H5B5B59&\bord0\frz2.956}Boring
-Dialogue: 0,0:04:31.50,0:04:31.54,lul,,0,0,0,,{\pos(1144,490)\fsp-1\fax-0.1\blur1.2\c&H5B5B59&\bord0\frz2.956}Ditto  {1}
+Dialogue: 0,0:04:31.50,0:04:31.54,lul,,0,0,0,,{\pos(1144,490)\fsp-1\fax-0.1\blur1.2\c&H5B5B59&\bord0\frz2.956}Ditto
 Dialogue: 0,0:04:31.50,0:04:31.54,lul,,0,0,0,,{\pos(1143,614)\fsp-1\fax-0.075\blur1.2\c&H5B5B59&\bord0\frz2.956}Ditto
 Dialogue: 0,0:04:31.50,0:04:31.54,signs3,,0,0,0,,{\pos(154.11,-293.65)\fsp-1\fax-0.3\blur0.8\bord0\shad0\frz13.189\fscx100\fscy100\c&H636362&}56th (Feb.)
 Dialogue: 0,0:04:31.54,0:04:31.58,signs3,,0,0,0,,{\pos(202.97,7.5)\fsp-1\fax-0.21\blur0.8\c&H5B5B59&\bord0\frz9.141\fscx57\fscy57}Tadokoro Sasuke (25), Tokyo
@@ -5539,7 +5539,7 @@ Dialogue: 0,0:04:31.54,0:04:33.04,signs3,,0,0,0,,{\move(145,632.5,145,539.5)\fsp
 Dialogue: 0,0:04:31.54,0:04:33.04,signs3,,0,0,0,,{\move(194,707.5,194,614.5)\fsp-1\fax0.01\blur0.8\c&H5B5B59&\bord0\frx358\fry356\frz358.393\fscx53.25\fscy54.5\t(\c&H000000&)}Yoshida Maruo (17), Kanagawa
 Dialogue: 1,0:04:31.54,0:04:33.04,Ohmotherofgod,,0,0,0,,{\move(225,363,225,269.5)\fscx160\fscy170\fsp-1\fax-0.2\blur0.8\frz9.141\c&H6D6C6B&\bord0\t(\c&H000000&)}r
 Dialogue: 0,0:04:31.54,0:04:33.04,Ohmotherofgod,,0,0,0,,{\move(222,356,222,262.5)\3c&HEFEFED&\fscx130\fscy100\fsp-1\fax-0.2\blur0.8\frz9.141\1a&HFF&\t(\3c&H000000&)}r
-Dialogue: 0,0:04:31.54,0:04:33.04,lul,,0,0,0,,{\move(1132.32,-14,1132.32,-101)\fsp-1\fax-0.2\blur1.2\c&H5B5B59&\bord0\frz8.591\t(\c&H000000&)}Boring {}
+Dialogue: 0,0:04:31.54,0:04:33.04,lul,,0,0,0,,{\move(1132.32,-14,1132.32,-101)\fsp-1\fax-0.2\blur1.2\c&H5B5B59&\bord0\frz8.591\t(\c&H000000&)}Boring
 Dialogue: 0,0:04:31.54,0:04:33.04,lul,,0,0,0,,{\move(1132.32,111,1132.32,18)\fsp-1\fax-0.2\blur1.2\c&H5B5B59&\bord0\frz7.957\t(\c&H000000&)}Boring
 Dialogue: 0,0:04:31.54,0:04:33.04,lul,,0,0,0,,{\move(1132.32,236,1132.32,143)\fsp-1\fax-0.2\blur1.2\c&H5B5B59&\bord0\frz6.714\t(\c&H000000&)}Boring
 Dialogue: 0,0:04:31.54,0:04:33.04,lul,,0,0,0,,{\move(1133,362.5,1133,269.5)\fsp-1\fax-0.175\blur1.2\c&H5B5B59&\bord0\frz2.956\t(\c&H000000&)}Boring
@@ -5821,7 +5821,7 @@ Dialogue: 10,0:13:29.99,0:13:34.96,Default,,0,0,0,,the consensus on {\i1}TEN{\i0
 Dialogue: 10,0:13:34.96,0:13:38.13,Default,,0,0,0,,but they want to have a longer break between your serializations,
 Dialogue: 10,0:13:38.13,0:13:39.29,Default,,0,0,0,,so it became a one-shot.
 Dialogue: 10,0:13:39.29,0:13:40.46,Default,,0,0,0,,Is that all?
-Dialogue: 10,0:13:40.46,0:13:41.96,Default,,0,0,0,,Roughly. {}
+Dialogue: 10,0:13:40.46,0:13:41.96,Default,,0,0,0,,Roughly.
 Dialogue: 10,0:13:41.96,0:13:44.51,Default,,0,0,0,,What about {\i1}Future Watch{\i0}\N from the monthly contest?
 Dialogue: 10,0:13:45.26,0:13:46.76,Default,,0,0,0,,Right.
 Dialogue: 10,0:13:46.76,0:13:48.35,Default,,0,0,0,,All of the judges

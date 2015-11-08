@@ -20,9 +20,9 @@ Keyframes File: ep20_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 164
-Active Line: 185
-Video Position: 14242
+Scroll Position: 542
+Active Line: 571
+Video Position: 9961
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -226,7 +226,7 @@ Dialogue: 10,0:08:32.72,0:08:34.57,Default,,0,0,0,,I know these two have talent.
 Dialogue: 10,0:08:34.57,0:08:35.45,Default,,0,0,0,,One day,
 Dialogue: 10,0:08:35.45,0:08:38.87,Default,,0,0,0,,they will become famous mangakas who will support Shounen Jack.
 Dialogue: 10,0:08:38.87,0:08:41.45,Default-Alt,,0,0,0,,I believe in this.
-Dialogue: 10,0:08:41.45,0:08:48.54,Default-Alt,,0,0,0,,{overhead}Akito is a lucky man to have a wife like\N Kaya and a partner like Moritaka Mashiro.
+Dialogue: 10,0:08:41.45,0:08:48.54,Default-Alt,,0,0,0,,Akito is a lucky man to have a wife like\N Kaya and a partner like Moritaka Mashiro.
 Dialogue: 10,0:08:39.24,0:08:41.45,Default-Italic,,0,0,0,,He didn't say anything about {\i1}Tanto{\i0}.
 Dialogue: 10,0:08:42.08,0:08:43.07,Default-Italic,,0,0,0,,Eiji,
 Dialogue: 10,0:08:43.07,0:08:44.67,Default-Italic,,0,0,0,,and now Hattori...
@@ -644,7 +644,7 @@ Dialogue: 1,0:06:55.43,0:06:58.89,HugeJR,,0,0,0,,{\fsp-1\an1\b0\c&H666669&\blur1
 Dialogue: 0,0:06:55.43,0:06:58.89,subbox,,0,0,0,,{\p1\blur1\pos(1054,271)\c&HECECF0&}m 0 0 b -44 97 31 71 28 128 l 106 126 l 84 -10 l 6 -1
 Dialogue: 0,0:06:55.43,0:06:58.89,subbox,,0,0,0,,{\p1\blur1\pos(824,329)\c&HEEEDF2&\clip()}m 0 0 l 24 118 b 51 143 94 127 130 131 122 133 173 149 212 109 237 37 197 -11 185 -19 l 0 0
 Dialogue: 0,0:06:55.43,0:06:58.89,subbox,,0,0,0,,{\p1\blur1\pos(514,434)\c&HEBECF1&}m 0 0 l 22 121 b 110 151 182 97 262 109 b 314 107 340 168 419 102 l 392 -52 l 0 0
-Dialogue: 0,0:06:55.43,0:06:58.89,subbox,,0,0,0,,{\p1\blur1\pos(167,562)\c&HEBEBF0&}m 0 0 l 2 250 l 338 201 l 294 -49 l 0 0{\p0} {lab}
+Dialogue: 0,0:06:55.43,0:06:58.89,subbox,,0,0,0,,{\p1\blur1\pos(167,562)\c&HEBEBF0&}m 0 0 l 2 250 l 338 201 l 294 -49 l 0 0
 Dialogue: 0,0:06:55.43,0:06:58.89,subbox,,0,0,0,,{\p1\blur1\pos(1063,686)\c&HE8E6EB&}m 0 0 b 1 88 31 101 46 151 b 57 162 86 158 103 155 l 74 -7 l 0 0
 Dialogue: 0,0:06:55.43,0:06:58.89,subbox,,0,0,0,,{\p1\blur1\pos(779,672)\c&HE9E8ED&}m 0 0 l 10 61 b 125 82 234 54 279 56 l 272 -30 l 0 0
 Dialogue: 0,0:06:55.43,0:06:58.89,subbox,,0,0,0,,{\p1\blur1\pos(552,748)\c&HEAE8ED&}m 0 0 l 8 52 l 18 52 l 19 95 l 39 96 l 46 137 l 212 137 l 183 -24 l 0 0

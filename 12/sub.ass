@@ -19,9 +19,9 @@ Keyframes File: ep12_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 273
-Active Line: 290
-Video Position: 22773
+Scroll Position: 497
+Active Line: 519
+Video Position: 15536
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -580,15 +580,15 @@ Dialogue: 0,0:09:49.15,0:09:52.65,Huge,,0,0,0,,{\bord1\an8\blur1\fs53\3c&H434946
 Dialogue: 0,0:09:49.15,0:09:52.65,Huge,,0,0,0,,{\bord1\an8\blur1\fs53\3c&H434946&\fscx100\fscy135\b0\frx2\fry28\move(1178,112,1150,112,0,3484)\c&H434946&}Tue
 Dialogue: 0,0:09:49.15,0:09:52.65,Huge,,0,0,0,,{\bord1\an8\blur1\fs46\3c&H3A4442&\fscx100\fscy135\b0\frx2\fry28\move(1246,113,1215,113,0,3484)\c&H3A4442&}Wed
 Dialogue: 0,0:09:49.15,0:09:52.65,Huge,,0,0,0,,{\bord1\an8\blur1\fs53\fscx100\fscy135\b0\c&H786BB6&\3c&H786BB6&\frx2\fry32\move(1034,114,1005,114,0,3484)}Sun
-Dialogue: 0,0:10:47.62,0:10:47.66,Dates,,0,0,0,,{\blur0.8\fs31\bord0\frz5\frx12\fry352\pos(182,574)\c&H4F5354&}"TEN" Age {\frz0}Distribution{Sutai}
-Dialogue: 0,0:10:47.66,0:10:47.71,Dates,,0,0,0,,{\blur0.8\fs31\bord0\c&H4F5354&\frz5\frx12\fry352\pos(182,574)}"TEN" Age {\frz0}Distribution{Sutai}
-Dialogue: 0,0:10:47.71,0:10:47.75,Dates,,0,0,0,,{\blur0.8\fs31\bord0\c&H4F5354&\frz5\frx12\fry352\pos(182,574)}"TEN" Age {\frz0}Distribution{Sutai}
-Dialogue: 0,0:10:47.75,0:10:47.79,Dates,,0,0,0,,{\blur0.8\fs31\bord0\c&H4F5354&\frz5\frx12\fry352\pos(202,430)}"TEN" Age {\frz0}Distribution{Sutai}
-Dialogue: 0,0:10:47.79,0:10:47.83,Dates,,0,0,0,,{\blur0.8\fs31\bord0\c&H4F5354&\frz5\frx12\fry352\pos(202,430)}"TEN" Age {\frz0}Distribution{Sutai}
-Dialogue: 0,0:10:47.83,0:10:47.87,Dates,,0,0,0,,{\blur0.8\fs31\bord0\c&H4F5354&\frz5\frx12\fry352\pos(202,430)}"TEN" Age {\frz0}Distribution{Sutai}
-Dialogue: 0,0:10:47.87,0:10:47.91,Dates,,0,0,0,,{\blur0.8\fs31\bord0\c&H4F5354&\frz2\frx12\fry352\pos(214,305)}"TEN" Age {\frz-1}Distribution{Sutai}
-Dialogue: 0,0:10:47.91,0:10:47.96,Dates,,0,0,0,,{\blur0.8\fs31\bord0\c&H4F5354&\frz2\frx12\fry352\pos(214,305)}"TEN" Age {\frz-1}Distribution{Sutai}
-Dialogue: 0,0:10:47.96,0:10:56.34,Dates,,0,0,0,,{\blur0.8\fs31\bord0\c&H4F5354&\frz2\frx12\fry352\pos(214,305)}"TEN" Age {\frz-1}Distribution{Sutai}
+Dialogue: 0,0:10:47.62,0:10:47.66,Dates,,0,0,0,,{\blur0.8\fs31\bord0\frz5\frx12\fry352\pos(182,574)\c&H4F5354&}"TEN" Age {\frz0}Distribution
+Dialogue: 0,0:10:47.66,0:10:47.71,Dates,,0,0,0,,{\blur0.8\fs31\bord0\c&H4F5354&\frz5\frx12\fry352\pos(182,574)}"TEN" Age {\frz0}Distribution
+Dialogue: 0,0:10:47.71,0:10:47.75,Dates,,0,0,0,,{\blur0.8\fs31\bord0\c&H4F5354&\frz5\frx12\fry352\pos(182,574)}"TEN" Age {\frz0}Distribution
+Dialogue: 0,0:10:47.75,0:10:47.79,Dates,,0,0,0,,{\blur0.8\fs31\bord0\c&H4F5354&\frz5\frx12\fry352\pos(202,430)}"TEN" Age {\frz0}Distribution
+Dialogue: 0,0:10:47.79,0:10:47.83,Dates,,0,0,0,,{\blur0.8\fs31\bord0\c&H4F5354&\frz5\frx12\fry352\pos(202,430)}"TEN" Age {\frz0}Distribution
+Dialogue: 0,0:10:47.83,0:10:47.87,Dates,,0,0,0,,{\blur0.8\fs31\bord0\c&H4F5354&\frz5\frx12\fry352\pos(202,430)}"TEN" Age {\frz0}Distribution
+Dialogue: 0,0:10:47.87,0:10:47.91,Dates,,0,0,0,,{\blur0.8\fs31\bord0\c&H4F5354&\frz2\frx12\fry352\pos(214,305)}"TEN" Age {\frz-1}Distribution
+Dialogue: 0,0:10:47.91,0:10:47.96,Dates,,0,0,0,,{\blur0.8\fs31\bord0\c&H4F5354&\frz2\frx12\fry352\pos(214,305)}"TEN" Age {\frz-1}Distribution
+Dialogue: 0,0:10:47.96,0:10:56.34,Dates,,0,0,0,,{\blur0.8\fs31\bord0\c&H4F5354&\frz2\frx12\fry352\pos(214,305)}"TEN" Age {\frz-1}Distribution
 Dialogue: 0,0:20:28.83,0:20:28.87,Huge,,0,0,0,,{\pos(1002,401)\fscx100\fscy100\fax-0.2\b0\blur0.8\fs35\frx6\fry0\c&H645586&\frz349.711}This joke references\N the "Jokes comes alive\N in the comeback" on\N "Laughter as a system \Nof equations" pg 63,
 Dialogue: 0,0:20:28.87,0:20:28.91,Huge,,0,0,0,,{\pos(1004,401)\fscx100.2\fscy100.2\fax-0.2\b0\blur0.8\fs35\frx6\fry0\c&H645586&\frz349.711}This joke references\N the "Jokes comes alive\N in the comeback" on\N "Laughter as a system \Nof equations" pg 63,
 Dialogue: 0,0:20:28.91,0:20:28.95,Huge,,0,0,0,,{\pos(1003.1,398.9)\fscx100\fscy100\fax-0.2\b0\blur0.8\fs35\frx6\fry0\c&H645586&\frz349.711}This joke references\N the "Jokes comes alive\N in the comeback" on\N "Laughter as a system \Nof equations" pg 63,

@@ -19,9 +19,9 @@ Keyframes File: ep9_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 460
-Active Line: 480
-Video Position: 7352
+Scroll Position: 752
+Active Line: 763
+Video Position: 26483
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -511,9 +511,9 @@ Dialogue: 10,0:03:23.26,0:03:24.89,Default,,0,0,0,,He ended up winning \Ntwo 300
 Dialogue: 10,0:03:24.89,0:03:26.68,Default,,0,0,0,,Two?! Impossible!
 Dialogue: 10,0:03:26.68,0:03:28.60,Default,,0,0,0,,Now {\i1}that's{\i0} a surprise!
 Dialogue: 10,0:03:29.02,0:03:30.85,Default,,0,0,0,,So I decided that I'm \Nnot going to high school.
-Dialogue: 10,0:03:30.85,0:03:31.69,Default,,0,0,0,,You serious?
-Dialogue: 10,0:03:31.69,0:03:33.35,Default,,0,0,0,[unreadable!],Are you gonna play around with that cash for the rest of your life?
-Dialogue: 10,0:03:33.35,0:03:34.86,Default,,0,0,0,,{isshou}I don't think it'll last a lifetime.
+Dialogue: 10,0:03:30.85,0:03:31.69,Default,,0,0,0,,Are you serious?
+Dialogue: 10,0:03:31.69,0:03:33.46,Default,,0,0,0,,You gonna play around with that cash for the rest of your life?
+Dialogue: 10,0:03:33.46,0:03:34.86,Default,,0,0,0,,I don't think it'll last a lifetime.
 Dialogue: 10,0:03:34.86,0:03:37.19,Default,,0,0,0,,Playing around all day \Nwould make me a failure.
 Dialogue: 10,0:03:37.65,0:03:38.78,Default,,0,0,0,,I'm starting a business!
 Dialogue: 10,0:03:39.53,0:03:44.03,Default,,0,0,0,,Miura said he'd submit it to the monthly contest in September...
@@ -583,7 +583,7 @@ Dialogue: 10,0:06:13.68,0:06:16.64,Default,,0,0,0,,Maybe even 1st or 2nd.
 Dialogue: 10,0:06:16.64,0:06:19.52,Default,,0,0,0,,By the way, doesn't that \N{\i1}Crow{\i0} anime start today?
 Dialogue: 10,0:06:58.81,0:07:01.90,Default,,0,0,0,,Ohh! It's so nice seeing manga move.
 Dialogue: 10,0:07:01.90,0:07:03.19,Default,,0,0,0,,That's what anime is all about.
-Dialogue: 10,0:07:03.77,0:07:06.65,Default-Alt,,0,0,0,,Man, they really put effort into the opening song{OP}.
+Dialogue: 10,0:07:03.77,0:07:06.65,Default-Alt,,0,0,0,,Man, they really put effort into the opening song.
 Dialogue: 10,0:07:04.98,0:07:10.32,Default-Italic,,0,0,0,,Now {\i0}Crow{\i1} will really take off and sell over a million prints per volume.
 Dialogue: 10,0:07:11.20,0:07:14.83,Default-Italic,,0,0,0,,One day, we'll make an \Nanime for {\i0}Trap{\i1} too!
 Dialogue: 10,0:07:16.29,0:07:17.79,Default,,0,0,0,,Don't get so depressed.
@@ -831,7 +831,7 @@ Dialogue: 10,0:18:10.12,0:18:11.07,Default,,0,0,0,,termination?
 Dialogue: 10,0:18:15.03,0:18:16.03,Default,,0,0,0,,It's over.
 Dialogue: 10,0:18:16.82,0:18:18.07,Default,,0,0,0,,Of course.
 Dialogue: 10,0:18:18.07,0:18:20.03,Default,,0,0,0,,We were 15th in chapter 29.
-Dialogue: 10,0:18:20.03,0:18:23.91,Default,,0,0,0,,{sanjuui}Only {\i1}hi-door{\i0} was \Nbelow us in chapter 30.
+Dialogue: 10,0:18:20.03,0:18:23.91,Default,,0,0,0,,Only {\i1}hi-door{\i0} was \Nbelow us in chapter 30.
 Dialogue: 10,0:18:24.54,0:18:26.71,Default,,0,0,0,,The meeting starts at 10.
 Dialogue: 10,0:18:26.71,0:18:28.21,Default,,0,0,0,,It's not going to be pleasant.
 Dialogue: 10,0:18:28.71,0:18:30.67,Default,,0,0,0,,It's my fault.

@@ -19,9 +19,9 @@ Keyframes File: ep15_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 259
-Active Line: 285
-Video Position: 19824
+Scroll Position: 402
+Active Line: 406
+Video Position: 26745
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -482,8 +482,7 @@ Dialogue: 10,0:18:22.91,0:18:24.62,Default,,0,0,0,,Sorry for all this.
 Dialogue: 10,0:18:24.62,0:18:27.37,Default,,0,0,0,,So trust Takagi and marry him!
 Dialogue: 10,0:18:29.33,0:18:32.75,Default,,0,0,0,,He proposed on a whim just \Nto stop me from running off.
 Dialogue: 10,0:18:32.75,0:18:35.46,Default,,0,0,0,,No, if you say yes, then I'll do it.
-Dialogue: 10,0:18:35.46,0:18:36.54,Default,,0,0,0,,If we're always together,
-Dialogue: 10,0:18:36.54,0:18:38.13,Default,,0,0,0,[unreadable],there won't be any more\N misunderstandings like this.
+Dialogue: 10,0:18:35.46,0:18:38.13,Default,,0,0,0,,If we're always together, there won't be any more misunderstandings like this.
 Dialogue: 10,0:18:38.80,0:18:43.01,Default,,0,0,0,,I would have preferred to do it after becoming a famous mangaka,
 Dialogue: 10,0:18:43.01,0:18:44.77,Default,,0,0,0,,but if you're willing to\N struggle with me, then...
 Dialogue: 10,0:18:44.77,0:18:46.32,Default,,0,0,0,,I think it's wonderful

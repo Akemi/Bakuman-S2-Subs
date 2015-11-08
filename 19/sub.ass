@@ -20,9 +20,8 @@ Keyframes File: ep19_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 504
-Active Line: 520
-Video Position: 32169
+Active Line: 27
+Video Position: 3722
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -108,8 +107,9 @@ Dialogue: 10,0:00:52.53,0:00:54.07,Default,,0,0,0,,Mashiro Nobuhiro.
 Dialogue: 10,0:00:54.07,0:00:56.16,Default,,0,0,0,,{\fad(0,600)}His pen name was Kawaguchi Tarou.
 Dialogue: 10,0:00:56.23,0:00:57.95,Default,,0,0,0,,He was
 Dialogue: 10,0:00:57.95,0:00:59.45,Default,,0,0,0,,my best friend.
-Dialogue: 10,0:02:30.68,0:02:31.96,Default-Italic,,0,0,0,[unreadable!],Shuujin's probably being\N told something like
-Dialogue: 10,0:02:32.42,0:02:37.09,Default-Italic,,0,0,0,,"I won't hand my daughter over to a mangaka with such an unstable future!" by now.
+Dialogue: 10,0:02:30.68,0:02:31.96,Default-Italic,,0,0,0,,Shuujin's probably being told
+Dialogue: 10,0:02:32.42,0:02:35.22,Default-Italic,,0,0,0,,"I won't hand my daughter over to a mangaka with such an unstable future!"
+Dialogue: 10,0:02:35.22,0:02:37.09,Default-Italic,,0,0,0,,or something similar.
 Dialogue: 10,0:02:39.80,0:02:40.72,Default,,0,0,0,,I see.
 Dialogue: 10,0:02:40.72,0:02:42.97,Default,,0,0,0,,So you're working \Nwith his nephew.
 Dialogue: 10,0:02:42.97,0:02:44.35,Default,,0,0,0,,Y-Yes.
