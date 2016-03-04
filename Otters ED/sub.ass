@@ -16,7 +16,9 @@ Video File: extra 11.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Video Position: 205
+Scroll Position: 1
+Active Line: 21
+Video Position: 587
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -46,7 +48,7 @@ Dialogue: 0,0:00:09.15,0:00:12.99,Lyrics-Jap,,0,0,0,,Rakko Rakko Rakko Rakko
 Dialogue: 0,0:00:13.24,0:00:16.37,Lyrics-Jap,,0,0,0,,Rakko Rakko Rakko 11-gou
 Dialogue: 0,0:00:16.87,0:00:20.33,Lyrics-Jap,,0,0,0,,1-gou choppiri hige nagari
 Dialogue: 0,0:00:20.83,0:00:24.17,Lyrics-Jap,,0,0,0,,2-gou kenami ga ii teidou
-Dialogue: 0,0:00:24.46,0:00:28.21,Lyrics-Jap,,0,0,0,,3-gou fukumimi	4-gou hatomune
+Dialogue: 0,0:00:24.46,0:00:28.21,Lyrics-Jap,,0,0,0,,3-gou fukumimi 4-gou hatomune
 Dialogue: 0,0:00:28.46,0:00:31.67,Lyrics-Jap,,0,0,0,,5-gou memoto ga chaamingu
 Dialogue: 0,0:00:32.17,0:00:35.55,Lyrics-Jap,,0,0,0,,6-gou manikyua nuttemita
 Dialogue: 0,0:00:36.01,0:00:39.31,Lyrics-Jap,,0,0,0,,7-gou pedikyua nuttemita
