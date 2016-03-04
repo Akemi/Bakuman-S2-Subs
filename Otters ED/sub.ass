@@ -17,8 +17,8 @@ Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
 Scroll Position: 1
-Active Line: 21
-Video Position: 587
+Active Line: 12
+Video Position: 1319
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -39,7 +39,7 @@ Dialogue: 0,0:00:36.01,0:00:39.31,Lyrics-Eng,,0,0,0,,No. 7 has tried some pedicu
 Dialogue: 0,0:00:39.68,0:00:43.14,Lyrics-Eng,,0,0,0,,No. 8 & 9 have absolutely no records
 Dialogue: 0,0:00:43.52,0:00:46.77,Lyrics-Eng,,0,0,0,,No. 10 has a two-metre long tail!
 Dialogue: 0,0:00:46.77,0:00:54.11,Lyrics-Eng,,0,0,0,,And No. 11 We are No. 11
-Dialogue: 0,0:00:54.99,0:00:58.70,Lyrics-Eng,,0,0,0,,{\pos(640, -3)}Otter Otter Otter Otter
+Dialogue: 0,0:00:54.99,0:00:58.70,Lyrics-Eng,,0,0,0,,Otter Otter Otter Otter
 Dialogue: 0,0:00:58.99,0:01:02.29,Lyrics-Eng,,0,0,0,,Otter Otter Otter No. 11
 Dialogue: 0,0:01:02.62,0:01:09.88,Lyrics-Eng,,0,0,0,,Otter Otter Otter No. 11
 Dialogue: 0,0:01:10.30,0:01:13.67,Lyrics-Eng,,0,0,0,,Well-done beefsteaks are my very favorite food!
