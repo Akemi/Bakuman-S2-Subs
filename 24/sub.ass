@@ -6007,12 +6007,12 @@ Dialogue: 0,0:03:07.33,0:03:13.21,Lyrics-Jap,,0,0,0,,tachiagatteikundayo nando t
 Dialogue: 0,0:03:13.21,0:03:15.46,Lyrics-Jap,,0,0,0,,Dream of Life
 Dialogue: 0,0:02:02.14,0:02:08.31,Lyrics-Eng,,0,0,0,,The fight won't end until I fulfill my dream
 Dialogue: 0,0:02:08.31,0:02:14.57,Lyrics-Eng,,0,0,0,,I wonder how far I've come to achieve that?
-Dialogue: 0,0:02:14.57,0:02:19.86,Lyrics-Eng,,0,0,0,,In ten years time I'll be living the dream
+Dialogue: 0,0:02:14.57,0:02:19.86,Lyrics-Eng,,0,0,0,,"In ten years time I'll be living the dream"
 Dialogue: 0,0:02:19.86,0:02:26.37,Lyrics-Eng,,0,0,0,,It's the scenario I wrote for myself, ensuring I'll have no regrets
 Dialogue: 0,0:02:26.37,0:02:33.00,Lyrics-Eng,,0,0,0,,But life isn't that easy, and it's full of obstacles
 Dialogue: 0,0:02:33.00,0:02:39.34,Lyrics-Eng,,0,0,0,,{\fad(0,900)}Still, I swear to myself that I won't ever back down
 Dialogue: 0,0:02:42.05,0:02:48.06,Lyrics-Eng,,0,0,0,,I have a dream that I absolutely want to achieve
-Dialogue: 0,0:02:48.06,0:02:54.31,Lyrics-Eng,,0,0,0,,So I fuel my passion until I succeed
+Dialogue: 0,0:02:48.06,0:02:54.31,Lyrics-Eng,,0,0,0,,So I'll fuel my passion until I succeed
 Dialogue: 0,0:02:54.31,0:03:01.07,Lyrics-Eng,,0,0,0,,There will be meetings and partings along the way
 Dialogue: 0,0:03:01.07,0:03:07.33,Lyrics-Eng,,0,0,0,,But I'll simply believe in my strength that you've taught me
 Dialogue: 0,0:03:07.33,0:03:13.21,Lyrics-Eng,,0,0,0,,And rise back up again and again
@@ -6035,10 +6035,10 @@ Dialogue: 0,0:23:22.88,0:23:29.38,Lyrics-Eng,,0,0,0,,what your voice sounds like
 Dialogue: 0,0:23:30.30,0:23:36.31,Lyrics-Eng,,0,0,0,,With my fingertips I drew
 Dialogue: 0,0:23:36.31,0:23:42.69,Lyrics-Eng,,0,0,0,,many lines that make up a suspension bridge leading to you
 Dialogue: 0,0:23:42.69,0:23:46.19,Lyrics-Eng,,0,0,0,,(Show me the way) I'm sure our path
-Dialogue: 0,0:23:46.19,0:23:49.82,Lyrics-Eng,,0,0,0,,(Believe in your way) connects us without any turns
-Dialogue: 0,0:23:49.82,0:23:56.08,Lyrics-Eng,,0,0,0,,(Show me the way) It leads to the place where we promised
+Dialogue: 0,0:23:46.19,0:23:49.82,Lyrics-Eng,,0,0,0,,(Believe in your way) connects us in one straight line
+Dialogue: 0,0:23:49.82,0:23:56.08,Lyrics-Eng,,0,0,0,,(Show me the way) It leads to our promised place
 Dialogue: 0,0:23:56.95,0:24:00.41,Lyrics-Eng,,0,0,0,,(Show me the way) I will never give up
-Dialogue: 0,0:24:00.41,0:24:04.04,Lyrics-Eng,,0,0,0,,(Believe in your way) Raise your gaze
+Dialogue: 0,0:24:00.41,0:24:04.04,Lyrics-Eng,,0,0,0,,(Believe in your way) You only need to look up
 Dialogue: 0,0:24:04.04,0:24:12.05,Lyrics-Eng,,0,0,0,,(Show me the way) and see that we're certain to meet again
 Dialogue: 0,0:03:15.46,0:03:18.97,Ep Titles,,0,0,0,,{\pos(640,464.62)\blur0.334}Expression and Imagination
 Dialogue: 0,0:24:15.97,0:24:19.64,NextEpTitle,,0,0,0,,{\blur0.334\pos(79.676,519.696)}Next\NEpisode
