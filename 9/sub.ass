@@ -452,17 +452,17 @@ Dialogue: 0,0:22:26.19,0:22:26.24,Textmsgslazy,,0,0,0,,{\an7\blur1\fs20\c&H412B2
 Dialogue: 0,0:22:26.24,0:22:26.28,Textmsgslazy,,0,0,0,,{\an7\blur1\fs20\c&H412B22&\pos(619,191)}Hello... \NOn graduation day I said...  \N"I'll wait forever" But I want to get \Nmarried by 40!! Of course, to you.
 Dialogue: 0,0:22:26.28,0:22:26.32,Textmsgslazy,,0,0,0,,{\an7\blur1\fs20\c&H412B22&\pos(621,195)}Hello... \NOn graduation day I said...  \N"I'll wait forever" But I want to get \Nmarried by 40!! Of course, to you.
 Dialogue: 0,0:22:26.32,0:22:26.36,Textmsgslazy,,0,0,0,,{\an7\blur1\fs20\c&H412B22&\pos(616,197)}Hello... \NOn graduation day I said...  \N"I'll wait forever" But I want to get \Nmarried by 40!! Of course, to you.
-Dialogue: 0,0:06:34.45,0:06:39.54,Caw-Eng,,0,0,0,,The night is painting the town pitch black
-Dialogue: 0,0:06:40.29,0:06:45.80,Caw-Eng,,0,0,0,,Where light falls asleep, this is Holy World!
-Dialogue: 0,0:06:45.80,0:06:51.43,Caw-Eng,,0,0,0,,If you can't stand watching, then just close your eyes
-Dialogue: 0,0:06:51.43,0:06:57.27,Caw-Eng,,0,0,0,,If you can't stand this place, then just fly away
-Dialogue: 0,0:06:57.68,0:07:03.19,Caw-Eng,,0,0,0,,Not into someone else's sky
+Dialogue: 0,0:06:34.45,0:06:39.54,Caw-Eng,,0,0,0,,At night in the town where light itself has fallen asleep,
+Dialogue: 0,0:06:40.29,0:06:45.80,Caw-Eng,,0,0,0,,and colors become indistinguishable is a Holy World!
+Dialogue: 0,0:06:45.80,0:06:51.43,Caw-Eng,,0,0,0,,If you can’t stand watching, then just close your eyes
+Dialogue: 0,0:06:51.43,0:06:57.27,Caw-Eng,,0,0,0,,And if you can’t stand this place, just go ahead and fly away!
+Dialogue: 0,0:06:57.68,0:07:03.19,Caw-Eng,,0,0,0,,Fly to not just anyone’s sky,
 Dialogue: 0,0:06:34.45,0:06:39.54,Caw-Jap,,0,0,0,,fukaku iro ga kieru made nuri tsubusareta yoru to
 Dialogue: 0,0:06:40.29,0:06:45.80,Caw-Jap,,0,0,0,,hikari ga nemuri nitsuita koko wa Holy World
 Dialogue: 0,0:06:45.80,0:06:51.43,Caw-Jap,,0,0,0,,me wo kora sezu ni iru nara me wo tojitereba ii sa
 Dialogue: 0,0:06:51.43,0:06:57.27,Caw-Jap,,0,0,0,,koko ga ki ni iranai nara, ima sugu ni tobi tateba ii dake
 Dialogue: 0,0:06:57.68,0:07:03.19,Caw-Jap,,0,0,0,,{\an8}Dareka no sora de wa naku
-Comment: 0,0:07:03.61,0:07:07.65,Caw-Eng,,0,0,0,,{\an8}But into the sky your heart points to
+Comment: 0,0:07:03.61,0:07:07.65,Caw-Eng,,0,0,0,,{\an8}but the sky your heart is leading you to!
 Dialogue: 10,0:00:04.23,0:00:06.23,Default,,0,0,0,,Congratulations on the discharge.
 Dialogue: 10,0:00:06.23,0:00:08.07,Default,,0,0,0,,Congratulations!
 Dialogue: 10,0:00:08.07,0:00:10.17,Default,,0,0,0,,Th-Thank you.
